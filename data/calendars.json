@@ -1,0 +1,14 @@
+{
+  "siteName": "دليلك",
+  "owner": "محمد البخيت",
+  "sections": [
+    {
+      "name": "التعليم العام",
+      "page": "general-education.html"
+    },
+    {
+      "name": "التعليم العالي",
+      "page": "higher-education.html"
+    }
+  ]
+}

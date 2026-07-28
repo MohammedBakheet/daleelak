@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Demo Calendar//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:تقويم دليلك التجريبي
+X-WR-CALDESC:تقويم تجريبي لاختبار التحميل والاشتراك - إعداد محمد البخيت
+BEGIN:VEVENT
+UID:daleelak-demo-1@github.io
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:حدث تجريبي أول - دليلك
+DESCRIPTION:هذا حدث تجريبي للتأكد من نجاح إضافة التقويم.
+END:VEVENT
+BEGIN:VEVENT
+UID:daleelak-demo-2@github.io
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:حدث تجريبي ثانٍ - دليلك
+DESCRIPTION:يمكن حذف هذا الحدث بعد إضافة التقاويم الرسمية.
+END:VEVENT
+END:VCALENDAR
