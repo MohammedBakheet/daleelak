@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Daleelak//Academic Calendar//AR
+X-WR-CALNAME:التقويم الدراسي لمكة المكرمة والم
+ دينة المنورة وجدة والطائف 2026–2027
+X-WR-CALDESC:تقويم منشور عبر منصة دليلك — إعدا
+ د ونشر: م. محمد البخيت
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:0427d660b94a9676f08d@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:عودة الهيئة الإدارية والمشرفين التر
+ بويين في جميع المراحل الدراسية
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 16 أغسطس 2026\nالتاريخ الهجر
+ ي: 3 ربيع الأول 1448 هـ\n\nالمصدر: وزارة التعل
+ يم\nإعداد ونشر: م. محمد البخيت\nمنصة دليلك\
+ nhttps://MohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7c83ee86bdc2639aed3d@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:عودة المعلمين الممارسين للتدريس في ج
+ ميع المراحل الدراسية
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 23 أغسطس 2026\nالتاريخ الهجر
+ ي: 10 ربيع الأول 1448 هـ\n\nالمصدر: وزارة التع
+ ليم\nإعداد ونشر: م. محمد البخيت\nمنصة دليل
+ ك\nhttps://MohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73c8b840b7b91f9bb750@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:بداية العام الدراسي
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 30 أغسطس 2026\nالتاريخ الهجر
+ ي: 17 ربيع الأول 1448 هـ\n\nالمصدر: وزارة التع
+ ليم\nإعداد ونشر: م. محمد البخيت\nمنصة دليل
+ ك\nhttps://MohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3bcd7b1e19abdf7fd9@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 23–26 سبتمبر 2026\nالتاريخ ا
+ لهجري: 12–15 ربيع الآخر 1448 هـ\n\nالمصدر: وزا
+ رة التعليم\nإعداد ونشر: م. محمد البخيت\nمن
+ صة دليلك\nhttps://MohammedBakheet.github.io/daleelak/general-educat
+ ion.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2a5d9648d854eafd7b51@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة الخريف
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 20–28 نوفمبر 2026\nالتاريخ ا
+ لهجري: 10–18 جمادى الآخرة 1448 هـ\n\nالمصدر: و
+ زارة التعليم\nإعداد ونشر: م. محمد البخيت\n
+ منصة دليلك\nhttps://MohammedBakheet.github.io/daleelak/general-ed
+ ucation.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:252f5521eb2c52deaa74@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الدراسي
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 8–16 يناير 2027\nالتاريخ اله
+ جري: 30 رجب–8 شعبان 1448 هـ\n\nالمصدر: وزارة ا
+ لتعليم\nإعداد ونشر: م. محمد البخيت\nمنصة د
+ ليلك\nhttps://MohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:03c38b4a36e8cb1f3e89@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 19–22 فبراير 2027\nالتاريخ ا
+ لهجري: 12–15 رمضان 1448 هـ\n\nالمصدر: وزارة ال
+ تعليم\nإعداد ونشر: م. محمد البخيت\nمنصة دل
+ يلك\nhttps://MohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ebb57d5ffff54172c121@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 26 فبراير–13 مارس 2027\nالتا
+ ريخ الهجري: 19 رمضان–5 شوال 1448 هـ\n\nالمصدر:
+  وزارة التعليم\nإعداد ونشر: م. محمد البخيت
+ \nمنصة دليلك\nhttps://MohammedBakheet.github.io/daleelak/general-
+ education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:848f9c55772bfd3ae559@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 30 أبريل–22 مايو 2027\nالتار
+ يخ الهجري: 23 ذو القعدة–16 ذو الحجة 1448 هـ\n\n
+ المصدر: وزارة التعليم\nإعداد ونشر: م. محمد
+  البخيت\nمنصة دليلك\nhttps://MohammedBakheet.github.io/dale
+ elak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c082e79c37fcbd22d5ac@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:بداية إجازة نهاية العام الدراسي
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 1 يوليو 2027\nالتاريخ الهجر
+ ي: 26 محرم 1449 هـ\n\nالمصدر: وزارة التعليم\nإع
+ داد ونشر: م. محمد البخيت\nمنصة دليلك\nhttps://M
+ ohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e805b41e7ee65c132388@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:بداية العام الدراسي 1449–1450 هـ
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: مكة ا
+ لمكرمة، المدينة المنورة، جدة، الطائف\nال
+ تاريخ الميلادي: 29 أغسطس 2027\nالتاريخ الهجر
+ ي: 27 ربيع الأول 1449 هـ\n\nالمصدر: وزارة التع
+ ليم\nإعداد ونشر: م. محمد البخيت\nمنصة دليل
+ ك\nhttps://MohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

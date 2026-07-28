@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Daleelak//Academic Calendar//AR
+X-WR-CALNAME:التقويم الدراسي للتعليم العام 2026
+ –2027
+X-WR-CALDESC:تقويم منشور عبر منصة دليلك — إعدا
+ د ونشر: م. محمد البخيت
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:65697b584c668f0cde22@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:عودة الهيئة الإدارية والمشرفين التر
+ بويين في جميع المراحل الدراسية
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 11 
+ أغسطس 2026\nالتاريخ الهجري: 28 صفر 1448 هـ\n\nال
+ مصدر: وزارة التعليم\nإعداد ونشر: م. محمد ا
+ لبخيت\nمنصة دليلك\nhttps://MohammedBakheet.github.io/daleela
+ k/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:91de488ec694b30c88bd@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:عودة المعلمين الممارسين للتدريس في ج
+ ميع المراحل الدراسية
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 16 
+ أغسطس 2026\nالتاريخ الهجري: 3 ربيع الأول 1448 
+ هـ\n\nالمصدر: وزارة التعليم\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك\nhttps://MohammedBakheet.github
+ .io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5c51d16c192986be753@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية العام الدراسي
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 23 
+ أغسطس 2026\nالتاريخ الهجري: 10 ربيع الأول 1448 
+ هـ\n\nالمصدر: وزارة التعليم\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك\nhttps://MohammedBakheet.github
+ .io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bef06e88f14da4a4ac@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 23
+ –26 سبتمبر 2026\nالتاريخ الهجري: 12–15 ربيع ا
+ لآخر 1448 هـ\n\nالمصدر: وزارة التعليم\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك\nhttps://Mohammed
+ Bakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c5d672a311ef704b40@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة الخريف
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 20
+ –28 نوفمبر 2026\nالتاريخ الهجري: 10–18 جمادى 
+ الآخرة 1448 هـ\n\nالمصدر: وزارة التعليم\nإعد
+ اد ونشر: م. محمد البخيت\nمنصة دليلك\nhttps://Moh
+ ammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f93ac836c936b4840c17@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الدراسي
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 8
+ –16 يناير 2027\nالتاريخ الهجري: 30 رجب–8 شعبا
+ ن 1448 هـ\n\nالمصدر: وزارة التعليم\nإعداد ونش
+ ر: م. محمد البخيت\nمنصة دليلك\nhttps://MohammedBakhee
+ t.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:37b3b40a735f1edc9596@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 19
+ –22 فبراير 2027\nالتاريخ الهجري: 12–15 رمضان 1
+ 448 هـ\n\nالمصدر: وزارة التعليم\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك\nhttps://MohammedBakheet.gi
+ thub.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d7cbe20516c963d0364@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 26 
+ فبراير–13 مارس 2027\nالتاريخ الهجري: 19 رمضا
+ ن–5 شوال 1448 هـ\n\nالمصدر: وزارة التعليم\nإع
+ داد ونشر: م. محمد البخيت\nمنصة دليلك\nhttps://M
+ ohammedBakheet.github.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:963916b81c5c36202593@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 7
+ –22 مايو 2027\nالتاريخ الهجري: 1–16 ذو الحجة 1
+ 448 هـ\n\nالمصدر: وزارة التعليم\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك\nhttps://MohammedBakheet.gi
+ thub.io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1ab7ac29413b068ba69f@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:بداية إجازة نهاية العام الدراسي
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 24 
+ يونيو 2027\nالتاريخ الهجري: 19 محرم 1449 هـ\n\nا
+ لمصدر: وزارة التعليم\nإعداد ونشر: م. محمد 
+ البخيت\nمنصة دليلك\nhttps://MohammedBakheet.github.io/dalee
+ lak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:112d78d44cbade89d0fb@daleelak
+DTSTAMP:20260728T081815Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:بداية العام الدراسي 1449–1450 هـ
+DESCRIPTION:الجهة: وزارة التعليم\nالنطاق: جميع 
+ مناطق المملكة عدا مكة المكرمة والمدينة ا
+ لمنورة وجدة والطائف\nالتاريخ الميلادي: 22 
+ أغسطس 2027\nالتاريخ الهجري: 20 ربيع الأول 1449 
+ هـ\n\nالمصدر: وزارة التعليم\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك\nhttps://MohammedBakheet.github
+ .io/daleelak/general-education.html
+URL:https://MohammedBakheet.github.io/daleelak/general-education.html
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

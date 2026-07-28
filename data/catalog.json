@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-28",
+  "calendars": [
+    "calendars/moe-general/info.json",
+    "calendars/moe-west/info.json"
+  ]
+}
