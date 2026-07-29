@@ -19,3 +19,19 @@
 الحقول الأساسية لملف البيانات:
 `id`, `title`, `organization`, `category`, `year`, `hijriYear`, `region`,
 `calendarType`, `lastUpdate`, `description`, `ics`, `source`, `publisher`.
+
+## النظام النهائي للتوسع (المراحل 2 و3 و4)
+
+- المرحلة الثانية: الموقع يقرأ `data/catalog.json` ويولّد التصنيفات والبطاقات وصفحات التفاصيل والاشتراك والبحث والترتيب تلقائيًا.
+- المرحلة الثالثة: `scripts/build-catalog.js` يفحص ملفات البيانات وICS والمعرّفات والتصنيفات والشعارات، ثم يولّد فهرسًا مدمجًا سريعًا و`robots.txt` و`sitemap.xml`.
+- المرحلة الرابعة: GitHub Actions يشغّل الفحص والبناء عند كل تعديل، مع تحسين SEO وبيانات Schema.org والوصول للجوال وصفحة 404 وملف أمان.
+
+### إضافة تقويم جديد
+أنشئ مجلدًا تحت `calendars/` وضع فيه `calendar.ics` و`metadata.json` أو `info.json`، ثم ارفع التغييرات. لا يلزم تعديل HTML أو JavaScript.
+
+### اختبار محلي
+```bash
+node scripts/build-catalog.js
+python3 -m http.server 8000
+```
+ثم افتح `http://localhost:8000`.
