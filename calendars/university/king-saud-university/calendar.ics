@@ -1,0 +1,393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//King Saud University Academic Calendar 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:جامعة الملك سعود - التقويم الدراس
+ ي 2026/2027
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:a09bcfe9d9b34dfd440b5b72@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:🎓 بداية الدراسة للفصل الدراسي الأو
+ ل
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-08-23\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e56c014b26f6a1306abb174c@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🇸🇦 بداية إجازة اليوم الوطني
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-09-23\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:687c360acf95ce767709e82a@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🏫 بداية الدراسة بعد إجازة اليوم ال
+ وطني
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-09-27\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:795e9f2fff8cc1d417eea70a@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:🍂 بداية إجازة الخريف
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-11-22\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d9135a978f01ceceabd4dcd1@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:🏫 بداية الدراسة بعد إجازة الخريف
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-11-29\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b867453645387ab51de52f1@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:✨ أسبوع التعزيز الأكاديمي
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-12-06\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ec0853eba37eead7b21cbb28@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🧪 بداية الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-12-13\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:71449a61bae33a7c31f6c7e0@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏁 نهاية الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-12-26\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbfc5d904e7db962e51bccf@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:🌤️ بداية إجازة منتصف العام الدراس
+ ي
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الأول\
+ nبداية المدة: 2026-12-27\nنهاية المدة: نفس يوم
+  بداية الحدث\nملاحظة: تاريخ نهاية المدة 
+ مدرج داخل ملاحظات الحدث حسب المصدر المر
+ فق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:77d92cb9f956dabd340e3b2e@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:🎓 بداية الدراسة للفصل الدراسي الثا
+ ني
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-01-10\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e3cd38389f4f99cc1a921d3@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:🌙 بداية إجازة عيد الفطر المبارك
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-02-14\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:063c9710a053897469fff0fd@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الفط
+ ر المبارك
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-03-14\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae6ef4dddb4d60efd851bcb@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:🕋 بداية إجازة عيد الأضحى المبارك
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-05-09\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3c81a6d4b0f166661dddf08f@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الأض
+ حى المبارك
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-05-23\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7caae39beae2b14711ba529a@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:✨ أسبوع التعزيز الأكاديمي
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-05-30\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:628129c8c0db5ab2ee88839c@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:🧪 بداية الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-06-06\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:934b67f1e07da1c828525bc2@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:🏁 نهاية الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-06-19\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0835256bae77d451b134170@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:☀️ بداية إجازة نهاية العام الدراسي
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الثان
+ ي\nبداية المدة: 2027-06-20\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bac255a3cdf0aeea9e018ed0@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:☀️ بداية الدراسة للفصل الدراسي الص
+ يفي
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الصيف
+ ي\nبداية المدة: 2027-06-22\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aea8af86645f05222c6ff40d@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:🧪 بداية الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الصيف
+ ي\nبداية المدة: 2027-08-10\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:729b6609283c4461fbb7d716@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:🏁 نهاية الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: الفصل الدراسي الصيف
+ ي\nبداية المدة: 2027-08-12\nنهاية المدة: نفس ي
+ وم بداية الحدث\nملاحظة: تاريخ نهاية المد
+ ة مدرج داخل ملاحظات الحدث حسب المصدر ال
+ مرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9cd24652e02b27be7805024@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:🎓 بداية الدراسة للعام الدراسي 2027/202
+ 8
+DESCRIPTION:الجهة: جامعة الملك سعود\nالعام الد
+ راسي: 2026–2027\nالفصل: العام الدراسي 2027/2028\n
+ بداية المدة: 2027-08-29\nنهاية المدة: نفس يوم 
+ بداية الحدث\nملاحظة: تاريخ نهاية المدة م
+ درج داخل ملاحظات الحدث حسب المصدر المرف
+ ق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

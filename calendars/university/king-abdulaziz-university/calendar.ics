@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//King Abdulaziz University Academic Calendar 2026-2027
+ //AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:جامعة الملك عبدالعزيز - التقويم ا
+ لأكاديمي 2026/2027
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fb2507474806117a98f4d7c5@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:📝 تسجيل المقررات للطلاب والطالبات 
+ على الخدمات الذاتية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-08-02\nنهاية المدة: 20
+ 26-08-15\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:df80f7304bedfdd27aef4d2f@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:📝 تسجيل المقررات للطلبة عن طريق ال
+ كليات
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-08-16\nنهاية المدة: 20
+ 26-09-07\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b60643c5b3d7639eb426cb@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:♻️ استقبال طلبات إعادة القيد عن طر
+ يق الكليات
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-08-23\nنهاية المدة: 20
+ 26-09-03\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9955e7d3f9f9d100ee0cb752@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:🧭 تسجيل المقررات للطلبة عن طريق ال
+ مرشدين الأكاديميين
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-08-28\nنهاية المدة: 20
+ 26-09-04\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0642a37f022b6a0c436c6815@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:🎓 الفصل الدراسي الأول
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-08-30\nنهاية المدة: 20
+ 27-01-07\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0883ad1c19cdb43ad73afe22@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:⏸️ تقديم طلبات التأجيل عن الفصل ال
+ دراسي الثاني على الخدمات الذاتية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-09-06\nنهاية المدة: 20
+ 27-01-04\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c43860f370a53b6a1e0bd79e@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:📄 التسجيل في وثيقتي للطلبة الخريجي
+ ن
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-09-13\nنهاية المدة: 20
+ 27-01-06\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb775ef00c95ef58b230530@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:📤 تقديم طلبات الاعتذار عن الفصل ال
+ حالي على الخدمات الذاتية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-09-20\nنهاية المدة: 20
+ 26-11-19\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15c4c98e15a83636e5ead445@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🇸🇦 إجازة اليوم الوطني
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-09-22\nنهاية المدة: 20
+ 26-09-26\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4e3b9c62a723862c96072be9@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:📚 تقديم طلبات سحب مقرر للفصل الحال
+ ي على الخدمات الذاتية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-10-04\nنهاية المدة: 20
+ 26-11-12\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9eec96f5cb4584ecb65b7943@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:🧪 اختبارات الدوري الأول
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-10-11\nنهاية المدة: 20
+ 26-10-22\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4004f293ab54cae643e3333@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🎯 تقديم طلبات التخصيص في الكليات ع
+ لى الخدمات الذاتية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-10-26\nنهاية المدة: 20
+ 27-01-03\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ef0344c3b98734abe3dceb97@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:📝 تسجيل المقررات للطلاب والطالبات 
+ للفصل الدراسي الثاني على الخدمات الذات
+ ية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-11-01\nنهاية المدة: 20
+ 26-11-30\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a6ba3bb675653019033fa7e@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:🧪 اختبارات الدوري الثاني
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-11-08\nنهاية المدة: 20
+ 26-11-19\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:46769fa5375734f6d4977be4@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🍂 إجازة الخريف
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-11-19\nنهاية المدة: 20
+ 26-11-28\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b35918f8b3aa777e19b8b4ce@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:🧪 الاختبارات النهائية
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2026-12-20\nنهاية المدة: 20
+ 27-01-05\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6753fa37526eb61cd7b69ea4@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🔁 الاختبارات البديلة
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2027-01-06\nنهاية المدة: 20
+ 27-01-07\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a27c25215d24fb6308590a91@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:🌤️ إجازة نهاية الفصل الدراسي الأو
+ ل
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2027-01-07\nنهاية المدة: 20
+ 27-01-16\nالمصدر المرفق يتضمن مواعيد الفصل 
+ الدراسي الأول فقط.\nملاحظة: تاريخ نهاية 
+ المدة مدرج داخل ملاحظات الحدث حسب المصد
+ ر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c7e031432daed714e25cdcdb@daleelak
+DTSTAMP:20260729T153312Z
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:🎓 بداية الفصل الدراسي الثاني
+DESCRIPTION:الجهة: جامعة الملك عبدالعزيز\nالع
+ ام الدراسي: 2026–2027\nالفصل: الفصل الدراسي 
+ الأول\nبداية المدة: 2027-01-17\nنهاية المدة: ن
+ فس يوم بداية الحدث\nالمصدر المرفق يتضمن 
+ مواعيد الفصل الدراسي الأول فقط.\nملاحظة:
+  تاريخ نهاية المدة مدرج داخل ملاحظات ال
+ حدث حسب المصدر المرفق.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
