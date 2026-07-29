@@ -161,3 +161,10 @@
   .calendar-glyph{font-size:34px}
   .featured-subscribe .subscription-benefits{grid-template-columns:1fr 1fr}
 }
+
+/* المرحلة الثانية إلى الرابعة: واجهة ديناميكية، وصول، واستجابة */
+.nav-toggle{display:none;border:1px solid var(--border);background:#fff;color:var(--green);border-radius:10px;padding:8px 11px;font-size:20px;cursor:pointer}
+.sort-box{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}.sort-box select{border:1px solid var(--border);border-radius:12px;background:#fff;padding:10px;color:var(--green);font:inherit}
+:focus-visible{outline:3px solid rgba(36,92,77,.35);outline-offset:3px}
+@media(max-width:680px){.nav-toggle{display:block}.nav{display:none;position:absolute;top:100%;right:16px;left:16px;z-index:30;background:#fff;border:1px solid var(--border);border-radius:16px;padding:10px;box-shadow:0 16px 35px rgba(35,63,55,.14);flex-direction:column}.nav.is-open{display:flex}.header-row{position:relative}.toolbar .sort-box{width:100%;justify-content:space-between}.sort-box select{flex:1}.calendar-card{min-width:0}.meta-list div{gap:10px}.detail-hero h1{font-size:25px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
