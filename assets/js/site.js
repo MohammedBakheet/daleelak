@@ -205,20 +205,19 @@ async function renderDetail() {
             <div><dt>المصدر</dt><dd>${escapeHtml(c.source)}</dd></div>
             <div><dt>إعداد ونشر</dt><dd>${escapeHtml(c.publisher)}</dd></div>
           </dl>
+          <div class="detail-tools">
+            <a class="btn btn-secondary" data-report-link href="#">⚠️ الإبلاغ عن مشكلة</a>
+            <button class="btn btn-secondary" type="button" data-share-page>↗ مشاركة الصفحة</button>
+          </div>
         </section>
 
-        <section class="panel subscribe-panel smart-subscribe">
+        <section class="panel subscribe-panel smart-subscribe featured-subscribe">
           <div class="subscribe-heading">
             <span class="subscribe-title-icon" aria-hidden="true">📅</span>
             <div>
               <h2>إضافة التقويم</h2>
               <p>اختر الطريقة المناسبة لإضافة التقويم إلى التطبيق الذي تستخدمه.</p>
             </div>
-          </div>
-
-          <div class="device-detected">
-            <span class="device-check" aria-hidden="true">✓</span>
-            <div><strong>تم اكتشاف جهازك: ${escapeHtml(device.name)}</strong><span>سيتم توجيهك إلى الطريقة الأنسب.</span></div>
           </div>
 
           <a class="subscribe-option option-primary" href="${primary.href}"${externalAttrs}>
@@ -230,6 +229,13 @@ async function renderDetail() {
             </span>
             <span class="option-arrow" aria-hidden="true">‹</span>
           </a>
+
+          <div class="subscription-benefits" aria-label="مزايا الاشتراك">
+            <span>✓ مجاني</span>
+            <span>✓ بدون تسجيل</span>
+            <span>✓ تحديث تلقائي</span>
+            <span>✓ يمكن إلغاء الاشتراك بأي وقت</span>
+          </div>
 
           <button class="subscribe-option option-copy" type="button" data-copy="${c.icsUrl}">
             <span class="option-icon" aria-hidden="true">🔗</span>
@@ -278,6 +284,30 @@ async function renderDetail() {
         setTimeout(() => { btn.innerHTML = original; btn.classList.remove('copied'); }, 1800);
       } catch {
         prompt('انسخ رابط الاشتراك:', btn.dataset.copy);
+      }
+    });
+
+    const reportLink = qs('[data-report-link]', root);
+    if (reportLink) {
+      const subject = `إبلاغ عن مشكلة في تقويم: ${c.title}`;
+      const body = `صفحة التقويم: ${location.href}\nرابط التقويم: ${c.icsUrl}\n\nوصف المشكلة:`;
+      reportLink.href = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    }
+
+    const shareButton = qs('[data-share-page]', root);
+    shareButton?.addEventListener('click', async () => {
+      const shareData = { title: c.title, text: c.description || c.title, url: location.href };
+      try {
+        if (navigator.share) {
+          await navigator.share(shareData);
+        } else {
+          await navigator.clipboard.writeText(location.href);
+          const originalText = shareButton.textContent;
+          shareButton.textContent = '✓ تم نسخ رابط الصفحة';
+          setTimeout(() => { shareButton.textContent = originalText; }, 1800);
+        }
+      } catch (error) {
+        if (error?.name !== 'AbortError') prompt('انسخ رابط الصفحة:', location.href);
       }
     });
   } catch (error) {
