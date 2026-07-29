@@ -44,3 +44,14 @@
 .calendar-logo:has(img){background:#fff;border:1px solid var(--border);padding:5px;overflow:hidden}.calendar-logo img{display:block;width:100%;height:100%;object-fit:contain}
 
 .category-note{margin-top:20px}
+
+
+/* تحسين صفحة تفاصيل التقويم */
+.featured-subscribe{border:2px solid var(--gold);background:linear-gradient(180deg,#fffdf8 0%,#fff 100%);box-shadow:0 16px 40px rgba(182,152,99,.14)}
+.featured-subscribe .subscribe-heading{padding-bottom:12px;border-bottom:1px solid rgba(182,152,99,.24)}
+.featured-subscribe .subscribe-title-icon{background:var(--green);color:#fff}
+.subscription-benefits{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:12px 14px;border-radius:15px;background:#f5faf4;border:1px solid #dcebd8}
+.subscription-benefits span{font-size:12px;color:var(--green);font-weight:700}
+.detail-tools{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px;padding-top:16px;border-top:1px solid #eee7dc}
+.detail-tools .btn{flex:1}
+@media(max-width:520px){.subscription-benefits{grid-template-columns:1fr}.detail-tools .btn{flex:1 1 100%}}
