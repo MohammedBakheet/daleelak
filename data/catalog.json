@@ -1,9 +1,12 @@
 {
-  "version": 1,
-  "updatedAt": "2026-07-28",
+  "version": 2,
+  "updatedAt": "2026-07-29",
   "calendars": [
     "calendars/moe-general/info.json",
-    "calendars/moe-west/info.json" ,
-    "calendars/saudi-pro-league/info.json"
+    "calendars/moe-west/info.json",
+    "calendars/saudi-pro-league/info.json",
+    "calendars/university/imam-university/metadata.json",
+    "calendars/university/king-abdulaziz-university/metadata.json",
+    "calendars/university/king-saud-university/metadata.json"
   ]
 }
