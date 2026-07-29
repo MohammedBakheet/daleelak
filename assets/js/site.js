@@ -37,6 +37,7 @@ async function loadCatalog() {
       infoUrl,
       folder,
       icsUrl: new URL(info.ics || 'calendar.ics', folder).href,
+      logoUrl: info.logo ? new URL(info.logo, folder).href : '',
       detailUrl: `${absoluteUrl('calendar.html')}?id=${encodeURIComponent(info.id)}`
     };
   }));
@@ -81,7 +82,7 @@ function calendarCard(c) {
   card.dataset.search = normalizeArabic([c.title,c.organization,c.region,c.year,c.hijriYear,c.categoryLabel].join(' '));
   card.innerHTML = `
     <div class="card-head">
-      <div class="calendar-logo" aria-hidden="true">${escapeHtml((c.organization || 'د').trim().charAt(0))}</div>
+      <div class="calendar-logo" aria-hidden="true">${c.logoUrl ? `<img src="${c.logoUrl}" alt="">` : escapeHtml((c.organization || 'د').trim().charAt(0))}</div>
       <span class="badge">${escapeHtml(c.year)}</span>
     </div>
     <div><p class="org">${escapeHtml(c.organization)}</p><h3>${escapeHtml(c.title)}</h3></div>
@@ -113,6 +114,12 @@ async function renderCategoryPage() {
     grid.innerHTML = '';
     calendars.forEach(c => grid.appendChild(calendarCard(c)));
     if (!calendars.length) grid.innerHTML = `<div class="notice empty-state">لا توجد تقاويم منشورة في هذا التصنيف حاليًا. سيظهر أي تقويم جديد هنا تلقائيًا بعد إضافته إلى الفهرس.</div>`;
+    const categoryNote = qs('[data-category-note]');
+    const noteText = calendars.map(c => c.categoryNote).find(Boolean);
+    if (categoryNote && noteText) {
+      categoryNote.textContent = noteText;
+      categoryNote.hidden = false;
+    }
     if (status) status.textContent = calendars.length ? `${calendars.length} تقويم متاح` : 'لا توجد تقاويم حاليًا';
     const search = qs('[data-search]');
     if (search && calendars.length) search.addEventListener('input', () => {
@@ -179,7 +186,7 @@ async function renderDetail() {
 
     root.innerHTML = `
       <div class="detail-hero">
-        <div class="calendar-logo large">${escapeHtml((c.organization || 'د').trim().charAt(0))}</div>
+        <div class="calendar-logo large">${c.logoUrl ? `<img src="${c.logoUrl}" alt="">` : escapeHtml((c.organization || 'د').trim().charAt(0))}</div>
         <div>
           <p class="org">${escapeHtml(c.organization)}</p>
           <h1>${escapeHtml(c.title)}</h1>
@@ -260,7 +267,6 @@ async function renderDetail() {
           </div>
         </section>
       </div>`;
-
     const btn = qs('[data-copy]', root);
     btn?.addEventListener('click', async () => {
       const original = btn.innerHTML;
