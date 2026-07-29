@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-29T20:07:17.612Z",
+  "updatedAt": "2026-07-29T20:13:25.434Z",
   "count": 6,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -24,6 +24,7 @@
       "lastUpdate": "2026-07-29",
       "description": "التقويم الدراسي للفصلين الأول والثاني بجامعة الإمام محمد بن سعود الإسلامية، بأحداث طوال اليوم.",
       "ics": "calendar.ics",
+      "logo": "logo.png",
       "source": "الصور الرسمية المرفقة من المستخدم",
       "publisher": "م. محمد البخيت",
       "eventsCount": 35,
@@ -31,7 +32,7 @@
       "infoPath": "calendars/university/imam-university/metadata.json",
       "folderPath": "calendars/university/imam-university/",
       "icsPath": "calendars/university/imam-university/calendar.ics",
-      "logoPath": "",
+      "logoPath": "calendars/university/imam-university/logo.png",
       "detailPath": "calendar.html?id=imam-university"
     },
     {
