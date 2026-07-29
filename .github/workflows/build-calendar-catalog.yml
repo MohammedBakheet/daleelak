@@ -1,11 +1,15 @@
-
-name: Build calendar catalog
+name: Validate and build calendars
 
 on:
   push:
     paths:
-      - "calendars/**/info.json"
-      - "calendars/**/metadata.json"
+      - "calendars/**"
+      - "data/categories.json"
+      - "scripts/build-catalog.js"
+  pull_request:
+    paths:
+      - "calendars/**"
+      - "data/categories.json"
       - "scripts/build-catalog.js"
   workflow_dispatch:
 
@@ -13,24 +17,25 @@ permissions:
   contents: write
 
 jobs:
-  build-catalog:
-    if: github.actor != 'github-actions[bot]'
+  validate-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Generate catalog
+      - name: Validate calendars and generate catalog
+        env:
+          SITE_URL: https://mohammedbakheet.github.io/daleelak
         run: node scripts/build-catalog.js
-      - name: Commit generated catalog
+      - name: Verify generated files
+        run: test -s data/catalog.json && test -s sitemap.xml && test -s robots.txt
+      - name: Commit generated files
+        if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
         run: |
-          if git diff --quiet -- data/catalog.json; then
-            echo "Catalog is already current."
-            exit 0
-          fi
+          if git diff --quiet -- data/catalog.json sitemap.xml robots.txt; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog.json
-          git commit -m "chore: update calendar catalog"
+          git add data/catalog.json sitemap.xml robots.txt
+          git commit -m "chore: update generated calendar data"
           git push
