@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-29T20:13:25.434Z",
+  "updatedAt": "2026-07-29T20:14:25.233Z",
   "count": 6,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -48,6 +48,7 @@
       "lastUpdate": "2026-07-29",
       "description": "مواعيد التقويم الأكاديمي للانتظام للفصل الدراسي الأول بجامعة الملك عبدالعزيز. لم يتضمن الملف المرفق بيانات الفصل الثاني.",
       "ics": "calendar.ics",
+      "logo": "logo.png",
       "source": "عمادة القبول والتسجيل بجامعة الملك عبدالعزيز — الملف الرسمي المرفق",
       "publisher": "م. محمد البخيت",
       "eventsCount": 19,
@@ -55,7 +56,7 @@
       "infoPath": "calendars/university/king-abdulaziz-university/metadata.json",
       "folderPath": "calendars/university/king-abdulaziz-university/",
       "icsPath": "calendars/university/king-abdulaziz-university/calendar.ics",
-      "logoPath": "",
+      "logoPath": "calendars/university/king-abdulaziz-university/logo.png",
       "detailPath": "calendar.html?id=king-abdulaziz-university"
     },
     {
