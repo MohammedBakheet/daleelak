@@ -1,0 +1,17 @@
+{
+  "id": "imam-university",
+  "category": "التعليم الجامعي",
+  "organization": "جامعة الإمام محمد بن سعود الإسلامية",
+  "title": "التقويم الدراسي 2026/2027",
+  "academic_year": "1448/1449هـ - 2026/2027م",
+  "semesters": [
+    "الفصل الدراسي الأول",
+    "الفصل الدراسي الثاني"
+  ],
+  "timezone": "Asia/Riyadh",
+  "all_day": true,
+  "events_count": 35,
+  "end_date_policy": "تاريخ نهاية المدة يظهر داخل ملاحظات الحدث، بينما يُعرض الحدث في يوم البداية.",
+  "source": "الصور الرسمية المرفقة من المستخدم",
+  "calendar_file": "calendar.ics"
+}
