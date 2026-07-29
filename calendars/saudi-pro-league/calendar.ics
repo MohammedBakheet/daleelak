@@ -1,0 +1,671 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:دوري روشن السعودي 2026/2027
+X-WR-CALDESC:مواعيد مباريات دوري روشن السعود
+ ي المتاحة حاليًا
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-1@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260813T191500
+DTEND;TZID=Asia/Riyadh:20260813T211500
+SUMMARY:🔵 أبها × 🟡 الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 1\nأبها × الحزم
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز ال
+ رياضية - أبها
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-2@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260813T210000
+DTEND;TZID=Asia/Riyadh:20260813T230000
+SUMMARY:⚪ الشباب × 🔴 القادسية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 2\nالشباب × القادسية
+LOCATION:استاد إس إن بي أرينا - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-3@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260813T210000
+DTEND;TZID=Asia/Riyadh:20260813T230000
+SUMMARY:🟤 الدرعية × 🟢 الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 3\nالدرعية × الأهلي
+LOCATION:استاد الأمير فيصل بن فهد - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-4@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260814T195000
+DTEND;TZID=Asia/Riyadh:20260814T215000
+SUMMARY:🟠 نيوم × 🟣 الفيحاء
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 4\nنيوم × الفيحاء
+LOCATION:استاد مدينة الملك خالد الرياضية - ت
+ بوك
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-5@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260814T210000
+DTEND;TZID=Asia/Riyadh:20260814T230000
+SUMMARY:🟢 الاتفاق × 🔴 الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 5\nالاتفاق × الرياض
+LOCATION:استاد الاتفاق - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-6@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260814T210000
+DTEND;TZID=Asia/Riyadh:20260814T230000
+SUMMARY:🔵 الهلال × 🟤 الفيصلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 6\nالهلال × الفيصلي
+LOCATION:استاد مملكة أرينا - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-7@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260815T191500
+DTEND;TZID=Asia/Riyadh:20260815T211500
+SUMMARY:🟡 التعاون × 🟡 الخليج
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 7\nالتعاون × الخليج
+LOCATION:استاد نادي التعاون - بريدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-8@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260815T210000
+DTEND;TZID=Asia/Riyadh:20260815T230000
+SUMMARY:🟡 الاتحاد × ⚫ الخلود
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 8\nالاتحاد × الخلود
+LOCATION:مدينة الملك عبدالله الرياضية (استا
+ د الإنماء) - جدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-9@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260815T210000
+DTEND;TZID=Asia/Riyadh:20260815T230000
+SUMMARY:🟡 النصر × 🔵 الفتح
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
+ لمباراة: 9\nالنصر × الفتح
+LOCATION:استاد الأول بارك - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-10@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260820T210000
+DTEND;TZID=Asia/Riyadh:20260820T230000
+SUMMARY:🔴 القادسية × 🔵 الهلال
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 10\nالقادسية × الهلال
+LOCATION:مدينة المجمعة الرياضية - المجمعة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-11@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260820T190000
+DTEND;TZID=Asia/Riyadh:20260820T210000
+SUMMARY:🔴 الرياض × 🟡 النصر
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 11\nالرياض × النصر
+LOCATION:استاد الأمير فيصل بن فهد - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-12@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T191500
+DTEND;TZID=Asia/Riyadh:20260821T211500
+SUMMARY:🟤 الدرعية × 🟡 الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 12\nالدرعية × الحزم
+LOCATION:استاد نادي الحزم - الرس
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-13@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T210000
+DTEND;TZID=Asia/Riyadh:20260821T230000
+SUMMARY:🟤 الفيصلي × 🟠 نيوم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 13\nالفيصلي × نيوم
+LOCATION:مدينة المجمعة الرياضية - المجمعة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-14@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T210000
+DTEND;TZID=Asia/Riyadh:20260821T230000
+SUMMARY:🔴 القادسية × 🟡 الاتحاد
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 14\nالقادسية × الاتحاد
+LOCATION:استاد الأمير محمد بن فهد - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-15@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260822T184500
+DTEND;TZID=Asia/Riyadh:20260822T204500
+SUMMARY:🔵 الفتح × 🟢 الاتفاق
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 15\nالفتح × الاتفاق
+LOCATION:ميدان تمويل الأولى - الأحساء
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-16@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260822T191000
+DTEND;TZID=Asia/Riyadh:20260822T211000
+SUMMARY:⚫ الخلود × 🟡 التعاون
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 16\nالخلود × التعاون
+LOCATION:استاد نادي الحزم - الرس
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-17@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260822T210000
+DTEND;TZID=Asia/Riyadh:20260822T230000
+SUMMARY:🟡 الخليج × ⚪ الشباب
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 17\nالخليج × الشباب
+LOCATION:استاد الأمير محمد بن فهد - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-18@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260822T210000
+DTEND;TZID=Asia/Riyadh:20260822T230000
+SUMMARY:🔵 أبها × 🟢 الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
+ لمباراة: 18\nأبها × الأهلي
+LOCATION:مدينة الملك عبدالله الرياضية (استا
+ د الإنماء) - جدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-19@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260824T194000
+DTEND;TZID=Asia/Riyadh:20260824T214000
+SUMMARY:🟠 نيوم × 🔴 القادسية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 19\nنيوم × القادسية
+LOCATION:مدينة الملك خالد الرياضية - تبوك
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-20@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260824T210000
+DTEND;TZID=Asia/Riyadh:20260824T230000
+SUMMARY:🟡 الاتحاد × 🟡 الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 20\nالاتحاد × الحزم
+LOCATION:استاد الأمير عبدالله الفيصل - جدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-21@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T190500
+DTEND;TZID=Asia/Riyadh:20260825T210500
+SUMMARY:🔵 أبها × 🟡 الخليج
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 21\nأبها × الخليج
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز ال
+ رياضية - أبها
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-22@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T191000
+DTEND;TZID=Asia/Riyadh:20260825T211000
+SUMMARY:🟡 التعاون × 🟣 الفيحاء
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 22\nالتعاون × الفيحاء
+LOCATION:استاد نادي التعاون - بريدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-23@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T210000
+DTEND;TZID=Asia/Riyadh:20260825T230000
+SUMMARY:🟢 الاتفاق × 🟡 النصر
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 23\nالاتفاق × النصر
+LOCATION:استاد الاتفاق - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-24@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T210000
+DTEND;TZID=Asia/Riyadh:20260825T230000
+SUMMARY:⚪ الشباب × 🔴 الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 24\nالشباب × الرياض
+LOCATION:استاد إس إن بي أرينا - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-25@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260826T190000
+DTEND;TZID=Asia/Riyadh:20260826T210000
+SUMMARY:🟤 الفيصلي × 🔵 الفتح
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 25\nالفيصلي × الفتح
+LOCATION:مدينة المجمعة الرياضية - المجمعة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-26@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260826T210000
+DTEND;TZID=Asia/Riyadh:20260826T230000
+SUMMARY:🟤 الدرعية × ⚫ الخلود
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 26\nالدرعية × الخلود
+LOCATION:استاد الأمير فيصل بن فهد - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-27@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260901T210000
+DTEND;TZID=Asia/Riyadh:20260901T230000
+SUMMARY:🔵 الهلال × 🟢 الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
+ لمباراة: 27\nالهلال × الأهلي
+LOCATION:استاد مملكة أرينا - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-28@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T185000
+DTEND;TZID=Asia/Riyadh:20260828T205000
+SUMMARY:🔴 الرياض × 🟠 نيوم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 28\nالرياض × نيوم
+LOCATION:استاد الأمير فيصل بن فهد - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-29@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T190000
+DTEND;TZID=Asia/Riyadh:20260828T210000
+SUMMARY:🟣 الفيحاء × 🟡 الاتحاد
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 29\nالفيحاء × الاتحاد
+LOCATION:مدينة المجمعة الرياضية - المجمعة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-30@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T210000
+DTEND;TZID=Asia/Riyadh:20260828T230000
+SUMMARY:🟡 الخليج × 🔵 الهلال
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 30\nالخليج × الهلال
+LOCATION:استاد الأمير محمد بن فهد - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-31@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T210000
+DTEND;TZID=Asia/Riyadh:20260828T230000
+SUMMARY:🟡 النصر × 🟡 التعاون
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 31\nالنصر × التعاون
+LOCATION:استاد الأول بارك - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-32@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260829T190500
+DTEND;TZID=Asia/Riyadh:20260829T210500
+SUMMARY:⚫ الخلود × 🟢 الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 32\nالخلود × الأهلي
+LOCATION:استاد نادي الحزم - الرس
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-33@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260829T210000
+DTEND;TZID=Asia/Riyadh:20260829T230000
+SUMMARY:🟢 الاتفاق × 🟤 الدرعية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 33\nالاتفاق × الدرعية
+LOCATION:استاد الاتفاق - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-34@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260829T210000
+DTEND;TZID=Asia/Riyadh:20260829T230000
+SUMMARY:🔵 الفتح × 🟡 الاتحاد
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 34\nالفتح × الاتحاد
+LOCATION:ميدان تمويل الأولى - الأحساء
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-35@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260830T190500
+DTEND;TZID=Asia/Riyadh:20260830T210500
+SUMMARY:🟡 الحزم × ⚪ الشباب
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 35\nالحزم × الشباب
+LOCATION:استاد نادي الحزم - الرس
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-36@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260830T210000
+DTEND;TZID=Asia/Riyadh:20260830T230000
+SUMMARY:🔴 القادسية × 🟤 الفيصلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
+ لمباراة: 36\nالقادسية × الفيصلي
+LOCATION:استاد الأمير محمد بن فهد - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-37@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260903T185500
+DTEND;TZID=Asia/Riyadh:20260903T205500
+SUMMARY:🟣 الفيحاء × ⚫ الخلود
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 37\nالفيحاء × الخلود
+LOCATION:مدينة المجمعة الرياضية - المجمعة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-38@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260903T193000
+DTEND;TZID=Asia/Riyadh:20260903T213000
+SUMMARY:🟠 نيوم × 🟡 الخليج
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 38\nنيوم × الخليج
+LOCATION:مدينة الملك خالد الرياضية - تبوك
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-39@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260903T210000
+DTEND;TZID=Asia/Riyadh:20260903T230000
+SUMMARY:🟤 الدرعية × 🔴 القادسية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 39\nالدرعية × القادسية
+LOCATION:استاد الأمير فيصل بن فهد - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-40@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260904T190000
+DTEND;TZID=Asia/Riyadh:20260904T210000
+SUMMARY:🔵 أبها × 🟢 الاتفاق
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 40\nأبها × الاتفاق
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز ال
+ رياضية - أبها
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-41@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260904T210000
+DTEND;TZID=Asia/Riyadh:20260904T230000
+SUMMARY:⚪ الشباب × 🔵 الهلال
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 41\nالشباب × الهلال
+LOCATION:استاد إس إن بي أرينا - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-42@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260904T210000
+DTEND;TZID=Asia/Riyadh:20260904T230000
+SUMMARY:🟢 الأهلي × 🔴 الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 42\nالأهلي × الرياض
+LOCATION:استاد الأمير عبدالله الفيصل - جدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-43@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260905T185000
+DTEND;TZID=Asia/Riyadh:20260905T205000
+SUMMARY:🟤 الفيصلي × 🟡 الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 43\nالفيصلي × الحزم
+LOCATION:مدينة المجمعة الرياضية - المجمعة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-44@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260905T185500
+DTEND;TZID=Asia/Riyadh:20260905T205500
+SUMMARY:🟡 التعاون × 🔵 الفتح
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 44\nالتعاون × الفتح
+LOCATION:استاد نادي التعاون - بريدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-45@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260905T210000
+DTEND;TZID=Asia/Riyadh:20260905T230000
+SUMMARY:🟡 الاتحاد × 🟡 النصر
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
+ لمباراة: 45\nالاتحاد × النصر
+LOCATION:مدينة الملك عبدالله الرياضية (استا
+ د الإنماء) - جدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-46@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260907T183000
+DTEND;TZID=Asia/Riyadh:20260907T203000
+SUMMARY:🟡 الخليج × 🔴 الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 46\nالخليج × الرياض
+LOCATION:استاد الأمير محمد بن فهد - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-47@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260907T210000
+DTEND;TZID=Asia/Riyadh:20260907T230000
+SUMMARY:🔵 الهلال × 🟠 نيوم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 47\nالهلال × نيوم
+LOCATION:استاد مملكة أرينا - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-48@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T183000
+DTEND;TZID=Asia/Riyadh:20260908T203000
+SUMMARY:🟢 الاتفاق × 🟤 الفيصلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 48\nالاتفاق × الفيصلي
+LOCATION:استاد الاتفاق - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-49@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T185500
+DTEND;TZID=Asia/Riyadh:20260908T205500
+SUMMARY:🟡 الحزم × 🟡 التعاون
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 49\nالحزم × التعاون
+LOCATION:استاد نادي الحزم - الرس
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-50@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T210000
+DTEND;TZID=Asia/Riyadh:20260908T230000
+SUMMARY:🔴 القادسية × 🟢 الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 50\nالقادسية × الأهلي
+LOCATION:استاد الأمير محمد بن فهد - الدمام
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-51@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T210000
+DTEND;TZID=Asia/Riyadh:20260908T230000
+SUMMARY:🟡 الاتحاد × 🟣 الفيحاء
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 51\nالاتحاد × الفيحاء
+LOCATION:مدينة الملك عبدالله الرياضية (استا
+ د الإنماء) - جدة
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-52@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260909T185500
+DTEND;TZID=Asia/Riyadh:20260909T205500
+SUMMARY:⚫ الخلود × ⚪ الشباب
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 52\nالخلود × الشباب
+LOCATION:استاد نادي الحزم - الرس
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-53@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260909T210000
+DTEND;TZID=Asia/Riyadh:20260909T230000
+SUMMARY:🔵 الفتح × 🟤 الدرعية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 53\nالفتح × الدرعية
+LOCATION:ميدان تمويل الأولى - الأحساء
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-54@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260909T210000
+DTEND;TZID=Asia/Riyadh:20260909T230000
+SUMMARY:🟡 النصر × 🔵 أبها
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
+ لمباراة: 54\nالنصر × أبها\nملاحظة: قد تُست
+ بدل هذه المباراة بمباراة لأحد أندية دو
+ ري أبطال آسيا للنخبة وفق ما ورد في الجد
+ ول المرفق.
+LOCATION:استاد الأول بارك - الرياض
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
