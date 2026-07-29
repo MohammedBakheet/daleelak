@@ -184,6 +184,15 @@ async function renderDetail() {
     const primary = getPrimarySubscription(device, c.icsUrl);
     const externalAttrs = primary.external ? ' target="_blank" rel="noopener"' : '';
 
+    const appName = ({
+      iphone: 'Apple Calendar',
+      ipad: 'Apple Calendar',
+      mac: 'Apple Calendar',
+      android: 'Google Calendar',
+      windows: 'Outlook Calendar',
+      other: 'تطبيق التقويم'
+    })[device.key] || 'تطبيق التقويم';
+
     root.innerHTML = `
       <div class="detail-hero">
         <div class="calendar-logo large">${c.logoUrl ? `<img src="${c.logoUrl}" alt="">` : escapeHtml((c.organization || 'د').trim().charAt(0))}</div>
@@ -212,23 +221,21 @@ async function renderDetail() {
         </section>
 
         <section class="panel subscribe-panel smart-subscribe featured-subscribe">
-          <div class="subscribe-heading">
-            <span class="subscribe-title-icon" aria-hidden="true">📅</span>
+          <div class="subscribe-hero-icon" aria-hidden="true">
+            <span class="calendar-glyph">▦</span><span class="calendar-plus">+</span>
+          </div>
+
+          <div class="subscribe-heading centered">
             <div>
-              <h2>إضافة التقويم</h2>
-              <p>اختر الطريقة المناسبة لإضافة التقويم إلى التطبيق الذي تستخدمه.</p>
+              <h2>اشترك في التقويم</h2>
+              <p>سيتم فتح ${escapeHtml(appName)} لإضافة التقويم.</p>
             </div>
           </div>
 
-          <a class="subscribe-option option-primary" href="${primary.href}"${externalAttrs}>
-            <span class="option-icon" aria-hidden="true">${device.icon}</span>
-            <span class="option-content">
-              <strong>${escapeHtml(device.action)}</strong>
-              <small>${escapeHtml(device.badge)}</small>
-              <span>إضافة التقويم مع استقبال التحديثات المستقبلية تلقائيًا.</span>
-            </span>
-            <span class="option-arrow" aria-hidden="true">‹</span>
-          </a>
+          <div class="subscription-update-note">
+            <span class="update-note-icon" aria-hidden="true">↻</span>
+            <p>يتم تحديث التقويم تلقائيًا عند نشر أي تعديل، وقد يستغرق ظهور التحديث عدة ساعات حسب تطبيق التقويم المستخدم.</p>
+          </div>
 
           <div class="subscription-benefits" aria-label="مزايا الاشتراك">
             <span>✓ مجاني</span>
@@ -237,39 +244,31 @@ async function renderDetail() {
             <span>✓ يمكن إلغاء الاشتراك بأي وقت</span>
           </div>
 
-          <button class="subscribe-option option-copy" type="button" data-copy="${c.icsUrl}">
-            <span class="option-icon" aria-hidden="true">🔗</span>
-            <span class="option-content">
-              <strong>نسخ رابط الاشتراك</strong>
-              <small>Google Calendar وOutlook وأي تطبيق يدعم الاشتراك</small>
-              <span>انسخ الرابط ثم اختر «إضافة تقويم من رابط» داخل تطبيقك.</span>
-            </span>
-            <span class="option-arrow" aria-hidden="true">‹</span>
-          </button>
-
-          <a class="subscribe-option option-download" href="${c.icsUrl}" download>
-            <span class="option-icon" aria-hidden="true">↓</span>
-            <span class="option-content">
-              <strong>تنزيل ملف ICS</strong>
-              <small>للإضافة مرة واحدة فقط</small>
-              <span>حمّل الملف وأضفه يدويًا؛ لن تصلك التحديثات المستقبلية تلقائيًا.</span>
-            </span>
-            <span class="option-arrow" aria-hidden="true">‹</span>
+          <a class="primary-subscribe-button" href="${primary.href}"${externalAttrs}>
+            <span aria-hidden="true">＋</span>
+            <strong>إضافة إلى ${escapeHtml(appName)}</strong>
           </a>
 
-          <div class="subscription-tip">
-            <span aria-hidden="true">💡</span>
-            <p><strong>للحصول على التحديثات المستقبلية تلقائيًا استخدم الاشتراك،</strong> أما تنزيل ملف ICS فهو نسخة ثابتة لا تتحدث تلقائيًا.</p>
-          </div>
+          <div class="secondary-subscribe-actions">
+            <button class="subscribe-option option-copy" type="button" data-copy="${c.icsUrl}">
+              <span class="option-icon" aria-hidden="true">🔗</span>
+              <span class="option-content">
+                <strong>نسخ رابط الاشتراك</strong>
+                <small>للتطبيقات الأخرى</small>
+                <span>استخدم الرابط لإضافة التقويم من داخل التطبيق.</span>
+              </span>
+              <span class="option-arrow" aria-hidden="true">‹</span>
+            </button>
 
-          <div class="compatibility">
-            <strong>متوافق مع</strong>
-            <div class="compatibility-list">
-              <span> Apple Calendar</span>
-              <span>G Google Calendar</span>
-              <span>O Outlook</span>
-              <span>🌐 أي تطبيق يدعم iCalendar</span>
-            </div>
+            <a class="subscribe-option option-download" href="${c.icsUrl}" download>
+              <span class="option-icon" aria-hidden="true">↓</span>
+              <span class="option-content">
+                <strong>تنزيل ملف ICS</strong>
+                <small>إضافة مرة واحدة</small>
+                <span>الملف المنزّل لا يستقبل التحديثات تلقائيًا.</span>
+              </span>
+              <span class="option-arrow" aria-hidden="true">‹</span>
+            </a>
           </div>
         </section>
       </div>`;
