@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-29T19:38:11.909Z",
+  "updatedAt": "2026-07-29T19:46:40.525Z",
   "count": 6,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -45,6 +45,7 @@
       "region": "جامعة الملك سعود",
       "calendarType": "هجري وميلادي",
       "lastUpdate": "2026-07-29",
+      "logo": "logo.png",
       "description": "التقويم الدراسي لجامعة الملك سعود، ويشمل الفصلين الأول والثاني والفصل الصيفي بأحداث طوال اليوم.",
       "ics": "calendar.ics",
       "source": "عمادة شؤون القبول والتسجيل بجامعة الملك سعود — الصورة الرسمية المرفقة",
@@ -54,7 +55,7 @@
       "infoPath": "calendars/university/king-saud-university/metadata.json",
       "folderPath": "calendars/university/king-saud-university/",
       "icsPath": "calendars/university/king-saud-university/calendar.ics",
-      "logoPath": "",
+      "logoPath": "calendars/university/king-saud-university/logo.png",
       "detailPath": "calendar.html?id=king-saud-university"
     },
     {
