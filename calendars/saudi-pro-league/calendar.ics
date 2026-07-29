@@ -4,8 +4,8 @@ PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:دوري روشن السعودي 2026/2027
-X-WR-CALDESC:مواعيد مباريات دوري روشن السعود
- ي المتاحة حاليًا
+X-WR-CALDESC:مواعيد مباريات دوري روشن السعودي 
+ المتاحة حاليًا
 X-WR-TIMEZONE:Asia/Riyadh
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -15,11 +15,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260813T191500
 DTEND;TZID=Asia/Riyadh:20260813T211500
 SUMMARY:🔵 أبها × 🟡 الحزم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 1\nأبها × الحزم
-LOCATION:مدينة الأمير سلطان بن عبدالعزيز ال
- رياضية - أبها
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 1\nأبها × الحزم\n\nالمصدر: رابطة الد
+ وري السعودي للمحترفين\nإعداد ونشر: م. محم
+ د البخيت\nمنصة دليلك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية - أبها
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -28,10 +31,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260813T210000
 DTEND;TZID=Asia/Riyadh:20260813T230000
 SUMMARY:⚪ الشباب × 🔴 القادسية
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 2\nالشباب × القادسية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 2\nالشباب × القادسية\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد إس إن بي أرينا - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -40,10 +46,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260813T210000
 DTEND;TZID=Asia/Riyadh:20260813T230000
 SUMMARY:🟤 الدرعية × 🟢 الأهلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 3\nالدرعية × الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 3\nالدرعية × الأهلي\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير فيصل بن فهد - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -52,11 +61,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260814T195000
 DTEND;TZID=Asia/Riyadh:20260814T215000
 SUMMARY:🟠 نيوم × 🟣 الفيحاء
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 4\nنيوم × الفيحاء
-LOCATION:استاد مدينة الملك خالد الرياضية - ت
- بوك
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 4\nنيوم × الفيحاء\n\nالمصدر: رابطة ا
+ لدوري السعودي للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
+LOCATION:استاد مدينة الملك خالد الرياضية - تب
+ وك
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -65,10 +77,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260814T210000
 DTEND;TZID=Asia/Riyadh:20260814T230000
 SUMMARY:🟢 الاتفاق × 🔴 الرياض
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 5\nالاتفاق × الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 5\nالاتفاق × الرياض\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:استاد الاتفاق - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -77,10 +92,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260814T210000
 DTEND;TZID=Asia/Riyadh:20260814T230000
 SUMMARY:🔵 الهلال × 🟤 الفيصلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 6\nالهلال × الفيصلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 6\nالهلال × الفيصلي\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:استاد مملكة أرينا - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -89,10 +107,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260815T191500
 DTEND;TZID=Asia/Riyadh:20260815T211500
 SUMMARY:🟡 التعاون × 🟡 الخليج
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 7\nالتعاون × الخليج
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 7\nالتعاون × الخليج\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي التعاون - بريدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -101,11 +122,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260815T210000
 DTEND;TZID=Asia/Riyadh:20260815T230000
 SUMMARY:🟡 الاتحاد × ⚫ الخلود
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 8\nالاتحاد × الخلود
-LOCATION:مدينة الملك عبدالله الرياضية (استا
- د الإنماء) - جدة
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 8\nالاتحاد × الخلود\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء) - جدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -114,10 +138,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260815T210000
 DTEND;TZID=Asia/Riyadh:20260815T230000
 SUMMARY:🟡 النصر × 🔵 الفتح
-DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ا
- لمباراة: 9\nالنصر × الفتح
+DESCRIPTION:دوري روشن السعودي\nالجولة: 1\nرقم ال
+ مباراة: 9\nالنصر × الفتح\n\nالمصدر: رابطة ال
+ دوري السعودي للمحترفين\nإعداد ونشر: م. مح
+ مد البخيت\nمنصة دليلك
 LOCATION:استاد الأول بارك - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -126,10 +153,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260820T210000
 DTEND;TZID=Asia/Riyadh:20260820T230000
 SUMMARY:🔴 القادسية × 🔵 الهلال
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 10\nالقادسية × الهلال
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 10\nالقادسية × الهلال\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:مدينة المجمعة الرياضية - المجمعة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -138,10 +168,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260820T190000
 DTEND;TZID=Asia/Riyadh:20260820T210000
 SUMMARY:🔴 الرياض × 🟡 النصر
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 11\nالرياض × النصر
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 11\nالرياض × النصر\n\nالمصدر: رابطة 
+ الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير فيصل بن فهد - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -150,10 +183,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260821T191500
 DTEND;TZID=Asia/Riyadh:20260821T211500
 SUMMARY:🟤 الدرعية × 🟡 الحزم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 12\nالدرعية × الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 12\nالدرعية × الحزم\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي الحزم - الرس
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -162,10 +198,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260821T210000
 DTEND;TZID=Asia/Riyadh:20260821T230000
 SUMMARY:🟤 الفيصلي × 🟠 نيوم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 13\nالفيصلي × نيوم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 13\nالفيصلي × نيوم\n\nالمصدر: رابطة 
+ الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:مدينة المجمعة الرياضية - المجمعة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -174,10 +213,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260821T210000
 DTEND;TZID=Asia/Riyadh:20260821T230000
 SUMMARY:🔴 القادسية × 🟡 الاتحاد
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 14\nالقادسية × الاتحاد
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 14\nالقادسية × الاتحاد\n\nالمصدر: را
+ بطة الدوري السعودي للمحترفين\nإعداد ونشر
+ : م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير محمد بن فهد - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -186,10 +228,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260822T184500
 DTEND;TZID=Asia/Riyadh:20260822T204500
 SUMMARY:🔵 الفتح × 🟢 الاتفاق
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 15\nالفتح × الاتفاق
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 15\nالفتح × الاتفاق\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:ميدان تمويل الأولى - الأحساء
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -198,10 +243,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260822T191000
 DTEND;TZID=Asia/Riyadh:20260822T211000
 SUMMARY:⚫ الخلود × 🟡 التعاون
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 16\nالخلود × التعاون
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 16\nالخلود × التعاون\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي الحزم - الرس
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -210,10 +258,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260822T210000
 DTEND;TZID=Asia/Riyadh:20260822T230000
 SUMMARY:🟡 الخليج × ⚪ الشباب
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 17\nالخليج × الشباب
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 17\nالخليج × الشباب\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير محمد بن فهد - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -222,11 +273,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260822T210000
 DTEND;TZID=Asia/Riyadh:20260822T230000
 SUMMARY:🔵 أبها × 🟢 الأهلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ا
- لمباراة: 18\nأبها × الأهلي
-LOCATION:مدينة الملك عبدالله الرياضية (استا
- د الإنماء) - جدة
+DESCRIPTION:دوري روشن السعودي\nالجولة: 2\nرقم ال
+ مباراة: 18\nأبها × الأهلي\n\nالمصدر: رابطة ا
+ لدوري السعودي للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء) - جدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -235,10 +289,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260824T194000
 DTEND;TZID=Asia/Riyadh:20260824T214000
 SUMMARY:🟠 نيوم × 🔴 القادسية
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 19\nنيوم × القادسية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 19\nنيوم × القادسية\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:مدينة الملك خالد الرياضية - تبوك
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -247,10 +304,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260824T210000
 DTEND;TZID=Asia/Riyadh:20260824T230000
 SUMMARY:🟡 الاتحاد × 🟡 الحزم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 20\nالاتحاد × الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 20\nالاتحاد × الحزم\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير عبدالله الفيصل - جدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +319,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260825T190500
 DTEND;TZID=Asia/Riyadh:20260825T210500
 SUMMARY:🔵 أبها × 🟡 الخليج
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 21\nأبها × الخليج
-LOCATION:مدينة الأمير سلطان بن عبدالعزيز ال
- رياضية - أبها
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 21\nأبها × الخليج\n\nالمصدر: رابطة ا
+ لدوري السعودي للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية - أبها
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -272,10 +335,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260825T191000
 DTEND;TZID=Asia/Riyadh:20260825T211000
 SUMMARY:🟡 التعاون × 🟣 الفيحاء
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 22\nالتعاون × الفيحاء
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 22\nالتعاون × الفيحاء\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي التعاون - بريدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -284,10 +350,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260825T210000
 DTEND;TZID=Asia/Riyadh:20260825T230000
 SUMMARY:🟢 الاتفاق × 🟡 النصر
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 23\nالاتفاق × النصر
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 23\nالاتفاق × النصر\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الاتفاق - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -296,10 +365,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260825T210000
 DTEND;TZID=Asia/Riyadh:20260825T230000
 SUMMARY:⚪ الشباب × 🔴 الرياض
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 24\nالشباب × الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 24\nالشباب × الرياض\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد إس إن بي أرينا - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -308,10 +380,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260826T190000
 DTEND;TZID=Asia/Riyadh:20260826T210000
 SUMMARY:🟤 الفيصلي × 🔵 الفتح
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 25\nالفيصلي × الفتح
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 25\nالفيصلي × الفتح\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:مدينة المجمعة الرياضية - المجمعة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -320,10 +395,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260826T210000
 DTEND;TZID=Asia/Riyadh:20260826T230000
 SUMMARY:🟤 الدرعية × ⚫ الخلود
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 26\nالدرعية × الخلود
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 26\nالدرعية × الخلود\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير فيصل بن فهد - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -332,10 +410,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260901T210000
 DTEND;TZID=Asia/Riyadh:20260901T230000
 SUMMARY:🔵 الهلال × 🟢 الأهلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ا
- لمباراة: 27\nالهلال × الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 3\nرقم ال
+ مباراة: 27\nالهلال × الأهلي\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد مملكة أرينا - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -344,10 +425,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260828T185000
 DTEND;TZID=Asia/Riyadh:20260828T205000
 SUMMARY:🔴 الرياض × 🟠 نيوم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 28\nالرياض × نيوم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 28\nالرياض × نيوم\n\nالمصدر: رابطة ا
+ لدوري السعودي للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير فيصل بن فهد - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -356,10 +440,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260828T190000
 DTEND;TZID=Asia/Riyadh:20260828T210000
 SUMMARY:🟣 الفيحاء × 🟡 الاتحاد
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 29\nالفيحاء × الاتحاد
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 29\nالفيحاء × الاتحاد\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:مدينة المجمعة الرياضية - المجمعة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -368,10 +455,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260828T210000
 DTEND;TZID=Asia/Riyadh:20260828T230000
 SUMMARY:🟡 الخليج × 🔵 الهلال
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 30\nالخليج × الهلال
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 30\nالخليج × الهلال\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير محمد بن فهد - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -380,10 +470,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260828T210000
 DTEND;TZID=Asia/Riyadh:20260828T230000
 SUMMARY:🟡 النصر × 🟡 التعاون
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 31\nالنصر × التعاون
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 31\nالنصر × التعاون\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأول بارك - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -392,10 +485,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260829T190500
 DTEND;TZID=Asia/Riyadh:20260829T210500
 SUMMARY:⚫ الخلود × 🟢 الأهلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 32\nالخلود × الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 32\nالخلود × الأهلي\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي الحزم - الرس
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -404,10 +500,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260829T210000
 DTEND;TZID=Asia/Riyadh:20260829T230000
 SUMMARY:🟢 الاتفاق × 🟤 الدرعية
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 33\nالاتفاق × الدرعية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 33\nالاتفاق × الدرعية\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد الاتفاق - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -416,10 +515,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260829T210000
 DTEND;TZID=Asia/Riyadh:20260829T230000
 SUMMARY:🔵 الفتح × 🟡 الاتحاد
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 34\nالفتح × الاتحاد
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 34\nالفتح × الاتحاد\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:ميدان تمويل الأولى - الأحساء
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -428,10 +530,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260830T190500
 DTEND;TZID=Asia/Riyadh:20260830T210500
 SUMMARY:🟡 الحزم × ⚪ الشباب
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 35\nالحزم × الشباب
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 35\nالحزم × الشباب\n\nالمصدر: رابطة 
+ الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي الحزم - الرس
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -440,10 +545,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260830T210000
 DTEND;TZID=Asia/Riyadh:20260830T230000
 SUMMARY:🔴 القادسية × 🟤 الفيصلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ا
- لمباراة: 36\nالقادسية × الفيصلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 4\nرقم ال
+ مباراة: 36\nالقادسية × الفيصلي\n\nالمصدر: را
+ بطة الدوري السعودي للمحترفين\nإعداد ونشر
+ : م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير محمد بن فهد - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -452,10 +560,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260903T185500
 DTEND;TZID=Asia/Riyadh:20260903T205500
 SUMMARY:🟣 الفيحاء × ⚫ الخلود
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 37\nالفيحاء × الخلود
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 37\nالفيحاء × الخلود\n\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nإعداد ونشر: م
+ . محمد البخيت\nمنصة دليلك
 LOCATION:مدينة المجمعة الرياضية - المجمعة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -464,10 +575,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260903T193000
 DTEND;TZID=Asia/Riyadh:20260903T213000
 SUMMARY:🟠 نيوم × 🟡 الخليج
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 38\nنيوم × الخليج
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 38\nنيوم × الخليج\n\nالمصدر: رابطة ا
+ لدوري السعودي للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
 LOCATION:مدينة الملك خالد الرياضية - تبوك
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -476,10 +590,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260903T210000
 DTEND;TZID=Asia/Riyadh:20260903T230000
 SUMMARY:🟤 الدرعية × 🔴 القادسية
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 39\nالدرعية × القادسية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 39\nالدرعية × القادسية\n\nالمصدر: را
+ بطة الدوري السعودي للمحترفين\nإعداد ونشر
+ : م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير فيصل بن فهد - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -488,11 +605,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260904T190000
 DTEND;TZID=Asia/Riyadh:20260904T210000
 SUMMARY:🔵 أبها × 🟢 الاتفاق
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 40\nأبها × الاتفاق
-LOCATION:مدينة الأمير سلطان بن عبدالعزيز ال
- رياضية - أبها
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 40\nأبها × الاتفاق\n\nالمصدر: رابطة 
+ الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية - أبها
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -501,10 +621,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260904T210000
 DTEND;TZID=Asia/Riyadh:20260904T230000
 SUMMARY:⚪ الشباب × 🔵 الهلال
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 41\nالشباب × الهلال
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 41\nالشباب × الهلال\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد إس إن بي أرينا - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -513,10 +636,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260904T210000
 DTEND;TZID=Asia/Riyadh:20260904T230000
 SUMMARY:🟢 الأهلي × 🔴 الرياض
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 42\nالأهلي × الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 42\nالأهلي × الرياض\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير عبدالله الفيصل - جدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -525,10 +651,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260905T185000
 DTEND;TZID=Asia/Riyadh:20260905T205000
 SUMMARY:🟤 الفيصلي × 🟡 الحزم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 43\nالفيصلي × الحزم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 43\nالفيصلي × الحزم\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:مدينة المجمعة الرياضية - المجمعة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -537,10 +666,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260905T185500
 DTEND;TZID=Asia/Riyadh:20260905T205500
 SUMMARY:🟡 التعاون × 🔵 الفتح
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 44\nالتعاون × الفتح
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 44\nالتعاون × الفتح\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي التعاون - بريدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -549,11 +681,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260905T210000
 DTEND;TZID=Asia/Riyadh:20260905T230000
 SUMMARY:🟡 الاتحاد × 🟡 النصر
-DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ا
- لمباراة: 45\nالاتحاد × النصر
-LOCATION:مدينة الملك عبدالله الرياضية (استا
- د الإنماء) - جدة
+DESCRIPTION:دوري روشن السعودي\nالجولة: 5\nرقم ال
+ مباراة: 45\nالاتحاد × النصر\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء) - جدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -562,10 +697,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260907T183000
 DTEND;TZID=Asia/Riyadh:20260907T203000
 SUMMARY:🟡 الخليج × 🔴 الرياض
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 46\nالخليج × الرياض
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 46\nالخليج × الرياض\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير محمد بن فهد - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -574,10 +712,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260907T210000
 DTEND;TZID=Asia/Riyadh:20260907T230000
 SUMMARY:🔵 الهلال × 🟠 نيوم
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 47\nالهلال × نيوم
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 47\nالهلال × نيوم\n\nالمصدر: رابطة ا
+ لدوري السعودي للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
 LOCATION:استاد مملكة أرينا - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -586,10 +727,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260908T183000
 DTEND;TZID=Asia/Riyadh:20260908T203000
 SUMMARY:🟢 الاتفاق × 🟤 الفيصلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 48\nالاتفاق × الفيصلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 48\nالاتفاق × الفيصلي\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد الاتفاق - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -598,10 +742,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260908T185500
 DTEND;TZID=Asia/Riyadh:20260908T205500
 SUMMARY:🟡 الحزم × 🟡 التعاون
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 49\nالحزم × التعاون
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 49\nالحزم × التعاون\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي الحزم - الرس
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -610,10 +757,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260908T210000
 DTEND;TZID=Asia/Riyadh:20260908T230000
 SUMMARY:🔴 القادسية × 🟢 الأهلي
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 50\nالقادسية × الأهلي
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 50\nالقادسية × الأهلي\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
 LOCATION:استاد الأمير محمد بن فهد - الدمام
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -622,11 +772,14 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260908T210000
 DTEND;TZID=Asia/Riyadh:20260908T230000
 SUMMARY:🟡 الاتحاد × 🟣 الفيحاء
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 51\nالاتحاد × الفيحاء
-LOCATION:مدينة الملك عبدالله الرياضية (استا
- د الإنماء) - جدة
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 51\nالاتحاد × الفيحاء\n\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nإعداد ونشر: 
+ م. محمد البخيت\nمنصة دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء) - جدة
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -635,10 +788,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260909T185500
 DTEND;TZID=Asia/Riyadh:20260909T205500
 SUMMARY:⚫ الخلود × ⚪ الشباب
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 52\nالخلود × الشباب
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 52\nالخلود × الشباب\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:استاد نادي الحزم - الرس
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -647,10 +803,13 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260909T210000
 DTEND;TZID=Asia/Riyadh:20260909T230000
 SUMMARY:🔵 الفتح × 🟤 الدرعية
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 53\nالفتح × الدرعية
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 53\nالفتح × الدرعية\n\nالمصدر: رابطة
+  الدوري السعودي للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
 LOCATION:ميدان تمويل الأولى - الأحساء
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -659,13 +818,16 @@ DTSTAMP:20260729T080000Z
 DTSTART;TZID=Asia/Riyadh:20260909T210000
 DTEND;TZID=Asia/Riyadh:20260909T230000
 SUMMARY:🟡 النصر × 🔵 أبها
-DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ا
- لمباراة: 54\nالنصر × أبها\nملاحظة: قد تُست
- بدل هذه المباراة بمباراة لأحد أندية دو
- ري أبطال آسيا للنخبة وفق ما ورد في الجد
- ول المرفق.
+DESCRIPTION:دوري روشن السعودي\nالجولة: 6\nرقم ال
+ مباراة: 54\nالنصر × أبها\nملاحظة: قد تُستبد
+ ل هذه المباراة بمباراة لأحد أندية دوري أ
+ بطال آسيا للنخبة وفق ما ورد في الجدول الم
+ رفق.\n\nالمصدر: رابطة الدوري السعودي للمحت
+ رفين\nإعداد ونشر: م. محمد البخيت\nمنصة دلي
+ لك
 LOCATION:استاد الأول بارك - الرياض
 STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
