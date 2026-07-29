@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohammedbakheet.github.io/daleelak/sitemap.xml
