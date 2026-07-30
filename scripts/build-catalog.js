@@ -61,7 +61,8 @@ for (const file of files) {
     icsPath: `${folderRel}/${icsName}`,
     logoPath: logoName ? `${folderRel}/${logoName}` : '',
     eventsCount: Number(info.eventsCount || countEvents(icsFile)),
-    detailPath: `calendar.html?id=${encodeURIComponent(info.id)}`
+    detailPath: `share/${encodeURIComponent(info.id)}/`,
+    legacyDetailPath: `calendar.html?id=${encodeURIComponent(info.id)}`
   });
 }
 
@@ -74,7 +75,7 @@ fs.writeFileSync(path.join(dataRoot,'catalog.json'), JSON.stringify(catalog,null
 const urls = [
   {loc:`${siteUrl}/`,priority:'1.0'},
   ...(categoriesData.categories || []).filter(c=>c.status==='active').map(c=>({loc:`${siteUrl}/category.html?id=${encodeURIComponent(c.id)}`,priority:'0.8'})),
-  ...entries.map(c=>({loc:`${siteUrl}/calendar.html?id=${encodeURIComponent(c.id)}`,lastmod:c.lastUpdate,priority:'0.7'}))
+  ...entries.map(c=>({loc:`${siteUrl}/share/${encodeURIComponent(c.id)}/`,lastmod:c.lastUpdate,priority:'0.7'}))
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u=>`  <url><loc>${xml(u.loc)}</loc>${u.lastmod?`<lastmod>${xml(u.lastmod)}</lastmod>`:''}<priority>${u.priority}</priority></url>`).join('\n')}\n</urlset>\n`;
 fs.writeFileSync(path.join(root,'sitemap.xml'),sitemap,'utf8');
