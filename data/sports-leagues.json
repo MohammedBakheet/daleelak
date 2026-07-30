@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-30T14:41:13.632Z",
+  "count": 2,
+  "leagues": [
+    {
+      "id": "roshn",
+      "title": "الدوري السعودي للمحترفين",
+      "shortTitle": "روشن",
+      "country": "السعودية",
+      "category": "sports",
+      "sport": "football",
+      "season": "2026–2027",
+      "description": "مواعيد مباريات دوري روشن السعودي، وستضاف تقاويم الأندية ضمن الصفحة نفسها.",
+      "logo": "league/logo.png",
+      "leagueCalendarId": "saudi-pro-league-2026-2027",
+      "teamsCount": 18,
+      "order": 1,
+      "status": "active",
+      "logoPath": "calendars/sports/roshn/league/logo.png",
+      "detailPath": "league.html?id=roshn",
+      "calendarsCount": 1
+    },
+    {
+      "id": "yellow",
+      "title": "دوري الدرجة الأولى السعودي",
+      "shortTitle": "يلو",
+      "country": "السعودية",
+      "category": "sports",
+      "sport": "football",
+      "season": "2026–2027",
+      "description": "تقويم جميع مباريات دوري الدرجة الأولى السعودي، مع تقويم مستقل لكل فريق.",
+      "logo": "league/logo.png",
+      "leagueCalendarId": "YELLOW",
+      "teamsCount": 18,
+      "order": 2,
+      "status": "active",
+      "logoPath": "calendars/sports/yellow/league/logo.png",
+      "detailPath": "league.html?id=yellow",
+      "calendarsCount": 19
+    }
+  ]
+}
