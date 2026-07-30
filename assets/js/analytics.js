@@ -57,7 +57,7 @@
     script.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(MEASUREMENT_ID)}`;
     document.head.appendChild(script);
   } else {
-    console.info('[دليلك] Google Analytics غير مفعّل بعد. استبدل G-XXXXXXXXXX داخل assets/js/analytics.js.');
+    console.info('[دليلك] Google Analytics غير مفعّل بعد. استبدل G-8GCSQ9L2NQ داخل assets/js/analytics.js.');
   }
 
   function track(eventName, params = {}) {
