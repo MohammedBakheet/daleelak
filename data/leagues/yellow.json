@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T14:41:13.633Z",
+  "updatedAt": "2026-07-30T15:29:43.118Z",
   "id": "yellow",
   "title": "دوري الدرجة الأولى السعودي",
   "shortTitle": "يلو",
@@ -51,7 +51,9 @@
     "folderPath": "calendars/sports/yellow/league/",
     "icsPath": "calendars/sports/yellow/league/calendar.ics",
     "logoPath": "calendars/sports/yellow/league/logo.png",
-    "detailPath": "calendar.html?id=YELLOW"
+    "detailPath": "calendar.html?id=YELLOW",
+    "sharePath": "share/YELLOW/",
+    "legacyDetailPath": "calendar.html?id=YELLOW"
   },
   "teams": [
     {
@@ -94,7 +96,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALOKHDOOD/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALOKHDOOD/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALOKHDOOD/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALOKHDOOD"
+      "detailPath": "calendar.html?id=YELLOW-ALOKHDOOD",
+      "sharePath": "share/YELLOW-ALOKHDOOD/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALOKHDOOD"
     },
     {
       "id": "YELLOW-ALANWAR",
@@ -136,7 +140,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALANWAR"
+      "detailPath": "calendar.html?id=YELLOW-ALANWAR",
+      "sharePath": "share/YELLOW-ALANWAR/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALANWAR"
     },
     {
       "id": "YELLOW-ALBUKAYRIYAH",
@@ -178,7 +184,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALBUKAYRIYAH"
+      "detailPath": "calendar.html?id=YELLOW-ALBUKAYRIYAH",
+      "sharePath": "share/YELLOW-ALBUKAYRIYAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALBUKAYRIYAH"
     },
     {
       "id": "YELLOW-ALJABALAIN",
@@ -220,7 +228,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALJABALAIN"
+      "detailPath": "calendar.html?id=YELLOW-ALJABALAIN",
+      "sharePath": "share/YELLOW-ALJABALAIN/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALJABALAIN"
     },
     {
       "id": "YELLOW-ALJANDAL",
@@ -262,7 +272,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALJANDAL"
+      "detailPath": "calendar.html?id=YELLOW-ALJANDAL",
+      "sharePath": "share/YELLOW-ALJANDAL/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALJANDAL"
     },
     {
       "id": "YELLOW-ALJEEL",
@@ -304,7 +316,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJEEL/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJEEL/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALJEEL/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALJEEL"
+      "detailPath": "calendar.html?id=YELLOW-ALJEEL",
+      "sharePath": "share/YELLOW-ALJEEL/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALJEEL"
     },
     {
       "id": "YELLOW-ALRAED",
@@ -346,7 +360,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALRAED"
+      "detailPath": "calendar.html?id=YELLOW-ALRAED",
+      "sharePath": "share/YELLOW-ALRAED/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALRAED"
     },
     {
       "id": "YELLOW-ALZULFI",
@@ -388,7 +404,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALZULFI"
+      "detailPath": "calendar.html?id=YELLOW-ALZULFI",
+      "sharePath": "share/YELLOW-ALZULFI/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALZULFI"
     },
     {
       "id": "YELLOW-ALSAQR",
@@ -430,7 +448,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALSAQR/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALSAQR/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALSAQR/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALSAQR"
+      "detailPath": "calendar.html?id=YELLOW-ALSAQR",
+      "sharePath": "share/YELLOW-ALSAQR/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALSAQR"
     },
     {
       "id": "YELLOW-ALTAI",
@@ -472,7 +492,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALTAI"
+      "detailPath": "calendar.html?id=YELLOW-ALTAI",
+      "sharePath": "share/YELLOW-ALTAI/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALTAI"
     },
     {
       "id": "YELLOW-ALADALAH",
@@ -514,7 +536,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALADALAH"
+      "detailPath": "calendar.html?id=YELLOW-ALADALAH",
+      "sharePath": "share/YELLOW-ALADALAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALADALAH"
     },
     {
       "id": "YELLOW-ALOROBAH",
@@ -556,7 +580,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALOROBAH"
+      "detailPath": "calendar.html?id=YELLOW-ALOROBAH",
+      "sharePath": "share/YELLOW-ALOROBAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALOROBAH"
     },
     {
       "id": "YELLOW-ALULA",
@@ -598,7 +624,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALULA/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALULA/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALULA/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALULA"
+      "detailPath": "calendar.html?id=YELLOW-ALULA",
+      "sharePath": "share/YELLOW-ALULA/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALULA"
     },
     {
       "id": "YELLOW-ALNAJMA",
@@ -640,7 +668,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALNAJMA/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALNAJMA/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALNAJMA/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALNAJMA"
+      "detailPath": "calendar.html?id=YELLOW-ALNAJMA",
+      "sharePath": "share/YELLOW-ALNAJMA/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALNAJMA"
     },
     {
       "id": "YELLOW-ALWEHDA",
@@ -682,7 +712,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALWEHDA/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALWEHDA/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALWEHDA/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALWEHDA"
+      "detailPath": "calendar.html?id=YELLOW-ALWEHDA",
+      "sharePath": "share/YELLOW-ALWEHDA/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALWEHDA"
     },
     {
       "id": "YELLOW-JEDDAH",
@@ -724,7 +756,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-JEDDAH"
+      "detailPath": "calendar.html?id=YELLOW-JEDDAH",
+      "sharePath": "share/YELLOW-JEDDAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-JEDDAH"
     },
     {
       "id": "YELLOW-DAMAC",
@@ -766,7 +800,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-DAMAC/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-DAMAC/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-DAMAC/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-DAMAC"
+      "detailPath": "calendar.html?id=YELLOW-DAMAC",
+      "sharePath": "share/YELLOW-DAMAC/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-DAMAC"
     },
     {
       "id": "YELLOW-HAJER",
@@ -808,7 +844,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-HAJER/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-HAJER/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-HAJER/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-HAJER"
+      "detailPath": "calendar.html?id=YELLOW-HAJER",
+      "sharePath": "share/YELLOW-HAJER/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-HAJER"
     }
   ]
 }

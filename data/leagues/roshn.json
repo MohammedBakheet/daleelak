@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30T14:41:13.633Z",
+  "updatedAt": "2026-07-30T15:29:43.118Z",
   "id": "roshn",
   "title": "الدوري السعودي للمحترفين",
   "shortTitle": "روشن",
@@ -48,7 +48,9 @@
     "icsPath": "calendars/sports/roshn/league/calendar.ics",
     "logoPath": "calendars/sports/roshn/league/logo.png",
     "eventsCount": 54,
-    "detailPath": "calendar.html?id=saudi-pro-league-2026-2027"
+    "detailPath": "calendar.html?id=saudi-pro-league-2026-2027",
+    "sharePath": "share/saudi-pro-league-2026-2027/",
+    "legacyDetailPath": "calendar.html?id=saudi-pro-league-2026-2027"
   },
   "teams": []
 }

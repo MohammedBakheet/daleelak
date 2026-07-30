@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-30T15:32:19.297Z",
-  "count": 27,
+  "updatedAt": "2026-07-30T15:29:43.116Z",
+  "count": 26,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -28,34 +28,9 @@
     "calendars/university/imam-university/metadata.json",
     "calendars/university/king-abdulaziz-university/metadata.json",
     "calendars/university/king-khaled-uni/metadata.json",
-    "calendars/university/king-saud-university/metadata.json",
-    "calendars/university/PNU/metadata.json"
+    "calendars/university/king-saud-university/metadata.json"
   ],
   "entries": [
-    {
-      "id": "PNU",
-      "title": "تقويم الإجراءات الأكاديمية 1448هـ (2026–2027)",
-      "organization": "جامعة الأميرة نورة بنت عبدالرحمن",
-      "category": "higher-education",
-      "categoryLabel": "التعليم الجامعي",
-      "year": "2026–2027",
-      "hijriYear": "1448–1449هـ",
-      "region": "جامعة الأميرة نورة بنت عبدالرحمن",
-      "calendarType": "هجري وميلادي",
-      "lastUpdate": "2026-07-30",
-      "description": "تقويم الإجراءات الأكاديمية الرسمي للعام الجامعي 1448هـ، ويشمل الفصل الدراسي الأول والثاني والفصل الصيفي.",
-      "ics": "calendar.ics",
-      "logo": "logo.png",
-      "source": "جامعة الأميرة نورة بنت عبدالرحمن — صفحة التقويم الجامعي الرسمية",
-      "sourceUrl": "https://pnu.edu.sa/ar/AcademicCalendar/Pages/default.aspx",
-      "publisher": "م. محمد البخيت",
-      "eventsCount": 41,
-      "infoPath": "calendars/university/PNU/metadata.json",
-      "folderPath": "calendars/university/PNU/",
-      "icsPath": "calendars/university/PNU/calendar.ics",
-      "logoPath": "calendars/university/PNU/logo.png",
-      "detailPath": "calendar.html?id=PNU"
-    },
     {
       "id": "kku-academic-calendar-1448-1449",
       "title": "التقويم الأكاديمي لجامعة الملك خالد",
@@ -78,7 +53,9 @@
       "folderPath": "calendars/university/king-khaled-uni/",
       "icsPath": "calendars/university/king-khaled-uni/calendar.ics",
       "logoPath": "calendars/university/king-khaled-uni/logo.png",
-      "detailPath": "calendar.html?id=kku-academic-calendar-1448-1449"
+      "detailPath": "calendar.html?id=kku-academic-calendar-1448-1449",
+      "sharePath": "share/kku-academic-calendar-1448-1449/",
+      "legacyDetailPath": "calendar.html?id=kku-academic-calendar-1448-1449"
     },
     {
       "id": "YELLOW",
@@ -114,7 +91,9 @@
       "folderPath": "calendars/sports/yellow/league/",
       "icsPath": "calendars/sports/yellow/league/calendar.ics",
       "logoPath": "calendars/sports/yellow/league/logo.png",
-      "detailPath": "calendar.html?id=YELLOW"
+      "detailPath": "calendar.html?id=YELLOW",
+      "sharePath": "share/YELLOW/",
+      "legacyDetailPath": "calendar.html?id=YELLOW"
     },
     {
       "id": "YELLOW-ALADALAH",
@@ -156,7 +135,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALADALAH"
+      "detailPath": "calendar.html?id=YELLOW-ALADALAH",
+      "sharePath": "share/YELLOW-ALADALAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALADALAH"
     },
     {
       "id": "YELLOW-ALANWAR",
@@ -198,7 +179,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALANWAR"
+      "detailPath": "calendar.html?id=YELLOW-ALANWAR",
+      "sharePath": "share/YELLOW-ALANWAR/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALANWAR"
     },
     {
       "id": "YELLOW-ALBUKAYRIYAH",
@@ -240,7 +223,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALBUKAYRIYAH"
+      "detailPath": "calendar.html?id=YELLOW-ALBUKAYRIYAH",
+      "sharePath": "share/YELLOW-ALBUKAYRIYAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALBUKAYRIYAH"
     },
     {
       "id": "YELLOW-ALJABALAIN",
@@ -282,7 +267,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALJABALAIN"
+      "detailPath": "calendar.html?id=YELLOW-ALJABALAIN",
+      "sharePath": "share/YELLOW-ALJABALAIN/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALJABALAIN"
     },
     {
       "id": "YELLOW-ALJANDAL",
@@ -324,7 +311,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALJANDAL"
+      "detailPath": "calendar.html?id=YELLOW-ALJANDAL",
+      "sharePath": "share/YELLOW-ALJANDAL/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALJANDAL"
     },
     {
       "id": "YELLOW-ALJEEL",
@@ -366,7 +355,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJEEL/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJEEL/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALJEEL/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALJEEL"
+      "detailPath": "calendar.html?id=YELLOW-ALJEEL",
+      "sharePath": "share/YELLOW-ALJEEL/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALJEEL"
     },
     {
       "id": "YELLOW-ALNAJMA",
@@ -408,7 +399,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALNAJMA/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALNAJMA/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALNAJMA/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALNAJMA"
+      "detailPath": "calendar.html?id=YELLOW-ALNAJMA",
+      "sharePath": "share/YELLOW-ALNAJMA/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALNAJMA"
     },
     {
       "id": "YELLOW-ALOKHDOOD",
@@ -450,7 +443,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALOKHDOOD/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALOKHDOOD/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALOKHDOOD/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALOKHDOOD"
+      "detailPath": "calendar.html?id=YELLOW-ALOKHDOOD",
+      "sharePath": "share/YELLOW-ALOKHDOOD/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALOKHDOOD"
     },
     {
       "id": "YELLOW-ALOROBAH",
@@ -492,7 +487,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALOROBAH"
+      "detailPath": "calendar.html?id=YELLOW-ALOROBAH",
+      "sharePath": "share/YELLOW-ALOROBAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALOROBAH"
     },
     {
       "id": "YELLOW-ALRAED",
@@ -534,7 +531,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALRAED"
+      "detailPath": "calendar.html?id=YELLOW-ALRAED",
+      "sharePath": "share/YELLOW-ALRAED/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALRAED"
     },
     {
       "id": "YELLOW-ALSAQR",
@@ -576,7 +575,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALSAQR/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALSAQR/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALSAQR/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALSAQR"
+      "detailPath": "calendar.html?id=YELLOW-ALSAQR",
+      "sharePath": "share/YELLOW-ALSAQR/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALSAQR"
     },
     {
       "id": "YELLOW-ALTAI",
@@ -618,7 +619,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALTAI"
+      "detailPath": "calendar.html?id=YELLOW-ALTAI",
+      "sharePath": "share/YELLOW-ALTAI/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALTAI"
     },
     {
       "id": "YELLOW-ALULA",
@@ -660,7 +663,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALULA/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALULA/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALULA/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALULA"
+      "detailPath": "calendar.html?id=YELLOW-ALULA",
+      "sharePath": "share/YELLOW-ALULA/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALULA"
     },
     {
       "id": "YELLOW-ALWEHDA",
@@ -702,7 +707,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALWEHDA/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALWEHDA/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALWEHDA/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALWEHDA"
+      "detailPath": "calendar.html?id=YELLOW-ALWEHDA",
+      "sharePath": "share/YELLOW-ALWEHDA/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALWEHDA"
     },
     {
       "id": "YELLOW-ALZULFI",
@@ -744,7 +751,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-ALZULFI"
+      "detailPath": "calendar.html?id=YELLOW-ALZULFI",
+      "sharePath": "share/YELLOW-ALZULFI/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-ALZULFI"
     },
     {
       "id": "YELLOW-DAMAC",
@@ -786,7 +795,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-DAMAC/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-DAMAC/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-DAMAC/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-DAMAC"
+      "detailPath": "calendar.html?id=YELLOW-DAMAC",
+      "sharePath": "share/YELLOW-DAMAC/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-DAMAC"
     },
     {
       "id": "YELLOW-HAJER",
@@ -828,7 +839,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-HAJER/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-HAJER/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-HAJER/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-HAJER"
+      "detailPath": "calendar.html?id=YELLOW-HAJER",
+      "sharePath": "share/YELLOW-HAJER/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-HAJER"
     },
     {
       "id": "YELLOW-JEDDAH",
@@ -870,7 +883,9 @@
       "folderPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/calendar.ics",
       "logoPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/logo.png",
-      "detailPath": "calendar.html?id=YELLOW-JEDDAH"
+      "detailPath": "calendar.html?id=YELLOW-JEDDAH",
+      "sharePath": "share/YELLOW-JEDDAH/",
+      "legacyDetailPath": "calendar.html?id=YELLOW-JEDDAH"
     },
     {
       "id": "imam-university",
@@ -894,7 +909,9 @@
       "folderPath": "calendars/university/imam-university/",
       "icsPath": "calendars/university/imam-university/calendar.ics",
       "logoPath": "calendars/university/imam-university/logo.png",
-      "detailPath": "calendar.html?id=imam-university"
+      "detailPath": "calendar.html?id=imam-university",
+      "sharePath": "share/imam-university/",
+      "legacyDetailPath": "calendar.html?id=imam-university"
     },
     {
       "id": "king-abdulaziz-university",
@@ -918,7 +935,9 @@
       "folderPath": "calendars/university/king-abdulaziz-university/",
       "icsPath": "calendars/university/king-abdulaziz-university/calendar.ics",
       "logoPath": "calendars/university/king-abdulaziz-university/logo.png",
-      "detailPath": "calendar.html?id=king-abdulaziz-university"
+      "detailPath": "calendar.html?id=king-abdulaziz-university",
+      "sharePath": "share/king-abdulaziz-university/",
+      "legacyDetailPath": "calendar.html?id=king-abdulaziz-university"
     },
     {
       "id": "saudi-pro-league-2026-2027",
@@ -951,7 +970,9 @@
       "icsPath": "calendars/sports/roshn/league/calendar.ics",
       "logoPath": "calendars/sports/roshn/league/logo.png",
       "eventsCount": 54,
-      "detailPath": "calendar.html?id=saudi-pro-league-2026-2027"
+      "detailPath": "calendar.html?id=saudi-pro-league-2026-2027",
+      "sharePath": "share/saudi-pro-league-2026-2027/",
+      "legacyDetailPath": "calendar.html?id=saudi-pro-league-2026-2027"
     },
     {
       "id": "king-saud-university",
@@ -975,7 +996,9 @@
       "folderPath": "calendars/university/king-saud-university/",
       "icsPath": "calendars/university/king-saud-university/calendar.ics",
       "logoPath": "calendars/university/king-saud-university/logo.png",
-      "detailPath": "calendar.html?id=king-saud-university"
+      "detailPath": "calendar.html?id=king-saud-university",
+      "sharePath": "share/king-saud-university/",
+      "legacyDetailPath": "calendar.html?id=king-saud-university"
     },
     {
       "id": "moe-general",
@@ -998,7 +1021,9 @@
       "icsPath": "calendars/moe-general/calendar.ics",
       "logoPath": "",
       "eventsCount": 11,
-      "detailPath": "calendar.html?id=moe-general"
+      "detailPath": "calendar.html?id=moe-general",
+      "sharePath": "share/moe-general/",
+      "legacyDetailPath": "calendar.html?id=moe-general"
     },
     {
       "id": "moe-west",
@@ -1021,7 +1046,9 @@
       "icsPath": "calendars/moe-west/calendar.ics",
       "logoPath": "",
       "eventsCount": 11,
-      "detailPath": "calendar.html?id=moe-west"
+      "detailPath": "calendar.html?id=moe-west",
+      "sharePath": "share/moe-west/",
+      "legacyDetailPath": "calendar.html?id=moe-west"
     }
   ]
 }
