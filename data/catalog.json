@@ -1,16 +1,43 @@
 {
-  "version": 5,
-  "updatedAt": "2026-07-30T07:16:32.327Z",
-  "count": 6,
+  "version": 4,
+  "updatedAt": "2026-07-30T07:55:40.169Z",
+  "count": 7,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
     "calendars/saudi-pro-league/info.json",
     "calendars/university/imam-university/metadata.json",
     "calendars/university/king-abdulaziz-university/metadata.json",
+    "calendars/university/king-khaled-uni/metadata.json",
     "calendars/university/king-saud-university/metadata.json"
   ],
   "entries": [
+    {
+      "id": "kku-academic-calendar-1448-1449",
+      "title": "التقويم الأكاديمي لجامعة الملك خالد",
+      "organization": "جامعة الملك خالد",
+      "category": "higher-education",
+      "year": "2026/2027",
+      "hijriYear": "1448/1449",
+      "region": "المملكة العربية السعودية",
+      "calendarType": "هجري وميلادي",
+      "eventsCount": 27,
+      "lastUpdate": "2026-07-30",
+      "source": "الموقع الرسمي لجامعة الملك خالد",
+      "sourceUrl": "https://www.kku.edu.sa/ar/portfolio/academic-calendar",
+      "publisher": "دليلك",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "description": "التقويم الأكاديمي الموحد لجامعة الملك خالد ويشمل الفصل الدراسي الأول والثاني والفصل الصيفي، مع التاريخ الهجري في ملاحظات كل حدث.",
+      "status": "active",
+      "infoPath": "calendars/university/king-khaled-uni/metadata.json",
+      "folderPath": "calendars/university/king-khaled-uni/",
+      "icsPath": "calendars/university/king-khaled-uni/calendar.ics",
+      "logoPath": "calendars/university/king-khaled-uni/logo.png",
+      "detailPath": "calendar.html?id=kku-academic-calendar-1448-1449",
+      "sharePath": "share/kku-academic-calendar-1448-1449/",
+      "legacyDetailPath": "calendar.html?id=kku-academic-calendar-1448-1449"
+    },
     {
       "id": "imam-university",
       "title": "التقويم الدراسي 2026/2027",
@@ -24,6 +51,7 @@
       "lastUpdate": "2026-07-29",
       "description": "التقويم الدراسي للفصلين الأول والثاني بجامعة الإمام محمد بن سعود الإسلامية، بأحداث طوال اليوم.",
       "ics": "calendar.ics",
+      "logo": "logo.png",
       "source": "الصور الرسمية المرفقة من المستخدم",
       "publisher": "م. محمد البخيت",
       "eventsCount": 35,
@@ -31,35 +59,10 @@
       "infoPath": "calendars/university/imam-university/metadata.json",
       "folderPath": "calendars/university/imam-university/",
       "icsPath": "calendars/university/imam-university/calendar.ics",
-      "logoPath": "",
-      "shareImagePath": "",
+      "logoPath": "calendars/university/imam-university/logo.png",
+      "detailPath": "calendar.html?id=imam-university",
       "sharePath": "share/imam-university/",
-      "detailPath": "calendar.html?id=imam-university"
-    },
-    {
-      "id": "king-saud-university",
-      "title": "التقويم الدراسي 2026/2027",
-      "organization": "جامعة الملك سعود",
-      "category": "higher-education",
-      "categoryLabel": "التعليم الجامعي",
-      "year": "2026–2027",
-      "hijriYear": "1448–1449هـ",
-      "region": "جامعة الملك سعود",
-      "calendarType": "هجري وميلادي",
-      "lastUpdate": "2026-07-29",
-      "description": "التقويم الدراسي لجامعة الملك سعود، ويشمل الفصلين الأول والثاني والفصل الصيفي بأحداث طوال اليوم.",
-      "ics": "calendar.ics",
-      "source": "عمادة شؤون القبول والتسجيل بجامعة الملك سعود — الصورة الرسمية المرفقة",
-      "publisher": "م. محمد البخيت",
-      "eventsCount": 22,
-      "endDatePolicy": "تظهر نهاية المدة داخل ملاحظات الحدث.",
-      "infoPath": "calendars/university/king-saud-university/metadata.json",
-      "folderPath": "calendars/university/king-saud-university/",
-      "icsPath": "calendars/university/king-saud-university/calendar.ics",
-      "logoPath": "",
-      "shareImagePath": "",
-      "sharePath": "share/king-saud-university/",
-      "detailPath": "calendar.html?id=king-saud-university"
+      "legacyDetailPath": "calendar.html?id=imam-university"
     },
     {
       "id": "king-abdulaziz-university",
@@ -74,6 +77,7 @@
       "lastUpdate": "2026-07-29",
       "description": "مواعيد التقويم الأكاديمي للانتظام للفصل الدراسي الأول بجامعة الملك عبدالعزيز. لم يتضمن الملف المرفق بيانات الفصل الثاني.",
       "ics": "calendar.ics",
+      "logo": "logo.png",
       "source": "عمادة القبول والتسجيل بجامعة الملك عبدالعزيز — الملف الرسمي المرفق",
       "publisher": "م. محمد البخيت",
       "eventsCount": 19,
@@ -81,10 +85,10 @@
       "infoPath": "calendars/university/king-abdulaziz-university/metadata.json",
       "folderPath": "calendars/university/king-abdulaziz-university/",
       "icsPath": "calendars/university/king-abdulaziz-university/calendar.ics",
-      "logoPath": "",
-      "shareImagePath": "",
+      "logoPath": "calendars/university/king-abdulaziz-university/logo.png",
+      "detailPath": "calendar.html?id=king-abdulaziz-university",
       "sharePath": "share/king-abdulaziz-university/",
-      "detailPath": "calendar.html?id=king-abdulaziz-university"
+      "legacyDetailPath": "calendar.html?id=king-abdulaziz-university"
     },
     {
       "id": "saudi-pro-league-2026-2027",
@@ -108,10 +112,36 @@
       "folderPath": "calendars/saudi-pro-league/",
       "icsPath": "calendars/saudi-pro-league/calendar.ics",
       "logoPath": "calendars/saudi-pro-league/logo.png",
-      "shareImagePath": "",
-      "sharePath": "share/saudi-pro-league-2026-2027/",
       "eventsCount": 54,
-      "detailPath": "calendar.html?id=saudi-pro-league-2026-2027"
+      "detailPath": "calendar.html?id=saudi-pro-league-2026-2027",
+      "sharePath": "share/saudi-pro-league-2026-2027/",
+      "legacyDetailPath": "calendar.html?id=saudi-pro-league-2026-2027"
+    },
+    {
+      "id": "king-saud-university",
+      "title": "التقويم الدراسي 2026/2027",
+      "organization": "جامعة الملك سعود",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة الملك سعود",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-07-28",
+      "logo": "logo.png",
+      "description": "التقويم الدراسي لجامعة الملك سعود، ويشمل الفصلين الأول والثاني والفصل الصيفي بأحداث طوال اليوم.",
+      "ics": "calendar.ics",
+      "source": "عمادة شؤون القبول والتسجيل بجامعة الملك سعود — الصورة الرسمية المرفقة",
+      "publisher": "م. محمد البخيت",
+      "eventsCount": 22,
+      "endDatePolicy": "تظهر نهاية المدة داخل ملاحظات الحدث.",
+      "infoPath": "calendars/university/king-saud-university/metadata.json",
+      "folderPath": "calendars/university/king-saud-university/",
+      "icsPath": "calendars/university/king-saud-university/calendar.ics",
+      "logoPath": "calendars/university/king-saud-university/logo.png",
+      "detailPath": "calendar.html?id=king-saud-university",
+      "sharePath": "share/king-saud-university/",
+      "legacyDetailPath": "calendar.html?id=king-saud-university"
     },
     {
       "id": "moe-general",
@@ -133,10 +163,10 @@
       "folderPath": "calendars/moe-general/",
       "icsPath": "calendars/moe-general/calendar.ics",
       "logoPath": "",
-      "shareImagePath": "",
-      "sharePath": "share/moe-general/",
       "eventsCount": 11,
-      "detailPath": "calendar.html?id=moe-general"
+      "detailPath": "calendar.html?id=moe-general",
+      "sharePath": "share/moe-general/",
+      "legacyDetailPath": "calendar.html?id=moe-general"
     },
     {
       "id": "moe-west",
@@ -158,10 +188,10 @@
       "folderPath": "calendars/moe-west/",
       "icsPath": "calendars/moe-west/calendar.ics",
       "logoPath": "",
-      "shareImagePath": "",
-      "sharePath": "share/moe-west/",
       "eventsCount": 11,
-      "detailPath": "calendar.html?id=moe-west"
+      "detailPath": "calendar.html?id=moe-west",
+      "sharePath": "share/moe-west/",
+      "legacyDetailPath": "calendar.html?id=moe-west"
     }
   ]
 }
