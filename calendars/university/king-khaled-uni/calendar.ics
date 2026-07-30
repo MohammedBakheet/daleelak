@@ -1,0 +1,333 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//KKU Academic Calendar 1448-1449//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:جامعة الملك خالد - التقويم الأكاديمي 1448-1449هـ
+X-WR-CALDESC:التقويم الأكاديمي الموحد لجامعة الملك خالد للفصلين الأول والثاني والفصل الصيفي.
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:20260816-a435c70a-8775-551b-baff-1174b48a204c@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:بداية فترة تأجيل الفصل الدراسي
+DESCRIPTION:التاريخ الهجري: 03/03/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260823-bdbb9fe7-641d-5f25-9773-b835107b4277@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الفصل الدراسي الأول
+DESCRIPTION:التاريخ الهجري: 10/03/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-ab0e6c52-a87f-5512-a4aa-5496259954eb@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:نهاية فترة تأجيل الفصل الدراسي
+DESCRIPTION:التاريخ الهجري: 14/03/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260920-986ef9de-fc7f-5cae-b4f8-725865cc98ca@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:بداية فترة الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:التاريخ الهجري: 09/04/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-14d4245b-51f6-5f4d-81ae-17811f55b66f@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:التاريخ الهجري: 12-13/04/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-2efc8f11-edb8-5d9f-8742-08308517c21f@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:بداية إجازة الخريف
+DESCRIPTION:التاريخ الهجري: 09/06/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129-e5e32799-4c9c-53be-bd77-94beb90e4a77@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:استئناف الدراسة بعد إجازة الخريف
+DESCRIPTION:التاريخ الهجري: 19/06/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210-e8852f4b-3fea-542d-aed9-6c065c083605@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:نهاية فترة الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:التاريخ الهجري: 01/07/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261220-5ae0b1e9-3165-5390-971f-c59bbeac66ee@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:بداية الاختبارات النهائية
+DESCRIPTION:التاريخ الهجري: 11/07/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107-4ddad523-03ed-55ae-b801-f0d8bf65d22e@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:بداية إجازة منتصف العام الدراسي
+DESCRIPTION:التاريخ الهجري: 29/07/1448\\nالفصل: الفصل الدراسي الأول\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الأول,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270110-9abd98fa-89f2-5aaf-8d0a-c255482fdcae@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:بداية فترة تأجيل فصل دراسي
+DESCRIPTION:التاريخ الهجري: 02/08/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270117-4a7aad1d-724f-59fd-acd6-791299a1f5bc@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الفصل الدراسي الثاني
+DESCRIPTION:التاريخ الهجري: 09/08/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270121-3b1c7851-fe7e-5914-bf16-13f072118886@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:نهاية فترة تأجيل الفصل الدراسي
+DESCRIPTION:التاريخ الهجري: 13/08/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270214-a6691480-0c93-5b63-ae36-8308a483e97b@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:بداية فترة الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:التاريخ الهجري: 07/09/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270221-e0698c31-f023-5a19-8d09-6d403ddc6735@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:التاريخ الهجري: 14-15/09/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270225-5cf720c4-9262-5345-b717-f3ee3132938f@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:بداية إجازة عيد الفطر
+DESCRIPTION:التاريخ الهجري: 18/09/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270314-27952b13-40e9-500f-90b6-8805ad7680a1@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:استئناف الدراسة بعد إجازة عيد الفطر
+DESCRIPTION:التاريخ الهجري: 06/10/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506-7b6fe299-2f51-5305-9e85-93aab8daab7e@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:نهاية فترة الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:التاريخ الهجري: 29/11/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506-f07c4865-c731-51d5-b53b-ecfd2adf7fde@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:بداية إجازة عيد الأضحى
+DESCRIPTION:التاريخ الهجري: 29/11/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270523-e9f5af44-2966-57a1-ad37-ab4f2d8f235f@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:استئناف الدراسة بعد إجازة عيد الأضحى
+DESCRIPTION:التاريخ الهجري: 17/12/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270530-9a91e27a-41e3-5bb0-a35c-94be816b0894@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:بداية الاختبارات النهائية
+DESCRIPTION:التاريخ الهجري: 24/12/1448\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270617-c49b46fa-4426-5e6f-950b-8acfe711fdba@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:بداية إجازة نهاية العام الدراسي
+DESCRIPTION:التاريخ الهجري: 12/01/1449\\nالفصل: الفصل الدراسي الثاني\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الثاني,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270620-96cd86a0-75d1-5b53-a61a-59c0f1ce9ad6@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:بداية الفصل الدراسي الصيفي
+DESCRIPTION:التاريخ الهجري: 15/01/1449\\nالفصل: الفصل الدراسي الصيفي\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الصيفي,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270711-7997c3bc-4825-5acd-885b-211972dee851@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:بداية فترة الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:التاريخ الهجري: 07/02/1449\\nالفصل: الفصل الدراسي الصيفي\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الصيفي,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270729-cc7022e1-e76d-54c5-918c-8c3381dd9190@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:نهاية فترة الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:التاريخ الهجري: 25/02/1449\\nالفصل: الفصل الدراسي الصيفي\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الصيفي,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270808-3334212a-d556-5025-8c1a-65262e94c833@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:بداية الاختبارات النهائية
+DESCRIPTION:التاريخ الهجري: 06/03/1449\\nالفصل: الفصل الدراسي الصيفي\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الصيفي,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270812-e684464d-aba3-5153-b2bc-8d0f6b1edd66@daleelak
+DTSTAMP:20260730T060709Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:نهاية الفصل الدراسي الصيفي
+DESCRIPTION:التاريخ الهجري: 10/03/1449\\nالفصل: الفصل الدراسي الصيفي\\nالمصدر: الموقع الرسمي لجامعة الملك خالد\\nhttps://www.kku.edu.sa/ar/portfolio/academic-calendar
+CATEGORIES:الفصل الدراسي الصيفي,جامعة الملك خالد,التعليم الجامعي
+URL:https://www.kku.edu.sa/ar/portfolio/academic-calendar
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
