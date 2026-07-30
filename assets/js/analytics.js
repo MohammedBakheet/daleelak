@@ -10,9 +10,9 @@
 (function () {
   'use strict';
 
-  const MEASUREMENT_ID = 'G-XXXXXXXXXX';
+  const MEASUREMENT_ID = 'G-8GCSQ9L2NQ';
   const DEBUG_MODE = new URLSearchParams(window.location.search).get('ga_debug') === '1';
-  const isConfigured = /^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID) && MEASUREMENT_ID !== 'G-XXXXXXXXXX';
+  const isConfigured = /^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID) && MEASUREMENT_ID !== 'G-8GCSQ9L2NQ';
   let context = {};
   const sentViews = new Set();
 
