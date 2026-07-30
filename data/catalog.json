@@ -1,7 +1,7 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-30T07:56:08.333Z",
-  "count": 7,
+  "updatedAt": "2026-07-30T10:22:36.579Z",
+  "count": 8,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -9,9 +9,35 @@
     "calendars/university/imam-university/metadata.json",
     "calendars/university/king-abdulaziz-university/metadata.json",
     "calendars/university/king-khaled-uni/metadata.json",
-    "calendars/university/king-saud-university/metadata.json"
+    "calendars/university/king-saud-university/metadata.json",
+    "calendars/university/PNU/metadata.json"
   ],
   "entries": [
+    {
+      "id": "pnu-academic-calendar-1448-1449",
+      "title": "تقويم الإجراءات الأكاديمية 1448هـ (2026–2027)",
+      "organization": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة الأميرة نورة بنت عبدالرحمن",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-07-30",
+      "description": "تقويم الإجراءات الأكاديمية الرسمي للعام الجامعي 1448هـ، ويشمل الفصل الدراسي الأول والثاني والفصل الصيفي.",
+      "ics": "calendar.ics",
+      "source": "جامعة الأميرة نورة بنت عبدالرحمن — صفحة التقويم الجامعي الرسمية",
+      "sourceUrl": "https://pnu.edu.sa/ar/AcademicCalendar/Pages/default.aspx",
+      "publisher": "م. محمد البخيت",
+      "eventsCount": 41,
+      "infoPath": "calendars/university/PNU/metadata.json",
+      "folderPath": "calendars/university/PNU/",
+      "icsPath": "calendars/university/PNU/calendar.ics",
+      "logoPath": "",
+      "detailPath": "calendar.html?id=pnu-academic-calendar-1448-1449",
+      "sharePath": "share/pnu-academic-calendar-1448-1449/",
+      "legacyDetailPath": "calendar.html?id=pnu-academic-calendar-1448-1449"
+    },
     {
       "id": "kku-academic-calendar-1448-1449",
       "title": "التقويم الأكاديمي لجامعة الملك خالد",
