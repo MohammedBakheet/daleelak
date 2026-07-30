@@ -1,0 +1,496 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//YELLOW-ALANWAR 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي الأنوار - دوري الدرجة الأولى 2026-2027
+X-WR-TIMEZONE:Asia/Riyadh
+X-WR-CALDESC:مباريات نادي الأنوار في الدور الأول لدوري الدرجة الأولى للمحترفين
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:66b43af202dab07148d6edd0d3f79981841b62cb@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260821T191500
+DTEND;TZID=Asia/Riyadh:20260821T210000
+SUMMARY:🔴 البكيرية × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 1\n⚽ المباراة رقم 2\n\n🔴 ال
+ بكيرية × 🟢 الأنوار\n\n🏟️ ملعب نادي البك
+ يرية - البكيرية\n\n🔄 يتم تحديث المواعيد ت
+ لقائيًا عند أي تعديل رسمي.\n\nالمصدر: رابط
+ ة أندية الدرجة الأولى للمحترفين\nإعداد و
+ نشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي البكيرية - البكيرية
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:البكيرية
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🔴
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1da1ac364405ddb083335d0f1f89a61472f9fc@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260828T185500
+DTEND;TZID=Asia/Riyadh:20260828T204000
+SUMMARY:🟢 الأنوار × ⚫ العلا
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 2\n⚽ المباراة رقم 16\n\n🟢 ال
+ أنوار × ⚫ العلا\n\n🏟️ ملعب نادي الأنوار -
+  حوطة بني تميم\n\n🔄 يتم تحديث المواعيد تل
+ قائيًا عند أي تعديل رسمي.\n\nالمصدر: رابطة 
+ أندية الدرجة الأولى للمحترفين\nإعداد ونش
+ ر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:العلا
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:⚫
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:74a1511fafdbde81c24963d1a9061fa350ea9f8d@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260902T184000
+DTEND;TZID=Asia/Riyadh:20260902T202500
+SUMMARY:⚫ هجر × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 3\n⚽ المباراة رقم 25\n\n⚫ هج
+ ر × 🟢 الأنوار\n\n🏟️ ملعب نادي هجر - الأحس
+ اء\n\n🔄 يتم تحديث المواعيد تلقائيًا عند أ
+ ي تعديل رسمي.\n\nالمصدر: رابطة أندية الدرج
+ ة الأولى للمحترفين\nإعداد ونشر: م. محمد ال
+ بخيت\nمنصة دليلك
+LOCATION:ملعب نادي هجر - الأحساء
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:هجر
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:⚫
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2caddbef0dcdc3578c8cd1f2e7111e0cf30215ac@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260908T203000
+DTEND;TZID=Asia/Riyadh:20260908T221500
+SUMMARY:🟢 الأنوار × 🔵 الطائي
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 4\n⚽ المباراة رقم 33\n\n🟢 ال
+ أنوار × 🔵 الطائي\n\n🏟️ ملعب نادي الأنوا
+ ر - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد 
+ تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الطائي
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔵
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:77f9c59ab7c5993873258de2d465990cd6cf704b@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260913T185000
+DTEND;TZID=Asia/Riyadh:20260913T203500
+SUMMARY:🟤 الصقر × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 5\n⚽ المباراة رقم 38\n\n🟤 ال
+ صقر × 🟢 الأنوار\n\n🏟️ مدينة الملك عبدال
+ له بن عبدالعزيز الرياضية - بريدة\n\n🔄 يتم 
+ تحديث المواعيد تلقائيًا عند أي تعديل رسم
+ ي.\n\nالمصدر: رابطة أندية الدرجة الأولى لل
+ محترفين\nإعداد ونشر: م. محمد البخيت\nمنصة 
+ دليلك
+LOCATION:مدينة الملك عبدالله بن عبدالعزيز ال
+ رياضية - بريدة
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:الصقر
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🟤
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9c51c7737e94afb071ccb37ec9dac42cc56c6a@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260919T183500
+DTEND;TZID=Asia/Riyadh:20260919T202000
+SUMMARY:🟢 الأنوار × 🟢 النجمة
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 6\n⚽ المباراة رقم 48\n\n🟢 ال
+ أنوار × 🟢 النجمة\n\n🏟️ ملعب نادي الأنوا
+ ر - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد 
+ تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:النجمة
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e694c82df396ed4417e7118122c2b78474472860@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261015
+SUMMARY:🔵 العدالة × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 7\n⚽ المباراة رقم 62\n\n🔵 ال
+ عدالة × 🟢 الأنوار\n\n🏟️ مدينة الأمير عب
+ دالله بن جلوي الرياضية - الأحساء\n\n🔄 يتم 
+ تحديث المواعيد تلقائيًا عند أي تعديل رسم
+ ي.\n\nالمصدر: رابطة أندية الدرجة الأولى لل
+ محترفين\nإعداد ونشر: م. محمد البخيت\nمنصة 
+ دليلك
+LOCATION:مدينة الأمير عبدالله بن جلوي الرياض
+ ية - الأحساء
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:العدالة
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🔵
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:TENTATIVE
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:15bbf1d30d4ba4f6f0f397b88ebe6b9a0d80d863@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261021T180000
+DTEND;TZID=Asia/Riyadh:20261021T194500
+SUMMARY:🟢 الأنوار × 🔴 الوحدة
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 8\n⚽ المباراة رقم 71\n\n🟢 ال
+ أنوار × 🔴 الوحدة\n\n🏟️ ملعب نادي الأنوا
+ ر - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد 
+ تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الوحدة
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b777294cb9b55b1ddc4e88e122bb25214fe7a519@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261026T180000
+DTEND;TZID=Asia/Riyadh:20261026T194500
+SUMMARY:🟢 الأنوار × 🔵 الأخدود
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 9\n⚽ المباراة رقم 73\n\n🟢 ال
+ أنوار × 🔵 الأخدود\n\n🏟️ ملعب نادي الأنو
+ ار - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد
+  تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الأخدود
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔵
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffdb5e7abc4ccfbba5ad70c5b639ccfd6f5a004f@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261101T153000
+DTEND;TZID=Asia/Riyadh:20261101T171500
+SUMMARY:🟢 العروبة × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 10\n⚽ المباراة رقم 82\n\n🟢 ا
+ لعروبة × 🟢 الأنوار\n\n🏟️ ملعب جامعة الج
+ وف - الجوف\n\n🔄 يتم تحديث المواعيد تلقائي
+ ًا عند أي تعديل رسمي.\n\nالمصدر: رابطة أندي
+ ة الدرجة الأولى للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:العروبة
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:59ab4799c5d7ca55d27333d67ee9586ec5038bed@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261108T153000
+DTEND;TZID=Asia/Riyadh:20261108T171500
+SUMMARY:🔴 ضمك × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 11\n⚽ المباراة رقم 96\n\n🔴 ض
+ مك × 🟢 الأنوار\n\n🏟️ مدينة الأمير سلطان 
+ بن عبدالعزيز الرياضية - أبها\n\n🔄 يتم تحد
+ يث المواعيد تلقائيًا عند أي تعديل رسمي.\n\
+ nالمصدر: رابطة أندية الدرجة الأولى للمحت
+ رفين\nإعداد ونشر: م. محمد البخيت\nمنصة دلي
+ لك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية - أبها
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:ضمك
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🔴
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:165bf65b7d74b22720a2283f16abe274fdfcded2@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261125T151000
+DTEND;TZID=Asia/Riyadh:20261125T165500
+SUMMARY:🟢 الأنوار × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 12\n⚽ المباراة رقم 107\n\n🟢 ا
+ لأنوار × 🟣 الجندل\n\n🏟️ ملعب نادي الأنو
+ ار - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد
+  تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f0c50ab76964ddceb1823da9e06557a7436582a@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261130T150500
+DTEND;TZID=Asia/Riyadh:20261130T165000
+SUMMARY:🟢 الأنوار × 🔵 الزلفي
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 13\n⚽ المباراة رقم 111\n\n🟢 ا
+ لأنوار × 🔵 الزلفي\n\n🏟️ ملعب نادي الأنو
+ ار - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد
+  تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الزلفي
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔵
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:22c0ec4f080d8782fd059d552b03335da7ab18cf@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261206T173000
+DTEND;TZID=Asia/Riyadh:20261206T191500
+SUMMARY:🟡 الجيل × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 14\n⚽ المباراة رقم 121\n\n🟡 ا
+ لجيل × 🟢 الأنوار\n\n🏟️ مدينة الأمير عبد
+ الله بن جلوي الرياضية - الأحساء\n\n🔄 يتم ت
+ حديث المواعيد تلقائيًا عند أي تعديل رسمي
+ .\n\nالمصدر: رابطة أندية الدرجة الأولى للم
+ حترفين\nإعداد ونشر: م. محمد البخيت\nمنصة د
+ ليلك
+LOCATION:مدينة الأمير عبدالله بن جلوي الرياض
+ ية - الأحساء
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:الجيل
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🟡
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:64614d6494771eabea3d6e794c991e47da87051b@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261211T151000
+DTEND;TZID=Asia/Riyadh:20261211T165500
+SUMMARY:🟢 الأنوار × 🔴 الجبلين
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 15\n⚽ المباراة رقم 127\n\n🟢 ا
+ لأنوار × 🔴 الجبلين\n\n🏟️ ملعب نادي الأن
+ وار - حوطة بني تميم\n\n🔄 يتم تحديث المواعي
+ د تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: را
+ بطة أندية الدرجة الأولى للمحترفين\nإعداد
+  ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الجبلين
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa4f4e51222fbf9a6139d243789778e027e6a77@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261217T182500
+DTEND;TZID=Asia/Riyadh:20261217T201000
+SUMMARY:🟢 جدة × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 16\n⚽ المباراة رقم 142\n\n🟢 ج
+ دة × 🟢 الأنوار\n\n🏟️ ملعب نادي جدة - جدة\n
+ \n🔄 يتم تحديث المواعيد تلقائيًا عند أي ت
+ عديل رسمي.\n\nالمصدر: رابطة أندية الدرجة ا
+ لأولى للمحترفين\nإعداد ونشر: م. محمد البخ
+ يت\nمنصة دليلك
+LOCATION:ملعب نادي جدة - جدة
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:جدة
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa9815f59acd3300fbc034b185772e7ecd195c4@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261221T175000
+DTEND;TZID=Asia/Riyadh:20261221T193500
+SUMMARY:🟢 الأنوار × 🔴 الرائد
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 17\n⚽ المباراة رقم 147\n\n🟢 ا
+ لأنوار × 🔴 الرائد\n\n🏟️ ملعب نادي الأنو
+ ار - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد
+  تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الرائد
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:37cc4523e7cf1006042a0fa2166cdb3a0044a4fe@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261229T152000
+DTEND;TZID=Asia/Riyadh:20261229T170500
+SUMMARY:🟢 الأنوار × 🔴 البكيرية
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 18\n⚽ المباراة رقم 157\n\n🟢 ا
+ لأنوار × 🔴 البكيرية\n\n🏟️ ملعب نادي الأ
+ نوار - حوطة بني تميم\n\n🔄 يتم تحديث المواع
+ يد تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: ر
+ ابطة أندية الدرجة الأولى للمحترفين\nإعدا
+ د ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:البكيرية
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:13eccf8715a78b60643fc713610fab12ec3ac358@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20270104T155000
+DTEND;TZID=Asia/Riyadh:20270104T173500
+SUMMARY:⚫ العلا × 🟢 الأنوار
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 19\n⚽ المباراة رقم 166\n\n⚫ ا
+ لعلا × 🟢 الأنوار\n\n🏟️ مدينة الأمير محم
+ د بن عبدالعزيز الرياضية - المدينة المنور
+ ة\n\n🔄 يتم تحديث المواعيد تلقائيًا عند أي
+  تعديل رسمي.\n\nالمصدر: رابطة أندية الدرجة 
+ الأولى للمحترفين\nإعداد ونشر: م. محمد الب
+ خيت\nمنصة دليلك
+LOCATION:مدينة الأمير محمد بن عبدالعزيز الري
+ اضية - المدينة المنورة
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:العلا
+X-DALEELAK-AWAY-TEAM:الأنوار
+X-DALEELAK-HOME-ICON:⚫
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

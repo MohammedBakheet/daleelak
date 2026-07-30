@@ -1,0 +1,498 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//YELLOW-ALJANDAL 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي الجندل - دوري الدرجة الأولى 2026-2027
+X-WR-TIMEZONE:Asia/Riyadh
+X-WR-CALDESC:مباريات نادي الجندل في الدور الأول لدوري الدرجة الأولى للمحترفين
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:c28398fc892388c99206f41da611eae2979baf82@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260822T191500
+DTEND;TZID=Asia/Riyadh:20260822T210000
+SUMMARY:🟢 النجمة × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 1\n⚽ المباراة رقم 4\n\n🟢 ال
+ نجمة × 🟣 الجندل\n\n🏟️ مدينة الملك عبدال
+ له بن عبدالعزيز الرياضية - بريدة\n\n🔄 يتم 
+ تحديث المواعيد تلقائيًا عند أي تعديل رسم
+ ي.\n\nالمصدر: رابطة أندية الدرجة الأولى لل
+ محترفين\nإعداد ونشر: م. محمد البخيت\nمنصة 
+ دليلك
+LOCATION:مدينة الملك عبدالله بن عبدالعزيز ال
+ رياضية - بريدة
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:النجمة
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:87fba030eaa7686f2595708a65c84aba179733ac@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260827T205000
+DTEND;TZID=Asia/Riyadh:20260827T223500
+SUMMARY:🟣 الجندل × 🟤 الصقر
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 2\n⚽ المباراة رقم 15\n\n🟣 ال
+ جندل × 🟤 الصقر\n\n🏟️ ملعب جامعة الجوف - ا
+ لجوف\n\n🔄 يتم تحديث المواعيد تلقائيًا عن
+ د أي تعديل رسمي.\n\nالمصدر: رابطة أندية الد
+ رجة الأولى للمحترفين\nإعداد ونشر: م. محمد 
+ البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:الصقر
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🟤
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a11f0bd6467a142e7cf8de35f09643376dda1e8@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260831T204000
+DTEND;TZID=Asia/Riyadh:20260831T222500
+SUMMARY:🔵 الطائي × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 3\n⚽ المباراة رقم 21\n\n🔵 ال
+ طائي × 🟣 الجندل\n\n🏟️ مدينة الأمير عبدا
+ لعزيز بن مساعد الرياضية - حائل\n\n🔄 يتم تح
+ ديث المواعيد تلقائيًا عند أي تعديل رسمي.\
+ n\nالمصدر: رابطة أندية الدرجة الأولى للمح
+ ترفين\nإعداد ونشر: م. محمد البخيت\nمنصة دل
+ يلك
+LOCATION:مدينة الأمير عبدالعزيز بن مساعد الر
+ ياضية - حائل
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:الطائي
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🔵
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:8275e05cee84e9a4efce6b90a03f193c89b35fa7@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260909T191000
+DTEND;TZID=Asia/Riyadh:20260909T205500
+SUMMARY:🟣 الجندل × 🔴 البكيرية
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 4\n⚽ المباراة رقم 35\n\n🟣 ال
+ جندل × 🔴 البكيرية\n\n🏟️ ملعب جامعة الجو
+ ف - الجوف\n\n🔄 يتم تحديث المواعيد تلقائيً
+ ا عند أي تعديل رسمي.\n\nالمصدر: رابطة أندية
+  الدرجة الأولى للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:البكيرية
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:cad5cee4d225dca6a8d875b2e9dca53f4cb8a5a4@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260915T183000
+DTEND;TZID=Asia/Riyadh:20260915T201500
+SUMMARY:🔵 العدالة × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 5\n⚽ المباراة رقم 44\n\n🔵 ال
+ عدالة × 🟣 الجندل\n\n🏟️ مدينة الأمير عبد
+ الله بن جلوي الرياضية - الأحساء\n\n🔄 يتم ت
+ حديث المواعيد تلقائيًا عند أي تعديل رسمي
+ .\n\nالمصدر: رابطة أندية الدرجة الأولى للم
+ حترفين\nإعداد ونشر: م. محمد البخيت\nمنصة د
+ ليلك
+LOCATION:مدينة الأمير عبدالله بن جلوي الرياض
+ ية - الأحساء
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:العدالة
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🔵
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:58211cb2fffce76e888bc3c7353f9731904e73b9@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20260920T185500
+DTEND;TZID=Asia/Riyadh:20260920T204000
+SUMMARY:🟣 الجندل × 🔴 الوحدة
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 6\n⚽ المباراة رقم 53\n\n🟣 ال
+ جندل × 🔴 الوحدة\n\n🏟️ ملعب جامعة الجوف - 
+ الجوف\n\n🔄 يتم تحديث المواعيد تلقائيًا ع
+ ند أي تعديل رسمي.\n\nالمصدر: رابطة أندية ال
+ درجة الأولى للمحترفين\nإعداد ونشر: م. محم
+ د البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:الوحدة
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d88c7fa4322f436ea6e386dbb908a996d9745f18@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261015
+SUMMARY:🟣 الجندل × 🔵 الأخدود
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 7\n⚽ المباراة رقم 61\n\n🟣 ال
+ جندل × 🔵 الأخدود\n\n🏟️ ملعب جامعة الجوف 
+ - الجوف\n\n🔄 يتم تحديث المواعيد تلقائيًا 
+ عند أي تعديل رسمي.\n\nالمصدر: رابطة أندية ا
+ لدرجة الأولى للمحترفين\nإعداد ونشر: م. مح
+ مد البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:الأخدود
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🔵
+STATUS:TENTATIVE
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:36dbe994b43d387bd977a58cfb0d95747d15be5a@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261021T174500
+DTEND;TZID=Asia/Riyadh:20261021T193000
+SUMMARY:🟡 الجيل × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 8\n⚽ المباراة رقم 70\n\n🟡 ال
+ جيل × 🟣 الجندل\n\n🏟️ مدينة الأمير عبدال
+ له بن جلوي الرياضية - الأحساء\n\n🔄 يتم تحد
+ يث المواعيد تلقائيًا عند أي تعديل رسمي.\n\
+ nالمصدر: رابطة أندية الدرجة الأولى للمحت
+ رفين\nإعداد ونشر: م. محمد البخيت\nمنصة دلي
+ لك
+LOCATION:مدينة الأمير عبدالله بن جلوي الرياض
+ ية - الأحساء
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:الجيل
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🟡
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:255fd38fce685812e17f00eb4631cdf446a56086@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261028T153500
+DTEND;TZID=Asia/Riyadh:20261028T172000
+SUMMARY:🟣 الجندل × 🔴 ضمك
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 9\n⚽ المباراة رقم 79\n\n🟣 ال
+ جندل × 🔴 ضمك\n\n🏟️ ملعب جامعة الجوف - الج
+ وف\n\n🔄 يتم تحديث المواعيد تلقائيًا عند أ
+ ي تعديل رسمي.\n\nالمصدر: رابطة أندية الدرج
+ ة الأولى للمحترفين\nإعداد ونشر: م. محمد ال
+ بخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:ضمك
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🔴
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:95ab7e4e8bc740227d18f7e13272afa8ad5d3eee@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261102T175500
+DTEND;TZID=Asia/Riyadh:20261102T194000
+SUMMARY:🔵 الزلفي × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 10\n⚽ المباراة رقم 88\n\n🔵 ا
+ لزلفي × 🟣 الجندل\n\n🏟️ ملعب نادي الزلفي 
+ - الزلفي\n\n🔄 يتم تحديث المواعيد تلقائيًا
+  عند أي تعديل رسمي.\n\nالمصدر: رابطة أندية 
+ الدرجة الأولى للمحترفين\nإعداد ونشر: م. م
+ حمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الزلفي - الزلفي
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:الزلفي
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🔵
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8706820dc9ae5f2f86d3aec7ed246037ccbd118@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261107T153000
+DTEND;TZID=Asia/Riyadh:20261107T171500
+SUMMARY:🟣 الجندل × ⚫ هجر
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 11\n⚽ المباراة رقم 93\n\n🟣 ا
+ لجندل × ⚫ هجر\n\n🏟️ ملعب جامعة الجوف - ال
+ جوف\n\n🔄 يتم تحديث المواعيد تلقائيًا عند 
+ أي تعديل رسمي.\n\nالمصدر: رابطة أندية الدر
+ جة الأولى للمحترفين\nإعداد ونشر: م. محمد ا
+ لبخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:هجر
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:⚫
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:165bf65b7d74b22720a2283f16abe274fdfcded2@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261125T151000
+DTEND;TZID=Asia/Riyadh:20261125T165500
+SUMMARY:🟢 الأنوار × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 12\n⚽ المباراة رقم 107\n\n🟢 ا
+ لأنوار × 🟣 الجندل\n\n🏟️ ملعب نادي الأنو
+ ار - حوطة بني تميم\n\n🔄 يتم تحديث المواعيد
+  تلقائيًا عند أي تعديل رسمي.\n\nالمصدر: راب
+ طة أندية الدرجة الأولى للمحترفين\nإعداد 
+ ونشر: م. محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الأنوار - حوطة بني تميم
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:الأنوار
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🟢
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf4c9f737a98c809f649887a33a0f0012b4e980e@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261130T152500
+DTEND;TZID=Asia/Riyadh:20261130T171000
+SUMMARY:🟣 الجندل × 🟢 جدة
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 13\n⚽ المباراة رقم 113\n\n🟣 ا
+ لجندل × 🟢 جدة\n\n🏟️ ملعب نادي العروبة - ا
+ لجوف\n\n🔄 يتم تحديث المواعيد تلقائيًا عن
+ د أي تعديل رسمي.\n\nالمصدر: رابطة أندية الد
+ رجة الأولى للمحترفين\nإعداد ونشر: م. محمد 
+ البخيت\nمنصة دليلك
+LOCATION:ملعب نادي العروبة - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:جدة
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a09b126099ec3906660f1b21c7934fb81cd9be@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261206T152000
+DTEND;TZID=Asia/Riyadh:20261206T170500
+SUMMARY:🔴 الجبلين × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 14\n⚽ المباراة رقم 118\n\n🔴 ا
+ لجبلين × 🟣 الجندل\n\n🏟️ مدينة الأمير عب
+ دالعزيز بن مساعد الرياضية - حائل\n\n🔄 يتم 
+ تحديث المواعيد تلقائيًا عند أي تعديل رسم
+ ي.\n\nالمصدر: رابطة أندية الدرجة الأولى لل
+ محترفين\nإعداد ونشر: م. محمد البخيت\nمنصة 
+ دليلك
+LOCATION:مدينة الأمير عبدالعزيز بن مساعد الر
+ ياضية - حائل
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:الجبلين
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🔴
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b565aaba98359ad2a5b4909bf0ebd4536c0f44c@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261211T152500
+DTEND;TZID=Asia/Riyadh:20261211T171000
+SUMMARY:🟣 الجندل × 🟢 العروبة
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 15\n⚽ المباراة رقم 129\n\n🟣 ا
+ لجندل × 🟢 العروبة\n\n🏟️ ملعب نادي العرو
+ بة - الجوف\n\n🔄 يتم تحديث المواعيد تلقائي
+ ًا عند أي تعديل رسمي.\n\nالمصدر: رابطة أندي
+ ة الدرجة الأولى للمحترفين\nإعداد ونشر: م. 
+ محمد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي العروبة - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:العروبة
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ffea22a28d53f8e5533029ee54d33dc53a3e81b@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261216T151500
+DTEND;TZID=Asia/Riyadh:20261216T170000
+SUMMARY:🔴 الرائد × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 16\n⚽ المباراة رقم 136\n\n🔴 ا
+ لرائد × 🟣 الجندل\n\n🏟️ ملعب نادي الرائد 
+ - بريدة\n\n🔄 يتم تحديث المواعيد تلقائيًا 
+ عند أي تعديل رسمي.\n\nالمصدر: رابطة أندية ا
+ لدرجة الأولى للمحترفين\nإعداد ونشر: م. مح
+ مد البخيت\nمنصة دليلك
+LOCATION:ملعب نادي الرائد - بريدة
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:الرائد
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🔴
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd18fa6cba5096d0e814b61dddc864c9f9909ff@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261221T153000
+DTEND;TZID=Asia/Riyadh:20261221T171500
+SUMMARY:🟣 الجندل × ⚫ العلا
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 17\n⚽ المباراة رقم 145\n\n🟣 ا
+ لجندل × ⚫ العلا\n\n🏟️ ملعب جامعة الجوف - 
+ الجوف\n\n🔄 يتم تحديث المواعيد تلقائيًا ع
+ ند أي تعديل رسمي.\n\nالمصدر: رابطة أندية ال
+ درجة الأولى للمحترفين\nإعداد ونشر: م. محم
+ د البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:العلا
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:⚫
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad67100a1c9e0c6bf40c4113eaf06a9deb654271@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20261228T153500
+DTEND;TZID=Asia/Riyadh:20261228T172000
+SUMMARY:🟣 الجندل × 🟢 النجمة
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 18\n⚽ المباراة رقم 155\n\n🟣 ا
+ لجندل × 🟢 النجمة\n\n🏟️ ملعب جامعة الجوف 
+ - الجوف\n\n🔄 يتم تحديث المواعيد تلقائيًا 
+ عند أي تعديل رسمي.\n\nالمصدر: رابطة أندية ا
+ لدرجة الأولى للمحترفين\nإعداد ونشر: م. مح
+ مد البخيت\nمنصة دليلك
+LOCATION:ملعب جامعة الجوف - الجوف
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:الجندل
+X-DALEELAK-AWAY-TEAM:النجمة
+X-DALEELAK-HOME-ICON:🟣
+X-DALEELAK-AWAY-ICON:🟢
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b43582b2455c9dba565016bec16a1db2e2ddca94@daleelak
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=Asia/Riyadh:20270105T153000
+DTEND;TZID=Asia/Riyadh:20270105T171500
+SUMMARY:🟤 الصقر × 🟣 الجندل
+DESCRIPTION:🏆 دوري أندية الدرجة الأولى للمحتر
+ فين\n\n📅 الجولة 19\n⚽ المباراة رقم 169\n\n🟤 ا
+ لصقر × 🟣 الجندل\n\n🏟️ مدينة الملك عبدال
+ له بن عبدالعزيز الرياضية - بريدة\n\n🔄 يتم 
+ تحديث المواعيد تلقائيًا عند أي تعديل رسم
+ ي.\n\nالمصدر: رابطة أندية الدرجة الأولى لل
+ محترفين\nإعداد ونشر: م. محمد البخيت\nمنصة 
+ دليلك
+LOCATION:مدينة الملك عبدالله بن عبدالعزيز ال
+ رياضية - بريدة
+CATEGORIES:رياضة\,كرة القدم\,دوري الدرجة الأول
+ ى
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:الصقر
+X-DALEELAK-AWAY-TEAM:الجندل
+X-DALEELAK-HOME-ICON:🟤
+X-DALEELAK-AWAY-ICON:🟣
+STATUS:CONFIRMED
+URL:https://fdl.sa/uploads/glink/gdrive_en_1785166764.pdf
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
