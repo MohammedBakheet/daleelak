@@ -1,0 +1,11 @@
+{
+  "name": "daleelak-static-build",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build-catalog.js && node scripts/build-og-images.js"
+  },
+  "dependencies": {
+    "sharp": "0.34.3"
+  }
+}
