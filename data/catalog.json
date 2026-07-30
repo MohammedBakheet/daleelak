@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-30T10:22:36.579Z",
+  "updatedAt": "2026-07-30T10:29:07.199Z",
   "count": 8,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -14,7 +14,7 @@
   ],
   "entries": [
     {
-      "id": "pnu-academic-calendar-1448-1449",
+      "id": "PNU",
       "title": "تقويم الإجراءات الأكاديمية 1448هـ (2026–2027)",
       "organization": "جامعة الأميرة نورة بنت عبدالرحمن",
       "category": "higher-education",
@@ -34,9 +34,9 @@
       "folderPath": "calendars/university/PNU/",
       "icsPath": "calendars/university/PNU/calendar.ics",
       "logoPath": "",
-      "detailPath": "calendar.html?id=pnu-academic-calendar-1448-1449",
-      "sharePath": "share/pnu-academic-calendar-1448-1449/",
-      "legacyDetailPath": "calendar.html?id=pnu-academic-calendar-1448-1449"
+      "detailPath": "calendar.html?id=PNU",
+      "sharePath": "share/PNU/",
+      "legacyDetailPath": "calendar.html?id=PNU"
     },
     {
       "id": "kku-academic-calendar-1448-1449",
