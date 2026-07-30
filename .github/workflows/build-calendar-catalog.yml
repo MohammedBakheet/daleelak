@@ -6,11 +6,19 @@ on:
       - "calendars/**"
       - "data/categories.json"
       - "scripts/build-catalog.js"
+      - "scripts/build-og-images.js"
+      - "assets/brand/**"
+      - "package.json"
+      - "package-lock.json"
   pull_request:
     paths:
       - "calendars/**"
       - "data/categories.json"
       - "scripts/build-catalog.js"
+      - "scripts/build-og-images.js"
+      - "assets/brand/**"
+      - "package.json"
+      - "package-lock.json"
   workflow_dispatch:
 
 permissions:
@@ -24,18 +32,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+      - name: Install image builder
+        run: npm ci
       - name: Validate calendars and generate catalog
         env:
           SITE_URL: https://mohammedbakheet.github.io/daleelak
-        run: node scripts/build-catalog.js
+        run: npm run build
       - name: Verify generated files
-        run: test -s data/catalog.json && test -s sitemap.xml && test -s robots.txt
+        run: test -s data/catalog.json && test -s sitemap.xml && test -s robots.txt && test -d og && test -d share
       - name: Commit generated files
         if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
         run: |
-          if git diff --quiet -- data/catalog.json sitemap.xml robots.txt; then exit 0; fi
+          if git diff --quiet -- data/catalog.json sitemap.xml robots.txt og share; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog.json sitemap.xml robots.txt
+          git add data/catalog.json sitemap.xml robots.txt og share
           git commit -m "chore: update generated calendar data"
           git push
