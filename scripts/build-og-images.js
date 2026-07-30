@@ -68,13 +68,16 @@ function svg(entry) {
   <text x="800" y="559" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#738590">mohammedbakheet.github.io/daleelak</text>
 </svg>`;
 }
+function versionToken(entry) {
+  return crypto.createHash('sha1').update(JSON.stringify({id:entry.id,title:entry.title,description:entry.description,lastUpdate:entry.lastUpdate,logoPath:entry.logoPath})).digest('hex').slice(0,12);
+}
 function shareHtml(entry) {
   const target = `${siteUrl}/calendar.html?id=${encodeURIComponent(entry.id)}`;
   const share = `${siteUrl}/share/${encodeURIComponent(entry.id)}/`;
-  const image = `${siteUrl}/og/${encodeURIComponent(entry.id)}.png`;
+  const image = `${siteUrl}/og/${encodeURIComponent(entry.id)}.png?v=${versionToken(entry)}`;
   const title = `${entry.title} — ${entry.organization} | دليلك`;
   const description = short(entry.description, 150);
-  return `<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(description)}"><link rel="canonical" href="${share}"><meta property="og:type" content="website"><meta property="og:site_name" content="دليلك"><meta property="og:locale" content="ar_SA"><meta property="og:url" content="${share}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:image" content="${image}"><meta property="og:image:secure_url" content="${image}"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="بطاقة ${esc(entry.title)} من دليلك"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(description)}"><meta name="twitter:image" content="${image}"><meta name="theme-color" content="#0F2D3D"><link rel="icon" href="../../assets/icons/favicon-32.png"><style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#f7fafb;color:#0f2d3d;font-family:Arial,sans-serif;text-align:center}.card{max-width:520px;padding:32px}.card img{width:92px}.card a{display:inline-block;margin-top:18px;padding:13px 22px;border-radius:12px;background:#179fa0;color:#fff;text-decoration:none;font-weight:700}</style><script>window.location.replace(${JSON.stringify(target)});</script></head><body><main class="card"><img src="../../assets/brand/logo-icon.svg" alt="دليلك"><h1>${esc(entry.title)}</h1><p>${esc(description)}</p><a href="${target}">فتح صفحة التقويم</a></main></body></html>`;
+  return `<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}</title><meta name="description" content="${esc(description)}"><link rel="canonical" href="${share}"><meta property="og:type" content="website"><meta property="og:site_name" content="دليلك"><meta property="og:locale" content="ar_SA"><meta property="og:url" content="${share}"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(description)}"><meta property="og:image" content="${image}"><meta property="og:image:secure_url" content="${image}"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="بطاقة ${esc(entry.title)} من دليلك"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="${esc(title)}"><meta name="twitter:description" content="${esc(description)}"><meta name="twitter:image" content="${image}"><meta name="theme-color" content="#0F2D3D"><link rel="icon" href="../../assets/icons/favicon-32.png"><meta http-equiv="refresh" content="1;url=${target}"><style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#f7fafb;color:#0f2d3d;font-family:Arial,sans-serif;text-align:center}.card{max-width:520px;padding:32px}.card img{width:92px}.card a{display:inline-block;margin-top:18px;padding:13px 22px;border-radius:12px;background:#179fa0;color:#fff;text-decoration:none;font-weight:700}</style><script>window.location.replace(${JSON.stringify(target)});</script></head><body><main class="card"><img src="../../assets/brand/logo-icon.svg" alt="دليلك"><h1>${esc(entry.title)}</h1><p>${esc(description)}</p><a href="${target}">فتح صفحة التقويم</a></main></body></html>`;
 }
 
 async function main() {
@@ -83,6 +86,14 @@ async function main() {
   const newCache = {};
   fs.mkdirSync(ogDir, {recursive:true});
   fs.mkdirSync(shareDir, {recursive:true});
+  const validIds = new Set((catalog.entries || []).map(entry => String(entry.id)));
+  for (const name of fs.readdirSync(ogDir)) {
+    if (name.endsWith('.png') && !validIds.has(name.slice(0, -4))) fs.rmSync(path.join(ogDir, name), {force:true});
+  }
+  for (const name of fs.readdirSync(shareDir)) {
+    const full = path.join(shareDir, name);
+    if (fs.statSync(full).isDirectory() && !validIds.has(name)) fs.rmSync(full, {recursive:true, force:true});
+  }
   let generated=0, skipped=0;
   for (const entry of catalog.entries || []) {
     const h = hashEntry(entry, fs.readFileSync(path.join(root,'assets/brand/logo.svg'),'utf8'));
