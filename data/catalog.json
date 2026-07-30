@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-30T22:46:46.336Z",
+  "updatedAt": "2026-07-30T23:01:17.066Z",
   "count": 27,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -73,11 +73,14 @@
       "lastUpdate": "2026-07-30",
       "source": "الموقع الرسمي لجامعة الملك خالد",
       "sourceUrl": "https://www.kku.edu.sa/ar/portfolio/academic-calendar",
-      "publisher": "دليلك",
+      "publisher": "م. محمد البخيت",
       "ics": "calendar.ics",
       "logo": "logo.png",
       "description": "التقويم الأكاديمي الموحد لجامعة الملك خالد ويشمل الفصل الدراسي الأول والثاني والفصل الصيفي، مع التاريخ الهجري في ملاحظات كل حدث.",
       "status": "active",
+      "seoTitle": "التقويم الأكاديمي لجامعة الملك خالد للفصل الدراسي الأول والثاني والفصل الصيفي للعام الجامعي 1448هـ-1449هـ | دليلك",
+      "seoDescription": "التقويم الأكاديمي لجامعة الملك خالد للعام 2026-2027، يشمل الفصل الدراسي الأول والثاني والفصل الصيفي , مع الاشتراك والتحديث التلقائيا",
+      "endDatePolicy": "تظهر نهاية المدة داخل ملاحظات الحدث.",
       "infoPath": "calendars/university/king-khaled-uni/metadata.json",
       "folderPath": "calendars/university/king-khaled-uni/",
       "icsPath": "calendars/university/king-khaled-uni/calendar.ics",
