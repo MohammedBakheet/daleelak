@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-30T23:01:46.945Z",
+  "updatedAt": "2026-07-30T23:03:00.500Z",
   "count": 27,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -61,7 +61,7 @@
       "legacyDetailPath": "calendar.html?id=PNU"
     },
     {
-      "id": "king-khaled-uni",
+      "id": "kku-academic-calendar-1448-1449",
       "title": "التقويم الأكاديمي لجامعة الملك خالد",
       "organization": "جامعة الملك خالد",
       "category": "higher-education",
@@ -85,9 +85,9 @@
       "folderPath": "calendars/university/king-khaled-uni/",
       "icsPath": "calendars/university/king-khaled-uni/calendar.ics",
       "logoPath": "calendars/university/king-khaled-uni/logo.png",
-      "detailPath": "calendar.html?id=king-khaled-uni",
-      "sharePath": "share/king-khaled-uni/",
-      "legacyDetailPath": "calendar.html?id=king-khaled-uni"
+      "detailPath": "calendar.html?id=kku-academic-calendar-1448-1449",
+      "sharePath": "share/kku-academic-calendar-1448-1449/",
+      "legacyDetailPath": "calendar.html?id=kku-academic-calendar-1448-1449"
     },
     {
       "id": "YELLOW",
