@@ -61,7 +61,8 @@ for (const file of files) {
     icsPath: `${folderRel}/${icsName}`,
     logoPath: logoName ? `${folderRel}/${logoName}` : '',
     eventsCount: Number(info.eventsCount || countEvents(icsFile)),
-    detailPath: `share/${encodeURIComponent(info.id)}/`,
+    detailPath: `calendar.html?id=${encodeURIComponent(info.id)}`,
+    sharePath: `share/${encodeURIComponent(info.id)}/`,
     legacyDetailPath: `calendar.html?id=${encodeURIComponent(info.id)}`
   });
 }
