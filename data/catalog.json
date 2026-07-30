@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-30T10:29:07.199Z",
+  "updatedAt": "2026-07-30T10:35:29.385Z",
   "count": 8,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -26,6 +26,7 @@
       "lastUpdate": "2026-07-30",
       "description": "تقويم الإجراءات الأكاديمية الرسمي للعام الجامعي 1448هـ، ويشمل الفصل الدراسي الأول والثاني والفصل الصيفي.",
       "ics": "calendar.ics",
+      "logo": "logo.png",
       "source": "جامعة الأميرة نورة بنت عبدالرحمن — صفحة التقويم الجامعي الرسمية",
       "sourceUrl": "https://pnu.edu.sa/ar/AcademicCalendar/Pages/default.aspx",
       "publisher": "م. محمد البخيت",
@@ -33,7 +34,7 @@
       "infoPath": "calendars/university/PNU/metadata.json",
       "folderPath": "calendars/university/PNU/",
       "icsPath": "calendars/university/PNU/calendar.ics",
-      "logoPath": "",
+      "logoPath": "calendars/university/PNU/logo.png",
       "detailPath": "calendar.html?id=PNU",
       "sharePath": "share/PNU/",
       "legacyDetailPath": "calendar.html?id=PNU"
