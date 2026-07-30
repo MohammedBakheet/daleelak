@@ -62,7 +62,7 @@
       "legacyDetailPath": "calendar.html?id=king-abdulaziz-university"
     },
     {
-  "id": "kku-academic-calendar-1448-1449",
+  "id": "king-khaled-uni-1449",
   "title": "التقويم الأكاديمي 2026/2027",
   "organization": "جامعة الملك خالد",
   "category": "higher-education",
@@ -83,7 +83,7 @@
   "folderPath": "calendars/university/king-khaled-uni/",
   "icsPath": "calendars/university/king-khaled-uni/calendar.ics",
   "logoPath": "calendars/university/king-khaled-uni/logo.png",
-  "detailPath": "share/king-khaled-uni/",
+  "detailPath": "calendar.html?id=king-khaled-uni",
   "legacyDetailPath": "calendar.html?id=king-khaled-uni"
 },
     {
