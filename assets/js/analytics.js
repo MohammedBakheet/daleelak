@@ -12,7 +12,7 @@
 
   const MEASUREMENT_ID = 'G-8GCSQ9L2NQ';
   const DEBUG_MODE = new URLSearchParams(window.location.search).get('ga_debug') === '1';
-  const isConfigured = /^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID) && MEASUREMENT_ID !== 'G-8GCSQ9L2NQ';
+  const isConfigured = /^G-[A-Z0-9]+$/i.test(MEASUREMENT_ID);
   let context = {};
   const sentViews = new Set();
 
@@ -57,7 +57,7 @@
     script.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(MEASUREMENT_ID)}`;
     document.head.appendChild(script);
   } else {
-    console.info('[دليلك] Google Analytics غير مفعّل بعد. استبدل G-8GCSQ9L2NQ داخل assets/js/analytics.js.');
+    console.info('[دليلك] Google Analytics غير مفعّل بعد. استبدل G-XXXXXXXXXX داخل assets/js/analytics.js.');
   }
 
   function track(eventName, params = {}) {
