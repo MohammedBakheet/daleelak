@@ -8,6 +8,10 @@ const analytics=()=>window.DaleelakAnalytics;
 const trackEvent=(name,params={})=>analytics()?.track(name,params);
 const setAnalyticsContext=params=>analytics()?.setContext(params);
 const trackViewOnce=(name,id,params={})=>analytics()?.trackViewOnce(name,id,params);
+const clarity = () => window.DaleelakClarity;
+const setClarityTags = tags => {
+  clarity()?.setTags(tags);
+};
 async function fetchJson(path){const r=await fetch(absoluteUrl(path),{cache:'no-store'});if(!r.ok)throw new Error(`تعذر تحميل ${path}`);return r.json()}
 let categoriesPromise,catalogPromise,sportsLeaguesPromise;
 function loadCategories(){return categoriesPromise??=(async()=>{const d=await fetchJson('data/categories.json');return(d.categories||[]).filter(c=>c.status==='active').sort((a,b)=>(a.order||999)-(b.order||999))})()}
