@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-07-29T20:14:25.233Z",
+  "updatedAt": "2026-07-29T23:07:20.151Z",
   "count": 6,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -33,7 +33,8 @@
       "folderPath": "calendars/university/imam-university/",
       "icsPath": "calendars/university/imam-university/calendar.ics",
       "logoPath": "calendars/university/imam-university/logo.png",
-      "detailPath": "calendar.html?id=imam-university"
+      "detailPath": "share/imam-university/",
+      "legacyDetailPath": "calendar.html?id=imam-university"
     },
     {
       "id": "king-abdulaziz-university",
@@ -57,7 +58,8 @@
       "folderPath": "calendars/university/king-abdulaziz-university/",
       "icsPath": "calendars/university/king-abdulaziz-university/calendar.ics",
       "logoPath": "calendars/university/king-abdulaziz-university/logo.png",
-      "detailPath": "calendar.html?id=king-abdulaziz-university"
+      "detailPath": "share/king-abdulaziz-university/",
+      "legacyDetailPath": "calendar.html?id=king-abdulaziz-university"
     },
     {
       "id": "saudi-pro-league-2026-2027",
@@ -82,7 +84,8 @@
       "icsPath": "calendars/saudi-pro-league/calendar.ics",
       "logoPath": "calendars/saudi-pro-league/logo.png",
       "eventsCount": 54,
-      "detailPath": "calendar.html?id=saudi-pro-league-2026-2027"
+      "detailPath": "share/saudi-pro-league-2026-2027/",
+      "legacyDetailPath": "calendar.html?id=saudi-pro-league-2026-2027"
     },
     {
       "id": "king-saud-university",
@@ -106,7 +109,8 @@
       "folderPath": "calendars/university/king-saud-university/",
       "icsPath": "calendars/university/king-saud-university/calendar.ics",
       "logoPath": "calendars/university/king-saud-university/logo.png",
-      "detailPath": "calendar.html?id=king-saud-university"
+      "detailPath": "share/king-saud-university/",
+      "legacyDetailPath": "calendar.html?id=king-saud-university"
     },
     {
       "id": "moe-general",
@@ -129,7 +133,8 @@
       "icsPath": "calendars/moe-general/calendar.ics",
       "logoPath": "",
       "eventsCount": 11,
-      "detailPath": "calendar.html?id=moe-general"
+      "detailPath": "share/moe-general/",
+      "legacyDetailPath": "calendar.html?id=moe-general"
     },
     {
       "id": "moe-west",
@@ -152,7 +157,8 @@
       "icsPath": "calendars/moe-west/calendar.ics",
       "logoPath": "",
       "eventsCount": 11,
-      "detailPath": "calendar.html?id=moe-west"
+      "detailPath": "share/moe-west/",
+      "legacyDetailPath": "calendar.html?id=moe-west"
     }
   ]
 }
