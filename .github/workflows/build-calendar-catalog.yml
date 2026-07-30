@@ -33,7 +33,7 @@ jobs:
         with:
           node-version: "20"
       - name: Install image builder
-        run: npm install
+        run: npm ci
       - name: Validate calendars and generate catalog
         env:
           SITE_URL: https://mohammedbakheet.github.io/daleelak
