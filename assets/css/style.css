@@ -78,3 +78,28 @@ a{text-decoration:none;color:inherit}button,input,select{font:inherit}.container
 .section-block{margin-top:28px}.section-block>h2,.section-heading-row h2{margin:0 0 14px;font-family:"Noto Kufi Arabic";color:var(--navy);font-size:22px}.section-heading-row{display:flex;align-items:end;justify-content:space-between;gap:14px;margin-bottom:14px}.section-heading-row p{margin:4px 0 0;color:var(--muted)}.search-box.compact{max-width:310px;margin:0}
 .team-calendar-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px}.team-calendar-card{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:10px;padding:13px;border:1px solid var(--border);border-radius:15px;background:#fff}.team-dot{width:40px;height:40px;display:grid;place-items:center;border-radius:50%;background:#f2f6f7;font-size:24px}.team-card-text h3{margin:0;color:var(--navy);font-size:15px}.team-card-text p{margin:3px 0 0;color:var(--muted);font-size:12px}.team-calendar-card .btn{min-height:38px;padding:8px 10px;font-size:12px;white-space:nowrap}
 @media(max-width:640px){.league-hero-panel{align-items:flex-start;flex-direction:column}.section-heading-row{align-items:stretch;flex-direction:column}.search-box.compact{max-width:none}.team-calendar-grid{grid-template-columns:1fr}.team-calendar-card{grid-template-columns:auto 1fr}.team-calendar-card .btn{grid-column:1/-1}.league-logo.large{width:72px;height:72px;flex-basis:72px}}
+
+
+/* نافذة الاشتراك المخصصة لأجهزة Android */
+.modal-open{overflow:hidden}
+.android-subscribe-modal{position:fixed;inset:0;z-index:120;display:flex;align-items:flex-end;justify-content:center}
+.android-subscribe-backdrop{position:absolute;inset:0;background:rgba(5,26,37,.62);backdrop-filter:blur(3px)}
+.android-subscribe-sheet{position:relative;width:100%;max-width:560px;padding:24px 18px calc(24px + env(safe-area-inset-bottom));background:#fff;border-radius:24px 24px 0 0;box-shadow:0 -18px 55px rgba(0,0,0,.2);text-align:center;animation:androidSheetIn .22s ease-out}
+.android-modal-close{position:absolute;top:14px;left:14px;width:38px;height:38px;border:0;border-radius:12px;background:var(--soft);color:var(--navy);font-size:25px;cursor:pointer}
+.android-modal-icon{width:58px;height:58px;margin:0 auto 10px;border-radius:17px;display:grid;place-items:center;background:#e8f7f7;color:var(--teal);font-size:29px}
+.android-subscribe-sheet h2{margin:0 0 7px;font-family:"Noto Kufi Arabic";color:var(--navy);font-size:22px}
+.android-modal-intro{margin:0 auto 16px;max-width:430px;color:var(--muted);font-size:13px;line-height:1.8}
+.android-recommended{padding:14px;background:#f1fafa;border:1px solid #ccecec;border-radius:17px}
+.android-recommended-label{display:inline-block;margin-bottom:10px;padding:4px 9px;border-radius:999px;background:#dff5f4;color:#087f80;font-size:11px;font-weight:800}
+.android-copy-button,.android-download-button{width:100%;border:0;border-radius:14px;min-height:54px;padding:12px 15px;display:flex;align-items:center;justify-content:center;gap:9px;font-weight:700;cursor:pointer}
+.android-copy-button{background:linear-gradient(135deg,var(--teal),var(--teal-2));color:#fff;box-shadow:0 9px 22px rgba(23,159,160,.2)}
+.android-copy-button.copied{background:#168761}
+.android-help-link{display:block;margin-top:9px;color:var(--teal);font-size:13px;font-weight:700;text-decoration:underline;text-underline-offset:4px}
+.android-download-button{margin-top:12px;background:var(--soft);border:1px solid var(--border);color:var(--navy);text-align:right}
+.android-download-button>span:last-child{display:flex;flex-direction:column}.android-download-button small{color:var(--muted);font-size:10px;font-weight:400}
+@keyframes androidSheetIn{from{transform:translateY(30px);opacity:.5}to{transform:none;opacity:1}}
+@media(min-width:680px){.android-subscribe-modal{align-items:center;padding:22px}.android-subscribe-sheet{border-radius:24px;padding:27px}}
+
+
+/* صفحة مساعدة الاشتراك على Android */
+.android-help-page{max-width:900px}.android-help-hero{display:flex;align-items:center;gap:18px;margin-bottom:16px;padding:24px;border-radius:22px;background:linear-gradient(135deg,var(--navy-2),var(--navy));color:#fff}.android-help-icon{flex:0 0 70px;width:70px;height:70px;border-radius:20px;display:grid;place-items:center;background:rgba(34,184,184,.18);color:#6fe0df;font-size:34px}.android-help-hero h1{margin:2px 0 7px;font-family:"Noto Kufi Arabic";font-size:clamp(24px,5vw,35px)}.android-help-hero p:last-child{margin:0;color:#d8e6e9;line-height:1.8}.android-help-steps{display:grid;gap:11px;margin:17px 0}.android-help-steps article{display:grid;grid-template-columns:44px 1fr;gap:13px;padding:17px;background:#fff;border:1px solid var(--border);border-radius:16px}.android-help-steps article>span{width:40px;height:40px;border-radius:13px;display:grid;place-items:center;background:#e8f7f7;color:var(--teal);font-weight:800}.android-help-steps h2{margin:0 0 4px;color:var(--navy);font-size:17px}.android-help-steps p{margin:0;color:var(--muted);font-size:13px;line-height:1.8}.android-help-tip p{color:var(--muted);line-height:1.8}.android-help-tip .btn{margin-top:12px}@media(max-width:600px){.android-help-hero{align-items:flex-start;flex-direction:column}.android-help-steps article{grid-template-columns:38px 1fr;padding:14px}.android-help-steps article>span{width:36px;height:36px}}
