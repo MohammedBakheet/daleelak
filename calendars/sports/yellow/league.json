@@ -1,0 +1,15 @@
+{
+  "id": "yellow",
+  "title": "دوري الدرجة الأولى السعودي",
+  "shortTitle": "يلو",
+  "country": "السعودية",
+  "category": "sports",
+  "sport": "football",
+  "season": "2026–2027",
+  "description": "تقويم جميع مباريات دوري الدرجة الأولى السعودي، مع تقويم مستقل لكل فريق.",
+  "logo": "league/logo.png",
+  "leagueCalendarId": "YELLOW",
+  "teamsCount": 18,
+  "order": 2,
+  "status": "active"
+}
