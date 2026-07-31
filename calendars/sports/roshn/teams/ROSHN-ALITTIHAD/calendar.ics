@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي الاتحاد - دوري روشن 202
+ 6/2027
+X-WR-CALDESC:مواعيد مباريات نادي الاتحاد في دو
+ ري روشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-8@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260815T210000
+DTEND;TZID=Asia/Riyadh:20260815T224500
+SUMMARY:🟡 الاتحاد × 🔴 الخلود
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n
+ 🟡 الاتحاد × 🔴 الخلود\n🏟️ مدينة الملك ع
+ بدالله الرياضية (استاد الإنماء)\n📍 جدة\n
+ 🔄 يتم تحديث المواعيد تلقائيًا عند أي تع
+ ديل رسمي.\nإعداد ونشر: م. محمد البخيت\nالمص
+ در: رابطة الدوري السعودي للمحترفين\nمنصة 
+ دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء)
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-14@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T210000
+DTEND;TZID=Asia/Riyadh:20260821T224500
+SUMMARY:🔴 القادسية × 🟡 الاتحاد
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🔴 القادسية × 🟡 الاتحاد\n🏟️ استاد الأم
+ ير محمد بن فهد\n📍 الدمام\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير محمد بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-20@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260824T210000
+DTEND;TZID=Asia/Riyadh:20260824T224500
+SUMMARY:🟡 الاتحاد × 🟡 الحزم
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🟡 الاتحاد × 🟡 الحزم\n🏟️ استاد الأمير ع
+ بدالله الفيصل\n📍 جدة\n🔄 يتم تحديث الموا
+ عيد تلقائيًا عند أي تعديل رسمي.\nإعداد ون
+ شر: م. محمد البخيت\nالمصدر: رابطة الدوري ا
+ لسعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير عبدالله الفيصل
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-29@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T190000
+DTEND;TZID=Asia/Riyadh:20260828T204500
+SUMMARY:🟠 الفيحاء × 🟡 الاتحاد
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🟠 الفيحاء × 🟡 الاتحاد\n🏟️ مدينة المجم
+ عة الرياضية\n📍 المجمعة\n🔄 يتم تحديث الم
+ واعيد تلقائيًا عند أي تعديل رسمي.\nإعداد 
+ ونشر: م. محمد البخيت\nالمصدر: رابطة الدوري
+  السعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-34@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260829T210000
+DTEND;TZID=Asia/Riyadh:20260829T224500
+SUMMARY:🔵 الفتح × 🟡 الاتحاد
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🔵 الفتح × 🟡 الاتحاد\n🏟️ ميدان تمويل ال
+ أولى\n📍 الأحساء\n🔄 يتم تحديث المواعيد ت
+ لقائيًا عند أي تعديل رسمي.\nإعداد ونشر: م. 
+ محمد البخيت\nالمصدر: رابطة الدوري السعود
+ ي للمحترفين\nمنصة دليلك
+LOCATION:ميدان تمويل الأولى
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-45@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260905T210000
+DTEND;TZID=Asia/Riyadh:20260905T224500
+SUMMARY:🟡 الاتحاد × 🟡 النصر
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🟡 الاتحاد × 🟡 النصر\n🏟️ مدينة الملك عب
+ دالله الرياضية (استاد الإنماء)\n📍 جدة\n🔄
+  يتم تحديث المواعيد تلقائيًا عند أي تعدي
+ ل رسمي.\nإعداد ونشر: م. محمد البخيت\nالمصدر
+ : رابطة الدوري السعودي للمحترفين\nمنصة دل
+ يلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء)
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-51@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T210000
+DTEND;TZID=Asia/Riyadh:20260908T224500
+SUMMARY:🟡 الاتحاد × 🟠 الفيحاء
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🟡 الاتحاد × 🟠 الفيحاء\n🏟️ مدينة الملك 
+ عبدالله الرياضية (استاد الإنماء)\n📍 جدة\n
+ 🔄 يتم تحديث المواعيد تلقائيًا عند أي تع
+ ديل رسمي.\nإعداد ونشر: م. محمد البخيت\nالمص
+ در: رابطة الدوري السعودي للمحترفين\nمنصة 
+ دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء)
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

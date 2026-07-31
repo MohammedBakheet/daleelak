@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي النصر - دوري روشن 2026/20
+ 27
+X-WR-CALDESC:مواعيد مباريات نادي النصر في دوري 
+ روشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-9@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260815T210000
+DTEND;TZID=Asia/Riyadh:20260815T224500
+SUMMARY:🟡 النصر × 🔵 الفتح
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n
+ 🟡 النصر × 🔵 الفتح\n🏟️ استاد الأول بارك
+ \n📍 الرياض\n🔄 يتم تحديث المواعيد تلقائي
+ ًا عند أي تعديل رسمي.\nإعداد ونشر: م. محمد 
+ البخيت\nالمصدر: رابطة الدوري السعودي للم
+ حترفين\nمنصة دليلك
+LOCATION:استاد الأول بارك
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-11@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260820T190000
+DTEND;TZID=Asia/Riyadh:20260820T204500
+SUMMARY:🔴 الرياض × 🟡 النصر
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🔴 الرياض × 🟡 النصر\n🏟️ استاد الأمير في
+ صل بن فهد\n📍 الرياض\n🔄 يتم تحديث المواعي
+ د تلقائيًا عند أي تعديل رسمي.\nإعداد ونشر:
+  م. محمد البخيت\nالمصدر: رابطة الدوري السع
+ ودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير فيصل بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-23@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T210000
+DTEND;TZID=Asia/Riyadh:20260825T224500
+SUMMARY:🟢 الاتفاق × 🟡 النصر
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🟢 الاتفاق × 🟡 النصر\n🏟️ استاد الاتفاق\
+ n📍 الدمام\n🔄 يتم تحديث المواعيد تلقائيً
+ ا عند أي تعديل رسمي.\nإعداد ونشر: م. محمد ا
+ لبخيت\nالمصدر: رابطة الدوري السعودي للمح
+ ترفين\nمنصة دليلك
+LOCATION:استاد الاتفاق
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-31@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T210000
+DTEND;TZID=Asia/Riyadh:20260828T224500
+SUMMARY:🟡 النصر × 🟡 التعاون
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🟡 النصر × 🟡 التعاون\n🏟️ استاد الأول با
+ رك\n📍 الرياض\n🔄 يتم تحديث المواعيد تلقا
+ ئيًا عند أي تعديل رسمي.\nإعداد ونشر: م. محم
+ د البخيت\nالمصدر: رابطة الدوري السعودي لل
+ محترفين\nمنصة دليلك
+LOCATION:استاد الأول بارك
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-45@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260905T210000
+DTEND;TZID=Asia/Riyadh:20260905T224500
+SUMMARY:🟡 الاتحاد × 🟡 النصر
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🟡 الاتحاد × 🟡 النصر\n🏟️ مدينة الملك عب
+ دالله الرياضية (استاد الإنماء)\n📍 جدة\n🔄
+  يتم تحديث المواعيد تلقائيًا عند أي تعدي
+ ل رسمي.\nإعداد ونشر: م. محمد البخيت\nالمصدر
+ : رابطة الدوري السعودي للمحترفين\nمنصة دل
+ يلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء)
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-54@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260909T210000
+DTEND;TZID=Asia/Riyadh:20260909T224500
+SUMMARY:🟡 النصر × 🔵 أبها
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🟡 النصر × 🔵 أبها\n🏟️ استاد الأول بارك\n
+ 📍 الرياض\n🔄 يتم تحديث المواعيد تلقائيً
+ ا عند أي تعديل رسمي.\nإعداد ونشر: م. محمد ا
+ لبخيت\nالمصدر: رابطة الدوري السعودي للمح
+ ترفين\nمنصة دليلك
+LOCATION:استاد الأول بارك
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

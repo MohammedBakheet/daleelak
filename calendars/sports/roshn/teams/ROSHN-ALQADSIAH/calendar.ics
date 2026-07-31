@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي القادسية - دوري روشن 2
+ 026/2027
+X-WR-CALDESC:مواعيد مباريات نادي القادسية في د
+ وري روشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-2@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260813T210000
+DTEND;TZID=Asia/Riyadh:20260813T224500
+SUMMARY:⚪ الشباب × 🔴 القادسية
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n⚪
+  الشباب × 🔴 القادسية\n🏟️ استاد إس إن بي 
+ أرينا\n📍 الرياض\n🔄 يتم تحديث المواعيد ت
+ لقائيًا عند أي تعديل رسمي.\nإعداد ونشر: م. 
+ محمد البخيت\nالمصدر: رابطة الدوري السعود
+ ي للمحترفين\nمنصة دليلك
+LOCATION:استاد إس إن بي أرينا
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-10@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260820T210000
+DTEND;TZID=Asia/Riyadh:20260820T224500
+SUMMARY:🔴 القادسية × 🔵 الهلال
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🔴 القادسية × 🔵 الهلال\n🏟️ مدينة المجم
+ عة الرياضية\n📍 المجمعة\n🔄 يتم تحديث الم
+ واعيد تلقائيًا عند أي تعديل رسمي.\nإعداد 
+ ونشر: م. محمد البخيت\nالمصدر: رابطة الدوري
+  السعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-14@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T210000
+DTEND;TZID=Asia/Riyadh:20260821T224500
+SUMMARY:🔴 القادسية × 🟡 الاتحاد
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🔴 القادسية × 🟡 الاتحاد\n🏟️ استاد الأم
+ ير محمد بن فهد\n📍 الدمام\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير محمد بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-19@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260824T194000
+DTEND;TZID=Asia/Riyadh:20260824T212500
+SUMMARY:🔵 نيوم × 🔴 القادسية
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🔵 نيوم × 🔴 القادسية\n🏟️ مدينة الملك خا
+ لد الرياضية\n📍 تبوك\n🔄 يتم تحديث المواع
+ يد تلقائيًا عند أي تعديل رسمي.\nإعداد ونش
+ ر: م. محمد البخيت\nالمصدر: رابطة الدوري ال
+ سعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة الملك خالد الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-36@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260830T210000
+DTEND;TZID=Asia/Riyadh:20260830T224500
+SUMMARY:🔴 القادسية × 🟤 الفيصلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🔴 القادسية × 🟤 الفيصلي\n🏟️ استاد الأم
+ ير محمد بن فهد\n📍 الدمام\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير محمد بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-39@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260903T210000
+DTEND;TZID=Asia/Riyadh:20260903T224500
+SUMMARY:🟤 الدرعية × 🔴 القادسية
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🟤 الدرعية × 🔴 القادسية\n🏟️ استاد الأم
+ ير فيصل بن فهد\n📍 الرياض\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير فيصل بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-50@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T210000
+DTEND;TZID=Asia/Riyadh:20260908T224500
+SUMMARY:🔴 القادسية × 🟢 الأهلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🔴 القادسية × 🟢 الأهلي\n🏟️ استاد الأمي
+ ر محمد بن فهد\n📍 الدمام\n🔄 يتم تحديث الم
+ واعيد تلقائيًا عند أي تعديل رسمي.\nإعداد 
+ ونشر: م. محمد البخيت\nالمصدر: رابطة الدوري
+  السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير محمد بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
