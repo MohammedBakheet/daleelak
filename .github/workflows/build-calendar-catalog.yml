@@ -2,6 +2,8 @@ name: Validate and build calendars
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "calendars/**"
       - "data/categories.json"
@@ -10,7 +12,10 @@ on:
       - "assets/brand/**"
       - "package.json"
       - "package-lock.json"
+      - ".github/workflows/build-calendar-catalog.yml"
   pull_request:
+    branches:
+      - main
     paths:
       - "calendars/**"
       - "data/categories.json"
@@ -19,33 +24,73 @@ on:
       - "assets/brand/**"
       - "package.json"
       - "package-lock.json"
+      - ".github/workflows/build-calendar-catalog.yml"
   workflow_dispatch:
 
 permissions:
   contents: write
- 
+
 jobs:
   validate-build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Install image builder
+
+      - name: Install dependencies
         run: npm install --no-audit --no-fund
-      - name: Validate calendars and generate catalog
+
+      - name: Validate calendars and generate files
         env:
           SITE_URL: https://mohammedbakheet.github.io/daleelak
         run: npm run build
+
       - name: Verify generated files
-        run: test -s data/catalog.json && test -s sitemap.xml && test -s robots.txt && test -d og && test -d share
+        run: |
+          test -s data/catalog.json
+          test -s data/sports-leagues.json
+          test -s data/leagues/roshn.json
+          test -s data/leagues/yellow.json
+          test -s sitemap.xml
+          test -s robots.txt
+          test -d og
+          test -d share
+
       - name: Commit generated files
         if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
         run: |
-          if git diff --quiet -- data/catalog.json sitemap.xml robots.txt og share; then exit 0; fi
+          if git diff --quiet -- \
+            data/catalog.json \
+            data/sports-leagues.json \
+            data/leagues \
+            sitemap.xml \
+            robots.txt \
+            og \
+            share
+          then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog.json sitemap.xml robots.txt og share
+
+          git add \
+            data/catalog.json \
+            data/sports-leagues.json \
+            data/leagues \
+            sitemap.xml \
+            robots.txt \
+            og \
+            share
+
           git commit -m "chore: update generated calendar data"
-          git push
+          git push origin HEAD:main
