@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-31T20:37:48.504Z",
+  "updatedAt": "2026-07-31T20:59:33.732Z",
   "count": 27,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -161,8 +161,9 @@
       "teamId": "ALADALAH",
       "teamName": "العدالة",
       "teamColor": {
+        "hex": "#0F3759",
         "icon": "🔵",
-        "colorName": "أزرق"
+        "colorName": "كحلي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/metadata.json",
@@ -205,8 +206,9 @@
       "teamId": "ALANWAR",
       "teamName": "الأنوار",
       "teamColor": {
-        "icon": "🟢",
-        "colorName": "أخضر"
+        "hex": "#6C757D",
+        "icon": "⚫",
+        "colorName": "رمادي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/metadata.json",
@@ -249,8 +251,9 @@
       "teamId": "ALBUKAYRIYAH",
       "teamName": "البكيرية",
       "teamColor": {
-        "icon": "🔴",
-        "colorName": "أحمر"
+        "hex": "#65388F",
+        "icon": "🟣",
+        "colorName": "بنفسجي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/metadata.json",
@@ -293,8 +296,9 @@
       "teamId": "ALJABALAIN",
       "teamName": "الجبلين",
       "teamColor": {
-        "icon": "🔴",
-        "colorName": "أحمر"
+        "hex": "#4E1616",
+        "icon": "🟤",
+        "colorName": "بني داكن"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/metadata.json",
@@ -337,8 +341,9 @@
       "teamId": "ALJANDAL",
       "teamName": "الجندل",
       "teamColor": {
-        "icon": "🟣",
-        "colorName": "بنفسجي"
+        "hex": "#C01722",
+        "icon": "🔴",
+        "colorName": "أحمر"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/metadata.json",
@@ -513,8 +518,9 @@
       "teamId": "ALOROBAH",
       "teamName": "العروبة",
       "teamColor": {
+        "hex": "#015B65",
         "icon": "🟢",
-        "colorName": "أخضر"
+        "colorName": "أخضر داكن مائل للفيروزي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/metadata.json",
@@ -557,8 +563,9 @@
       "teamId": "ALRAED",
       "teamName": "الرائد",
       "teamColor": {
+        "hex": "#950000",
         "icon": "🔴",
-        "colorName": "أحمر"
+        "colorName": "أحمر داكن"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/metadata.json",
@@ -645,8 +652,9 @@
       "teamId": "ALTAI",
       "teamName": "الطائي",
       "teamColor": {
-        "icon": "🔵",
-        "colorName": "أزرق"
+        "hex": "#6C757D",
+        "icon": "⚫",
+        "colorName": "رمادي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/metadata.json",
@@ -689,8 +697,9 @@
       "teamId": "ALULA",
       "teamName": "العلا",
       "teamColor": {
-        "icon": "⚫",
-        "colorName": "أسود"
+        "hex": "#2F537D",
+        "icon": "🔵",
+        "colorName": "أزرق رمادي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALULA/metadata.json",
@@ -733,6 +742,7 @@
       "teamId": "ALWEHDA",
       "teamName": "الوحدة",
       "teamColor": {
+        "hex": "#BE0101",
         "icon": "🔴",
         "colorName": "أحمر"
       },
@@ -777,8 +787,9 @@
       "teamId": "ALZULFI",
       "teamName": "الزلفي",
       "teamColor": {
-        "icon": "🔵",
-        "colorName": "أزرق"
+        "hex": "#FF6F00",
+        "icon": "🟠",
+        "colorName": "برتقالي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/metadata.json",
@@ -909,8 +920,9 @@
       "teamId": "JEDDAH",
       "teamName": "جدة",
       "teamColor": {
-        "icon": "🟢",
-        "colorName": "أخضر"
+        "hex": "#2E4074",
+        "icon": "🔵",
+        "colorName": "أزرق داكن"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/metadata.json",
