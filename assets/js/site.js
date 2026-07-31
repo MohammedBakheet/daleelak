@@ -38,6 +38,17 @@ async function renderDetail(){
     const requestedId=decodeURIComponent(id).trim();
     const c=(await loadCatalog()).find(x=>String(x.id).trim().toLowerCase()===requestedId.toLowerCase());
     if(!c)throw new Error('التقويم المطلوب غير موجود');
+setClarityTags({
+  page_type: 'calendar',
+  calendar_id: c.id,
+  calendar_name: c.title,
+  category_id: c.category,
+  category_name: c.categoryLabel,
+  organization: c.organization,
+  calendar_year: c.year,
+  device_group:
+    window.DaleelakAnalytics?.deviceGroup || 'unknown'
+});
     setAnalyticsContext({calendar_id:c.id,calendar_name:c.title,category_id:c.category,category_name:c.categoryLabel,organization:c.organization,calendar_year:c.year});
     trackViewOnce('view_calendar',c.id,{calendar_id:c.id,calendar_name:c.title,category_id:c.category,category_name:c.categoryLabel,organization:c.organization,calendar_year:c.year});
     setMeta({title:`${c.title} | دليلك`,description:c.description,canonical:`${absoluteUrl('calendar.html')}?id=${encodeURIComponent(c.id)}`,image:c.logoUrl});
