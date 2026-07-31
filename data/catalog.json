@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-31T21:11:55.451Z",
+  "updatedAt": "2026-07-31T21:13:06.302Z",
   "count": 27,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -513,8 +513,9 @@
       "teamId": "ALOROBAH",
       "teamName": "العروبة",
       "teamColor": {
+        "hex": "#015B65",
         "icon": "🟢",
-        "colorName": "أخضر"
+        "colorName": "أخضر داكن مائل للفيروزي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALOROBAH/metadata.json",
@@ -557,8 +558,9 @@
       "teamId": "ALRAED",
       "teamName": "الرائد",
       "teamColor": {
+        "hex": "#950000",
         "icon": "🔴",
-        "colorName": "أحمر"
+        "colorName": "أحمر داكن"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALRAED/metadata.json",
@@ -645,8 +647,9 @@
       "teamId": "ALTAI",
       "teamName": "الطائي",
       "teamColor": {
-        "icon": "🔵",
-        "colorName": "أزرق"
+        "hex": "#6C757D",
+        "icon": "⚫",
+        "colorName": "رمادي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/metadata.json",
@@ -689,8 +692,9 @@
       "teamId": "ALULA",
       "teamName": "العلا",
       "teamColor": {
-        "icon": "⚫",
-        "colorName": "أسود"
+        "hex": "#2F537D",
+        "icon": "🔵",
+        "colorName": "أزرق رمادي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALULA/metadata.json",
@@ -733,6 +737,7 @@
       "teamId": "ALWEHDA",
       "teamName": "الوحدة",
       "teamColor": {
+        "hex": "#BE0101",
         "icon": "🔴",
         "colorName": "أحمر"
       },
@@ -777,8 +782,9 @@
       "teamId": "ALZULFI",
       "teamName": "الزلفي",
       "teamColor": {
-        "icon": "🔵",
-        "colorName": "أزرق"
+        "hex": "#FF6F00",
+        "icon": "🟠",
+        "colorName": "برتقالي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALZULFI/metadata.json",
@@ -909,8 +915,9 @@
       "teamId": "JEDDAH",
       "teamName": "جدة",
       "teamColor": {
-        "icon": "🟢",
-        "colorName": "أخضر"
+        "hex": "#2E4074",
+        "icon": "🔵",
+        "colorName": "أزرق داكن"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-JEDDAH/metadata.json",
