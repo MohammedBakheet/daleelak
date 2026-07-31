@@ -7,12 +7,13 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🔵 الزلفي",
+    "title": "🟡 الجيل × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أصفر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 1,
@@ -22,12 +23,14 @@
     "away": "الأنوار",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🟢 الأنوار",
+    "title": "🟣 البكيرية × ⚫ الأنوار",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeIcon": "🟣",
+    "awayIcon": "⚫",
+    "homeColor": "بنفسجي",
+    "awayColor": "رمادي",
+    "homeHex": "#65388F",
+    "awayHex": "#6C757D"
   },
   {
     "round": 1,
@@ -42,7 +45,9 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "homeHex": "#BE0101",
+    "awayHex": "#0F3759"
   },
   {
     "round": 1,
@@ -52,12 +57,13 @@
     "away": "الجندل",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟢 النجمة × 🟣 الجندل",
+    "title": "🟢 النجمة × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "أخضر",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   },
   {
     "round": 1,
@@ -67,12 +73,13 @@
     "away": "الأخدود",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔵 الأخدود",
+    "title": "⚫ الطائي × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "⚫",
     "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeColor": "رمادي",
+    "awayColor": "أزرق",
+    "homeHex": "#6C757D"
   },
   {
     "round": 1,
@@ -86,8 +93,10 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#015B65",
+    "awayHex": "#950000"
   },
   {
     "round": 1,
@@ -97,12 +106,13 @@
     "away": "جدة",
     "location": "ملعب نادي هجر - الأحساء",
     "status": "confirmed",
-    "title": "⚫ هجر × 🟢 جدة",
+    "title": "⚫ هجر × 🔵 جدة",
     "durationMinutes": 105,
     "homeIcon": "⚫",
-    "awayIcon": "🟢",
+    "awayIcon": "🔵",
     "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "awayColor": "أزرق داكن",
+    "awayHex": "#2E4074"
   },
   {
     "round": 1,
@@ -127,12 +137,14 @@
     "away": "الجبلين",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🔴 الجبلين",
+    "title": "🔵 العلا × 🟤 الجبلين",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
-    "awayIcon": "🔴",
-    "homeColor": "أسود",
-    "awayColor": "أحمر"
+    "homeIcon": "🔵",
+    "awayIcon": "🟤",
+    "homeColor": "أزرق رمادي",
+    "awayColor": "بني داكن",
+    "homeHex": "#2F537D",
+    "awayHex": "#4E1616"
   },
   {
     "round": 2,
@@ -142,12 +154,14 @@
     "away": "الطائي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🔵 الطائي",
+    "title": "🔵 العدالة × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayIcon": "⚫",
+    "homeColor": "كحلي",
+    "awayColor": "رمادي",
+    "homeHex": "#0F3759",
+    "awayHex": "#6C757D"
   },
   {
     "round": 2,
@@ -157,12 +171,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 الوحدة",
+    "title": "🟠 الزلفي × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00",
+    "awayHex": "#BE0101"
   },
   {
     "round": 2,
@@ -172,12 +188,13 @@
     "away": "البكيرية",
     "location": "مدينة الأمير هذلول بن عبدالعزيز الرياضية - نجران",
     "status": "confirmed",
-    "title": "🔵 الأخدود × 🔴 البكيرية",
+    "title": "🔵 الأخدود × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 2,
@@ -187,12 +204,13 @@
     "away": "الجيل",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🟡 الجيل",
+    "title": "🟤 الجبلين × 🟡 الجيل",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🟡",
-    "homeColor": "أحمر",
-    "awayColor": "أصفر"
+    "homeColor": "بني داكن",
+    "awayColor": "أصفر",
+    "homeHex": "#4E1616"
   },
   {
     "round": 2,
@@ -202,12 +220,13 @@
     "away": "النجمة",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🟢 النجمة",
+    "title": "🔵 جدة × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أخضر",
+    "homeHex": "#2E4074"
   },
   {
     "round": 2,
@@ -217,12 +236,13 @@
     "away": "الصقر",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟤 الصقر",
+    "title": "🔴 الجندل × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟤",
-    "homeColor": "بنفسجي",
-    "awayColor": "بني"
+    "homeColor": "أحمر",
+    "awayColor": "بني",
+    "homeHex": "#C01722"
   },
   {
     "round": 2,
@@ -232,12 +252,14 @@
     "away": "العلا",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × ⚫ العلا",
+    "title": "⚫ الأنوار × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "⚫",
-    "homeColor": "أخضر",
-    "awayColor": "أسود"
+    "homeIcon": "⚫",
+    "awayIcon": "🔵",
+    "homeColor": "رمادي",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#6C757D",
+    "awayHex": "#2F537D"
   },
   {
     "round": 2,
@@ -251,8 +273,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "⚫",
-    "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أسود",
+    "homeHex": "#950000"
   },
   {
     "round": 2,
@@ -267,7 +290,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟢",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 3,
@@ -277,12 +301,14 @@
     "away": "العدالة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔵 العدالة",
+    "title": "🟣 البكيرية × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بنفسجي",
+    "awayColor": "كحلي",
+    "homeHex": "#65388F",
+    "awayHex": "#0F3759"
   },
   {
     "round": 3,
@@ -307,12 +333,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🟣 الجندل",
+    "title": "⚫ الطائي × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "homeIcon": "⚫",
+    "awayIcon": "🔴",
+    "homeColor": "رمادي",
+    "awayColor": "أحمر",
+    "homeHex": "#6C757D",
+    "awayHex": "#C01722"
   },
   {
     "round": 3,
@@ -322,12 +350,13 @@
     "away": "جدة",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🟢 جدة",
+    "title": "🟡 الجيل × 🔵 جدة",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🟢",
+    "awayIcon": "🔵",
     "homeColor": "أصفر",
-    "awayColor": "أخضر"
+    "awayColor": "أزرق داكن",
+    "awayHex": "#2E4074"
   },
   {
     "round": 3,
@@ -337,12 +366,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔵 الزلفي",
+    "title": "🟢 العروبة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayIcon": "🟠",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "برتقالي",
+    "homeHex": "#015B65",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 3,
@@ -352,12 +383,13 @@
     "away": "الجبلين",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟢 النجمة × 🔴 الجبلين",
+    "title": "🟢 النجمة × 🟤 الجبلين",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 3,
@@ -367,12 +399,13 @@
     "away": "الأنوار",
     "location": "ملعب نادي هجر - الأحساء",
     "status": "confirmed",
-    "title": "⚫ هجر × 🟢 الأنوار",
+    "title": "⚫ هجر × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "⚫",
-    "awayIcon": "🟢",
+    "awayIcon": "⚫",
     "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 3,
@@ -387,7 +420,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔴",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 3,
@@ -397,12 +431,14 @@
     "away": "الرائد",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🔴 الرائد",
+    "title": "🔵 العلا × 🔴 الرائد",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أسود",
-    "awayColor": "أحمر"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#2F537D",
+    "awayHex": "#950000"
   },
   {
     "round": 4,
@@ -416,8 +452,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أزرق",
-    "awayColor": "بني"
+    "homeColor": "كحلي",
+    "awayColor": "بني",
+    "homeHex": "#0F3759"
   },
   {
     "round": 4,
@@ -427,12 +464,14 @@
     "away": "الوحدة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔴 الوحدة",
+    "title": "🟤 الجبلين × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بني داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#4E1616",
+    "awayHex": "#BE0101"
   },
   {
     "round": 4,
@@ -457,12 +496,13 @@
     "away": "هجر",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × ⚫ هجر",
+    "title": "🟠 الزلفي × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "⚫",
-    "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "homeColor": "برتقالي",
+    "awayColor": "أسود",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 4,
@@ -472,12 +512,13 @@
     "away": "العلا",
     "location": "ملعب نادي ضمك - خميس مشيط",
     "status": "confirmed",
-    "title": "🔴 ضمك × ⚫ العلا",
+    "title": "🔴 ضمك × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "awayHex": "#2F537D"
   },
   {
     "round": 4,
@@ -487,12 +528,14 @@
     "away": "الطائي",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔵 الطائي",
+    "title": "⚫ الأنوار × ⚫ الطائي",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeIcon": "⚫",
+    "awayIcon": "⚫",
+    "homeColor": "رمادي",
+    "awayColor": "رمادي",
+    "homeHex": "#6C757D",
+    "awayHex": "#6C757D"
   },
   {
     "round": 4,
@@ -506,8 +549,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🟡",
-    "homeColor": "أحمر",
-    "awayColor": "أصفر"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أصفر",
+    "homeHex": "#950000"
   },
   {
     "round": 4,
@@ -517,12 +561,14 @@
     "away": "البكيرية",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 البكيرية",
+    "title": "🔴 الجندل × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeIcon": "🔴",
+    "awayIcon": "🟣",
+    "homeColor": "أحمر",
+    "awayColor": "بنفسجي",
+    "homeHex": "#C01722",
+    "awayHex": "#65388F"
   },
   {
     "round": 4,
@@ -532,12 +578,14 @@
     "away": "العروبة",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🟢 العروبة",
+    "title": "🔵 جدة × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#2E4074",
+    "awayHex": "#015B65"
   },
   {
     "round": 5,
@@ -547,12 +595,13 @@
     "away": "الجبلين",
     "location": "ملعب نادي هجر - الأحساء",
     "status": "confirmed",
-    "title": "⚫ هجر × 🔴 الجبلين",
+    "title": "⚫ هجر × 🟤 الجبلين",
     "durationMinutes": 105,
     "homeIcon": "⚫",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "أسود",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 5,
@@ -562,12 +611,13 @@
     "away": "الأنوار",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🟢 الأنوار",
+    "title": "🟤 الصقر × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🟢",
+    "awayIcon": "⚫",
     "homeColor": "بني",
-    "awayColor": "أخضر"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 5,
@@ -577,12 +627,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔵 الزلفي",
+    "title": "⚫ الطائي × 🟠 الزلفي",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeIcon": "⚫",
+    "awayIcon": "🟠",
+    "homeColor": "رمادي",
+    "awayColor": "برتقالي",
+    "homeHex": "#6C757D",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 5,
@@ -592,12 +644,13 @@
     "away": "ضمك",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔴 ضمك",
+    "title": "🟣 البكيرية × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أحمر",
+    "homeHex": "#65388F"
   },
   {
     "round": 5,
@@ -607,12 +660,14 @@
     "away": "جدة",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🟢 جدة",
+    "title": "🔵 العلا × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
-    "awayIcon": "🟢",
-    "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "homeIcon": "🔵",
+    "awayIcon": "🔵",
+    "homeColor": "أزرق رمادي",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#2F537D",
+    "awayHex": "#2E4074"
   },
   {
     "round": 5,
@@ -627,7 +682,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "أزرق",
+    "homeHex": "#BE0101"
   },
   {
     "round": 5,
@@ -642,7 +698,8 @@
     "homeIcon": "🟢",
     "awayIcon": "🔴",
     "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر داكن",
+    "awayHex": "#950000"
   },
   {
     "round": 5,
@@ -652,12 +709,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🟣 الجندل",
+    "title": "🔵 العدالة × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "awayIcon": "🔴",
+    "homeColor": "كحلي",
+    "awayColor": "أحمر",
+    "homeHex": "#0F3759",
+    "awayHex": "#C01722"
   },
   {
     "round": 5,
@@ -671,8 +730,9 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🟡",
-    "homeColor": "أخضر",
-    "awayColor": "أصفر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أصفر",
+    "homeHex": "#015B65"
   },
   {
     "round": 6,
@@ -682,12 +742,14 @@
     "away": "البكيرية",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔴 البكيرية",
+    "title": "⚫ الطائي × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeIcon": "⚫",
+    "awayIcon": "🟣",
+    "homeColor": "رمادي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#6C757D",
+    "awayHex": "#65388F"
   },
   {
     "round": 6,
@@ -697,12 +759,13 @@
     "away": "الصقر",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🟤 الصقر",
+    "title": "🔵 جدة × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أخضر",
-    "awayColor": "بني"
+    "homeColor": "أزرق داكن",
+    "awayColor": "بني",
+    "homeHex": "#2E4074"
   },
   {
     "round": 6,
@@ -712,12 +775,13 @@
     "away": "النجمة",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🟢 النجمة",
+    "title": "⚫ الأنوار × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "⚫",
     "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeColor": "رمادي",
+    "awayColor": "أخضر",
+    "homeHex": "#6C757D"
   },
   {
     "round": 6,
@@ -727,12 +791,13 @@
     "away": "العلا",
     "location": "مدينة الأمير هذلول بن عبدالعزيز الرياضية - نجران",
     "status": "confirmed",
-    "title": "🔵 الأخدود × ⚫ العلا",
+    "title": "🔵 الأخدود × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "awayHex": "#2F537D"
   },
   {
     "round": 6,
@@ -742,12 +807,14 @@
     "away": "الرائد",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 الرائد",
+    "title": "🟠 الزلفي × 🔴 الرائد",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#FF6F00",
+    "awayHex": "#950000"
   },
   {
     "round": 6,
@@ -762,7 +829,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 6,
@@ -772,12 +840,14 @@
     "away": "العروبة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🟢 العروبة",
+    "title": "🟤 الجبلين × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeColor": "بني داكن",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#4E1616",
+    "awayHex": "#015B65"
   },
   {
     "round": 6,
@@ -787,12 +857,14 @@
     "away": "الوحدة",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 الوحدة",
+    "title": "🔴 الجندل × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر",
+    "awayColor": "أحمر",
+    "homeHex": "#C01722",
+    "awayHex": "#BE0101"
   },
   {
     "round": 6,
@@ -818,12 +890,14 @@
     "away": "جدة",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "tbd",
-    "title": "🔴 الرائد × 🟢 جدة",
+    "title": "🔴 الرائد × 🔵 جدة",
     "durationMinutes": null,
     "homeIcon": "🔴",
-    "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayIcon": "🔵",
+    "homeColor": "أحمر داكن",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#950000",
+    "awayHex": "#2E4074"
   },
   {
     "round": 7,
@@ -834,12 +908,13 @@
     "away": "الجيل",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "tbd",
-    "title": "⚫ العلا × 🟡 الجيل",
+    "title": "🔵 العلا × 🟡 الجيل",
     "durationMinutes": null,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🟡",
-    "homeColor": "أسود",
-    "awayColor": "أصفر"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "أصفر",
+    "homeHex": "#2F537D"
   },
   {
     "round": 7,
@@ -855,7 +930,8 @@
     "homeIcon": "⚫",
     "awayIcon": "🟢",
     "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 7,
@@ -882,12 +958,14 @@
     "away": "الطائي",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "tbd",
-    "title": "🔴 الوحدة × 🔵 الطائي",
+    "title": "🔴 الوحدة × ⚫ الطائي",
     "durationMinutes": null,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "homeHex": "#BE0101",
+    "awayHex": "#6C757D"
   },
   {
     "round": 7,
@@ -898,12 +976,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "tbd",
-    "title": "🔴 البكيرية × 🔵 الزلفي",
+    "title": "🟣 البكيرية × 🟠 الزلفي",
     "durationMinutes": null,
-    "homeIcon": "🔴",
-    "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeIcon": "🟣",
+    "awayIcon": "🟠",
+    "homeColor": "بنفسجي",
+    "awayColor": "برتقالي",
+    "homeHex": "#65388F",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 7,
@@ -914,12 +994,13 @@
     "away": "الأخدود",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "tbd",
-    "title": "🟣 الجندل × 🔵 الأخدود",
+    "title": "🔴 الجندل × 🔵 الأخدود",
     "durationMinutes": null,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔵",
-    "homeColor": "بنفسجي",
-    "awayColor": "أزرق"
+    "homeColor": "أحمر",
+    "awayColor": "أزرق",
+    "homeHex": "#C01722"
   },
   {
     "round": 7,
@@ -930,12 +1011,14 @@
     "away": "الأنوار",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "tbd",
-    "title": "🔵 العدالة × 🟢 الأنوار",
+    "title": "🔵 العدالة × ⚫ الأنوار",
     "durationMinutes": null,
     "homeIcon": "🔵",
-    "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "awayIcon": "⚫",
+    "homeColor": "كحلي",
+    "awayColor": "رمادي",
+    "homeHex": "#0F3759",
+    "awayHex": "#6C757D"
   },
   {
     "round": 7,
@@ -946,12 +1029,13 @@
     "away": "الجبلين",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "tbd",
-    "title": "🟤 الصقر × 🔴 الجبلين",
+    "title": "🟤 الصقر × 🟤 الجبلين",
     "durationMinutes": null,
     "homeIcon": "🟤",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "بني",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 8,
@@ -961,12 +1045,14 @@
     "away": "العلا",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × ⚫ العلا",
+    "title": "🟠 الزلفي × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "⚫",
-    "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "homeIcon": "🟠",
+    "awayIcon": "🔵",
+    "homeColor": "برتقالي",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#FF6F00",
+    "awayHex": "#2F537D"
   },
   {
     "round": 8,
@@ -976,12 +1062,13 @@
     "away": "الطائي",
     "location": "ملعب نادي ضمك - خميس مشيط",
     "status": "confirmed",
-    "title": "🔴 ضمك × 🔵 الطائي",
+    "title": "🔴 ضمك × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 8,
@@ -995,8 +1082,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🟤",
-    "homeColor": "أحمر",
-    "awayColor": "بني"
+    "homeColor": "أحمر داكن",
+    "awayColor": "بني",
+    "homeHex": "#950000"
   },
   {
     "round": 8,
@@ -1021,12 +1109,14 @@
     "away": "البكيرية",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔴 البكيرية",
+    "title": "🟢 العروبة × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "awayIcon": "🟣",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#015B65",
+    "awayHex": "#65388F"
   },
   {
     "round": 8,
@@ -1041,7 +1131,8 @@
     "homeIcon": "🔵",
     "awayIcon": "🔵",
     "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 8,
@@ -1051,12 +1142,13 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🟣 الجندل",
+    "title": "🟡 الجيل × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "أصفر",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   },
   {
     "round": 8,
@@ -1066,12 +1158,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔴 الوحدة",
+    "title": "⚫ الأنوار × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "⚫",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "رمادي",
+    "awayColor": "أحمر",
+    "homeHex": "#6C757D",
+    "awayHex": "#BE0101"
   },
   {
     "round": 8,
@@ -1081,12 +1175,14 @@
     "away": "الجبلين",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🔴 الجبلين",
+    "title": "🔵 جدة × 🟤 الجبلين",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeIcon": "🔵",
+    "awayIcon": "🟤",
+    "homeColor": "أزرق داكن",
+    "awayColor": "بني داكن",
+    "homeHex": "#2E4074",
+    "awayHex": "#4E1616"
   },
   {
     "round": 9,
@@ -1096,12 +1192,13 @@
     "away": "الأخدود",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔵 الأخدود",
+    "title": "⚫ الأنوار × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "⚫",
     "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeColor": "رمادي",
+    "awayColor": "أزرق",
+    "homeHex": "#6C757D"
   },
   {
     "round": 9,
@@ -1111,12 +1208,13 @@
     "away": "هجر",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × ⚫ هجر",
+    "title": "🟣 البكيرية × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "⚫",
-    "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "homeColor": "بنفسجي",
+    "awayColor": "أسود",
+    "homeHex": "#65388F"
   },
   {
     "round": 9,
@@ -1126,12 +1224,14 @@
     "away": "العروبة",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🟢 العروبة",
+    "title": "🔵 العلا × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#2F537D",
+    "awayHex": "#015B65"
   },
   {
     "round": 9,
@@ -1141,12 +1241,14 @@
     "away": "جدة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🟢 جدة",
+    "title": "⚫ الطائي × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeIcon": "⚫",
+    "awayIcon": "🔵",
+    "homeColor": "رمادي",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#6C757D",
+    "awayHex": "#2E4074"
   },
   {
     "round": 9,
@@ -1161,7 +1263,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟤",
     "homeColor": "أحمر",
-    "awayColor": "بني"
+    "awayColor": "بني",
+    "homeHex": "#BE0101"
   },
   {
     "round": 9,
@@ -1175,8 +1278,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟡",
-    "homeColor": "أزرق",
-    "awayColor": "أصفر"
+    "homeColor": "كحلي",
+    "awayColor": "أصفر",
+    "homeHex": "#0F3759"
   },
   {
     "round": 9,
@@ -1186,12 +1290,13 @@
     "away": "ضمك",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 ضمك",
+    "title": "🔴 الجندل × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر",
+    "awayColor": "أحمر",
+    "homeHex": "#C01722"
   },
   {
     "round": 9,
@@ -1201,12 +1306,13 @@
     "away": "الزلفي",
     "location": "ملعب نادي النجمة - عنيزة",
     "status": "confirmed",
-    "title": "🟢 النجمة × 🔵 الزلفي",
+    "title": "🟢 النجمة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 9,
@@ -1216,12 +1322,14 @@
     "away": "الرائد",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔴 الرائد",
+    "title": "🟤 الجبلين × 🔴 الرائد",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بني داكن",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#4E1616",
+    "awayHex": "#950000"
   },
   {
     "round": 10,
@@ -1231,12 +1339,14 @@
     "away": "الأنوار",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🟢 الأنوار",
+    "title": "🟢 العروبة × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "awayIcon": "⚫",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "رمادي",
+    "homeHex": "#015B65",
+    "awayHex": "#6C757D"
   },
   {
     "round": 10,
@@ -1246,12 +1356,13 @@
     "away": "العلا",
     "location": "ملعب نادي هجر - الأحساء",
     "status": "confirmed",
-    "title": "⚫ هجر × ⚫ العلا",
+    "title": "⚫ هجر × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "⚫",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أسود",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "awayHex": "#2F537D"
   },
   {
     "round": 10,
@@ -1261,12 +1372,13 @@
     "away": "الطائي",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔵 الطائي",
+    "title": "🟤 الصقر × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "بني",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 10,
@@ -1276,12 +1388,14 @@
     "away": "العدالة",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🔵 العدالة",
+    "title": "🔵 جدة × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeColor": "أزرق داكن",
+    "awayColor": "كحلي",
+    "homeHex": "#2E4074",
+    "awayHex": "#0F3759"
   },
   {
     "round": 10,
@@ -1291,12 +1405,14 @@
     "away": "البكيرية",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔴 البكيرية",
+    "title": "🟤 الجبلين × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeIcon": "🟤",
+    "awayIcon": "🟣",
+    "homeColor": "بني داكن",
+    "awayColor": "بنفسجي",
+    "homeHex": "#4E1616",
+    "awayHex": "#65388F"
   },
   {
     "round": 10,
@@ -1321,12 +1437,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟣 الجندل",
+    "title": "🟠 الزلفي × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "homeIcon": "🟠",
+    "awayIcon": "🔴",
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00",
+    "awayHex": "#C01722"
   },
   {
     "round": 10,
@@ -1355,8 +1473,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#950000",
+    "awayHex": "#BE0101"
   },
   {
     "round": 11,
@@ -1370,8 +1490,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeColor": "كحلي",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#0F3759",
+    "awayHex": "#015B65"
   },
   {
     "round": 11,
@@ -1381,12 +1503,14 @@
     "away": "جدة",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟢 جدة",
+    "title": "🟠 الزلفي × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeIcon": "🟠",
+    "awayIcon": "🔵",
+    "homeColor": "برتقالي",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#FF6F00",
+    "awayHex": "#2E4074"
   },
   {
     "round": 11,
@@ -1396,12 +1520,13 @@
     "away": "هجر",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × ⚫ هجر",
+    "title": "🔴 الجندل × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "⚫",
-    "homeColor": "بنفسجي",
-    "awayColor": "أسود"
+    "homeColor": "أحمر",
+    "awayColor": "أسود",
+    "homeHex": "#C01722"
   },
   {
     "round": 11,
@@ -1411,12 +1536,13 @@
     "away": "العلا",
     "location": "ملعب نادي النجمة - عنيزة",
     "status": "confirmed",
-    "title": "🟢 النجمة × ⚫ العلا",
+    "title": "🟢 النجمة × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أخضر",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "awayHex": "#2F537D"
   },
   {
     "round": 11,
@@ -1426,12 +1552,13 @@
     "away": "البكيرية",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔴 البكيرية",
+    "title": "🟤 الصقر × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "بني",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 11,
@@ -1441,12 +1568,13 @@
     "away": "الأنوار",
     "location": "مدينة الأمير سلطان بن عبدالعزيز الرياضية - أبها",
     "status": "confirmed",
-    "title": "🔴 ضمك × 🟢 الأنوار",
+    "title": "🔴 ضمك × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🟢",
+    "awayIcon": "⚫",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 11,
@@ -1456,12 +1584,14 @@
     "away": "الرائد",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔴 الرائد",
+    "title": "⚫ الطائي × 🔴 الرائد",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "⚫",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "رمادي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#6C757D",
+    "awayHex": "#950000"
   },
   {
     "round": 11,
@@ -1471,12 +1601,13 @@
     "away": "الجبلين",
     "location": "مدينة الأمير هذلول بن عبدالعزيز الرياضية - نجران",
     "status": "confirmed",
-    "title": "🔵 الأخدود × 🔴 الجبلين",
+    "title": "🔵 الأخدود × 🟤 الجبلين",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 11,
@@ -1491,7 +1622,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟡",
     "homeColor": "أحمر",
-    "awayColor": "أصفر"
+    "awayColor": "أصفر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 12,
@@ -1505,8 +1637,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أزرق",
+    "homeHex": "#950000"
   },
   {
     "round": 12,
@@ -1531,12 +1664,13 @@
     "away": "ضمك",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🔴 ضمك",
+    "title": "🔵 جدة × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#2E4074"
   },
   {
     "round": 12,
@@ -1546,12 +1680,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔵 الزلفي",
+    "title": "🟤 الجبلين × 🟠 الزلفي",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeIcon": "🟤",
+    "awayIcon": "🟠",
+    "homeColor": "بني داكن",
+    "awayColor": "برتقالي",
+    "homeHex": "#4E1616",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 12,
@@ -1565,8 +1701,9 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أخضر",
+    "homeHex": "#015B65"
   },
   {
     "round": 12,
@@ -1576,12 +1713,13 @@
     "away": "الطائي",
     "location": "ملعب نادي هجر - الأحساء",
     "status": "confirmed",
-    "title": "⚫ هجر × 🔵 الطائي",
+    "title": "⚫ هجر × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "⚫",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "أسود",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 12,
@@ -1591,12 +1729,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔴 الوحدة",
+    "title": "🟣 البكيرية × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أحمر",
+    "homeHex": "#65388F",
+    "awayHex": "#BE0101"
   },
   {
     "round": 12,
@@ -1606,12 +1746,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🟣 الجندل",
+    "title": "⚫ الأنوار × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🟣",
-    "homeColor": "أخضر",
-    "awayColor": "بنفسجي"
+    "homeIcon": "⚫",
+    "awayIcon": "🔴",
+    "homeColor": "رمادي",
+    "awayColor": "أحمر",
+    "homeHex": "#6C757D",
+    "awayHex": "#C01722"
   },
   {
     "round": 12,
@@ -1621,12 +1763,14 @@
     "away": "العدالة",
     "location": "ملعب نادي أحد - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🔵 العدالة",
+    "title": "🔵 العلا × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🔵",
-    "homeColor": "أسود",
-    "awayColor": "أزرق"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "كحلي",
+    "homeHex": "#2F537D",
+    "awayHex": "#0F3759"
   },
   {
     "round": 13,
@@ -1656,7 +1800,8 @@
     "homeIcon": "🟤",
     "awayIcon": "🟢",
     "homeColor": "بني",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 13,
@@ -1666,12 +1811,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔵 الزلفي",
+    "title": "⚫ الأنوار × 🟠 الزلفي",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeIcon": "⚫",
+    "awayIcon": "🟠",
+    "homeColor": "رمادي",
+    "awayColor": "برتقالي",
+    "homeHex": "#6C757D",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 13,
@@ -1696,12 +1843,14 @@
     "away": "جدة",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 جدة",
+    "title": "🔴 الجندل × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeIcon": "🔴",
+    "awayIcon": "🔵",
+    "homeColor": "أحمر",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#C01722",
+    "awayHex": "#2E4074"
   },
   {
     "round": 13,
@@ -1716,7 +1865,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟢",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 13,
@@ -1726,12 +1876,14 @@
     "away": "العلا",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × ⚫ العلا",
+    "title": "🟣 البكيرية × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "⚫",
-    "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "homeIcon": "🟣",
+    "awayIcon": "🔵",
+    "homeColor": "بنفسجي",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#65388F",
+    "awayHex": "#2F537D"
   },
   {
     "round": 13,
@@ -1741,12 +1893,14 @@
     "away": "الجبلين",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔴 الجبلين",
+    "title": "⚫ الطائي × 🟤 الجبلين",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeIcon": "⚫",
+    "awayIcon": "🟤",
+    "homeColor": "رمادي",
+    "awayColor": "بني داكن",
+    "homeHex": "#6C757D",
+    "awayHex": "#4E1616"
   },
   {
     "round": 13,
@@ -1760,8 +1914,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "كحلي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#0F3759",
+    "awayHex": "#950000"
   },
   {
     "round": 14,
@@ -1771,12 +1927,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🟣 الجندل",
+    "title": "🟤 الجبلين × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🟣",
-    "homeColor": "أحمر",
-    "awayColor": "بنفسجي"
+    "homeIcon": "🟤",
+    "awayIcon": "🔴",
+    "homeColor": "بني داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#4E1616",
+    "awayHex": "#C01722"
   },
   {
     "round": 14,
@@ -1786,12 +1944,14 @@
     "away": "الطائي",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔵 الطائي",
+    "title": "🟢 العروبة × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayIcon": "⚫",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "رمادي",
+    "homeHex": "#015B65",
+    "awayHex": "#6C757D"
   },
   {
     "round": 14,
@@ -1801,12 +1961,13 @@
     "away": "الصقر",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🟤 الصقر",
+    "title": "🔵 العلا × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أسود",
-    "awayColor": "بني"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "بني",
+    "homeHex": "#2F537D"
   },
   {
     "round": 14,
@@ -1816,12 +1977,13 @@
     "away": "الأنوار",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🟢 الأنوار",
+    "title": "🟡 الجيل × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🟢",
+    "awayIcon": "⚫",
     "homeColor": "أصفر",
-    "awayColor": "أخضر"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 14,
@@ -1831,12 +1993,13 @@
     "away": "الأخدود",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🔵 الأخدود",
+    "title": "🔵 جدة × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أزرق",
+    "homeHex": "#2E4074"
   },
   {
     "round": 14,
@@ -1846,12 +2009,13 @@
     "away": "ضمك",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 ضمك",
+    "title": "🟠 الزلفي × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 14,
@@ -1861,12 +2025,14 @@
     "away": "البكيرية",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🔴 الرائد × 🔴 البكيرية",
+    "title": "🔴 الرائد × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayIcon": "🟣",
+    "homeColor": "أحمر داكن",
+    "awayColor": "بنفسجي",
+    "homeHex": "#950000",
+    "awayHex": "#65388F"
   },
   {
     "round": 14,
@@ -1881,7 +2047,8 @@
     "homeIcon": "⚫",
     "awayIcon": "🔴",
     "homeColor": "أسود",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر",
+    "awayHex": "#BE0101"
   },
   {
     "round": 14,
@@ -1896,7 +2063,8 @@
     "homeIcon": "🟢",
     "awayIcon": "🔵",
     "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 15,
@@ -1906,12 +2074,14 @@
     "away": "الجبلين",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔴 الجبلين",
+    "title": "⚫ الأنوار × 🟤 الجبلين",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeIcon": "⚫",
+    "awayIcon": "🟤",
+    "homeColor": "رمادي",
+    "awayColor": "بني داكن",
+    "homeHex": "#6C757D",
+    "awayHex": "#4E1616"
   },
   {
     "round": 15,
@@ -1936,12 +2106,14 @@
     "away": "العروبة",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 العروبة",
+    "title": "🔴 الجندل × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#C01722",
+    "awayHex": "#015B65"
   },
   {
     "round": 15,
@@ -1951,12 +2123,14 @@
     "away": "العلا",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × ⚫ العلا",
+    "title": "🔴 الوحدة × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#BE0101",
+    "awayHex": "#2F537D"
   },
   {
     "round": 15,
@@ -1966,12 +2140,14 @@
     "away": "جدة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🟢 جدة",
+    "title": "🟣 البكيرية × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeIcon": "🟣",
+    "awayIcon": "🔵",
+    "homeColor": "بنفسجي",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#65388F",
+    "awayHex": "#2E4074"
   },
   {
     "round": 15,
@@ -1981,12 +2157,13 @@
     "away": "النجمة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🟢 النجمة",
+    "title": "⚫ الطائي × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "⚫",
     "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeColor": "رمادي",
+    "awayColor": "أخضر",
+    "homeHex": "#6C757D"
   },
   {
     "round": 15,
@@ -2001,7 +2178,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔴",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر داكن",
+    "awayHex": "#950000"
   },
   {
     "round": 15,
@@ -2015,8 +2193,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "⚫",
-    "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "homeColor": "كحلي",
+    "awayColor": "أسود",
+    "homeHex": "#0F3759"
   },
   {
     "round": 15,
@@ -2026,12 +2205,13 @@
     "away": "الزلفي",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔵 الزلفي",
+    "title": "🟤 الصقر × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "بني",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 16,
@@ -2041,12 +2221,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🔴 الرائد × 🟣 الجندل",
+    "title": "🔴 الرائد × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🟣",
-    "homeColor": "أحمر",
-    "awayColor": "بنفسجي"
+    "awayIcon": "🔴",
+    "homeColor": "أحمر داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#950000",
+    "awayHex": "#C01722"
   },
   {
     "round": 16,
@@ -2060,8 +2242,10 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر",
+    "homeHex": "#015B65",
+    "awayHex": "#BE0101"
   },
   {
     "round": 16,
@@ -2071,12 +2255,14 @@
     "away": "الطائي",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🔵 الطائي",
+    "title": "🔵 العلا × ⚫ الطائي",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
-    "awayIcon": "🔵",
-    "homeColor": "أسود",
-    "awayColor": "أزرق"
+    "homeIcon": "🔵",
+    "awayIcon": "⚫",
+    "homeColor": "أزرق رمادي",
+    "awayColor": "رمادي",
+    "homeHex": "#2F537D",
+    "awayHex": "#6C757D"
   },
   {
     "round": 16,
@@ -2086,12 +2272,13 @@
     "away": "البكيرية",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🔴 البكيرية",
+    "title": "🟡 الجيل × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "أصفر",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 16,
@@ -2101,12 +2288,13 @@
     "away": "الأخدود",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔵 الأخدود",
+    "title": "🟠 الزلفي × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeColor": "برتقالي",
+    "awayColor": "أزرق",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 16,
@@ -2131,12 +2319,14 @@
     "away": "الأنوار",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🟢 الأنوار",
+    "title": "🔵 جدة × ⚫ الأنوار",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeIcon": "🔵",
+    "awayIcon": "⚫",
+    "homeColor": "أزرق داكن",
+    "awayColor": "رمادي",
+    "homeHex": "#2E4074",
+    "awayHex": "#6C757D"
   },
   {
     "round": 16,
@@ -2146,12 +2336,14 @@
     "away": "العدالة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔵 العدالة",
+    "title": "🟤 الجبلين × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بني داكن",
+    "awayColor": "كحلي",
+    "homeHex": "#4E1616",
+    "awayHex": "#0F3759"
   },
   {
     "round": 16,
@@ -2176,12 +2368,14 @@
     "away": "العلا",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × ⚫ العلا",
+    "title": "🔴 الجندل × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "⚫",
-    "homeColor": "بنفسجي",
-    "awayColor": "أسود"
+    "homeIcon": "🔴",
+    "awayIcon": "🔵",
+    "homeColor": "أحمر",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#C01722",
+    "awayHex": "#2F537D"
   },
   {
     "round": 17,
@@ -2191,12 +2385,13 @@
     "away": "الجيل",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🟡 الجيل",
+    "title": "⚫ الطائي × 🟡 الجيل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "⚫",
     "awayIcon": "🟡",
-    "homeColor": "أزرق",
-    "awayColor": "أصفر"
+    "homeColor": "رمادي",
+    "awayColor": "أصفر",
+    "homeHex": "#6C757D"
   },
   {
     "round": 17,
@@ -2206,12 +2401,14 @@
     "away": "الرائد",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔴 الرائد",
+    "title": "⚫ الأنوار × 🔴 الرائد",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "⚫",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "رمادي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#6C757D",
+    "awayHex": "#950000"
   },
   {
     "round": 17,
@@ -2221,12 +2418,13 @@
     "away": "النجمة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🟢 النجمة",
+    "title": "🟣 البكيرية × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أخضر",
+    "homeHex": "#65388F"
   },
   {
     "round": 17,
@@ -2241,7 +2439,8 @@
     "homeIcon": "🔵",
     "awayIcon": "🟢",
     "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 17,
@@ -2251,12 +2450,14 @@
     "away": "جدة",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × 🟢 جدة",
+    "title": "🔴 الوحدة × 🔵 جدة",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🟢",
+    "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أزرق داكن",
+    "homeHex": "#BE0101",
+    "awayHex": "#2E4074"
   },
   {
     "round": 17,
@@ -2281,12 +2482,13 @@
     "away": "الجبلين",
     "location": "ملعب نادي ضمك - خميس مشيط",
     "status": "confirmed",
-    "title": "🔴 ضمك × 🔴 الجبلين",
+    "title": "🔴 ضمك × 🟤 الجبلين",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 17,
@@ -2296,12 +2498,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🔵 الزلفي",
+    "title": "🔵 العدالة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayIcon": "🟠",
+    "homeColor": "كحلي",
+    "awayColor": "برتقالي",
+    "homeHex": "#0F3759",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 18,
@@ -2315,8 +2519,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#950000",
+    "awayHex": "#015B65"
   },
   {
     "round": 18,
@@ -2326,12 +2532,13 @@
     "away": "النجمة",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 النجمة",
+    "title": "🔴 الجندل × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر",
+    "awayColor": "أخضر",
+    "homeHex": "#C01722"
   },
   {
     "round": 18,
@@ -2341,12 +2548,13 @@
     "away": "الطائي",
     "location": "مدينة الأمير هذلول بن عبدالعزيز الرياضية - نجران",
     "status": "confirmed",
-    "title": "🔵 الأخدود × 🔵 الطائي",
+    "title": "🔵 الأخدود × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 18,
@@ -2356,12 +2564,14 @@
     "away": "البكيرية",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔴 البكيرية",
+    "title": "⚫ الأنوار × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeIcon": "⚫",
+    "awayIcon": "🟣",
+    "homeColor": "رمادي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#6C757D",
+    "awayHex": "#65388F"
   },
   {
     "round": 18,
@@ -2371,12 +2581,13 @@
     "away": "الجيل",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟡 الجيل",
+    "title": "🟠 الزلفي × 🟡 الجيل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🟡",
-    "homeColor": "أزرق",
-    "awayColor": "أصفر"
+    "homeColor": "برتقالي",
+    "awayColor": "أصفر",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 18,
@@ -2390,8 +2601,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "كحلي",
+    "awayColor": "أحمر",
+    "homeHex": "#0F3759",
+    "awayHex": "#BE0101"
   },
   {
     "round": 18,
@@ -2401,12 +2614,14 @@
     "away": "العلا",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × ⚫ العلا",
+    "title": "🟤 الجبلين × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "⚫",
-    "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "homeIcon": "🟤",
+    "awayIcon": "🔵",
+    "homeColor": "بني داكن",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#4E1616",
+    "awayHex": "#2F537D"
   },
   {
     "round": 18,
@@ -2431,12 +2646,13 @@
     "away": "هجر",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🟢 جدة × ⚫ هجر",
+    "title": "🔵 جدة × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "⚫",
-    "homeColor": "أخضر",
-    "awayColor": "أسود"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أسود",
+    "homeHex": "#2E4074"
   },
   {
     "round": 19,
@@ -2446,12 +2662,13 @@
     "away": "الأخدود",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔵 الأخدود",
+    "title": "🟣 البكيرية × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بنفسجي",
+    "awayColor": "أزرق",
+    "homeHex": "#65388F"
   },
   {
     "round": 19,
@@ -2461,12 +2678,14 @@
     "away": "العدالة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔵 العدالة",
+    "title": "⚫ الطائي × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "⚫",
     "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeColor": "رمادي",
+    "awayColor": "كحلي",
+    "homeHex": "#6C757D",
+    "awayHex": "#0F3759"
   },
   {
     "round": 19,
@@ -2476,12 +2695,14 @@
     "away": "الزلفي",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × 🔵 الزلفي",
+    "title": "🔴 الوحدة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "homeHex": "#BE0101",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 19,
@@ -2491,12 +2712,14 @@
     "away": "الأنوار",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🟢 الأنوار",
+    "title": "🔵 العلا × ⚫ الأنوار",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
-    "awayIcon": "🟢",
-    "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "homeIcon": "🔵",
+    "awayIcon": "⚫",
+    "homeColor": "أزرق رمادي",
+    "awayColor": "رمادي",
+    "homeHex": "#2F537D",
+    "awayHex": "#6C757D"
   },
   {
     "round": 19,
@@ -2511,7 +2734,8 @@
     "homeIcon": "⚫",
     "awayIcon": "🔴",
     "homeColor": "أسود",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر داكن",
+    "awayHex": "#950000"
   },
   {
     "round": 19,
@@ -2521,12 +2745,13 @@
     "away": "جدة",
     "location": "ملعب نادي النجمة - عنيزة",
     "status": "confirmed",
-    "title": "🟢 النجمة × 🟢 جدة",
+    "title": "🟢 النجمة × 🔵 جدة",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🟢",
+    "awayIcon": "🔵",
     "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "awayColor": "أزرق داكن",
+    "awayHex": "#2E4074"
   },
   {
     "round": 19,
@@ -2536,12 +2761,13 @@
     "away": "الجندل",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🟣 الجندل",
+    "title": "🟤 الصقر × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "بني",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   },
   {
     "round": 19,
@@ -2555,8 +2781,9 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر",
+    "homeHex": "#015B65"
   },
   {
     "round": 19,
@@ -2566,11 +2793,12 @@
     "away": "الجبلين",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🔴 الجبلين",
+    "title": "🟡 الجيل × 🟤 الجبلين",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "أصفر",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   }
 ]
