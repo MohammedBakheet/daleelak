@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-31T21:13:06.302Z",
+  "updatedAt": "2026-07-31T21:14:22.411Z",
   "count": 27,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -161,8 +161,9 @@
       "teamId": "ALADALAH",
       "teamName": "العدالة",
       "teamColor": {
+        "hex": "#0F3759",
         "icon": "🔵",
-        "colorName": "أزرق"
+        "colorName": "كحلي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALADALAH/metadata.json",
@@ -205,8 +206,9 @@
       "teamId": "ALANWAR",
       "teamName": "الأنوار",
       "teamColor": {
-        "icon": "🟢",
-        "colorName": "أخضر"
+        "hex": "#6C757D",
+        "icon": "⚫",
+        "colorName": "رمادي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALANWAR/metadata.json",
@@ -249,8 +251,9 @@
       "teamId": "ALBUKAYRIYAH",
       "teamName": "البكيرية",
       "teamColor": {
-        "icon": "🔴",
-        "colorName": "أحمر"
+        "hex": "#65388F",
+        "icon": "🟣",
+        "colorName": "بنفسجي"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALBUKAYRIYAH/metadata.json",
@@ -293,8 +296,9 @@
       "teamId": "ALJABALAIN",
       "teamName": "الجبلين",
       "teamColor": {
-        "icon": "🔴",
-        "colorName": "أحمر"
+        "hex": "#4E1616",
+        "icon": "🟤",
+        "colorName": "بني داكن"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/metadata.json",
@@ -337,8 +341,9 @@
       "teamId": "ALJANDAL",
       "teamName": "الجندل",
       "teamColor": {
-        "icon": "🟣",
-        "colorName": "بنفسجي"
+        "hex": "#C01722",
+        "icon": "🔴",
+        "colorName": "أحمر"
       },
       "order": 100,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALJANDAL/metadata.json",
