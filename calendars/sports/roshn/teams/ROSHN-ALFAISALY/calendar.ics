@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي الفيصلي - دوري روشن 202
+ 6/2027
+X-WR-CALDESC:مواعيد مباريات نادي الفيصلي في دو
+ ري روشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-6@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260814T210000
+DTEND;TZID=Asia/Riyadh:20260814T224500
+SUMMARY:🔵 الهلال × 🟤 الفيصلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n
+ 🔵 الهلال × 🟤 الفيصلي\n🏟️ استاد مملكة أ
+ رينا\n📍 الرياض\n🔄 يتم تحديث المواعيد تل
+ قائيًا عند أي تعديل رسمي.\nإعداد ونشر: م. م
+ حمد البخيت\nالمصدر: رابطة الدوري السعودي 
+ للمحترفين\nمنصة دليلك
+LOCATION:استاد مملكة أرينا
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-13@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T210000
+DTEND;TZID=Asia/Riyadh:20260821T224500
+SUMMARY:🟤 الفيصلي × 🔵 نيوم
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🟤 الفيصلي × 🔵 نيوم\n🏟️ مدينة المجمعة ا
+ لرياضية\n📍 المجمعة\n🔄 يتم تحديث المواعي
+ د تلقائيًا عند أي تعديل رسمي.\nإعداد ونشر:
+  م. محمد البخيت\nالمصدر: رابطة الدوري السع
+ ودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-25@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260826T190000
+DTEND;TZID=Asia/Riyadh:20260826T204500
+SUMMARY:🟤 الفيصلي × 🔵 الفتح
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🟤 الفيصلي × 🔵 الفتح\n🏟️ مدينة المجمعة 
+ الرياضية\n📍 المجمعة\n🔄 يتم تحديث المواع
+ يد تلقائيًا عند أي تعديل رسمي.\nإعداد ونش
+ ر: م. محمد البخيت\nالمصدر: رابطة الدوري ال
+ سعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-36@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260830T210000
+DTEND;TZID=Asia/Riyadh:20260830T224500
+SUMMARY:🔴 القادسية × 🟤 الفيصلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🔴 القادسية × 🟤 الفيصلي\n🏟️ استاد الأم
+ ير محمد بن فهد\n📍 الدمام\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير محمد بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-43@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260905T185000
+DTEND;TZID=Asia/Riyadh:20260905T203500
+SUMMARY:🟤 الفيصلي × 🟡 الحزم
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🟤 الفيصلي × 🟡 الحزم\n🏟️ مدينة المجمعة 
+ الرياضية\n📍 المجمعة\n🔄 يتم تحديث المواع
+ يد تلقائيًا عند أي تعديل رسمي.\nإعداد ونش
+ ر: م. محمد البخيت\nالمصدر: رابطة الدوري ال
+ سعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-48@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T183000
+DTEND;TZID=Asia/Riyadh:20260908T201500
+SUMMARY:🟢 الاتفاق × 🟤 الفيصلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🟢 الاتفاق × 🟤 الفيصلي\n🏟️ استاد الاتف
+ اق\n📍 الدمام\n🔄 يتم تحديث المواعيد تلقا
+ ئيًا عند أي تعديل رسمي.\nإعداد ونشر: م. محم
+ د البخيت\nالمصدر: رابطة الدوري السعودي لل
+ محترفين\nمنصة دليلك
+LOCATION:استاد الاتفاق
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

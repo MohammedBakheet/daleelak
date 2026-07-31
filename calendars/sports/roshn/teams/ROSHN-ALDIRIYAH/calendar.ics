@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي الدرعية - دوري روشن 202
+ 6/2027
+X-WR-CALDESC:مواعيد مباريات نادي الدرعية في دو
+ ري روشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-3@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260813T210000
+DTEND;TZID=Asia/Riyadh:20260813T224500
+SUMMARY:🟤 الدرعية × 🟢 الأهلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n
+ 🟤 الدرعية × 🟢 الأهلي\n🏟️ استاد الأمير 
+ فيصل بن فهد\n📍 الرياض\n🔄 يتم تحديث الموا
+ عيد تلقائيًا عند أي تعديل رسمي.\nإعداد ون
+ شر: م. محمد البخيت\nالمصدر: رابطة الدوري ا
+ لسعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير فيصل بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-12@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260821T191500
+DTEND;TZID=Asia/Riyadh:20260821T210000
+SUMMARY:🟤 الدرعية × 🟡 الحزم
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🟤 الدرعية × 🟡 الحزم\n🏟️ استاد نادي الح
+ زم\n📍 الرس\n🔄 يتم تحديث المواعيد تلقائي
+ ًا عند أي تعديل رسمي.\nإعداد ونشر: م. محمد 
+ البخيت\nالمصدر: رابطة الدوري السعودي للم
+ حترفين\nمنصة دليلك
+LOCATION:استاد نادي الحزم
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-26@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260826T210000
+DTEND;TZID=Asia/Riyadh:20260826T224500
+SUMMARY:🟤 الدرعية × 🔴 الخلود
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🟤 الدرعية × 🔴 الخلود\n🏟️ استاد الأمير 
+ فيصل بن فهد\n📍 الرياض\n🔄 يتم تحديث الموا
+ عيد تلقائيًا عند أي تعديل رسمي.\nإعداد ون
+ شر: م. محمد البخيت\nالمصدر: رابطة الدوري ا
+ لسعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير فيصل بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-33@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260829T210000
+DTEND;TZID=Asia/Riyadh:20260829T224500
+SUMMARY:🟢 الاتفاق × 🟤 الدرعية
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🟢 الاتفاق × 🟤 الدرعية\n🏟️ استاد الاتف
+ اق\n📍 الدمام\n🔄 يتم تحديث المواعيد تلقا
+ ئيًا عند أي تعديل رسمي.\nإعداد ونشر: م. محم
+ د البخيت\nالمصدر: رابطة الدوري السعودي لل
+ محترفين\nمنصة دليلك
+LOCATION:استاد الاتفاق
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-39@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260903T210000
+DTEND;TZID=Asia/Riyadh:20260903T224500
+SUMMARY:🟤 الدرعية × 🔴 القادسية
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🟤 الدرعية × 🔴 القادسية\n🏟️ استاد الأم
+ ير فيصل بن فهد\n📍 الرياض\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد الأمير فيصل بن فهد
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-53@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260909T210000
+DTEND;TZID=Asia/Riyadh:20260909T224500
+SUMMARY:🔵 الفتح × 🟤 الدرعية
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🔵 الفتح × 🟤 الدرعية\n🏟️ ميدان تمويل ال
+ أولى\n📍 الأحساء\n🔄 يتم تحديث المواعيد ت
+ لقائيًا عند أي تعديل رسمي.\nإعداد ونشر: م. 
+ محمد البخيت\nالمصدر: رابطة الدوري السعود
+ ي للمحترفين\nمنصة دليلك
+LOCATION:ميدان تمويل الأولى
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

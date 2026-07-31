@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي الفيحاء - دوري روشن 202
+ 6/2027
+X-WR-CALDESC:مواعيد مباريات نادي الفيحاء في دو
+ ري روشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-4@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260814T195000
+DTEND;TZID=Asia/Riyadh:20260814T213500
+SUMMARY:🔵 نيوم × 🟠 الفيحاء
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n
+ 🔵 نيوم × 🟠 الفيحاء\n🏟️ استاد مدينة الم
+ لك خالد الرياضية\n📍 تبوك\n🔄 يتم تحديث ال
+ مواعيد تلقائيًا عند أي تعديل رسمي.\nإعداد
+  ونشر: م. محمد البخيت\nالمصدر: رابطة الدور
+ ي السعودي للمحترفين\nمنصة دليلك
+LOCATION:استاد مدينة الملك خالد الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-22@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T191000
+DTEND;TZID=Asia/Riyadh:20260825T205500
+SUMMARY:🟡 التعاون × 🟠 الفيحاء
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🟡 التعاون × 🟠 الفيحاء\n🏟️ استاد نادي ا
+ لتعاون\n📍 بريدة\n🔄 يتم تحديث المواعيد ت
+ لقائيًا عند أي تعديل رسمي.\nإعداد ونشر: م. 
+ محمد البخيت\nالمصدر: رابطة الدوري السعود
+ ي للمحترفين\nمنصة دليلك
+LOCATION:استاد نادي التعاون
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-29@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260828T190000
+DTEND;TZID=Asia/Riyadh:20260828T204500
+SUMMARY:🟠 الفيحاء × 🟡 الاتحاد
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 4\n
+ 🟠 الفيحاء × 🟡 الاتحاد\n🏟️ مدينة المجم
+ عة الرياضية\n📍 المجمعة\n🔄 يتم تحديث الم
+ واعيد تلقائيًا عند أي تعديل رسمي.\nإعداد 
+ ونشر: م. محمد البخيت\nالمصدر: رابطة الدوري
+  السعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-37@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260903T185500
+DTEND;TZID=Asia/Riyadh:20260903T204000
+SUMMARY:🟠 الفيحاء × 🔴 الخلود
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🟠 الفيحاء × 🔴 الخلود\n🏟️ مدينة المجمع
+ ة الرياضية\n📍 المجمعة\n🔄 يتم تحديث المو
+ اعيد تلقائيًا عند أي تعديل رسمي.\nإعداد و
+ نشر: م. محمد البخيت\nالمصدر: رابطة الدوري 
+ السعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة المجمعة الرياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-51@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260908T210000
+DTEND;TZID=Asia/Riyadh:20260908T224500
+SUMMARY:🟡 الاتحاد × 🟠 الفيحاء
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🟡 الاتحاد × 🟠 الفيحاء\n🏟️ مدينة الملك 
+ عبدالله الرياضية (استاد الإنماء)\n📍 جدة\n
+ 🔄 يتم تحديث المواعيد تلقائيًا عند أي تع
+ ديل رسمي.\nإعداد ونشر: م. محمد البخيت\nالمص
+ در: رابطة الدوري السعودي للمحترفين\nمنصة 
+ دليلك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء)
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

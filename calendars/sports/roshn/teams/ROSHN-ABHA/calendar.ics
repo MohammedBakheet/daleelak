@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Saudi Pro League 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مباريات نادي أبها - دوري روشن 2026/2027
+X-WR-CALDESC:مواعيد مباريات نادي أبها في دوري ر
+ وشن السعودي
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:spl-2026-2027-match-1@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260813T191500
+DTEND;TZID=Asia/Riyadh:20260813T210000
+SUMMARY:🔵 أبها × 🟡 الحزم
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 1\n
+ 🔵 أبها × 🟡 الحزم\n🏟️ مدينة الأمير سلطا
+ ن بن عبدالعزيز الرياضية\n📍 أبها\n🔄 يتم ت
+ حديث المواعيد تلقائيًا عند أي تعديل رسمي
+ .\nإعداد ونشر: م. محمد البخيت\nالمصدر: رابط
+ ة الدوري السعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-18@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260822T210000
+DTEND;TZID=Asia/Riyadh:20260822T224500
+SUMMARY:🔵 أبها × 🟢 الأهلي
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 2\n
+ 🔵 أبها × 🟢 الأهلي\n🏟️ مدينة الملك عبدا
+ لله الرياضية (استاد الإنماء)\n📍 جدة\n🔄 ي
+ تم تحديث المواعيد تلقائيًا عند أي تعديل 
+ رسمي.\nإعداد ونشر: م. محمد البخيت\nالمصدر: 
+ رابطة الدوري السعودي للمحترفين\nمنصة دلي
+ لك
+LOCATION:مدينة الملك عبدالله الرياضية (استاد 
+ الإنماء)
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-21@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260825T190500
+DTEND;TZID=Asia/Riyadh:20260825T205000
+SUMMARY:🔵 أبها × 🟡 الخليج
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 3\n
+ 🔵 أبها × 🟡 الخليج\n🏟️ مدينة الأمير سلط
+ ان بن عبدالعزيز الرياضية\n📍 أبها\n🔄 يتم 
+ تحديث المواعيد تلقائيًا عند أي تعديل رسم
+ ي.\nإعداد ونشر: م. محمد البخيت\nالمصدر: راب
+ طة الدوري السعودي للمحترفين\nمنصة دليلك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-40@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260904T190000
+DTEND;TZID=Asia/Riyadh:20260904T204500
+SUMMARY:🔵 أبها × 🟢 الاتفاق
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 5\n
+ 🔵 أبها × 🟢 الاتفاق\n🏟️ مدينة الأمير سل
+ طان بن عبدالعزيز الرياضية\n📍 أبها\n🔄 يت
+ م تحديث المواعيد تلقائيًا عند أي تعديل ر
+ سمي.\nإعداد ونشر: م. محمد البخيت\nالمصدر: ر
+ ابطة الدوري السعودي للمحترفين\nمنصة دليل
+ ك
+LOCATION:مدينة الأمير سلطان بن عبدالعزيز الر
+ ياضية
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:spl-2026-2027-match-54@daleelak
+DTSTAMP:20260729T080000Z
+DTSTART;TZID=Asia/Riyadh:20260909T210000
+DTEND;TZID=Asia/Riyadh:20260909T224500
+SUMMARY:🟡 النصر × 🔵 أبها
+DESCRIPTION:🏆 دوري روشن السعودي\n📅 الجولة 6\n
+ 🟡 النصر × 🔵 أبها\n🏟️ استاد الأول بارك\n
+ 📍 الرياض\n🔄 يتم تحديث المواعيد تلقائيً
+ ا عند أي تعديل رسمي.\nإعداد ونشر: م. محمد ا
+ لبخيت\nالمصدر: رابطة الدوري السعودي للمح
+ ترفين\nمنصة دليلك
+LOCATION:استاد الأول بارك
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/sports.html
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
