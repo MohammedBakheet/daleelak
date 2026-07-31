@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T23:31:17.472Z",
+  "updatedAt": "2026-07-31T23:43:38.783Z",
   "id": "roshn",
   "title": "الدوري السعودي للمحترفين",
   "shortTitle": "روشن",
@@ -750,7 +750,7 @@
         "icon": "🟡",
         "colorName": "أصفر"
       },
-      "order": 100,
+      "order": 95,
       "infoPath": "calendars/sports/roshn/teams/ROSHN-ALNASSR/metadata.json",
       "folderPath": "calendars/sports/roshn/teams/ROSHN-ALNASSR/",
       "icsPath": "calendars/sports/roshn/teams/ROSHN-ALNASSR/calendar.ics",
