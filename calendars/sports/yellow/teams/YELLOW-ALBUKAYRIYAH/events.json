@@ -7,12 +7,14 @@
     "away": "الأنوار",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🟢 الأنوار",
+    "title": "🟣 البكيرية × ⚫ الأنوار",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeIcon": "🟣",
+    "awayIcon": "⚫",
+    "homeColor": "بنفسجي",
+    "awayColor": "رمادي",
+    "homeHex": "#65388F",
+    "awayHex": "#6C757D"
   },
   {
     "round": 2,
@@ -22,12 +24,13 @@
     "away": "البكيرية",
     "location": "مدينة الأمير هذلول بن عبدالعزيز الرياضية - نجران",
     "status": "confirmed",
-    "title": "🔵 الأخدود × 🔴 البكيرية",
+    "title": "🔵 الأخدود × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 3,
@@ -37,12 +40,14 @@
     "away": "العدالة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔵 العدالة",
+    "title": "🟣 البكيرية × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بنفسجي",
+    "awayColor": "كحلي",
+    "homeHex": "#65388F",
+    "awayHex": "#0F3759"
   },
   {
     "round": 4,
@@ -52,12 +57,14 @@
     "away": "البكيرية",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 البكيرية",
+    "title": "🔴 الجندل × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeIcon": "🔴",
+    "awayIcon": "🟣",
+    "homeColor": "أحمر",
+    "awayColor": "بنفسجي",
+    "homeHex": "#C01722",
+    "awayHex": "#65388F"
   },
   {
     "round": 5,
@@ -67,12 +74,13 @@
     "away": "ضمك",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔴 ضمك",
+    "title": "🟣 البكيرية × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أحمر",
+    "homeHex": "#65388F"
   },
   {
     "round": 6,
@@ -82,12 +90,14 @@
     "away": "البكيرية",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔴 البكيرية",
+    "title": "⚫ الطائي × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeIcon": "⚫",
+    "awayIcon": "🟣",
+    "homeColor": "رمادي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#6C757D",
+    "awayHex": "#65388F"
   },
   {
     "round": 7,
@@ -98,12 +108,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "tbd",
-    "title": "🔴 البكيرية × 🔵 الزلفي",
+    "title": "🟣 البكيرية × 🟠 الزلفي",
     "durationMinutes": null,
-    "homeIcon": "🔴",
-    "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeIcon": "🟣",
+    "awayIcon": "🟠",
+    "homeColor": "بنفسجي",
+    "awayColor": "برتقالي",
+    "homeHex": "#65388F",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 8,
@@ -113,12 +125,14 @@
     "away": "البكيرية",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔴 البكيرية",
+    "title": "🟢 العروبة × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "awayIcon": "🟣",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#015B65",
+    "awayHex": "#65388F"
   },
   {
     "round": 9,
@@ -128,12 +142,13 @@
     "away": "هجر",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × ⚫ هجر",
+    "title": "🟣 البكيرية × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "⚫",
-    "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "homeColor": "بنفسجي",
+    "awayColor": "أسود",
+    "homeHex": "#65388F"
   },
   {
     "round": 10,
@@ -143,12 +158,14 @@
     "away": "البكيرية",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔴 البكيرية",
+    "title": "🟤 الجبلين × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeIcon": "🟤",
+    "awayIcon": "🟣",
+    "homeColor": "بني داكن",
+    "awayColor": "بنفسجي",
+    "homeHex": "#4E1616",
+    "awayHex": "#65388F"
   },
   {
     "round": 11,
@@ -158,12 +175,13 @@
     "away": "البكيرية",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔴 البكيرية",
+    "title": "🟤 الصقر × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "بني",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 12,
@@ -173,12 +191,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔴 الوحدة",
+    "title": "🟣 البكيرية × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أحمر",
+    "homeHex": "#65388F",
+    "awayHex": "#BE0101"
   },
   {
     "round": 13,
@@ -188,12 +208,14 @@
     "away": "العلا",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × ⚫ العلا",
+    "title": "🟣 البكيرية × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "⚫",
-    "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "homeIcon": "🟣",
+    "awayIcon": "🔵",
+    "homeColor": "بنفسجي",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#65388F",
+    "awayHex": "#2F537D"
   },
   {
     "round": 14,
@@ -203,12 +225,14 @@
     "away": "البكيرية",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🔴 الرائد × 🔴 البكيرية",
+    "title": "🔴 الرائد × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayIcon": "🟣",
+    "homeColor": "أحمر داكن",
+    "awayColor": "بنفسجي",
+    "homeHex": "#950000",
+    "awayHex": "#65388F"
   },
   {
     "round": 15,
@@ -218,12 +242,14 @@
     "away": "جدة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🟢 جدة",
+    "title": "🟣 البكيرية × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeIcon": "🟣",
+    "awayIcon": "🔵",
+    "homeColor": "بنفسجي",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#65388F",
+    "awayHex": "#2E4074"
   },
   {
     "round": 16,
@@ -233,12 +259,13 @@
     "away": "البكيرية",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🔴 البكيرية",
+    "title": "🟡 الجيل × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "أصفر",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 17,
@@ -248,12 +275,13 @@
     "away": "النجمة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🟢 النجمة",
+    "title": "🟣 البكيرية × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أخضر",
+    "homeHex": "#65388F"
   },
   {
     "round": 18,
@@ -263,12 +291,14 @@
     "away": "البكيرية",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔴 البكيرية",
+    "title": "⚫ الأنوار × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeIcon": "⚫",
+    "awayIcon": "🟣",
+    "homeColor": "رمادي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#6C757D",
+    "awayHex": "#65388F"
   },
   {
     "round": 19,
@@ -278,11 +308,12 @@
     "away": "الأخدود",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔵 الأخدود",
+    "title": "🟣 البكيرية × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بنفسجي",
+    "awayColor": "أزرق",
+    "homeHex": "#65388F"
   }
 ]

@@ -12,7 +12,9 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "homeHex": "#BE0101",
+    "awayHex": "#0F3759"
   },
   {
     "round": 2,
@@ -22,12 +24,14 @@
     "away": "الطائي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🔵 الطائي",
+    "title": "🔵 العدالة × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayIcon": "⚫",
+    "homeColor": "كحلي",
+    "awayColor": "رمادي",
+    "homeHex": "#0F3759",
+    "awayHex": "#6C757D"
   },
   {
     "round": 3,
@@ -37,12 +41,14 @@
     "away": "العدالة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔵 العدالة",
+    "title": "🟣 البكيرية × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بنفسجي",
+    "awayColor": "كحلي",
+    "homeHex": "#65388F",
+    "awayHex": "#0F3759"
   },
   {
     "round": 4,
@@ -56,8 +62,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أزرق",
-    "awayColor": "بني"
+    "homeColor": "كحلي",
+    "awayColor": "بني",
+    "homeHex": "#0F3759"
   },
   {
     "round": 5,
@@ -67,12 +74,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🟣 الجندل",
+    "title": "🔵 العدالة × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "awayIcon": "🔴",
+    "homeColor": "كحلي",
+    "awayColor": "أحمر",
+    "homeHex": "#0F3759",
+    "awayHex": "#C01722"
   },
   {
     "round": 6,
@@ -87,7 +96,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 7,
@@ -98,12 +108,14 @@
     "away": "الأنوار",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "tbd",
-    "title": "🔵 العدالة × 🟢 الأنوار",
+    "title": "🔵 العدالة × ⚫ الأنوار",
     "durationMinutes": null,
     "homeIcon": "🔵",
-    "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "awayIcon": "⚫",
+    "homeColor": "كحلي",
+    "awayColor": "رمادي",
+    "homeHex": "#0F3759",
+    "awayHex": "#6C757D"
   },
   {
     "round": 8,
@@ -118,7 +130,8 @@
     "homeIcon": "🔵",
     "awayIcon": "🔵",
     "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 9,
@@ -132,8 +145,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟡",
-    "homeColor": "أزرق",
-    "awayColor": "أصفر"
+    "homeColor": "كحلي",
+    "awayColor": "أصفر",
+    "homeHex": "#0F3759"
   },
   {
     "round": 10,
@@ -143,12 +157,14 @@
     "away": "العدالة",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🔵 العدالة",
+    "title": "🔵 جدة × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeColor": "أزرق داكن",
+    "awayColor": "كحلي",
+    "homeHex": "#2E4074",
+    "awayHex": "#0F3759"
   },
   {
     "round": 11,
@@ -162,8 +178,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeColor": "كحلي",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#0F3759",
+    "awayHex": "#015B65"
   },
   {
     "round": 12,
@@ -173,12 +191,14 @@
     "away": "العدالة",
     "location": "ملعب نادي أحد - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🔵 العدالة",
+    "title": "🔵 العلا × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🔵",
-    "homeColor": "أسود",
-    "awayColor": "أزرق"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "كحلي",
+    "homeHex": "#2F537D",
+    "awayHex": "#0F3759"
   },
   {
     "round": 13,
@@ -192,8 +212,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "كحلي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#0F3759",
+    "awayHex": "#950000"
   },
   {
     "round": 14,
@@ -208,7 +230,8 @@
     "homeIcon": "🟢",
     "awayIcon": "🔵",
     "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 15,
@@ -222,8 +245,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "⚫",
-    "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "homeColor": "كحلي",
+    "awayColor": "أسود",
+    "homeHex": "#0F3759"
   },
   {
     "round": 16,
@@ -233,12 +257,14 @@
     "away": "العدالة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔵 العدالة",
+    "title": "🟤 الجبلين × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeColor": "بني داكن",
+    "awayColor": "كحلي",
+    "homeHex": "#4E1616",
+    "awayHex": "#0F3759"
   },
   {
     "round": 17,
@@ -248,12 +274,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🔵 الزلفي",
+    "title": "🔵 العدالة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayIcon": "🟠",
+    "homeColor": "كحلي",
+    "awayColor": "برتقالي",
+    "homeHex": "#0F3759",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 18,
@@ -267,8 +295,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "كحلي",
+    "awayColor": "أحمر",
+    "homeHex": "#0F3759",
+    "awayHex": "#BE0101"
   },
   {
     "round": 19,
@@ -278,11 +308,13 @@
     "away": "العدالة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔵 العدالة",
+    "title": "⚫ الطائي × 🔵 العدالة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "⚫",
     "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeColor": "رمادي",
+    "awayColor": "كحلي",
+    "homeHex": "#6C757D",
+    "awayHex": "#0F3759"
   }
 ]

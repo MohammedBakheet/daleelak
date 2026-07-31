@@ -30,8 +30,9 @@
   "teamId": "ALBUKAYRIYAH",
   "teamName": "البكيرية",
   "teamColor": {
-    "icon": "🔴",
-    "colorName": "أحمر"
+    "hex": "#65388F",
+    "icon": "🟣",
+    "colorName": "بنفسجي"
   },
   "order": 100
 }

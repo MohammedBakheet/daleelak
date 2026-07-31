@@ -30,8 +30,9 @@
   "teamId": "ALANWAR",
   "teamName": "الأنوار",
   "teamColor": {
-    "icon": "🟢",
-    "colorName": "أخضر"
+    "hex": "#6C757D",
+    "icon": "⚫",
+    "colorName": "رمادي"
   },
   "order": 100
 }

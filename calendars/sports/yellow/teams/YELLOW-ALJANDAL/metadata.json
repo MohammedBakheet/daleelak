@@ -30,8 +30,9 @@
   "teamId": "ALJANDAL",
   "teamName": "الجندل",
   "teamColor": {
-    "icon": "🟣",
-    "colorName": "بنفسجي"
+    "hex": "#C01722",
+    "icon": "🔴",
+    "colorName": "أحمر"
   },
   "order": 100
 }

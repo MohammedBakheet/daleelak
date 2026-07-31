@@ -30,8 +30,9 @@
   "teamId": "ALADALAH",
   "teamName": "العدالة",
   "teamColor": {
+    "hex": "#0F3759",
     "icon": "🔵",
-    "colorName": "أزرق"
+    "colorName": "كحلي"
   },
   "order": 100
 }

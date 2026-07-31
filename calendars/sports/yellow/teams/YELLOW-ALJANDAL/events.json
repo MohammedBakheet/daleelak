@@ -7,12 +7,13 @@
     "away": "الجندل",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟢 النجمة × 🟣 الجندل",
+    "title": "🟢 النجمة × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "أخضر",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   },
   {
     "round": 2,
@@ -22,12 +23,13 @@
     "away": "الصقر",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟤 الصقر",
+    "title": "🔴 الجندل × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟤",
-    "homeColor": "بنفسجي",
-    "awayColor": "بني"
+    "homeColor": "أحمر",
+    "awayColor": "بني",
+    "homeHex": "#C01722"
   },
   {
     "round": 3,
@@ -37,12 +39,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🟣 الجندل",
+    "title": "⚫ الطائي × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "homeIcon": "⚫",
+    "awayIcon": "🔴",
+    "homeColor": "رمادي",
+    "awayColor": "أحمر",
+    "homeHex": "#6C757D",
+    "awayHex": "#C01722"
   },
   {
     "round": 4,
@@ -52,12 +56,14 @@
     "away": "البكيرية",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 البكيرية",
+    "title": "🔴 الجندل × 🟣 البكيرية",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeIcon": "🔴",
+    "awayIcon": "🟣",
+    "homeColor": "أحمر",
+    "awayColor": "بنفسجي",
+    "homeHex": "#C01722",
+    "awayHex": "#65388F"
   },
   {
     "round": 5,
@@ -67,12 +73,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🟣 الجندل",
+    "title": "🔵 العدالة × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "awayIcon": "🔴",
+    "homeColor": "كحلي",
+    "awayColor": "أحمر",
+    "homeHex": "#0F3759",
+    "awayHex": "#C01722"
   },
   {
     "round": 6,
@@ -82,12 +90,14 @@
     "away": "الوحدة",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 الوحدة",
+    "title": "🔴 الجندل × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر",
+    "awayColor": "أحمر",
+    "homeHex": "#C01722",
+    "awayHex": "#BE0101"
   },
   {
     "round": 7,
@@ -98,12 +108,13 @@
     "away": "الأخدود",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "tbd",
-    "title": "🟣 الجندل × 🔵 الأخدود",
+    "title": "🔴 الجندل × 🔵 الأخدود",
     "durationMinutes": null,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔵",
-    "homeColor": "بنفسجي",
-    "awayColor": "أزرق"
+    "homeColor": "أحمر",
+    "awayColor": "أزرق",
+    "homeHex": "#C01722"
   },
   {
     "round": 8,
@@ -113,12 +124,13 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🟣 الجندل",
+    "title": "🟡 الجيل × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "أصفر",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   },
   {
     "round": 9,
@@ -128,12 +140,13 @@
     "away": "ضمك",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 ضمك",
+    "title": "🔴 الجندل × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر",
+    "awayColor": "أحمر",
+    "homeHex": "#C01722"
   },
   {
     "round": 10,
@@ -143,12 +156,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟣 الجندل",
+    "title": "🟠 الزلفي × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "homeIcon": "🟠",
+    "awayIcon": "🔴",
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00",
+    "awayHex": "#C01722"
   },
   {
     "round": 11,
@@ -158,12 +173,13 @@
     "away": "هجر",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × ⚫ هجر",
+    "title": "🔴 الجندل × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "⚫",
-    "homeColor": "بنفسجي",
-    "awayColor": "أسود"
+    "homeColor": "أحمر",
+    "awayColor": "أسود",
+    "homeHex": "#C01722"
   },
   {
     "round": 12,
@@ -173,12 +189,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🟣 الجندل",
+    "title": "⚫ الأنوار × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🟣",
-    "homeColor": "أخضر",
-    "awayColor": "بنفسجي"
+    "homeIcon": "⚫",
+    "awayIcon": "🔴",
+    "homeColor": "رمادي",
+    "awayColor": "أحمر",
+    "homeHex": "#6C757D",
+    "awayHex": "#C01722"
   },
   {
     "round": 13,
@@ -188,12 +206,14 @@
     "away": "جدة",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 جدة",
+    "title": "🔴 الجندل × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeIcon": "🔴",
+    "awayIcon": "🔵",
+    "homeColor": "أحمر",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#C01722",
+    "awayHex": "#2E4074"
   },
   {
     "round": 14,
@@ -203,12 +223,14 @@
     "away": "الجندل",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🟣 الجندل",
+    "title": "🟤 الجبلين × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🟣",
-    "homeColor": "أحمر",
-    "awayColor": "بنفسجي"
+    "homeIcon": "🟤",
+    "awayIcon": "🔴",
+    "homeColor": "بني داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#4E1616",
+    "awayHex": "#C01722"
   },
   {
     "round": 15,
@@ -218,12 +240,14 @@
     "away": "العروبة",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 العروبة",
+    "title": "🔴 الجندل × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#C01722",
+    "awayHex": "#015B65"
   },
   {
     "round": 16,
@@ -233,12 +257,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🔴 الرائد × 🟣 الجندل",
+    "title": "🔴 الرائد × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🟣",
-    "homeColor": "أحمر",
-    "awayColor": "بنفسجي"
+    "awayIcon": "🔴",
+    "homeColor": "أحمر داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#950000",
+    "awayHex": "#C01722"
   },
   {
     "round": 17,
@@ -248,12 +274,14 @@
     "away": "العلا",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × ⚫ العلا",
+    "title": "🔴 الجندل × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
-    "awayIcon": "⚫",
-    "homeColor": "بنفسجي",
-    "awayColor": "أسود"
+    "homeIcon": "🔴",
+    "awayIcon": "🔵",
+    "homeColor": "أحمر",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#C01722",
+    "awayHex": "#2F537D"
   },
   {
     "round": 18,
@@ -263,12 +291,13 @@
     "away": "النجمة",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 النجمة",
+    "title": "🔴 الجندل × 🟢 النجمة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر",
+    "awayColor": "أخضر",
+    "homeHex": "#C01722"
   },
   {
     "round": 19,
@@ -278,11 +307,12 @@
     "away": "الجندل",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🟣 الجندل",
+    "title": "🟤 الصقر × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "بني",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   }
 ]

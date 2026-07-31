@@ -30,8 +30,9 @@
   "teamId": "ALJABALAIN",
   "teamName": "الجبلين",
   "teamColor": {
-    "icon": "🔴",
-    "colorName": "أحمر"
+    "hex": "#4E1616",
+    "icon": "🟤",
+    "colorName": "بني داكن"
   },
   "order": 100
 }
