@@ -20,16 +20,16 @@
     "colorName": "أحمر"
   },
   "الجبلين": {
-    "icon": "🔴",
-    "colorName": "أحمر"
+    "icon": "🟤",
+    "colorName": "بني"
   },
   "العروبة": {
-    "icon": "🟢",
-    "colorName": "أخضر"
+    "icon": "🟡",
+    "colorName": "أصفر"
   },
   "البكيرية": {
-    "icon": "🔴",
-    "colorName": "أحمر"
+    "icon": "🟣",
+    "colorName": "بنفسجي"
   },
   "الوحدة": {
     "icon": "🔴",
@@ -48,8 +48,8 @@
     "colorName": "أزرق"
   },
   "جدة": {
-    "icon": "🟢",
-    "colorName": "أخضر"
+    "icon": "🔴",
+    "colorName": "أحمر"
   },
   "الأنوار": {
     "icon": "🟢",
