@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T23:43:38.783Z",
+  "updatedAt": "2026-07-31T23:44:22.477Z",
   "id": "roshn",
   "title": "الدوري السعودي للمحترفين",
   "shortTitle": "روشن",
@@ -794,7 +794,7 @@
         "icon": "🔵",
         "colorName": "أزرق"
       },
-      "order": 100,
+      "order": 96,
       "infoPath": "calendars/sports/roshn/teams/ROSHN-ALHILAL/metadata.json",
       "folderPath": "calendars/sports/roshn/teams/ROSHN-ALHILAL/",
       "icsPath": "calendars/sports/roshn/teams/ROSHN-ALHILAL/calendar.ics",

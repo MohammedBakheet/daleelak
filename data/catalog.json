@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-07-31T23:43:38.781Z",
+  "updatedAt": "2026-07-31T23:44:22.476Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -437,7 +437,7 @@
         "icon": "🔵",
         "colorName": "أزرق"
       },
-      "order": 100,
+      "order": 96,
       "infoPath": "calendars/sports/roshn/teams/ROSHN-ALHILAL/metadata.json",
       "folderPath": "calendars/sports/roshn/teams/ROSHN-ALHILAL/",
       "icsPath": "calendars/sports/roshn/teams/ROSHN-ALHILAL/calendar.ics",
