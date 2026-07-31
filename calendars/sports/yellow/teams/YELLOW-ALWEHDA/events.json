@@ -12,7 +12,9 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "homeHex": "#BE0101",
+    "awayHex": "#0F3759"
   },
   {
     "round": 2,
@@ -22,12 +24,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 الوحدة",
+    "title": "🟠 الزلفي × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00",
+    "awayHex": "#BE0101"
   },
   {
     "round": 3,
@@ -42,7 +46,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔴",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 4,
@@ -52,12 +57,14 @@
     "away": "الوحدة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔴 الوحدة",
+    "title": "🟤 الجبلين × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بني داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#4E1616",
+    "awayHex": "#BE0101"
   },
   {
     "round": 5,
@@ -72,7 +79,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "أزرق",
+    "homeHex": "#BE0101"
   },
   {
     "round": 6,
@@ -82,12 +90,14 @@
     "away": "الوحدة",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 الوحدة",
+    "title": "🔴 الجندل × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر",
+    "awayColor": "أحمر",
+    "homeHex": "#C01722",
+    "awayHex": "#BE0101"
   },
   {
     "round": 7,
@@ -98,12 +108,14 @@
     "away": "الطائي",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "tbd",
-    "title": "🔴 الوحدة × 🔵 الطائي",
+    "title": "🔴 الوحدة × ⚫ الطائي",
     "durationMinutes": null,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "homeHex": "#BE0101",
+    "awayHex": "#6C757D"
   },
   {
     "round": 8,
@@ -113,12 +125,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔴 الوحدة",
+    "title": "⚫ الأنوار × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "⚫",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "رمادي",
+    "awayColor": "أحمر",
+    "homeHex": "#6C757D",
+    "awayHex": "#BE0101"
   },
   {
     "round": 9,
@@ -133,7 +147,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟤",
     "homeColor": "أحمر",
-    "awayColor": "بني"
+    "awayColor": "بني",
+    "homeHex": "#BE0101"
   },
   {
     "round": 10,
@@ -147,8 +162,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#950000",
+    "awayHex": "#BE0101"
   },
   {
     "round": 11,
@@ -163,7 +180,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟡",
     "homeColor": "أحمر",
-    "awayColor": "أصفر"
+    "awayColor": "أصفر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 12,
@@ -173,12 +191,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔴 الوحدة",
+    "title": "🟣 البكيرية × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أحمر",
+    "homeHex": "#65388F",
+    "awayHex": "#BE0101"
   },
   {
     "round": 13,
@@ -193,7 +213,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟢",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 14,
@@ -208,7 +229,8 @@
     "homeIcon": "⚫",
     "awayIcon": "🔴",
     "homeColor": "أسود",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر",
+    "awayHex": "#BE0101"
   },
   {
     "round": 15,
@@ -218,12 +240,14 @@
     "away": "العلا",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × ⚫ العلا",
+    "title": "🔴 الوحدة × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#BE0101",
+    "awayHex": "#2F537D"
   },
   {
     "round": 16,
@@ -237,8 +261,10 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر",
+    "homeHex": "#015B65",
+    "awayHex": "#BE0101"
   },
   {
     "round": 17,
@@ -248,12 +274,14 @@
     "away": "جدة",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × 🟢 جدة",
+    "title": "🔴 الوحدة × 🔵 جدة",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🟢",
+    "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أزرق داكن",
+    "homeHex": "#BE0101",
+    "awayHex": "#2E4074"
   },
   {
     "round": 18,
@@ -267,8 +295,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "كحلي",
+    "awayColor": "أحمر",
+    "homeHex": "#0F3759",
+    "awayHex": "#BE0101"
   },
   {
     "round": 19,
@@ -278,11 +308,13 @@
     "away": "الزلفي",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × 🔵 الزلفي",
+    "title": "🔴 الوحدة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "homeHex": "#BE0101",
+    "awayHex": "#FF6F00"
   }
 ]

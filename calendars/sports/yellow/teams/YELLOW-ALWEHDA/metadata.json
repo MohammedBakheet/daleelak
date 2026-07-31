@@ -30,6 +30,7 @@
   "teamId": "ALWEHDA",
   "teamName": "الوحدة",
   "teamColor": {
+    "hex": "#BE0101",
     "icon": "🔴",
     "colorName": "أحمر"
   },

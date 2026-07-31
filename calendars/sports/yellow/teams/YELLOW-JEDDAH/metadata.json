@@ -30,8 +30,9 @@
   "teamId": "JEDDAH",
   "teamName": "جدة",
   "teamColor": {
-    "icon": "🟢",
-    "colorName": "أخضر"
+    "hex": "#2E4074",
+    "icon": "🔵",
+    "colorName": "أزرق داكن"
   },
   "order": 100
 }

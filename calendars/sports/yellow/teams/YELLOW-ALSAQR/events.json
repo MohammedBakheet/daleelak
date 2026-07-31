@@ -22,12 +22,13 @@
     "away": "الصقر",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟤 الصقر",
+    "title": "🔴 الجندل × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟤",
-    "homeColor": "بنفسجي",
-    "awayColor": "بني"
+    "homeColor": "أحمر",
+    "awayColor": "بني",
+    "homeHex": "#C01722"
   },
   {
     "round": 3,
@@ -56,8 +57,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أزرق",
-    "awayColor": "بني"
+    "homeColor": "كحلي",
+    "awayColor": "بني",
+    "homeHex": "#0F3759"
   },
   {
     "round": 5,
@@ -67,12 +69,13 @@
     "away": "الأنوار",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🟢 الأنوار",
+    "title": "🟤 الصقر × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🟢",
+    "awayIcon": "⚫",
     "homeColor": "بني",
-    "awayColor": "أخضر"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 6,
@@ -82,12 +85,13 @@
     "away": "الصقر",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🟤 الصقر",
+    "title": "🔵 جدة × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أخضر",
-    "awayColor": "بني"
+    "homeColor": "أزرق داكن",
+    "awayColor": "بني",
+    "homeHex": "#2E4074"
   },
   {
     "round": 7,
@@ -98,12 +102,13 @@
     "away": "الجبلين",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "tbd",
-    "title": "🟤 الصقر × 🔴 الجبلين",
+    "title": "🟤 الصقر × 🟤 الجبلين",
     "durationMinutes": null,
     "homeIcon": "🟤",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "بني",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 8,
@@ -117,8 +122,9 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🟤",
-    "homeColor": "أحمر",
-    "awayColor": "بني"
+    "homeColor": "أحمر داكن",
+    "awayColor": "بني",
+    "homeHex": "#950000"
   },
   {
     "round": 9,
@@ -133,7 +139,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟤",
     "homeColor": "أحمر",
-    "awayColor": "بني"
+    "awayColor": "بني",
+    "homeHex": "#BE0101"
   },
   {
     "round": 10,
@@ -143,12 +150,13 @@
     "away": "الطائي",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔵 الطائي",
+    "title": "🟤 الصقر × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "بني",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 11,
@@ -158,12 +166,13 @@
     "away": "البكيرية",
     "location": "ملعب نادي الرائد - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔴 البكيرية",
+    "title": "🟤 الصقر × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔴",
+    "awayIcon": "🟣",
     "homeColor": "بني",
-    "awayColor": "أحمر"
+    "awayColor": "بنفسجي",
+    "awayHex": "#65388F"
   },
   {
     "round": 12,
@@ -193,7 +202,8 @@
     "homeIcon": "🟤",
     "awayIcon": "🟢",
     "homeColor": "بني",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 14,
@@ -203,12 +213,13 @@
     "away": "الصقر",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🟤 الصقر",
+    "title": "🔵 العلا × 🟤 الصقر",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🟤",
-    "homeColor": "أسود",
-    "awayColor": "بني"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "بني",
+    "homeHex": "#2F537D"
   },
   {
     "round": 15,
@@ -218,12 +229,13 @@
     "away": "الزلفي",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔵 الزلفي",
+    "title": "🟤 الصقر × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "بني",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 16,
@@ -278,11 +290,12 @@
     "away": "الجندل",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🟣 الجندل",
+    "title": "🟤 الصقر × 🔴 الجندل",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🟣",
+    "awayIcon": "🔴",
     "homeColor": "بني",
-    "awayColor": "بنفسجي"
+    "awayColor": "أحمر",
+    "awayHex": "#C01722"
   }
 ]

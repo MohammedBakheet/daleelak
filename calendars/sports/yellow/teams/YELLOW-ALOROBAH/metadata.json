@@ -30,8 +30,9 @@
   "teamId": "ALOROBAH",
   "teamName": "العروبة",
   "teamColor": {
+    "hex": "#015B65",
     "icon": "🟢",
-    "colorName": "أخضر"
+    "colorName": "أخضر داكن مائل للفيروزي"
   },
   "order": 100
 }

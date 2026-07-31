@@ -30,8 +30,9 @@
   "teamId": "ALRAED",
   "teamName": "الرائد",
   "teamColor": {
+    "hex": "#950000",
     "icon": "🔴",
-    "colorName": "أحمر"
+    "colorName": "أحمر داكن"
   },
   "order": 100
 }

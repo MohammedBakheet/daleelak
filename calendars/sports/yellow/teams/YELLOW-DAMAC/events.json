@@ -27,7 +27,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟢",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 3,
@@ -42,7 +43,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔴",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر",
+    "homeHex": "#BE0101"
   },
   {
     "round": 4,
@@ -52,12 +54,13 @@
     "away": "العلا",
     "location": "ملعب نادي ضمك - خميس مشيط",
     "status": "confirmed",
-    "title": "🔴 ضمك × ⚫ العلا",
+    "title": "🔴 ضمك × 🔵 العلا",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "⚫",
+    "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أسود"
+    "awayColor": "أزرق رمادي",
+    "awayHex": "#2F537D"
   },
   {
     "round": 5,
@@ -67,12 +70,13 @@
     "away": "ضمك",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "confirmed",
-    "title": "🔴 البكيرية × 🔴 ضمك",
+    "title": "🟣 البكيرية × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟣",
     "awayIcon": "🔴",
-    "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "homeColor": "بنفسجي",
+    "awayColor": "أحمر",
+    "homeHex": "#65388F"
   },
   {
     "round": 6,
@@ -87,7 +91,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔵",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "كحلي",
+    "awayHex": "#0F3759"
   },
   {
     "round": 7,
@@ -113,12 +118,13 @@
     "away": "الطائي",
     "location": "ملعب نادي ضمك - خميس مشيط",
     "status": "confirmed",
-    "title": "🔴 ضمك × 🔵 الطائي",
+    "title": "🔴 ضمك × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "⚫",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 9,
@@ -128,12 +134,13 @@
     "away": "ضمك",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🔴 ضمك",
+    "title": "🔴 الجندل × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🔴",
-    "homeColor": "بنفسجي",
-    "awayColor": "أحمر"
+    "homeColor": "أحمر",
+    "awayColor": "أحمر",
+    "homeHex": "#C01722"
   },
   {
     "round": 10,
@@ -158,12 +165,13 @@
     "away": "الأنوار",
     "location": "مدينة الأمير سلطان بن عبدالعزيز الرياضية - أبها",
     "status": "confirmed",
-    "title": "🔴 ضمك × 🟢 الأنوار",
+    "title": "🔴 ضمك × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🟢",
+    "awayIcon": "⚫",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "رمادي",
+    "awayHex": "#6C757D"
   },
   {
     "round": 12,
@@ -173,12 +181,13 @@
     "away": "ضمك",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🔴 ضمك",
+    "title": "🔵 جدة × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أحمر",
+    "homeHex": "#2E4074"
   },
   {
     "round": 13,
@@ -203,12 +212,13 @@
     "away": "ضمك",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 ضمك",
+    "title": "🟠 الزلفي × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 15,
@@ -223,7 +233,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🔴",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "أحمر داكن",
+    "awayHex": "#950000"
   },
   {
     "round": 16,
@@ -248,12 +259,13 @@
     "away": "الجبلين",
     "location": "ملعب نادي ضمك - خميس مشيط",
     "status": "confirmed",
-    "title": "🔴 ضمك × 🔴 الجبلين",
+    "title": "🔴 ضمك × 🟤 الجبلين",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔴",
+    "awayIcon": "🟤",
     "homeColor": "أحمر",
-    "awayColor": "أحمر"
+    "awayColor": "بني داكن",
+    "awayHex": "#4E1616"
   },
   {
     "round": 18,
@@ -282,7 +294,8 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر",
+    "homeHex": "#015B65"
   }
 ]

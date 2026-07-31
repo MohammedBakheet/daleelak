@@ -30,8 +30,9 @@
   "teamId": "ALULA",
   "teamName": "العلا",
   "teamColor": {
-    "icon": "⚫",
-    "colorName": "أسود"
+    "hex": "#2F537D",
+    "icon": "🔵",
+    "colorName": "أزرق رمادي"
   },
   "order": 100
 }

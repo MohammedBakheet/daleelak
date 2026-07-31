@@ -11,8 +11,10 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#015B65",
+    "awayHex": "#950000"
   },
   {
     "round": 2,
@@ -27,7 +29,8 @@
     "homeIcon": "🔴",
     "awayIcon": "🟢",
     "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 3,
@@ -37,12 +40,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔵 الزلفي",
+    "title": "🟢 العروبة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayIcon": "🟠",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "برتقالي",
+    "homeHex": "#015B65",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 4,
@@ -52,12 +57,14 @@
     "away": "العروبة",
     "location": "ملعب نادي جدة - جدة",
     "status": "confirmed",
-    "title": "🟢 جدة × 🟢 العروبة",
+    "title": "🔵 جدة × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
+    "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeColor": "أزرق داكن",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#2E4074",
+    "awayHex": "#015B65"
   },
   {
     "round": 5,
@@ -71,8 +78,9 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🟡",
-    "homeColor": "أخضر",
-    "awayColor": "أصفر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أصفر",
+    "homeHex": "#015B65"
   },
   {
     "round": 6,
@@ -82,12 +90,14 @@
     "away": "العروبة",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🟢 العروبة",
+    "title": "🟤 الجبلين × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
+    "homeIcon": "🟤",
     "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeColor": "بني داكن",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#4E1616",
+    "awayHex": "#015B65"
   },
   {
     "round": 7,
@@ -103,7 +113,8 @@
     "homeIcon": "⚫",
     "awayIcon": "🟢",
     "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 8,
@@ -113,12 +124,14 @@
     "away": "البكيرية",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔴 البكيرية",
+    "title": "🟢 العروبة × 🟣 البكيرية",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "awayIcon": "🟣",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "بنفسجي",
+    "homeHex": "#015B65",
+    "awayHex": "#65388F"
   },
   {
     "round": 9,
@@ -128,12 +141,14 @@
     "away": "العروبة",
     "location": "مدينة الأمير محمد بن عبدالعزيز الرياضية - المدينة المنورة",
     "status": "confirmed",
-    "title": "⚫ العلا × 🟢 العروبة",
+    "title": "🔵 العلا × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "⚫",
+    "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أسود",
-    "awayColor": "أخضر"
+    "homeColor": "أزرق رمادي",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#2F537D",
+    "awayHex": "#015B65"
   },
   {
     "round": 10,
@@ -143,12 +158,14 @@
     "away": "الأنوار",
     "location": "ملعب جامعة الجوف - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🟢 الأنوار",
+    "title": "🟢 العروبة × ⚫ الأنوار",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "awayIcon": "⚫",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "رمادي",
+    "homeHex": "#015B65",
+    "awayHex": "#6C757D"
   },
   {
     "round": 11,
@@ -162,8 +179,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔵",
     "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeColor": "كحلي",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#0F3759",
+    "awayHex": "#015B65"
   },
   {
     "round": 12,
@@ -177,8 +196,9 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🟢",
-    "homeColor": "أخضر",
-    "awayColor": "أخضر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أخضر",
+    "homeHex": "#015B65"
   },
   {
     "round": 13,
@@ -193,7 +213,8 @@
     "homeIcon": "🟤",
     "awayIcon": "🟢",
     "homeColor": "بني",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 14,
@@ -203,12 +224,14 @@
     "away": "الطائي",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔵 الطائي",
+    "title": "🟢 العروبة × ⚫ الطائي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayIcon": "⚫",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "رمادي",
+    "homeHex": "#015B65",
+    "awayHex": "#6C757D"
   },
   {
     "round": 15,
@@ -218,12 +241,14 @@
     "away": "العروبة",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟣 الجندل × 🟢 العروبة",
+    "title": "🔴 الجندل × 🟢 العروبة",
     "durationMinutes": 105,
-    "homeIcon": "🟣",
+    "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "بنفسجي",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#C01722",
+    "awayHex": "#015B65"
   },
   {
     "round": 16,
@@ -237,8 +262,10 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر",
+    "homeHex": "#015B65",
+    "awayHex": "#BE0101"
   },
   {
     "round": 17,
@@ -253,7 +280,8 @@
     "homeIcon": "🔵",
     "awayIcon": "🟢",
     "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "awayHex": "#015B65"
   },
   {
     "round": 18,
@@ -267,8 +295,10 @@
     "durationMinutes": 105,
     "homeIcon": "🔴",
     "awayIcon": "🟢",
-    "homeColor": "أحمر",
-    "awayColor": "أخضر"
+    "homeColor": "أحمر داكن",
+    "awayColor": "أخضر داكن مائل للفيروزي",
+    "homeHex": "#950000",
+    "awayHex": "#015B65"
   },
   {
     "round": 19,
@@ -282,7 +312,8 @@
     "durationMinutes": 105,
     "homeIcon": "🟢",
     "awayIcon": "🔴",
-    "homeColor": "أخضر",
-    "awayColor": "أحمر"
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "أحمر",
+    "homeHex": "#015B65"
   }
 ]

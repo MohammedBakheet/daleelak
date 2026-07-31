@@ -7,12 +7,13 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🟡 الجيل × 🔵 الزلفي",
+    "title": "🟡 الجيل × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟡",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أصفر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 2,
@@ -22,12 +23,14 @@
     "away": "الوحدة",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 الوحدة",
+    "title": "🟠 الزلفي × 🔴 الوحدة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00",
+    "awayHex": "#BE0101"
   },
   {
     "round": 3,
@@ -37,12 +40,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي العروبة - الجوف",
     "status": "confirmed",
-    "title": "🟢 العروبة × 🔵 الزلفي",
+    "title": "🟢 العروبة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayIcon": "🟠",
+    "homeColor": "أخضر داكن مائل للفيروزي",
+    "awayColor": "برتقالي",
+    "homeHex": "#015B65",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 4,
@@ -52,12 +57,13 @@
     "away": "هجر",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × ⚫ هجر",
+    "title": "🟠 الزلفي × ⚫ هجر",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "⚫",
-    "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "homeColor": "برتقالي",
+    "awayColor": "أسود",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 5,
@@ -67,12 +73,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔵 الطائي × 🔵 الزلفي",
+    "title": "⚫ الطائي × 🟠 الزلفي",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeIcon": "⚫",
+    "awayIcon": "🟠",
+    "homeColor": "رمادي",
+    "awayColor": "برتقالي",
+    "homeHex": "#6C757D",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 6,
@@ -82,12 +90,14 @@
     "away": "الرائد",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 الرائد",
+    "title": "🟠 الزلفي × 🔴 الرائد",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر داكن",
+    "homeHex": "#FF6F00",
+    "awayHex": "#950000"
   },
   {
     "round": 7,
@@ -98,12 +108,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي البكيرية - البكيرية",
     "status": "tbd",
-    "title": "🔴 البكيرية × 🔵 الزلفي",
+    "title": "🟣 البكيرية × 🟠 الزلفي",
     "durationMinutes": null,
-    "homeIcon": "🔴",
-    "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeIcon": "🟣",
+    "awayIcon": "🟠",
+    "homeColor": "بنفسجي",
+    "awayColor": "برتقالي",
+    "homeHex": "#65388F",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 8,
@@ -113,12 +125,14 @@
     "away": "العلا",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × ⚫ العلا",
+    "title": "🟠 الزلفي × 🔵 العلا",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "⚫",
-    "homeColor": "أزرق",
-    "awayColor": "أسود"
+    "homeIcon": "🟠",
+    "awayIcon": "🔵",
+    "homeColor": "برتقالي",
+    "awayColor": "أزرق رمادي",
+    "homeHex": "#FF6F00",
+    "awayHex": "#2F537D"
   },
   {
     "round": 9,
@@ -128,12 +142,13 @@
     "away": "الزلفي",
     "location": "ملعب نادي النجمة - عنيزة",
     "status": "confirmed",
-    "title": "🟢 النجمة × 🔵 الزلفي",
+    "title": "🟢 النجمة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟢",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 10,
@@ -143,12 +158,14 @@
     "away": "الجندل",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟣 الجندل",
+    "title": "🟠 الزلفي × 🔴 الجندل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟣",
-    "homeColor": "أزرق",
-    "awayColor": "بنفسجي"
+    "homeIcon": "🟠",
+    "awayIcon": "🔴",
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00",
+    "awayHex": "#C01722"
   },
   {
     "round": 11,
@@ -158,12 +175,14 @@
     "away": "جدة",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟢 جدة",
+    "title": "🟠 الزلفي × 🔵 جدة",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
-    "awayIcon": "🟢",
-    "homeColor": "أزرق",
-    "awayColor": "أخضر"
+    "homeIcon": "🟠",
+    "awayIcon": "🔵",
+    "homeColor": "برتقالي",
+    "awayColor": "أزرق داكن",
+    "homeHex": "#FF6F00",
+    "awayHex": "#2E4074"
   },
   {
     "round": 12,
@@ -173,12 +192,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالعزيز بن مساعد الرياضية - حائل",
     "status": "confirmed",
-    "title": "🔴 الجبلين × 🔵 الزلفي",
+    "title": "🟤 الجبلين × 🟠 الزلفي",
     "durationMinutes": 105,
-    "homeIcon": "🔴",
-    "awayIcon": "🔵",
-    "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "homeIcon": "🟤",
+    "awayIcon": "🟠",
+    "homeColor": "بني داكن",
+    "awayColor": "برتقالي",
+    "homeHex": "#4E1616",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 13,
@@ -188,12 +209,14 @@
     "away": "الزلفي",
     "location": "ملعب نادي الأنوار - حوطة بني تميم",
     "status": "confirmed",
-    "title": "🟢 الأنوار × 🔵 الزلفي",
+    "title": "⚫ الأنوار × 🟠 الزلفي",
     "durationMinutes": 105,
-    "homeIcon": "🟢",
-    "awayIcon": "🔵",
-    "homeColor": "أخضر",
-    "awayColor": "أزرق"
+    "homeIcon": "⚫",
+    "awayIcon": "🟠",
+    "homeColor": "رمادي",
+    "awayColor": "برتقالي",
+    "homeHex": "#6C757D",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 14,
@@ -203,12 +226,13 @@
     "away": "ضمك",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔴 ضمك",
+    "title": "🟠 الزلفي × 🔴 ضمك",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔴",
-    "homeColor": "أزرق",
-    "awayColor": "أحمر"
+    "homeColor": "برتقالي",
+    "awayColor": "أحمر",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 15,
@@ -218,12 +242,13 @@
     "away": "الزلفي",
     "location": "مدينة الملك عبدالله بن عبدالعزيز الرياضية - بريدة",
     "status": "confirmed",
-    "title": "🟤 الصقر × 🔵 الزلفي",
+    "title": "🟤 الصقر × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🟤",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "بني",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 16,
@@ -233,12 +258,13 @@
     "away": "الأخدود",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🔵 الأخدود",
+    "title": "🟠 الزلفي × 🔵 الأخدود",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "homeColor": "برتقالي",
+    "awayColor": "أزرق",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 17,
@@ -248,12 +274,14 @@
     "away": "الزلفي",
     "location": "مدينة الأمير عبدالله بن جلوي الرياضية - الأحساء",
     "status": "confirmed",
-    "title": "🔵 العدالة × 🔵 الزلفي",
+    "title": "🔵 العدالة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🔵",
-    "awayIcon": "🔵",
-    "homeColor": "أزرق",
-    "awayColor": "أزرق"
+    "awayIcon": "🟠",
+    "homeColor": "كحلي",
+    "awayColor": "برتقالي",
+    "homeHex": "#0F3759",
+    "awayHex": "#FF6F00"
   },
   {
     "round": 18,
@@ -263,12 +291,13 @@
     "away": "الجيل",
     "location": "ملعب نادي الزلفي - الزلفي",
     "status": "confirmed",
-    "title": "🔵 الزلفي × 🟡 الجيل",
+    "title": "🟠 الزلفي × 🟡 الجيل",
     "durationMinutes": 105,
-    "homeIcon": "🔵",
+    "homeIcon": "🟠",
     "awayIcon": "🟡",
-    "homeColor": "أزرق",
-    "awayColor": "أصفر"
+    "homeColor": "برتقالي",
+    "awayColor": "أصفر",
+    "homeHex": "#FF6F00"
   },
   {
     "round": 19,
@@ -278,11 +307,13 @@
     "away": "الزلفي",
     "location": "مدينة الملك عبدالعزيز الرياضية - مكة المكرمة",
     "status": "confirmed",
-    "title": "🔴 الوحدة × 🔵 الزلفي",
+    "title": "🔴 الوحدة × 🟠 الزلفي",
     "durationMinutes": 105,
     "homeIcon": "🔴",
-    "awayIcon": "🔵",
+    "awayIcon": "🟠",
     "homeColor": "أحمر",
-    "awayColor": "أزرق"
+    "awayColor": "برتقالي",
+    "homeHex": "#BE0101",
+    "awayHex": "#FF6F00"
   }
 ]

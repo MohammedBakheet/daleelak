@@ -30,8 +30,9 @@
   "teamId": "ALZULFI",
   "teamName": "الزلفي",
   "teamColor": {
-    "icon": "🔵",
-    "colorName": "أزرق"
+    "hex": "#FF6F00",
+    "icon": "🟠",
+    "colorName": "برتقالي"
   },
   "order": 100
 }
