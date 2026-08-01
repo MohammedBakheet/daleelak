@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-01T11:27:52.605Z",
+  "updatedAt": "2026-08-01T11:28:42.987Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -1084,7 +1084,7 @@
       "region": "المملكة العربية السعودية",
       "calendarType": "ميلادي",
       "lastUpdate": "2026-07-30",
-      "description": "جميع مباريات نادي الجبلين في الدور الأول لدوري أندية الدرجة الأولى للمحترفين موسم 2026–2027.",
+      "description": "جميع مباريات نادي الجبلين في دوري أندية الدرجة الأولى للمحترفين موسم 2026–2027. أضفها إلى تقويمك مجانًا، وستصلك أي تحديثات أو تعديلات على المباريات تلقائيًا",
       "ics": "calendar.ics",
       "events": "events.json",
       "logo": "logo.png",
@@ -1110,7 +1110,7 @@
         "icon": "🟤",
         "colorName": "بني داكن"
       },
-      "order": 100,
+      "order": 96,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/metadata.json",
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALJABALAIN/calendar.ics",
@@ -1129,7 +1129,7 @@
       "region": "المملكة العربية السعودية",
       "calendarType": "ميلادي",
       "lastUpdate": "2026-07-30",
-      "description": "جميع مباريات نادي الجندل في الدور الأول لدوري أندية الدرجة الأولى للمحترفين موسم 2026–2027 .",
+      "description": "جميع مباريات نادي الجندل في دوري أندية الدرجة الأولى للمحترفين موسم 2026–2027. أضفها إلى تقويمك مجانًا، وستصلك أي تحديثات أو تعديلات على المباريات تلقائيًا",
       "ics": "calendar.ics",
       "events": "events.json",
       "logo": "logo.png",
