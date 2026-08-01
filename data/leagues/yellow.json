@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T11:32:15.067Z",
+  "updatedAt": "2026-08-01T11:32:47.360Z",
   "id": "yellow",
   "title": "دوري الدرجة الأولى السعودي",
   "shortTitle": "يلو",
@@ -470,7 +470,7 @@
       "region": "المملكة العربية السعودية",
       "calendarType": "ميلادي",
       "lastUpdate": "2026-07-30",
-      "description": "جميع مباريات نادي الطائي في الدور الأول لدوري أندية الدرجة الأولى للمحترفين موسم 2026–2027.",
+      "description": "جميع مباريات نادي الطائي في دوري أندية الدرجة الأولى للمحترفين موسم 2026–2027. أضفها إلى تقويمك مجانًا، وستصلك أي تحديثات أو تعديلات على المباريات تلقائيًا",
       "ics": "calendar.ics",
       "events": "events.json",
       "logo": "logo.png",
@@ -496,7 +496,7 @@
         "icon": "⚫",
         "colorName": "رمادي"
       },
-      "order": 100,
+      "order": 95,
       "infoPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/metadata.json",
       "folderPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/",
       "icsPath": "calendars/sports/yellow/teams/YELLOW-ALTAI/calendar.ics",
