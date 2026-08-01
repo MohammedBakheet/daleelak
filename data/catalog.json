@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-01T11:11:35.556Z",
+  "updatedAt": "2026-08-01T11:12:14.410Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -456,7 +456,7 @@
       "region": "المملكة العربية السعودية",
       "calendarType": "مواعيد مباريات",
       "lastUpdate": "2026-08-01",
-      "description": "جميع مباريات نادي الاتحاد المعلنة حاليًا في دوري روشن السعودي موسم 2026–2027.",
+      "description": "جميع مباريات نادي الاتحاد في دوري روشن السعودي موسم 2026–2027. أضفها إلى تقويمك مجانًا، وستصلك أي تحديثات أو تعديلات على المباريات تلقائيًا",
       "ics": "calendar.ics",
       "events": "events.json",
       "logo": "logo.png",
@@ -481,7 +481,7 @@
         "icon": "🟡",
         "colorName": "أصفر"
       },
-      "order": 100,
+      "order": 97,
       "infoPath": "calendars/sports/roshn/teams/ROSHN-ALITTIHAD/metadata.json",
       "folderPath": "calendars/sports/roshn/teams/ROSHN-ALITTIHAD/",
       "icsPath": "calendars/sports/roshn/teams/ROSHN-ALITTIHAD/calendar.ics",
