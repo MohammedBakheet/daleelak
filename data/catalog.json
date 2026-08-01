@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-01T11:18:59.046Z",
+  "updatedAt": "2026-08-01T11:19:31.188Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -104,7 +104,7 @@
       "region": "المملكة العربية السعودية",
       "calendarType": "مواعيد مباريات",
       "lastUpdate": "2026-08-01",
-      "description": "جميع مباريات نادي الأهلي المعلنة حاليًا في دوري روشن السعودي موسم 2026–2027.",
+      "description": "جميع مباريات نادي الاهلي في دوري روشن السعودي موسم 2026–2027. أضفها إلى تقويمك مجانًا، وستصلك أي تحديثات أو تعديلات على المباريات تلقائيًا",
       "ics": "calendar.ics",
       "events": "events.json",
       "logo": "logo.png",
@@ -129,7 +129,7 @@
         "icon": "🟢",
         "colorName": "أخضر"
       },
-      "order": 100,
+      "order": 98,
       "infoPath": "calendars/sports/roshn/teams/ROSHN-ALAHLI/metadata.json",
       "folderPath": "calendars/sports/roshn/teams/ROSHN-ALAHLI/",
       "icsPath": "calendars/sports/roshn/teams/ROSHN-ALAHLI/calendar.ics",
