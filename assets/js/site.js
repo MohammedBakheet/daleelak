@@ -19,25 +19,6 @@ function enrich(info){const folder=info.folderPath?absoluteUrl(info.folderPath):
 function loadCatalog(){return catalogPromise??=(async()=>{const catalog=await fetchJson('data/catalog.json');if(Array.isArray(catalog.entries))return catalog.entries.map(enrich);const results=await Promise.allSettled((catalog.calendars||[]).map(async p=>enrich({...await fetchJson(p),infoPath:p})));const ok=results.filter(x=>x.status==='fulfilled').map(x=>x.value);if(!ok.length&&results.length)throw new Error('تعذر تحميل بيانات التقاويم');return ok})()}
 function loadSportsLeagues(){return sportsLeaguesPromise??=(async()=>{const d=await fetchJson('data/sports-leagues.json');return(d.leagues||[]).filter(x=>x.status!=='inactive').map(x=>({...x,logoUrl:x.logoPath?absoluteUrl(x.logoPath):'',detailUrl:`${absoluteUrl('league.html')}?id=${encodeURIComponent(x.id)}`}))})()}
 function loadComingSoon(){return comingSoonPromise??=(async()=>{try{const d=await fetchJson('data/coming-soon.json');return(d.items||[]).filter(x=>x.status!=='inactive').sort((a,b)=>(a.order||999)-(b.order||999))}catch{return[]}})()}
-async function renderSiteStats(){
-  const calendarCount=qs('[data-calendar-count]'),organizationCount=qs('[data-organization-count]');
-  if(!calendarCount&&!organizationCount)return;
-  try{
-    const calendars=await loadCatalog();
-    const organizations=new Set(
-      calendars
-        .map(calendar=>String(calendar.organization||'').trim())
-        .filter(Boolean)
-        .map(normalizeArabic)
-    );
-    const formatter=new Intl.NumberFormat('ar-SA-u-nu-latn');
-    if(calendarCount)calendarCount.textContent=formatter.format(calendars.length);
-    if(organizationCount)organizationCount.textContent=formatter.format(organizations.size);
-  }catch{
-    if(calendarCount)calendarCount.textContent='—';
-    if(organizationCount)organizationCount.textContent='—';
-  }
-}
 function setMeta({title,description,canonical,image,type='website'}){if(title)document.title=title;const ensure=(selector,attrs)=>{let el=qs(selector);if(!el){el=document.createElement('meta');Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));document.head.appendChild(el)}return el};if(description){ensure('meta[name="description"]',{name:'description'}).content=description;ensure('meta[property="og:description"]',{property:'og:description'}).content=description}ensure('meta[property="og:title"]',{property:'og:title'}).content=title||document.title;ensure('meta[property="og:type"]',{property:'og:type'}).content=type;const url=canonical||location.href;let link=qs('link[rel="canonical"]');if(!link){link=document.createElement('link');link.rel='canonical';document.head.appendChild(link)}link.href=url;ensure('meta[property="og:url"]',{property:'og:url'}).content=url;if(image)ensure('meta[property="og:image"]',{property:'og:image'}).content=image}
 function addJsonLd(data){let s=qs('script[data-jsonld]');if(!s){s=document.createElement('script');s.type='application/ld+json';s.dataset.jsonld='';document.head.appendChild(s)}s.textContent=JSON.stringify(data)}
 async function renderNavigation(){const navs=qsa('[data-main-nav]');if(!navs.length)return;try{const cats=await loadCategories();const links=[`<a href="${absoluteUrl('index.html')}">الرئيسية</a>`,...cats.map(c=>`<a href="${absoluteUrl('category.html')}?id=${encodeURIComponent(c.id)}">${escapeHtml(c.name)}</a>`)];navs.forEach(n=>n.innerHTML=links.join(''))}catch{navs.forEach(n=>n.innerHTML=`<a href="${absoluteUrl('index.html')}">الرئيسية</a>`)}}
@@ -147,4 +128,4 @@ function initSearchControls(){
   }
 }
 function initMobileNav(){const btn=qs('[data-nav-toggle]'),nav=qs('[data-main-nav]');btn?.addEventListener('click',()=>{const open=btn.getAttribute('aria-expanded')==='true';btn.setAttribute('aria-expanded',String(!open));nav?.classList.toggle('is-open',!open)})}
-document.addEventListener('DOMContentLoaded',()=>{qsa('[data-current-year]').forEach(x=>x.textContent=new Date().getFullYear());initMobileNav();initSearchControls();renderNavigation();renderCategoryCards();renderSiteStats();renderCategoryPage();renderLeaguePage();renderDetail()});
+document.addEventListener('DOMContentLoaded',()=>{qsa('[data-current-year]').forEach(x=>x.textContent=new Date().getFullYear());initMobileNav();initSearchControls();renderNavigation();renderCategoryCards();renderCategoryPage();renderLeaguePage();renderDetail()});
