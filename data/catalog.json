@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-02T15:53:14.121Z",
+  "updatedAt": "2026-08-02T15:53:45.601Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "king-abdulaziz-university",
-      "title": "التقويم الأكاديمي 2026/2027 — الفصل الأول",
+      "title": "التقويم الأكاديمي لجامعة الملك عبدالعزيز 2026/2027 — الفصل الأول",
       "organization": "جامعة الملك عبدالعزيز",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
