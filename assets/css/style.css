@@ -141,3 +141,13 @@ a{text-decoration:none;color:inherit}button,input,select{font:inherit}.container
 .coming-soon-disabled:disabled{opacity:1}
 .coming-soon-card .calendar-logo{background:linear-gradient(135deg,var(--navy),var(--navy-2));color:#fff}
 .coming-soon-card .league-logo{background:#f5f8f9;border:1px solid var(--border)}
+
+
+/* أيقونات التواصل في تذييل الصفحة */
+.footer-contact{align-items:flex-start}
+.footer-social-icons{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.footer-main .footer-social-icons a{width:42px;height:42px;padding:0;display:grid;place-items:center;border:1px solid rgba(255,255,255,.12);border-radius:50%;background:rgba(255,255,255,.07);color:#dce9ec;transition:transform .2s ease,background .2s ease,border-color .2s ease}
+.footer-main .footer-social-icons a:hover,.footer-main .footer-social-icons a:focus-visible{transform:translateY(-2px);background:rgba(255,255,255,.13);border-color:rgba(255,255,255,.28);color:#fff;outline:none}
+.footer-social-icons svg{width:20px;height:20px;display:block;fill:currentColor}
+.footer-main .footer-social-icons .footer-whatsapp{color:#51d37b}
+.footer-main .footer-social-icons .footer-whatsapp:hover,.footer-main .footer-social-icons .footer-whatsapp:focus-visible{background:rgba(37,211,102,.14);border-color:rgba(81,211,123,.45);color:#64e28e}
