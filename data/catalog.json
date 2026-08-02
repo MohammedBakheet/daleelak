@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-02T15:52:19.722Z",
+  "updatedAt": "2026-08-02T15:53:14.121Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -1745,7 +1745,7 @@
     },
     {
       "id": "imam-university",
-      "title": "التقويم الدراسي 2026/2027",
+      "title": "التقويم الدراسي لجامعة الإمام محمد بن سعود الإسلامية 2026/2027",
       "organization": "جامعة الإمام محمد بن سعود الإسلامية",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
