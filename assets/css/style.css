@@ -129,3 +129,15 @@ a{text-decoration:none;color:inherit}button,input,select{font:inherit}.container
 .report-contact-email .report-contact-option-icon{background:#eef5ff}
 .report-contact-x .report-contact-option-icon{background:#f0f0f0}
 @media(max-width:640px){.report-contact-modal{align-items:end;padding:0}.report-contact-sheet{width:100%;max-height:88vh;border-radius:24px 24px 0 0;padding:26px 18px calc(24px + env(safe-area-inset-bottom))}.report-contact-option{grid-template-columns:44px minmax(0,1fr) 20px;padding:13px}.report-contact-option-icon{width:44px;height:44px}}
+
+
+/* بطاقات العناصر القادمة داخل التصنيفات الحالية */
+.coming-soon-card{position:relative;opacity:.96}
+.coming-soon-card::after{content:"";position:absolute;inset:0;pointer-events:none;border-radius:inherit;background:linear-gradient(135deg,rgba(185,152,93,.07),transparent 42%)}
+.coming-soon-card>*{position:relative;z-index:1}
+.coming-soon-badge{background:#fff5d8!important;border-color:#ead49a!important;color:#825c00!important}
+.coming-soon-message{margin-top:0;color:var(--muted);line-height:1.85}
+.coming-soon-disabled{width:100%;margin-top:auto;background:#eef2f3!important;border:1px solid #d6dfe2!important;color:#7b8a91!important;box-shadow:none!important;cursor:not-allowed!important;transform:none!important}
+.coming-soon-disabled:disabled{opacity:1}
+.coming-soon-card .calendar-logo{background:linear-gradient(135deg,var(--navy),var(--navy-2));color:#fff}
+.coming-soon-card .league-logo{background:#f5f8f9;border:1px solid var(--border)}
