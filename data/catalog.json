@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-02T15:53:45.601Z",
+  "updatedAt": "2026-08-02T15:54:48.304Z",
   "count": 45,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -844,7 +844,7 @@
     },
     {
       "id": "PNU",
-      "title": "تقويم الإجراءات الأكاديمية 1448هـ (2026–2027)",
+      "title": "التقويم الاكاديمي لجامعة الأميرة نورة 1448–1449ـ (2026–2027)",
       "organization": "جامعة الأميرة نورة بنت عبدالرحمن",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
