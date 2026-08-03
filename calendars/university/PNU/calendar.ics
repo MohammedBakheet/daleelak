@@ -3,17 +3,15 @@ VERSION:2.0
 PRODID:-//Daleelak//PNU Academic Calendar 1448-1449//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:التقويم الأكاديمي لجامعة الأميرة 
- نورة 1448-1449هـ
+X-WR-CALNAME:التقويم الأكاديمي لجامعة الأميرة نورة 1448-1449هـ
 X-WR-TIMEZONE:Asia/Riyadh
 BEGIN:VEVENT
 UID:pnu-1448-01@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
 SUMMARY:عودة أعضاء الهيئة التعليمية
-DESCRIPTION:📅 3/ربيع أول/1448هـ\nالمصدر الرسمي: ج
- امعة الأميرة نورة بنت عبدالرحمن.\nإعداد و
- تجميع: م. محمد البخيت.
+DESCRIPTION:📅 3/ربيع أول/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -22,10 +20,9 @@ BEGIN:VEVENT
 UID:pnu-1448-02@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
 SUMMARY:بداية الدراسة للفصل الدراسي الأول
-DESCRIPTION:📅 10/ربيع أول/1448هـ\n📖 الأسبوع الأو
- ل\nالمصدر الرسمي: جامعة الأميرة نورة بنت 
- عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 10/ربيع أول/1448هـ\n📖 الأسبوع الأول\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -34,11 +31,9 @@ BEGIN:VEVENT
 UID:pnu-1448-03@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260904
 SUMMARY:طلب تأجيل الفصل الدراسي
-DESCRIPTION:📅 3/ربيع أول/1448هـ - 21/ربيع أول/1448هـ\n
- 📖 الأسبوع الأول إلى الثاني\nالمصدر الرس
- مي: جامعة الأميرة نورة بنت عبدالرحمن.\nإع
- داد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 3/ربيع أول/1448هـ - 21/ربيع أول/1448هـ\n📖 الأسبوع الأول إلى الثاني\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -47,10 +42,9 @@ BEGIN:VEVENT
 UID:pnu-1448-04@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260820
 SUMMARY:الحذف والإضافة للفصل الدراسي الأول
-DESCRIPTION:📅 4/ربيع أول/1448هـ - 6/ربيع أول/1448هـ\n
- المصدر الرسمي: جامعة الأميرة نورة بنت عب
- دالرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 4/ربيع أول/1448هـ - 6/ربيع أول/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -59,11 +53,9 @@ BEGIN:VEVENT
 UID:pnu-1448-05@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260825
 SUMMARY:طلب تعديل الجدول إلكترونياً
-DESCRIPTION:📅 10/ربيع أول/1448هـ - 11/ربيع أول/1448هـ\
- n📖 الأسبوع الأول\nالمصدر الرسمي: جامعة ا
- لأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع:
-  م. محمد البخيت.
+DESCRIPTION:📅 10/ربيع أول/1448هـ - 11/ربيع أول/1448هـ\n📖 الأسبوع الأول\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -72,10 +64,9 @@ BEGIN:VEVENT
 UID:pnu-1448-06@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260819
 SUMMARY:طلب الدراسة بنظام الزيارة
-DESCRIPTION:📅 19/صفر/1448هـ - 5/ربيع أول/1448هـ\nالمص
- در الرسمي: جامعة الأميرة نورة بنت عبدالر
- حمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 19/صفر/1448هـ - 5/ربيع أول/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -84,13 +75,9 @@ BEGIN:VEVENT
 UID:pnu-1448-07@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260906
-SUMMARY:طلب الاعتذار عن دراسة الفصل الدراسي،
-  وطلب الاعتذار عن مقرر، وطلب الانسحاب من 
- الجامعة
-DESCRIPTION:📅 24/ربيع أول/1448هـ - 9/جمادى الآخرة/14
- 48هـ\n📖 الأسبوع الثالث إلى الثالث عشر\nال
- مصدر الرسمي: جامعة الأميرة نورة بنت عبدا
- لرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20261120
+SUMMARY:طلب الاعتذار عن دراسة الفصل الدراسي، وطلب الاعتذار عن مقرر، وطلب الانسحاب من الجامعة
+DESCRIPTION:📅 24/ربيع أول/1448هـ - 9/جمادى الآخرة/1448هـ\n📖 الأسبوع الثالث إلى الثالث عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -99,11 +86,9 @@ BEGIN:VEVENT
 UID:pnu-1448-08@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
 SUMMARY:إجازة اليوم الوطني
-DESCRIPTION:📅 12/ربيع الآخر/1448هـ - 13/ربيع الآخر/1
- 448هـ\n📖 الأسبوع الخامس\nالمصدر الرسمي: جا
- معة الأميرة نورة بنت عبدالرحمن.\nإعداد وت
- جميع: م. محمد البخيت.
+DESCRIPTION:📅 12/ربيع الآخر/1448هـ - 13/ربيع الآخر/1448هـ\n📖 الأسبوع الخامس\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -112,12 +97,9 @@ BEGIN:VEVENT
 UID:pnu-1448-09@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260927
-SUMMARY:طلب مدة استثنائية للمتجاوزات للمدة ا
- لنظامية
-DESCRIPTION:📅 16/ربيع الآخر/1448هـ - 27/ربيع الآخر/1
- 448هـ\n📖 الأسبوع السادس إلى السابع\nالمصد
- ر الرسمي: جامعة الأميرة نورة بنت عبدالرح
- من.\nإعداد وتجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20261009
+SUMMARY:طلب مدة استثنائية للمتجاوزات للمدة النظامية
+DESCRIPTION:📅 16/ربيع الآخر/1448هـ - 27/ربيع الآخر/1448هـ\n📖 الأسبوع السادس إلى السابع\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -126,11 +108,9 @@ BEGIN:VEVENT
 UID:pnu-1448-10@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261009
 SUMMARY:طلب إعادة قيد للطالبات المنقطعات
-DESCRIPTION:📅 16/ربيع الآخر/1448هـ - 27/ربيع الآخر/1
- 448هـ\n📖 الأسبوع السادس إلى السابع\nالمصد
- ر الرسمي: جامعة الأميرة نورة بنت عبدالرح
- من.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 16/ربيع الآخر/1448هـ - 27/ربيع الآخر/1448هـ\n📖 الأسبوع السادس إلى السابع\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -139,12 +119,9 @@ BEGIN:VEVENT
 UID:pnu-1448-11@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261113
 SUMMARY:طلب التحويل الداخلي (تغيير التخصص)
-DESCRIPTION:📅 21/جمادى الأولى/1448هـ - 2/جمادى الآ
- خرة/1448هـ\n📖 الأسبوع الحادي عشر إلى الثان
- ي عشر\nالمصدر الرسمي: جامعة الأميرة نورة 
- بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخ
- يت.
+DESCRIPTION:📅 21/جمادى الأولى/1448هـ - 2/جمادى الآخرة/1448هـ\n📖 الأسبوع الحادي عشر إلى الثاني عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -153,14 +130,9 @@ BEGIN:VEVENT
 UID:pnu-1448-12@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261115
-SUMMARY:اختيار رغبات التخصيص للكليات: التأسي
- سية الصحية، التصاميم والفنون، الهندسة، 
- والعلوم الإنسانية والاجتماعية
-DESCRIPTION:📅 5/جمادى الآخرة/1448هـ - 23/جمادى الآ
- خرة/1448هـ\n📖 الأسبوع الثالث عشر إلى الراب
- ع عشر\nالمصدر الرسمي: جامعة الأميرة نورة 
- بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخ
- يت.
+DTEND;VALUE=DATE:20261204
+SUMMARY:اختيار رغبات التخصيص للكليات: التأسيسية الصحية، التصاميم والفنون، الهندسة، والعلوم الإنسانية والاجتماعية
+DESCRIPTION:📅 5/جمادى الآخرة/1448هـ - 23/جمادى الآخرة/1448هـ\n📖 الأسبوع الثالث عشر إلى الرابع عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -169,10 +141,9 @@ BEGIN:VEVENT
 UID:pnu-1448-13@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
 SUMMARY:إجازة الخريف
-DESCRIPTION:📅 9/جمادى الآخرة/1448هـ\nالمصدر الرس
- مي: جامعة الأميرة نورة بنت عبدالرحمن.\nإع
- داد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 9/جمادى الآخرة/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -181,11 +152,9 @@ BEGIN:VEVENT
 UID:pnu-1448-14@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
 SUMMARY:بداية الدراسة بعد إجازة الخريف
-DESCRIPTION:📅 19/جمادى الآخرة/1448هـ\n📖 الأسبوع 
- الرابع عشر\nالمصدر الرسمي: جامعة الأميرة 
- نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:📅 19/جمادى الآخرة/1448هـ\n📖 الأسبوع الرابع عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -194,11 +163,9 @@ BEGIN:VEVENT
 UID:pnu-1448-15@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261204
 SUMMARY:التسجيل والإرشاد الأكاديمي المبكر
-DESCRIPTION:📅 20/جمادى الآخرة/1448هـ - 23/جمادى الآ
- خرة/1448هـ\n📖 الأسبوع الرابع عشر\nالمصدر ا
- لرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\
- nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 20/جمادى الآخرة/1448هـ - 23/جمادى الآخرة/1448هـ\n📖 الأسبوع الرابع عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -207,12 +174,9 @@ BEGIN:VEVENT
 UID:pnu-1448-16@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261213
-SUMMARY:الاختبارات النهائية للفصل الدراسي ا
- لأول
-DESCRIPTION:📅 4/رجب/1448هـ - 22/رجب/1448هـ\n📖 الأسبو
- ع السادس عشر إلى الثامن عشر\nالمصدر الرسم
- ي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعد
- اد وتجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270101
+SUMMARY:الاختبارات النهائية للفصل الدراسي الأول
+DESCRIPTION:📅 4/رجب/1448هـ - 22/رجب/1448هـ\n📖 الأسبوع السادس عشر إلى الثامن عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -221,10 +185,9 @@ BEGIN:VEVENT
 UID:pnu-1448-17@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
 SUMMARY:بداية إجازة منتصف العام الدراسي
-DESCRIPTION:📅 29/رجب/1448هـ\n📖 الأسبوع التاسع عش
- ر\nالمصدر الرسمي: جامعة الأميرة نورة بنت 
- عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 29/رجب/1448هـ\n📖 الأسبوع التاسع عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -233,10 +196,9 @@ BEGIN:VEVENT
 UID:pnu-1448-18@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
 SUMMARY:بداية الدراسة للفصل الدراسي الثاني
-DESCRIPTION:📅 9/شعبان/1448هـ\n📖 الأسبوع الأول\nا
- لمصدر الرسمي: جامعة الأميرة نورة بنت عبد
- الرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 9/شعبان/1448هـ\n📖 الأسبوع الأول\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -245,11 +207,9 @@ BEGIN:VEVENT
 UID:pnu-1448-19@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270129
 SUMMARY:طلب تأجيل الفصل الدراسي
-DESCRIPTION:📅 2/شعبان/1448هـ - 20/شعبان/1448هـ\n📖 ال
- أسبوع الأول إلى الثاني\nالمصدر الرسمي: جا
- معة الأميرة نورة بنت عبدالرحمن.\nإعداد وت
- جميع: م. محمد البخيت.
+DESCRIPTION:📅 2/شعبان/1448هـ - 20/شعبان/1448هـ\n📖 الأسبوع الأول إلى الثاني\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -258,10 +218,9 @@ BEGIN:VEVENT
 UID:pnu-1448-20@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270114
 SUMMARY:الحذف والإضافة للفصل الدراسي الثاني
-DESCRIPTION:📅 3/شعبان/1448هـ - 5/شعبان/1448هـ\nالمصد
- ر الرسمي: جامعة الأميرة نورة بنت عبدالرح
- من.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 3/شعبان/1448هـ - 5/شعبان/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -270,11 +229,9 @@ BEGIN:VEVENT
 UID:pnu-1448-21@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270119
 SUMMARY:طلب تعديل الجدول إلكترونياً
-DESCRIPTION:📅 9/شعبان/1448هـ - 10/شعبان/1448هـ\n📖 ال
- أسبوع الأول\nالمصدر الرسمي: جامعة الأمير
- ة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. مح
- مد البخيت.
+DESCRIPTION:📅 9/شعبان/1448هـ - 10/شعبان/1448هـ\n📖 الأسبوع الأول\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -283,10 +240,9 @@ BEGIN:VEVENT
 UID:pnu-1448-22@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20270120
 SUMMARY:طلب الدراسة بنظام الزيارة
-DESCRIPTION:📅 18/رجب/1448هـ - 11/شعبان/1448هـ\nالمصدر 
- الرسمي: جامعة الأميرة نورة بنت عبدالرحمن
- .\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 18/رجب/1448هـ - 11/شعبان/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -295,13 +251,9 @@ BEGIN:VEVENT
 UID:pnu-1448-23@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270131
-SUMMARY:طلب الاعتذار عن دراسة الفصل الدراسي،
-  وطلب الاعتذار عن مقرر، وطلب الانسحاب من 
- الجامعة
-DESCRIPTION:📅 23/شعبان/1448هـ - 22/ذو القعدة/1448هـ\n
- 📖 الأسبوع الثالث إلى الثالث عشر\nالمصدر 
- الرسمي: جامعة الأميرة نورة بنت عبدالرحمن
- .\nإعداد وتجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270430
+SUMMARY:طلب الاعتذار عن دراسة الفصل الدراسي، وطلب الاعتذار عن مقرر، وطلب الانسحاب من الجامعة
+DESCRIPTION:📅 23/شعبان/1448هـ - 22/ذو القعدة/1448هـ\n📖 الأسبوع الثالث إلى الثالث عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -310,12 +262,9 @@ BEGIN:VEVENT
 UID:pnu-1448-24@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270207
-SUMMARY:طلب التحويل من خارج جامعة الأميرة نو
- رة بنت عبدالرحمن
-DESCRIPTION:📅 30/شعبان/1448هـ - 11/رمضان/1448هـ\n📖 ال
- أسبوع الرابع إلى الخامس\nالمصدر الرسمي: ج
- امعة الأميرة نورة بنت عبدالرحمن.\nإعداد و
- تجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270219
+SUMMARY:طلب التحويل من خارج جامعة الأميرة نورة بنت عبدالرحمن
+DESCRIPTION:📅 30/شعبان/1448هـ - 11/رمضان/1448هـ\n📖 الأسبوع الرابع إلى الخامس\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -324,11 +273,9 @@ BEGIN:VEVENT
 UID:pnu-1448-25@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
 SUMMARY:إجازة يوم التأسيس
-DESCRIPTION:📅 14/رمضان/1448هـ - 15/رمضان/1448هـ\n📖 ال
- أسبوع السادس\nالمصدر الرسمي: جامعة الأمي
- رة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. م
- حمد البخيت.
+DESCRIPTION:📅 14/رمضان/1448هـ - 15/رمضان/1448هـ\n📖 الأسبوع السادس\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -337,10 +284,9 @@ BEGIN:VEVENT
 UID:pnu-1448-26@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
 SUMMARY:بداية إجازة عيد الفطر
-DESCRIPTION:📅 18/رمضان/1448هـ\n📖 الأسبوع السادس\n
- المصدر الرسمي: جامعة الأميرة نورة بنت عب
- دالرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 18/رمضان/1448هـ\n📖 الأسبوع السادس\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -349,10 +295,9 @@ BEGIN:VEVENT
 UID:pnu-1448-27@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
 SUMMARY:بداية الدراسة بعد إجازة عيد الفطر
-DESCRIPTION:📅 6/شوال/1448هـ\n📖 الأسبوع السابع\nا
- لمصدر الرسمي: جامعة الأميرة نورة بنت عبد
- الرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 6/شوال/1448هـ\n📖 الأسبوع السابع\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -361,12 +306,9 @@ BEGIN:VEVENT
 UID:pnu-1448-28@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270314
-SUMMARY:طلب مدة استثنائية للمتجاوزات للمدة ا
- لنظامية
-DESCRIPTION:📅 6/شوال/1448هـ - 17/شوال/1448هـ\n📖 الأس
- بوع السابع إلى الثامن\nالمصدر الرسمي: جام
- عة الأميرة نورة بنت عبدالرحمن.\nإعداد وتج
- ميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270326
+SUMMARY:طلب مدة استثنائية للمتجاوزات للمدة النظامية
+DESCRIPTION:📅 6/شوال/1448هـ - 17/شوال/1448هـ\n📖 الأسبوع السابع إلى الثامن\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -375,11 +317,9 @@ BEGIN:VEVENT
 UID:pnu-1448-29@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270326
 SUMMARY:طلب إعادة قيد للطالبات المنقطعات
-DESCRIPTION:📅 6/شوال/1448هـ - 17/شوال/1448هـ\n📖 الأس
- بوع السابع إلى الثامن\nالمصدر الرسمي: جام
- عة الأميرة نورة بنت عبدالرحمن.\nإعداد وتج
- ميع: م. محمد البخيت.
+DESCRIPTION:📅 6/شوال/1448هـ - 17/شوال/1448هـ\n📖 الأسبوع السابع إلى الثامن\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -388,11 +328,9 @@ BEGIN:VEVENT
 UID:pnu-1448-30@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270423
 SUMMARY:طلب التحويل الداخلي (تغيير التخصص)
-DESCRIPTION:📅 4/ذو القعدة/1448هـ - 15/ذو القعدة/1448ه
- ـ\n📖 الأسبوع الحادي عشر إلى الثاني عشر\nا
- لمصدر الرسمي: جامعة الأميرة نورة بنت عبد
- الرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 4/ذو القعدة/1448هـ - 15/ذو القعدة/1448هـ\n📖 الأسبوع الحادي عشر إلى الثاني عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -401,13 +339,9 @@ BEGIN:VEVENT
 UID:pnu-1448-31@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270425
-SUMMARY:اختيار رغبات التخصيص لطالبات الكليا
- ت: التأسيسية الصحية، التصاميم والفنون، ا
- لهندسة، العلوم الإنسانية والاجتماعية
-DESCRIPTION:📅 18/ذو القعدة/1448هـ - 29/ذو القعدة/1448
- هـ\n📖 الأسبوع الثالث عشر إلى الرابع عشر\n
- المصدر الرسمي: جامعة الأميرة نورة بنت عب
- دالرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270507
+SUMMARY:اختيار رغبات التخصيص لطالبات الكليات: التأسيسية الصحية، التصاميم والفنون، الهندسة، العلوم الإنسانية والاجتماعية
+DESCRIPTION:📅 18/ذو القعدة/1448هـ - 29/ذو القعدة/1448هـ\n📖 الأسبوع الثالث عشر إلى الرابع عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -416,11 +350,9 @@ BEGIN:VEVENT
 UID:pnu-1448-32@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270507
 SUMMARY:التسجيل والإرشاد الأكاديمي المبكر
-DESCRIPTION:📅 26/ذو القعدة/1448هـ - 29/ذو القعدة/1448
- هـ\n📖 الأسبوع الرابع عشر\nالمصدر الرسمي: 
- جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد 
- وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 26/ذو القعدة/1448هـ - 29/ذو القعدة/1448هـ\n📖 الأسبوع الرابع عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -429,10 +361,9 @@ BEGIN:VEVENT
 UID:pnu-1448-33@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
 SUMMARY:بداية إجازة عيد الأضحى المبارك
-DESCRIPTION:📅 29/ذو القعدة/1448هـ\nالمصدر الرسمي: 
- جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد 
- وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 29/ذو القعدة/1448هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -441,12 +372,9 @@ BEGIN:VEVENT
 UID:pnu-1448-34@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270523
-SUMMARY:بداية الدراسة بعد إجازة عيد الأضحى ا
- لمبارك
-DESCRIPTION:📅 17/ذو الحجة/1448هـ\n📖 الأسبوع الخا
- مس عشر\nالمصدر الرسمي: جامعة الأميرة نورة
-  بنت عبدالرحمن.\nإعداد وتجميع: م. محمد الب
- خيت.
+DTEND;VALUE=DATE:20270524
+SUMMARY:بداية الدراسة بعد إجازة عيد الأضحى المبارك
+DESCRIPTION:📅 17/ذو الحجة/1448هـ\n📖 الأسبوع الخامس عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -455,12 +383,9 @@ BEGIN:VEVENT
 UID:pnu-1448-35@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270530
-SUMMARY:الاختبارات النهائية للفصل الدراسي ا
- لثاني
-DESCRIPTION:📅 24/ذو الحجة/1448هـ - 12/محرم/1449هـ\n📖 
- الأسبوع السادس عشر إلى الثامن عشر\nالمصد
- ر الرسمي: جامعة الأميرة نورة بنت عبدالرح
- من.\nإعداد وتجميع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270618
+SUMMARY:الاختبارات النهائية للفصل الدراسي الثاني
+DESCRIPTION:📅 24/ذو الحجة/1448هـ - 12/محرم/1449هـ\n📖 الأسبوع السادس عشر إلى الثامن عشر\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -469,10 +394,9 @@ BEGIN:VEVENT
 UID:pnu-1448-36@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
 SUMMARY:بداية إجازة نهاية العام للطالبات
-DESCRIPTION:📅 12/محرم/1449هـ\nالمصدر الرسمي: جامع
- ة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجم
- يع: م. محمد البخيت.
+DESCRIPTION:📅 12/محرم/1449هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -481,10 +405,9 @@ BEGIN:VEVENT
 UID:pnu-1448-37@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
 SUMMARY:بداية العام الدراسي 1449هـ
-DESCRIPTION:📅 20/ربيع أول/1449هـ\nالمصدر الرسمي: ج
- امعة الأميرة نورة بنت عبدالرحمن.\nإعداد و
- تجميع: م. محمد البخيت.
+DESCRIPTION:📅 20/ربيع أول/1449هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -493,10 +416,9 @@ BEGIN:VEVENT
 UID:pnu-1448-38@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
 SUMMARY:الحذف والإضافة للفصل الصيفي
-DESCRIPTION:📅 19/محرم/1449هـ\nالمصدر الرسمي: جامع
- ة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجم
- يع: م. محمد البخيت.
+DESCRIPTION:📅 19/محرم/1449هـ\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -505,10 +427,9 @@ BEGIN:VEVENT
 UID:pnu-1448-39@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
 SUMMARY:بداية الدراسة للفصل الصيفي
-DESCRIPTION:📅 22/محرم/1449هـ\n📖 الأسبوع الأول\nال
- مصدر الرسمي: جامعة الأميرة نورة بنت عبدا
- لرحمن.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 22/محرم/1449هـ\n📖 الأسبوع الأول\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -517,12 +438,9 @@ BEGIN:VEVENT
 UID:pnu-1448-40@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270704
-SUMMARY:طلب الاعتذار عن دراسة الفصل الصيفي و
- الاعتذار عن مقرر
-DESCRIPTION:📅 29/محرم/1449هـ - 18/صفر/1449هـ\n📖 الأسب
- وع الثاني إلى الرابع\nالمصدر الرسمي: جامع
- ة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجم
- يع: م. محمد البخيت.
+DTEND;VALUE=DATE:20270723
+SUMMARY:طلب الاعتذار عن دراسة الفصل الصيفي والاعتذار عن مقرر
+DESCRIPTION:📅 29/محرم/1449هـ - 18/صفر/1449هـ\n📖 الأسبوع الثاني إلى الرابع\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -531,11 +449,9 @@ BEGIN:VEVENT
 UID:pnu-1448-41@daleelak
 DTSTAMP:20260803T102128Z
 DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270819
 SUMMARY:الاختبارات النهائية للفصل الصيفي
-DESCRIPTION:📅 14/ربيع أول/1449هـ - 16/ربيع أول/1449هـ\
- n📖 الأسبوع الثامن\nالمصدر الرسمي: جامعة 
- الأميرة نورة بنت عبدالرحمن.\nإعداد وتجمي
- ع: م. محمد البخيت.
+DESCRIPTION:📅 14/ربيع أول/1449هـ - 16/ربيع أول/1449هـ\n📖 الأسبوع الثامن\nالمصدر الرسمي: جامعة الأميرة نورة بنت عبدالرحمن.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
