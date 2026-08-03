@@ -1,25 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daleelak//King Abdulaziz University Academic Calendar 2026-2027
- //AR
+PRODID:-//Daleelak//King Abdulaziz University Academic Calendar 2026-2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:جامعة الملك عبدالعزيز - التقويم ا
- لأكاديمي 2026/2027
+X-WR-CALNAME:جامعة الملك عبدالعزيز - التقويم الأكاديمي 2026/2027
 X-WR-TIMEZONE:Asia/Riyadh
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:fb2507474806117a98f4d7c5@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260816
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-SUMMARY:📝 تسجيل المقررات للطلاب والطالبات 
- على الخدمات الذاتية
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:📝 تسجيل المقررات للطلاب والطالبات على الخدمات الذاتية
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -27,14 +23,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:df80f7304bedfdd27aef4d2f@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260908
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:📝 تسجيل المقررات للطلبة عن طريق ال
- كليات
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:📝 تسجيل المقررات للطلبة عن طريق الكليات
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -42,14 +36,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b1b60643c5b3d7639eb426cb@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260904
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:♻️ استقبال طلبات إعادة القيد عن طر
- يق الكليات
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:♻️ استقبال طلبات إعادة القيد عن طريق الكليات
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -57,14 +49,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9955e7d3f9f9d100ee0cb752@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260905
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🧭 تسجيل المقررات للطلبة عن طريق ال
- مرشدين الأكاديميين
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🧭 تسجيل المقررات للطلبة عن طريق المرشدين الأكاديميين
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -72,13 +62,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0642a37f022b6a0c436c6815@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20270108
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
 SUMMARY:🎓 الفصل الدراسي الأول
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -86,14 +75,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0883ad1c19cdb43ad73afe22@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20270105
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:⏸️ تقديم طلبات التأجيل عن الفصل ال
- دراسي الثاني على الخدمات الذاتية
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:⏸️ تقديم طلبات التأجيل عن الفصل الدراسي الثاني على الخدمات الذاتية
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -101,14 +88,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c43860f370a53b6a1e0bd79e@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20270107
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:📄 التسجيل في وثيقتي للطلبة الخريجي
- ن
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:📄 التسجيل في وثيقتي للطلبة الخريجين
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -116,14 +101,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4bb775ef00c95ef58b230530@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20261120
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:📤 تقديم طلبات الاعتذار عن الفصل ال
- حالي على الخدمات الذاتية
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:📤 تقديم طلبات الاعتذار عن الفصل الحالي على الخدمات الذاتية
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -131,13 +114,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:15c4c98e15a83636e5ead445@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260927
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
 SUMMARY:🇸🇦 إجازة اليوم الوطني
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -145,14 +127,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4e3b9c62a723862c96072be9@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261113
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:📚 تقديم طلبات سحب مقرر للفصل الحال
- ي على الخدمات الذاتية
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:📚 تقديم طلبات سحب مقرر للفصل الحالي على الخدمات الذاتية
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -160,13 +140,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9eec96f5cb4584ecb65b7943@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261023
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
 SUMMARY:🧪 اختبارات الدوري الأول
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -174,14 +153,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f4004f293ab54cae643e3333@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20270104
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:🎯 تقديم طلبات التخصيص في الكليات ع
- لى الخدمات الذاتية
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🎯 تقديم طلبات التخصيص في الكليات على الخدمات الذاتية
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -189,15 +166,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef0344c3b98734abe3dceb97@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:📝 تسجيل المقررات للطلاب والطالبات 
- للفصل الدراسي الثاني على الخدمات الذات
- ية
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:📝 تسجيل المقررات للطلاب والطالبات للفصل الدراسي الثاني على الخدمات الذاتية
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -205,13 +179,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9a6ba3bb675653019033fa7e@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261120
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
 SUMMARY:🧪 اختبارات الدوري الثاني
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -219,13 +192,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46769fa5375734f6d4977be4@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261129
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
 SUMMARY:🍂 إجازة الخريف
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -233,14 +205,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b35918f8b3aa777e19b8b4ce@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270106
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:🧪 الاختبارات النهائية للفصل الدرا
- سي الأول
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🧪 الاختبارات النهائية للفصل الدراسي الأول
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -248,13 +218,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6753fa37526eb61cd7b69ea4@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270108
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
 SUMMARY:🔁 الاختبارات البديلة
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -262,14 +231,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:a27c25215d24fb6308590a91@daleelak
 DTSTAMP:20260729T153312Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270117
 LAST-MODIFIED:20260729T153312Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:🌤️ إجازة نهاية الفصل الدراسي الأو
- ل
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🌤️ إجازة نهاية الفصل الدراسي الأول
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -277,13 +244,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:c7e031432daed714e25cdcdb@daleelak
 DTSTAMP:20260729T153312Z
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
+LAST-MODIFIED:20260729T153312Z
+SEQUENCE:0
 SUMMARY:🎓 بداية الفصل الدراسي الثاني
-DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالع
- زيز.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -3,26 +3,20 @@ VERSION:2.0
 PRODID:-//Daleelak//Imam University Academic Calendar 2026-2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:جامعة الإمام محمد بن سعود - التقو
- يم الدراسي 2026/2027
+X-WR-CALNAME:جامعة الإمام محمد بن سعود - التقويم الدراسي 2026/2027
 X-WR-TIMEZONE:Asia/Riyadh
-X-WR-CALDESC:التقويم الدراسي للفصلين الأول وا
- لثاني بجامعة الإمام محمد بن سعود الإسلا
- مية
+X-WR-CALDESC:التقويم الدراسي للفصلين الأول والثاني بجامعة الإمام محمد بن سعود الإسلامية
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:806a5968085d05c9cb4d12b3@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260802
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:🔄 التحويل بين الكليات والأقسام (عب
- ر الخدمات الذاتية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:🔄 التحويل بين الكليات والأقسام (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -30,15 +24,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5b2ccd47cd084bcaa92f0ee8@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260823
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:♻️ إعادة القيد للمنقطعين غير المست
- جدين (عبر الخدمات الذاتية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:♻️ إعادة القيد للمنقطعين غير المستجدين (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -46,15 +37,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:9047c11beaec2cc2c4f48659@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260809
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:📝 تسجيل المقررات (عبر الخدمات الذا
- تية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📝 تسجيل المقررات (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -62,15 +50,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cb2f59d57b2c49b77d141122@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260823
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-SUMMARY:⏸️ تأجيل القبول (في برامج الدراسات 
- العليا)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:⏸️ تأجيل القبول (في برامج الدراسات العليا)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -78,16 +63,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5cafade6f3afcf8121a6eb9b@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260830
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:⏳ التأجيل لبرامج الدبلوم والبكالور
- يوس والدراسات العليا (عبر الخدمات الذات
- ية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:⏳ التأجيل لبرامج الدبلوم والبكالوريوس والدراسات العليا (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -95,15 +76,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:7b53458f3602a1f4674abade@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:🏃 التسجيل الرياضي لمعالجة الحالات 
- المتعثرة
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:🏃 التسجيل الرياضي لمعالجة الحالات المتعثرة
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -111,15 +89,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2992676d458a3d1da2d07ec6@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-SUMMARY:🎓 بداية الدراسة وعودة أعضاء هيئة ا
- لتدريس والمحاضرين والمعيدين
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:🎓 بداية الدراسة وعودة أعضاء هيئة التدريس والمحاضرين والمعيدين
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -127,15 +102,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cbf77a6caf300e3b25c3bc73@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260828
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:📚 الاختبارات البديلة والتكميلية ع
- ن الفصل الدراسي الثاني والصيفي
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📚 الاختبارات البديلة والتكميلية عن الفصل الدراسي الثاني والصيفي
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -143,15 +115,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:56e612a72c2aa9cadf4d1aa2@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261213
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:📤 الاعتذار عن الفصل والانسحاب من م
- قرر أو مقررين (الدبلوم والبكالوريوس)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📤 الاعتذار عن الفصل والانسحاب من مقرر أو مقررين (الدبلوم والبكالوريوس)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -159,15 +128,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8e488295e35a3081c2383f45@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261220
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:📤 الاعتذار عن الفصل الدراسي (الدرا
- سات العليا)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📤 الاعتذار عن الفصل الدراسي (الدراسات العليا)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -175,14 +141,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b5ebea9bf2715342ee3d801b@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
 SUMMARY:🇸🇦 إجازة اليوم الوطني
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -190,14 +154,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:4f3f03e77151d0aedc332976@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🍂 بداية إجازة الخريف
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -205,14 +167,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8370e32c4ba86313a9079f24@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🏫 بداية الدراسة بعد إجازة الخريف
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -220,15 +180,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f0ffbf859f290a935586f70b@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270117
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:♻️ إعادة القيد للمنقطعين غير المست
- جدين (عبر الخدمات الذاتية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:♻️ إعادة القيد للمنقطعين غير المستجدين (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -236,15 +193,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:88b1cbee1190a16f717fd13c@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270103
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-SUMMARY:📝 تسجيل المقررات (عبر الخدمات الذا
- تية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📝 تسجيل المقررات (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -252,14 +206,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d79b9893c9fb0da0f1cebcf9@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🧪 بداية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -267,15 +219,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ce028c7a3841411790aef2c0@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20270110
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-SUMMARY:🔄 التحويل بين الكليات والأقسام (عب
- ر الخدمات الذاتية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:🔄 التحويل بين الكليات والأقسام (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -283,15 +232,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5f6580e4a90729fe12191db8@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270117
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-SUMMARY:⏸️ تأجيل القبول (في برامج الدراسات 
- العليا)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:⏸️ تأجيل القبول (في برامج الدراسات العليا)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -299,14 +245,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:da8bed5557358ec67dbaa472@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270117
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
 SUMMARY:🌤️ إجازة منتصف العام الدراسي
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -314,16 +258,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef62288eb52715869b814c3b@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270124
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-SUMMARY:⏳ التأجيل لبرامج الدبلوم والبكالور
- يوس والدراسات العليا (عبر الخدمات الذات
- ية)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:⏳ التأجيل لبرامج الدبلوم والبكالوريوس والدراسات العليا (عبر الخدمات الذاتية)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -331,15 +271,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:d0f5060a819e733110cf2d75@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270114
-DTEND;VALUE=DATE:20270115
-SUMMARY:🏃 التسجيل الرياضي لمعالجة الحالات 
- المتعثرة
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:🏃 التسجيل الرياضي لمعالجة الحالات المتعثرة
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -347,15 +284,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:25e3b2c26bca58efebe84554@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
-SUMMARY:🎓 بداية الدراسة للفصل الدراسي الثا
- ني
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:🎓 بداية الدراسة للفصل الدراسي الثاني
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -363,15 +297,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:024f9addca39f4826feab24f@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270122
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-SUMMARY:📚 الاختبارات البديلة والتكميلية ع
- ن الفصل الدراسي الأول
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📚 الاختبارات البديلة والتكميلية عن الفصل الدراسي الأول
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -379,15 +310,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:5c160761c3cdb88a3cf4886e@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270523
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-SUMMARY:📤 الاعتذار عن الفصل والانسحاب من م
- قرر أو مقررين (الدبلوم والبكالوريوس)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📤 الاعتذار عن الفصل والانسحاب من مقرر أو مقررين (الدبلوم والبكالوريوس)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -395,15 +323,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:61474b1e11017a2254d1a262@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270530
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-SUMMARY:📤 الاعتذار عن الفصل الدراسي (الدرا
- سات العليا)
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:📤 الاعتذار عن الفصل الدراسي (الدراسات العليا)
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -411,14 +336,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:797e4687fae4c98a99d27565@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🇸🇦 إجازة يوم التأسيس
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -426,14 +349,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:83f2977fb12d88bb65537bb3@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🌙 بداية إجازة عيد الفطر
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -441,15 +362,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0f97be33f1c38548b756c482@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الفط
- ر
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الفطر
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -457,14 +375,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:1fa7613c6ea71c7b39f1ec35@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🕋 بداية إجازة عيد الأضحى
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -472,15 +388,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:8957f0ac9f8ab1ba63fc7907@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الأض
- حى
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الأضحى
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -488,14 +401,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:0ac57bd8741555b22f64b102@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
 SUMMARY:🧪 بداية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -503,15 +414,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:011e19917ef7f924886ae079@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
-SUMMARY:☀️ بداية إجازة نهاية العام الدراسي
-  للطلاب والطالبات
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:☀️ بداية إجازة نهاية العام الدراسي للطلاب والطالبات
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -519,16 +427,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cdf10e19b478828af28f9546@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-SUMMARY:☀️ بداية إجازة نهاية العام الدراسي
-  لأعضاء هيئة التدريس والمحاضرين والمعي
- دين
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:☀️ بداية إجازة نهاية العام الدراسي لأعضاء هيئة التدريس والمحاضرين والمعيدين
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -536,15 +440,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:29268814513fb68c17f9e4e0@daleelak
 DTSTAMP:20260729T152025Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270711
 LAST-MODIFIED:20260729T152025Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270705
-SUMMARY:🔄 التحويل الخارجي من الجامعات الأخ
- رى إلى الجامعة للعام الجامعي 1449/1450هـ
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+SUMMARY:🔄 التحويل الخارجي من الجامعات الأخرى إلى الجامعة للعام الجامعي 1449/1450هـ
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -552,16 +453,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:6d2658d65cebf7cca2384d51@daleelak
 DTSTAMP:20260729T152025Z
-LAST-MODIFIED:20260729T152025Z
-SEQUENCE:0
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
-SUMMARY:🎓 بداية الدراسة وعودة أعضاء هيئة ا
- لتدريس والمحاضرين والمعيدين للعام الجا
- معي 1449/1450هـ
-DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد 
- بن سعود الإسلامية.\nإعداد وتجميع: م. محمد
-  البخيت.
+LAST-MODIFIED:20260729T152025Z
+SEQUENCE:0
+SUMMARY:🎓 بداية الدراسة وعودة أعضاء هيئة التدريس والمحاضرين والمعيدين للعام الجامعي 1449/1450هـ
+DESCRIPTION:المصدر الرسمي: جامعة الإمام محمد بن سعود الإسلامية.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
