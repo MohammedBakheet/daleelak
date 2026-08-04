@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-03T19:30:23.918Z",
+  "updatedAt": "2026-08-03T19:19:48.911Z",
   "count": 46,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -84,15 +84,15 @@
       "season": "2026–2027",
       "teamCount": 20,
       "order": 3,
-      "confirmedTimesCount": 41,
-      "pendingTimesCount": 339,
       "infoPath": "calendars/sports/laliga/league/metadata.json",
       "folderPath": "calendars/sports/laliga/league/",
       "icsPath": "calendars/sports/laliga/league/calendar.ics",
       "logoPath": "calendars/sports/laliga/league/logo.png",
       "detailPath": "calendar.html?id=laliga-2026-2027",
       "sharePath": "share/laliga-2026-2027/",
-      "legacyDetailPath": "calendar.html?id=laliga-2026-2027"
+      "legacyDetailPath": "calendar.html?id=laliga-2026-2027",
+      "confirmedTimesCount": 41,
+      "pendingTimesCount": 339
     },
     {
       "id": "PNU",
