@@ -13,7 +13,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-1@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260815T203000
-DTEND;TZID=Asia/Riyadh:20260815T203100
+DTEND;TZID=Asia/Riyadh:20260815T221500
 SUMMARY:ألافيس × خيتافي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ألافيس × خيتافي\n🗓️ الجولة: 1\n🇸
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-2@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260815T223000
-DTEND;TZID=Asia/Riyadh:20260815T223100
+DTEND;TZID=Asia/Riyadh:20260816T001500
 SUMMARY:إشبيلية × رايو فاييكانو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إشبيلية × رايو فاييكانو\n🗓️ الجو
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-101@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260816T180000
-DTEND;TZID=Asia/Riyadh:20260816T180100
+DTEND;TZID=Asia/Riyadh:20260816T194500
 SUMMARY:راسينغ سانتاندير × فياريال
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: راسينغ سانتاندير × فياريال\n🗓️ ا
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-4@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260816T200000
-DTEND;TZID=Asia/Riyadh:20260816T200100
+DTEND;TZID=Asia/Riyadh:20260816T214500
 SUMMARY:إسبانيول × ليفانتي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إسبانيول × ليفانتي\n🗓️ الجولة: 1\n
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-102@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260816T223000
-DTEND;TZID=Asia/Riyadh:20260816T223100
+DTEND;TZID=Asia/Riyadh:20260817T001500
 SUMMARY:سيلتا فيغو × أوساسونا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: سيلتا فيغو × أوساسونا\n🗓️ الجولة:
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-6@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260817T220000
-DTEND;TZID=Asia/Riyadh:20260817T220100
+DTEND;TZID=Asia/Riyadh:20260817T234500
 SUMMARY:ديبورتيفو لاكورونيا × إلتشي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ديبورتيفو لاكورونيا × إلتشي\n🗓️ 
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-7@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260819T220000
-DTEND;TZID=Asia/Riyadh:20260819T220100
+DTEND;TZID=Asia/Riyadh:20260819T234500
 SUMMARY:أتلتيكو مدريد × مالقا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: أتلتيكو مدريد × مالقا\n🗓️ الجولة:
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-18@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260825T220000
-DTEND;TZID=Asia/Riyadh:20260825T220100
+DTEND;TZID=Asia/Riyadh:20260825T234500
 SUMMARY:فالنسيا × ريال بيتيس
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: فالنسيا × ريال بيتيس\n🗓️ الجولة: 1
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-19@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260826T220000
-DTEND;TZID=Asia/Riyadh:20260826T220100
+DTEND;TZID=Asia/Riyadh:20260826T234500
 SUMMARY:ريال مدريد × ريال سوسيداد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ريال مدريد × ريال سوسيداد\n🗓️ الج
@@ -211,7 +211,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r1-20@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260827T220000
-DTEND;TZID=Asia/Riyadh:20260827T220100
+DTEND;TZID=Asia/Riyadh:20260827T234500
 SUMMARY:برشلونة × أتلتيك بلباو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: برشلونة × أتلتيك بلباو\n🗓️ الجول
@@ -233,7 +233,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-8@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260820T220000
-DTEND;TZID=Asia/Riyadh:20260820T220100
+DTEND;TZID=Asia/Riyadh:20260820T234500
 SUMMARY:رايو فاييكانو × ألافيس
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: رايو فاييكانو × ألافيس\n🗓️ الجول
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-9@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260821T220000
-DTEND;TZID=Asia/Riyadh:20260821T220100
+DTEND;TZID=Asia/Riyadh:20260821T234500
 SUMMARY:ريال بيتيس × ريال سوسيداد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ريال بيتيس × ريال سوسيداد\n🗓️ الج
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-10@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260822T180000
-DTEND;TZID=Asia/Riyadh:20260822T180100
+DTEND;TZID=Asia/Riyadh:20260822T194500
 SUMMARY:أتلتيك بلباو × إشبيلية
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: أتلتيك بلباو × إشبيلية\n🗓️ الجول
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-103@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260822T203000
-DTEND;TZID=Asia/Riyadh:20260822T203100
+DTEND;TZID=Asia/Riyadh:20260822T221500
 SUMMARY:فالنسيا × سيلتا فيغو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: فالنسيا × سيلتا فيغو\n🗓️ الجولة: 2
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-12@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260822T223000
-DTEND;TZID=Asia/Riyadh:20260822T223100
+DTEND;TZID=Asia/Riyadh:20260823T001500
 SUMMARY:إسبانيول × ريال مدريد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إسبانيول × ريال مدريد\n🗓️ الجولة:
@@ -343,7 +343,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-13@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260823T180000
-DTEND;TZID=Asia/Riyadh:20260823T180100
+DTEND;TZID=Asia/Riyadh:20260823T194500
 SUMMARY:أتلتيكو مدريد × فياريال
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: أتلتيكو مدريد × فياريال\n🗓️ الجو
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-104@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260823T203000
-DTEND;TZID=Asia/Riyadh:20260823T203100
+DTEND;TZID=Asia/Riyadh:20260823T221500
 SUMMARY:خيتافي × راسينغ سانتاندير
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: خيتافي × راسينغ سانتاندير\n🗓️ ال
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-15@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260823T223000
-DTEND;TZID=Asia/Riyadh:20260823T223100
+DTEND;TZID=Asia/Riyadh:20260824T001500
 SUMMARY:إلتشي × برشلونة
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إلتشي × برشلونة\n🗓️ الجولة: 2\n🇸
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-16@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260824T203000
-DTEND;TZID=Asia/Riyadh:20260824T203100
+DTEND;TZID=Asia/Riyadh:20260824T221500
 SUMMARY:أوساسونا × ليفانتي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: أوساسونا × ليفانتي\n🗓️ الجولة: 2\n
@@ -431,7 +431,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r2-17@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260824T223000
-DTEND;TZID=Asia/Riyadh:20260824T223100
+DTEND;TZID=Asia/Riyadh:20260825T001500
 SUMMARY:مالقا × ديبورتيفو لاكورونيا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: مالقا × ديبورتيفو لاكورونيا\n🗓️ 
@@ -453,7 +453,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-105@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260828T200000
-DTEND;TZID=Asia/Riyadh:20260828T200100
+DTEND;TZID=Asia/Riyadh:20260828T214500
 SUMMARY:راسينغ سانتاندير × إلتشي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: راسينغ سانتاندير × إلتشي\n🗓️ الج
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-22@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260828T223000
-DTEND;TZID=Asia/Riyadh:20260828T223100
+DTEND;TZID=Asia/Riyadh:20260829T001500
 SUMMARY:ألافيس × فياريال
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ألافيس × فياريال\n🗓️ الجولة: 3\n🇸
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-23@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260829T180000
-DTEND;TZID=Asia/Riyadh:20260829T180100
+DTEND;TZID=Asia/Riyadh:20260829T194500
 SUMMARY:ليفانتي × ريال بيتيس
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ليفانتي × ريال بيتيس\n🗓️ الجولة: 3
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-24@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260829T200000
-DTEND;TZID=Asia/Riyadh:20260829T200100
+DTEND;TZID=Asia/Riyadh:20260829T214500
 SUMMARY:ريال سوسيداد × إسبانيول
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ريال سوسيداد × إسبانيول\n🗓️ الجو
@@ -541,7 +541,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-25@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260829T223000
-DTEND;TZID=Asia/Riyadh:20260829T223100
+DTEND;TZID=Asia/Riyadh:20260830T001500
 SUMMARY:إشبيلية × أتلتيكو مدريد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إشبيلية × أتلتيكو مدريد\n🗓️ الجو
@@ -563,7 +563,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-26@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260830T180000
-DTEND;TZID=Asia/Riyadh:20260830T180100
+DTEND;TZID=Asia/Riyadh:20260830T194500
 SUMMARY:ريال مدريد × مالقا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ريال مدريد × مالقا\n🗓️ الجولة: 3\n
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-27@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260830T203000
-DTEND;TZID=Asia/Riyadh:20260830T203100
+DTEND;TZID=Asia/Riyadh:20260830T221500
 SUMMARY:ديبورتيفو لاكورونيا × فالنسيا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ديبورتيفو لاكورونيا × فالنسيا\n🗓
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-106@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260830T223000
-DTEND;TZID=Asia/Riyadh:20260830T223100
+DTEND;TZID=Asia/Riyadh:20260831T001500
 SUMMARY:سيلتا فيغو × أتلتيك بلباو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: سيلتا فيغو × أتلتيك بلباو\n🗓️ الج
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-29@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260831T203000
-DTEND;TZID=Asia/Riyadh:20260831T203100
+DTEND;TZID=Asia/Riyadh:20260831T221500
 SUMMARY:أوساسونا × خيتافي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: أوساسونا × خيتافي\n🗓️ الجولة: 3\n
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r3-30@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260831T223000
-DTEND;TZID=Asia/Riyadh:20260831T223100
+DTEND;TZID=Asia/Riyadh:20260901T001500
 SUMMARY:برشلونة × رايو فاييكانو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: برشلونة × رايو فاييكانو\n🗓️ الجو
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-38@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260904T220000
-DTEND;TZID=Asia/Riyadh:20260904T220100
+DTEND;TZID=Asia/Riyadh:20260904T234500
 SUMMARY:ريال بيتيس × ريال مدريد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ريال بيتيس × ريال مدريد\n🗓️ الجول
@@ -695,7 +695,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-39@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260905T171500
-DTEND;TZID=Asia/Riyadh:20260905T171600
+DTEND;TZID=Asia/Riyadh:20260905T190000
 SUMMARY:أتلتيك بلباو × أتلتيكو مدريد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: أتلتيك بلباو × أتلتيكو مدريد\n🗓️ 
@@ -717,7 +717,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-107@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260905T193000
-DTEND;TZID=Asia/Riyadh:20260905T193100
+DTEND;TZID=Asia/Riyadh:20260905T211500
 SUMMARY:رايو فاييكانو × راسينغ سانتاندير
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: رايو فاييكانو × راسينغ سانتاندير\n
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-31@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260905T220000
-DTEND;TZID=Asia/Riyadh:20260905T220100
+DTEND;TZID=Asia/Riyadh:20260905T234500
 SUMMARY:فياريال × ديبورتيفو لاكورونيا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: فياريال × ديبورتيفو لاكورونيا\n🗓
@@ -762,7 +762,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-32@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260906T171500
-DTEND;TZID=Asia/Riyadh:20260906T171600
+DTEND;TZID=Asia/Riyadh:20260906T190000
 SUMMARY:فالنسيا × برشلونة
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: فالنسيا × برشلونة\n🗓️ الجولة: 4\n
@@ -784,7 +784,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-40@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260906T193000
-DTEND;TZID=Asia/Riyadh:20260906T193100
+DTEND;TZID=Asia/Riyadh:20260906T211500
 SUMMARY:ألافيس × أوساسونا
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ألافيس × أوساسونا\n🗓️ الجولة: 4\n
@@ -806,7 +806,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-34@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260906T193000
-DTEND;TZID=Asia/Riyadh:20260906T193100
+DTEND;TZID=Asia/Riyadh:20260906T211500
 SUMMARY:مالقا × ليفانتي
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: مالقا × ليفانتي\n🗓️ الجولة: 4\n🇸
@@ -828,7 +828,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-36@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260906T220000
-DTEND;TZID=Asia/Riyadh:20260906T220100
+DTEND;TZID=Asia/Riyadh:20260906T234500
 SUMMARY:إسبانيول × إشبيلية
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إسبانيول × إشبيلية\n🗓️ الجولة: 4\n
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-108@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260907T200000
-DTEND;TZID=Asia/Riyadh:20260907T200100
+DTEND;TZID=Asia/Riyadh:20260907T214500
 SUMMARY:خيتافي × سيلتا فيغو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: خيتافي × سيلتا فيغو\n🗓️ الجولة: 4\n
@@ -872,7 +872,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r4-37@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260907T223000
-DTEND;TZID=Asia/Riyadh:20260907T223100
+DTEND;TZID=Asia/Riyadh:20260908T001500
 SUMMARY:إلتشي × ريال سوسيداد
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: إلتشي × ريال سوسيداد\n🗓️ الجولة: 4
@@ -1114,7 +1114,7 @@ BEGIN:VEVENT
 UID:laliga-2026-2027-r6-111@daleelak
 DTSTAMP:20260803T191948Z
 DTSTART;TZID=Asia/Riyadh:20260903T220000
-DTEND;TZID=Asia/Riyadh:20260903T220100
+DTEND;TZID=Asia/Riyadh:20260903T234500
 SUMMARY:ريال سوسيداد × سيلتا فيغو
 DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
  ريقان: ريال سوسيداد × سيلتا فيغو\n🗓️ الج
