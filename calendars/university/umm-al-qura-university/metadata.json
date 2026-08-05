@@ -1,6 +1,6 @@
 {
   "id": "umm-al-qura-university",
-  "title": "التقويم الدراسي 2026–2027 — جامعة أم القرى",
+  "title": "التقويم الدارسي للفصلين الأول والثاني",
   "organization": "جامعة أم القرى",
   "category": "higher-education",
   "categoryLabel": "التعليم الجامعي",
@@ -10,8 +10,8 @@
   "calendarType": "هجري وميلادي",
   "lastUpdate": "2026-08-05",
   "description": "مواعيد التقويم الدراسي للفصلين الدراسيين الأول والثاني بجامعة أم القرى للعام الجامعي 1448–1449هـ الموافق 2026–2027م، وفق التقويم الرسمي للجامعة.",
-  "ics": "university/umm-al-qura-university/calendar.ics",
-  "logo": "university/umm-al-qura-university/logo.png",
+  "ics": "calendar.ics",
+  "logo": "logo.png",
   "eventsCount": 26,
   "seoTitle": "التقويم الدراسي لجامعة أم القرى 2026–2027 | دليلك",
   "seoDescription": "مواعيد التقويم الدراسي لجامعة أم القرى للعام الجامعي 1448–1449هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي."
