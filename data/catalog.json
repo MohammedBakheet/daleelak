@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-05T07:11:35.108Z",
+  "updatedAt": "2026-08-05T07:15:52.964Z",
   "count": 47,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -122,7 +122,7 @@
     },
     {
       "id": "PNU",
-      "title": "التقويم الأكاديمي 2026–2027 — جامعة الأميرة نورة بنت عبدالرحمن",
+      "title": "التقويم الأكاديمي لجامعة الأميرة نورة ",
       "organization": "جامعة الأميرة نورة بنت عبدالرحمن",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
