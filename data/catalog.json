@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-04T09:04:15.411Z",
-  "count": 46,
+  "updatedAt": "2026-08-05T07:11:35.108Z",
+  "count": 47,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -48,9 +48,35 @@
     "calendars/university/king-abdulaziz-university/metadata.json",
     "calendars/university/king-khaled-uni/metadata.json",
     "calendars/university/king-saud-university/metadata.json",
-    "calendars/university/PNU/metadata.json"
+    "calendars/university/PNU/metadata.json",
+    "calendars/university/umm-al-qura-university/metadata.json"
   ],
   "entries": [
+    {
+      "id": "umm-al-qura-university",
+      "title": "التقويم الدارسي للفصلين الأول والثاني",
+      "organization": "جامعة أم القرى",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة أم القرى",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-05",
+      "description": "مواعيد التقويم الدراسي للفصلين الدراسيين الأول والثاني بجامعة أم القرى للعام الجامعي 1448–1449هـ الموافق 2026–2027م، وفق التقويم الرسمي للجامعة.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 26,
+      "seoTitle": "التقويم الدراسي لجامعة أم القرى 2026–2027 | دليلك",
+      "seoDescription": "مواعيد التقويم الدراسي لجامعة أم القرى للعام الجامعي 1448–1449هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي.",
+      "infoPath": "calendars/university/umm-al-qura-university/metadata.json",
+      "folderPath": "calendars/university/umm-al-qura-university/",
+      "icsPath": "calendars/university/umm-al-qura-university/calendar.ics",
+      "logoPath": "calendars/university/umm-al-qura-university/logo.png",
+      "detailPath": "calendar.html?id=umm-al-qura-university",
+      "sharePath": "share/umm-al-qura-university/",
+      "legacyDetailPath": "calendar.html?id=umm-al-qura-university"
+    },
     {
       "id": "laliga-2026-2027",
       "title": "مباريات الدوري الإسباني 2026/2027",
