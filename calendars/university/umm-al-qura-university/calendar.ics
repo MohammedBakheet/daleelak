@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Umm Al-Qura University Academic Calendar 1448-1449//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الدراسي لجامعة أم القرى 144
+ 8-1449هـ
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:uqu-1448-01@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20270108
+SUMMARY:بداية ونهاية الفصل الدراسي الأول
+DESCRIPTION:📅 1448/3/10 - 1448/7/29\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-02@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260830
+SUMMARY:تأجيل الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 1448/3/10 - 1448/3/16\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-03@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261101
+SUMMARY:الاعتذار عن الدراسة للفصل الدراسي ال
+ أول
+DESCRIPTION:📅 1448/3/17 - 1448/5/20\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-04@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 1448/4/12 - 1448/4/13\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-05@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261023
+SUMMARY:الاختبارات النصفية للفصل الدراسي ال
+ أول
+DESCRIPTION:📅 1448/4/30 - 1448/5/11\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-06@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261108
+SUMMARY:الانسحاب من مقرر دراسي للفصل الدراسي
+  الأول
+DESCRIPTION:📅 1448/5/21 - 1448/5/27\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-07@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة الخريف
+DESCRIPTION:📅 1448/6/9 - 1448/6/18\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-08@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261225
+SUMMARY:اختبارات المتطلبات العامة والمقررات
+  العملية للفصل الدراسي الأول
+DESCRIPTION:مع استمرار الدراسة.\n📅 1448/7/4 - 1448/7/15\
+ nالمصدر الرسمي: جامعة أم القرى.\nإعداد وتج
+ ميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-09@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270122
+SUMMARY:تقديم طلب إعادة القيد للفصل الدراسي 
+ الثاني
+DESCRIPTION:📅 1448/7/11 - 1448/8/13\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-10@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20270108
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لأول
+DESCRIPTION:📅 1448/7/18 - 1448/7/29\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-11@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الدراسي
+DESCRIPTION:📅 1448/7/29 - 1448/8/8\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-12@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270625
+SUMMARY:بداية ونهاية الفصل الدراسي الثاني
+DESCRIPTION:📅 1448/8/9 - 1449/1/19\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-13@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270124
+SUMMARY:تأجيل الدراسة للفصل الدراسي الثاني
+DESCRIPTION:📅 1448/8/9 - 1448/8/15\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-14@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270418
+SUMMARY:الاعتذار عن الدراسة للفصل الدراسي ال
+ ثاني
+DESCRIPTION:📅 1448/8/16 - 1448/11/10\nالمصدر الرسمي: جام
+ عة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-15@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 1448/9/14 - 1448/9/15\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-16@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر
+DESCRIPTION:📅 1448/9/16 - 1448/10/5\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-17@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270409
+SUMMARY:طلب التحويل بين الكليات والأقسام
+DESCRIPTION:📅 1448/10/20 - 1448/11/1\nالمصدر الرسمي: جام
+ عة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-18@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270411
+SUMMARY:الاختبارات النصفية للفصل الدراسي ال
+ ثاني
+DESCRIPTION:📅 1448/10/20 - 1448/11/3\nالمصدر الرسمي: جام
+ عة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-19@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270425
+SUMMARY:الانسحاب من مقرر دراسي للفصل الدراسي
+  الثاني
+DESCRIPTION:📅 1448/11/11 - 1448/11/17\nالمصدر الرسمي: جام
+ عة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-20@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270502
+SUMMARY:إدخال رغبات التسكين لطلبة برامج السن
+ ة الأولى والسنة التأهيلية
+DESCRIPTION:📅 1448/11/18 - 1448/11/24\nالمصدر الرسمي: جام
+ عة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-21@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى
+DESCRIPTION:📅 1448/11/26 - 1448/12/16\nالمصدر الرسمي: جام
+ عة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-22@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270611
+SUMMARY:اختبارات المتطلبات العامة والمقررات
+  العملية للفصل الدراسي الثاني
+DESCRIPTION:مع استمرار الدراسة.\n📅 1448/12/24 - 1449/1/5
+ \nالمصدر الرسمي: جامعة أم القرى.\nإعداد وت
+ جميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-23@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270630
+SUMMARY:تقديم طلب إعادة القيد للفصل الدراسي 
+ الصيفي
+DESCRIPTION:إن وجد.\n📅 1449/1/1 - 1449/1/24\nالمصدر الرس
+ مي: جامعة أم القرى.\nإعداد وتجميع: م. محمد 
+ البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-24@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270625
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لثاني
+DESCRIPTION:📅 1449/1/8 - 1449/1/19\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-25@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270704
+SUMMARY:تقديم طلبات التحويل الخارجي إلى جامع
+ ة أم القرى
+DESCRIPTION:📅 1449/1/19 - 1449/1/28\nالمصدر الرسمي: جامع
+ ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-26@daleelak
+DTSTAMP:20260805T061246Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:إجازة نهاية العام الدراسي
+DESCRIPTION:تبدأ بنهاية دوام يوم الخميس.\n📅 1449/
+ 1/19\nالمصدر الرسمي: جامعة أم القرى.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
