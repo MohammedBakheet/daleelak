@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-05T07:17:02.100Z",
+  "updatedAt": "2026-08-05T07:17:42.637Z",
   "count": 47,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -1906,7 +1906,7 @@
     },
     {
       "id": "king-saud-university",
-      "title": "التقويم الدراسي 2026/2027",
+      "title": "التقويم الدراسي لجامعة الملك سعود - الفصل الأول والثاني والفصل الصيفي",
       "organization": "جامعة الملك سعود",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
