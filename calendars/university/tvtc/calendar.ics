@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//TVTC Training Calendar 1448-1449//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم التدريبي للمؤسسة العامة ل
+ لتدريب التقني والمهني 1448-1449هـ
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:tvtc-1448-01@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية التدريب للفصل التدريبي الأول
+DESCRIPTION:📅 1448/03/10\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-02@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 1448/04/12 - 1448/04/15\nالمصدر الرسمي: الم
+ ؤسسة العامة للتدريب التقني والمهني.\nإعد
+ اد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-03@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:إجازة الخريف
+DESCRIPTION:📅 1448/06/10\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-04@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:بداية التدريب بعد إجازة الخريف
+DESCRIPTION:📅 1448/06/19\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-05@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:بداية اختبارات الفصل التدريبي الأول
+DESCRIPTION:📅 1448/07/18\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-06@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:نهاية الفصل التدريبي الأول
+DESCRIPTION:📅 1448/07/29\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-07@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:بداية إجازة منتصف العام التدريبي
+DESCRIPTION:📅 1448/07/30\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-08@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الفصل التدريبي الثاني
+DESCRIPTION:📅 1448/08/09\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-09@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 1448/09/12 - 1448/09/15\nالمصدر الرسمي: الم
+ ؤسسة العامة للتدريب التقني والمهني.\nإعد
+ اد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-10@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:إجازة عيد الفطر
+DESCRIPTION:📅 1448/09/19\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-11@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:بداية التدريب بعد إجازة عيد الفطر
+DESCRIPTION:📅 1448/10/06\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-12@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:إجازة عيد الأضحى
+DESCRIPTION:📅 1448/12/01\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-13@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:بداية التدريب بعد إجازة عيد الأضحى
+DESCRIPTION:📅 1448/12/17\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-14@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:بداية اختبارات الفصل التدريبي الثان
+ ي واختبارات الإكمال في المعاهد
+DESCRIPTION:📅 1449/01/08\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-15@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:بداية إجازة نهاية العام التدريبي
+DESCRIPTION:📅 1449/01/19\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-16@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:عودة القيادات الإشرافية
+DESCRIPTION:تشمل عمداء الكليات ومديري المعاهد 
+ والوكلاء ورؤساء الأقسام.\n📅 1449/03/08\nالمصد
+ ر الرسمي: المؤسسة العامة للتدريب التقني 
+ والمهني.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-17@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:عودة أعضاء هيئة التدريب
+DESCRIPTION:📅 1449/03/13\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tvtc-1448-18@daleelak
+DTSTAMP:20260806T125903Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:بداية التدريب للعام التدريبي 1449–1450ه
+ ـ
+DESCRIPTION:📅 1449/03/20\nالمصدر الرسمي: المؤسسة ال
+ عامة للتدريب التقني والمهني.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
