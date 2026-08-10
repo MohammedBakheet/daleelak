@@ -1,0 +1,964 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Taibah University Academic Calendar 1448//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الأكاديمي لجامعة طيبة 1448ه
+ ـ
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:taibah-1448-001@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260814
+SUMMARY:فترة تسجيل الرغبات في التخصصات المزد
+ وجة والفرعية
+DESCRIPTION:📅 26-صفر-1448 - 01-ربيع الأول-1448\nالمصدر
+  الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد
+  البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-002@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:انتهاء تنفيذ طلبات تأجيل الفصل الدرا
+ سي الأول 1448هـ
+DESCRIPTION:📅 02-ربيع الأول-1448\nالمصدر الرسمي: ج
+ امعة طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-003@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+SUMMARY:فترة استقبال وتنفيذ طلبات الزيارة ال
+ داخلية للفصل الدراسي الأول 1448هـ
+DESCRIPTION:📅 03-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-004@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+SUMMARY:فترة استقبال وتنفيذ طلبات إعادة القي
+ د للفصل الدراسي الأول 1448هـ
+DESCRIPTION:📅 03-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-005@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+SUMMARY:فترة استقبال وتنفيذ طلبات الزيارة ال
+ خارجية (من وإلى جامعة طيبة) للفصل الدراسي
+  الأول 1448هـ
+DESCRIPTION:📅 03-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-006@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+SUMMARY:فترة استقبال وتنفيذ طلبات التحويل من
+  تخصص لآخر داخل الكلية للفصل الدراسي الأ
+ ول 1448هـ
+DESCRIPTION:📅 03-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-007@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:نتائج طلبات التسجيل في التخصصات المز
+ دوجة والفرعية
+DESCRIPTION:📅 05-ربيع الأول-1448\nالمصدر الرسمي: ج
+ امعة طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-008@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260820
+SUMMARY:التسجيل الآلي للطلبة
+DESCRIPTION:📅 05-ربيع الأول-1448 - 06-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-009@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
+SUMMARY:الحذف والإضافة عبر بوابة الطالب الال
+ كترونية لمقررات التخصص الأساسي
+DESCRIPTION:📅 07-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-010@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260828
+SUMMARY:الإرشاد الأكاديمي للطلاب والطالبات
+DESCRIPTION:📅 10-ربيع الأول-1448 - 14-ربيع الأول-1448\
+ nالأسبوع: الأول\nالمصدر الرسمي: جامعة طيب
+ ة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-011@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 10-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-012@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:انتهاء تنفيذ تسجيل مقررات التخصصات ا
+ لمزدوجة والفرعية
+DESCRIPTION:📅 13-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-013@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:انتهاء تنفيذ إسناد شعب المقررات (آلي
+ ًا) لأعضاء هيئة التدريس
+DESCRIPTION:📅 13-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-014@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:نتائج طلبات الزيارة الداخلية وطلبات 
+ الزيارة الخارجية (من وإلى جامعة طيبة)
+DESCRIPTION:📅 14-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-015@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:نتائج طلبات التحويل من تخصص لآخر داخ
+ ل الكلية
+DESCRIPTION:📅 14-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-016@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:انتهاء تنفيذ الانسحاب من التخصصات ال
+ مزدوجة والتخصصات الفرعية
+DESCRIPTION:📅 11-ربيع الآخر-1448\nالأسبوع: الخامس\
+ nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-017@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 12-ربيع الآخر-1448 - 15-ربيع الآخر-1448\
+ nالأسبوع: الخامس\nالمصدر الرسمي: جامعة طي
+ بة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-019@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261016
+SUMMARY:تسجيل الرغبات من قبل الطلاب والطالبا
+ ت للفصل الدراسي الثاني للعام الجامعي 1448ه
+ ـ
+DESCRIPTION:📅 30-ربيع الآخر-1448 - 04-جمادى الأولى-1
+ 448\nالأسبوع: الثامن\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-020@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:انتهاء تنفيذ الانسحاب بعذر من المقرر
+  للفصل الدراسي الأول 1448هـ (للنظام الفصلي 
+ والنظام السنوي)
+DESCRIPTION:📅 03-جمادى الأولى-1448\nالأسبوع: الثا
+ من\nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-021@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261030
+SUMMARY:فترة الاختبارات النصفية لمقررات الم
+ تطلبات العامة
+DESCRIPTION:📅 14-جمادى الأولى-1448 - 18-جمادى الأول
+ ى-1448\nالأسبوع: التاسع\nالمصدر الرسمي: جامع
+ ة طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-022@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261106
+SUMMARY:إنشاء شعب المقررات ومجموعات الجداول 
+ الدراسية للفصل الدراسي الثاني 1448هـ في نظ
+ ام القبول والتسجيل من قبل الأقسام
+DESCRIPTION:📅 14-جمادى الأولى-1448 - 25-جمادى الأول
+ ى-1448\nالأسبوع: العاشر والحادي عشر\nالمصدر 
+ الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد 
+ البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-023@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:انتهاء تنفيذ طلبات الاعتذار عن الدرا
+ سة للفصل الدراسي الأول 1448هـ (للنظام الفص
+ لي)
+DESCRIPTION:📅 17-جمادى الأولى-1448\nالأسبوع: العا
+ شر\nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-024@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة الخريف بنهاية دوام يوم الخميس
+DESCRIPTION:📅 09-جمادى الآخرة-1448 - 18-جمادى الآخر
+ ة-1448\nالأسبوع: الثالث عشر\nالمصدر الرسمي: 
+ جامعة طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-025@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:استئناف الدراسة بعد الإجازة
+DESCRIPTION:📅 19-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة طيبة.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-026@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261204
+SUMMARY:تقييم العملية التعليمية من قبل الطلا
+ ب والطالبات من خلال منصة بوابة النظام ال
+ أكاديمي للطلاب
+DESCRIPTION:📅 19-جمادى الآخرة-1448 - 23-جمادى الآخر
+ ة-1448\nالأسبوع: الرابع عشر\nالمصدر الرسمي: 
+ جامعة طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-028@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:انتهاء تنفيذ طلبات معادلة المقررات ف
+ ي الفصل الدراسي الأول 1448هـ
+DESCRIPTION:📅 22-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة طيبة.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-029@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:انتهاء تنفيذ طلبات تأجيل الدراسة للف
+ صل الثاني 1448هـ
+DESCRIPTION:📅 22-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة طيبة.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-030@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:انتهاء تنفيذ طلبات الانسحاب النهائي 
+ من الجامعة في الفصل الدراسي الأول 1448هـ
+DESCRIPTION:📅 22-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة طيبة.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-031@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261225
+SUMMARY:فترة الاختبارات النهائية للمقررات ا
+ لعامة والاختيارية والعملية
+DESCRIPTION:📅 11-رجب-1448 - 15-رجب-1448\nالأسبوع: السا
+ بع عشر\nالمصدر الرسمي: جامعة طيبة.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-032@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20270108
+SUMMARY:فترة الاختبارات النهائية للمقررات ا
+ لتخصصية والحرة
+DESCRIPTION:📅 18-رجب-1448 - 29-رجب-1448\nالأسبوع: الثا
+ من عشر والتاسع عشر\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-033@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الجامعي 1448هـ بنهاي
+ ة دوام يوم الخميس
+DESCRIPTION:📅 29-رجب-1448 - 08-شعبان-1448\nالأسبوع: ال
+ تاسع عشر\nالمصدر الرسمي: جامعة طيبة.\nإعدا
+ د وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-034@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:انتهاء رصد الدرجات النهائية من قبل أ
+ عضاء هيئة التدريس من خلال منصة بوابة الن
+ ظام الأكاديمي لأعضاء هيئة التدريس
+DESCRIPTION:📅 01-شعبان-1448\nالأسبوع: التاسع عشر\n
+ المصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-035@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:تسليم تقرير المقرر من قبل عضو هيئة ال
+ تدريس
+DESCRIPTION:📅 02-شعبان-1448\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-036@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:إغلاق أعمال الفصل الدراسي الأول للعا
+ م الجامعي 1448هـ
+DESCRIPTION:📅 02-شعبان-1448\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-037@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:توزيع وثائق الخريجين في الفصل الدراس
+ ي الأول 1448هـ
+DESCRIPTION:📅 12-شعبان-1448\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-039@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270117
+SUMMARY:فترة استقبال وتنفيذ طلبات الزيارة ال
+ داخلية للفصل الدراسي الثاني 1448هـ
+DESCRIPTION:📅 02-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-040@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270117
+SUMMARY:فترة استقبال وتنفيذ طلبات إعادة القي
+ د للفصل الدراسي الثاني 1448هـ
+DESCRIPTION:📅 02-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-041@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:فترة تسجيل الرغبات في التخصصات المزد
+ وجة والفرعية
+DESCRIPTION:📅 02-شعبان-1448 - 06-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-042@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:انتهاء تنفيذ طلبات تأجيل الفصل الدرا
+ سي الثاني 1448هـ
+DESCRIPTION:📅 02-شعبان-1448\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-043@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270117
+SUMMARY:فترة استقبال وتنفيذ طلبات الزيارة ال
+ خارجية (من وإلى جامعة طيبة) للفصل الدراسي
+  الثاني 1448هـ
+DESCRIPTION:📅 02-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-044@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270117
+SUMMARY:فترة استقبال وتنفيذ طلبات التحويل من
+  تخصص لآخر داخل الكلية للفصل الدراسي الث
+ اني 1448هـ
+DESCRIPTION:📅 02-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-045@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270114
+SUMMARY:التسجيل الآلي للطلبة
+DESCRIPTION:📅 04-شعبان-1448 - 05-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-046@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+SUMMARY:الحذف والإضافة عبر بوابة الطالب الال
+ كترونية لمقررات التخصص الأساسي
+DESCRIPTION:📅 06-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة طيبة.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-047@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الدراسة للفصل الدراسي الثاني
+DESCRIPTION:📅 09-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-048@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270122
+SUMMARY:الإرشاد الأكاديمي للطلاب والطالبات
+DESCRIPTION:📅 09-شعبان-1448 - 13-شعبان-1448\nالأسبوع: 
+ الأول\nالمصدر الرسمي: جامعة طيبة.\nإعداد و
+ تجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-049@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:توزيع الوثائق للفصل الأول 1448هـ
+DESCRIPTION:📅 12-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-050@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:انتهاء تنفيذ تسجيل مقررات التخصصات ا
+ لمزدوجة والفرعية
+DESCRIPTION:📅 12-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-051@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:نتائج طلبات التسجيل في التخصصات المز
+ دوجة والفرعية
+DESCRIPTION:📅 12-شعبان-1448\nالمصدر الرسمي: جامعة 
+ طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-052@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:نتائج طلبات التحويل من تخصص لآخر داخ
+ ل الكلية
+DESCRIPTION:📅 13-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-053@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:نتائج طلبات الزيارة الداخلية وطلبات 
+ الزيارة الخارجية (من وإلى جامعة طيبة)
+DESCRIPTION:📅 13-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-054@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:انتهاء تنفيذ إسناد شعب المقررات (آلي
+ ًا) لأعضاء هيئة التدريس
+DESCRIPTION:📅 13-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-055@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:انتهاء تنفيذ الانسحاب من التخصصات ال
+ مزدوجة والتخصصات الفرعية
+DESCRIPTION:📅 09-رمضان-1448\nالأسبوع: الخامس\nالمص
+ در الرسمي: جامعة طيبة.\nإعداد وتجميع: م. مح
+ مد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-056@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 14-رمضان-1448 - 15-رمضان-1448\nالأسبوع: 
+ السادس\nالمصدر الرسمي: جامعة طيبة.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-057@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر
+DESCRIPTION:📅 18-رمضان-1448 - 05-شوال-1448\nالأسبوع: ا
+ لسادس\nالمصدر الرسمي: جامعة طيبة.\nإعداد و
+ تجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-058@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:استئناف الدراسة بعد إجازة عيد الفطر
+DESCRIPTION:📅 06-شوال-1448\nالأسبوع: السابع\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-060@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:انتهاء تنفيذ الانسحاب بعذر من المقرر
+  للفصل الدراسي الثاني 1448هـ (للنظام الفصل
+ ي والنظام السنوي)
+DESCRIPTION:📅 16-شوال-1448\nالأسبوع: الثامن\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-061@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270402
+SUMMARY:فترة الاختبارات النصفية لمقررات الم
+ تطلبات العامة
+DESCRIPTION:📅 20-شوال-1448 - 24-شوال-1448\nالأسبوع: ال
+ تاسع\nالمصدر الرسمي: جامعة طيبة.\nإعداد وت
+ جميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-063@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:انتهاء تنفيذ طلبات الاعتذار عن الدرا
+ سة للفصل الدراسي الثاني 1448هـ (للنظام الف
+ صلي)
+DESCRIPTION:📅 30-شوال-1448\nالأسبوع: العاشر\nالمصد
+ ر الرسمي: جامعة طيبة.\nإعداد وتجميع: م. محم
+ د البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-065@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:انتهاء تنفيذ طلبات الانسحاب النهائي 
+ من الجامعة في الفصل الدراسي الثاني 1448هـ
+DESCRIPTION:📅 28-ذو القعدة-1448\nالأسبوع: الرابع ع
+ شر\nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-066@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:انتهاء تنفيذ طلبات تعديل الدرجة وتقد
+ ير (غير مكتمل – ل / IC) في الفصل الدراسي الأ
+ ول للعام الجامعي 1448هـ
+DESCRIPTION:📅 28-ذو القعدة-1448\nالأسبوع: الرابع ع
+ شر\nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-067@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:انتهاء تنفيذ طلبات معادلة المقررات ف
+ ي الفصل الدراسي الثاني 1448هـ
+DESCRIPTION:📅 28-ذو القعدة-1448\nالأسبوع: الرابع ع
+ شر\nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-068@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى
+DESCRIPTION:📅 29-ذو القعدة-1448 - 16-ذو الحجة-1448\nال
+ أسبوع: الرابع عشر\nالمصدر الرسمي: جامعة ط
+ يبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-069@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:استئناف الدراسة بعد إجازة عيد الأضحى
+DESCRIPTION:📅 17-ذو الحجة-1448\nالأسبوع: الخامس عش
+ ر\nالمصدر الرسمي: جامعة طيبة.\nإعداد وتجمي
+ ع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-070@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270618
+SUMMARY:فترة الاختبارات النهائية للمقررات ا
+ لعامة والاختيارية والعملية
+DESCRIPTION:📅 01-محرم-1449 - 12-محرم-1449\nالأسبوع: ال
+ سابع عشر والثامن عشر\nالمصدر الرسمي: جامع
+ ة طيبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-071@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:بداية إجازة نهاية العام الجامعي 1448هـ
+DESCRIPTION:📅 14-محرم-1449\nالأسبوع: الثامن عشر\nا
+ لمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-072@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:انتهاء رصد الدرجات النهائية من قبل أ
+ عضاء هيئة التدريس من خلال منصة بوابة الن
+ ظام الأكاديمي لأعضاء هيئة التدريس
+DESCRIPTION:📅 14-محرم-1449\nالأسبوع: الثامن عشر\nا
+ لمصدر الرسمي: جامعة طيبة.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-073@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:تسليم تقرير المقرر من قبل عضو هيئة ال
+ تدريس
+DESCRIPTION:📅 15-محرم-1449\nالمصدر الرسمي: جامعة ط
+ يبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-074@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:إغلاق أعمال الفصل الدراسي الثاني للع
+ ام الجامعي 1448هـ
+DESCRIPTION:📅 15-محرم-1449\nالمصدر الرسمي: جامعة ط
+ يبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:taibah-1448-075@daleelak
+DTSTAMP:20260810T105110Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:توزيع وثائق الخريجين في الفصل الدراس
+ ي الثاني 1448هـ
+DESCRIPTION:📅 25-محرم-1449\nالمصدر الرسمي: جامعة ط
+ يبة.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
