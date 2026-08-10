@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T10:28:53.521Z",
-  "count": 62,
+  "updatedAt": "2026-08-10T11:04:20.924Z",
+  "count": 63,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -63,6 +63,7 @@
     "calendars/university/king-khaled-uni/metadata.json",
     "calendars/university/king-saud-university/metadata.json",
     "calendars/university/PNU/metadata.json",
+    "calendars/university/taibah-university/metadata.json",
     "calendars/university/tvtc/metadata.json",
     "calendars/university/umm-al-qura-university/metadata.json"
   ],
@@ -595,6 +596,31 @@
       "detailPath": "calendar.html?id=laliga-2026-2027",
       "sharePath": "share/laliga-2026-2027/",
       "legacyDetailPath": "calendar.html?id=laliga-2026-2027"
+    },
+    {
+      "id": "taibah-university",
+      "title": "التقويم الأكاديمي 2026–2027 — جامعة طيبة",
+      "organization": "جامعة طيبة",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة طيبة",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-10",
+      "description": "مواعيد التقويم الأكاديمي للفصلين الدراسيين الأول والثاني بجامعة طيبة للعام الجامعي 1448هـ الموافق 2026–2027م، وفق التقويم الرسمي للجامعة.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 69,
+      "seoTitle": "التقويم الأكاديمي لجامعة طيبة 2026–2027 | دليلك",
+      "seoDescription": "مواعيد التقويم الأكاديمي لجامعة طيبة للفصلين الدراسيين الأول والثاني من العام الجامعي 1448هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي.",
+      "infoPath": "calendars/university/taibah-university/metadata.json",
+      "folderPath": "calendars/university/taibah-university/",
+      "icsPath": "calendars/university/taibah-university/calendar.ics",
+      "logoPath": "calendars/university/taibah-university/logo.png",
+      "detailPath": "calendar.html?id=taibah-university",
+      "sharePath": "share/taibah-university/",
+      "legacyDetailPath": "calendar.html?id=taibah-university"
     },
     {
       "id": "jazan-university",
