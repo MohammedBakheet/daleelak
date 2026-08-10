@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T11:04:20.924Z",
+  "updatedAt": "2026-08-10T11:09:14.431Z",
   "count": 63,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -599,7 +599,7 @@
     },
     {
       "id": "taibah-university",
-      "title": "التقويم الأكاديمي 2026–2027 — جامعة طيبة",
+      "title": "التقويم الأكاديمي لجامعة طيبة",
       "organization": "جامعة طيبة",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
