@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T07:28:00.437Z",
-  "count": 3,
+  "updatedAt": "2026-08-10T08:18:54.777Z",
+  "count": 4,
   "leagues": [
     {
       "id": "roshn",
@@ -22,6 +22,27 @@
       "logoPath": "calendars/sports/roshn/league/logo.png",
       "detailPath": "league.html?id=roshn",
       "calendarsCount": 19
+    },
+    {
+      "id": "ligue1",
+      "title": "الدوري الفرنسي",
+      "shortTitle": "ليغ 1",
+      "country": "فرنسا",
+      "category": "sports",
+      "sport": "football",
+      "season": "2026/27",
+      "description": "تقويم مباريات الدوري الفرنسي 2026/27 بتوقيت المملكة العربية السعودية.",
+      "seoTitle": "تقويم الدوري الفرنسي 2026/27",
+      "seoDescription": "مواعيد مباريات الدوري الفرنسي 2026/27 بتوقيت السعودية مع تحديثات تلقائية.",
+      "logo": "league/logo.png",
+      "leagueCalendarId": "ligue1-2026-2027",
+      "teamsCount": 18,
+      "teamsPath": "teams/",
+      "order": 1,
+      "status": "active",
+      "logoPath": "calendars/sports/ligue1/league/logo.png",
+      "detailPath": "league.html?id=ligue1",
+      "calendarsCount": 3
     },
     {
       "id": "yellow",
