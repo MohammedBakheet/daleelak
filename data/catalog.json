@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T05:49:23.101Z",
+  "updatedAt": "2026-08-10T05:50:31.230Z",
   "count": 49,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -56,7 +56,7 @@
   "entries": [
     {
       "id": "jazan-university",
-      "title": "التقويم الأكاديمي 2026–2027 — جامعة جازان",
+      "title": "التقويم الأكاديمي لجامعة جازان",
       "organization": "جامعة جازان",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
