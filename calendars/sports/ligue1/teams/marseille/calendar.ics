@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//مرسيليا 2026/27//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مرسيليا — الدوري الفرنسي 2026/27
+X-WR-CALDESC:تقويم مباريات مرسيليا في الدوري ا
+ لفرنسي 2026/27 بتوقيت المملكة العربية السعو
+ دية.
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r1-1@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;TZID=Asia/Riyadh:20260821T214500
+DTEND;TZID=Asia/Riyadh:20260821T233000
+SUMMARY:مرسيليا × ستراسبورغ
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × ستراسبورغ\n🗓️ الجولة: 1\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:ستراسبورغ
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r2-18@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;TZID=Asia/Riyadh:20260830T214500
+DTEND;TZID=Asia/Riyadh:20260830T233000
+SUMMARY:موناكو × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: موناكو × مرسيليا\n🗓️ الجولة: 2\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:موناكو
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r3-20@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:مرسيليا × باريس إف سي
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × باريس إف سي\n🗓️ الجولة: 3\
+ n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:باريس إف سي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r4-28@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:رين × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: رين × مرسيليا\n🗓️ الجولة: 4\n🇸🇦 جم
+ يع المواعيد معروضة حسب توقيت المملكة الع
+ ربية السعودية (UTC+3).\n✨ تقويم موقع دليلك —
+  مجاني، بدون تسجيل، مع تحديثات تلقائية.\n
+ © 2026 م. محمد البخيت — موقع دليلك. حقوق إعد
+ اد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:رين
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r5-45@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:مرسيليا × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × باريس سان جيرمان\n🗓️ الج
+ ولة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r6-51@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:تروا × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: تروا × مرسيليا\n🗓️ الجولة: 6\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:تروا
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r7-62@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:أنجيه × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: أنجيه × مرسيليا\n🗓️ الجولة: 7\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:أنجيه
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r8-64@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:مرسيليا × لوهافر
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × لوهافر\n🗓️ الجولة: 8\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:لوهافر
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r9-79@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:مرسيليا × تولوز
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × تولوز\n🗓️ الجولة: 9\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:تولوز
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r10-90@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:لانس × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لانس × مرسيليا\n🗓️ الجولة: 10\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:لانس
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r11-99@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:مرسيليا × لو مان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × لو مان\n🗓️ الجولة: 11\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:لو مان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r12-103@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:أوكسير × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: أوكسير × مرسيليا\n🗓️ الجولة: 12\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:أوكسير
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r13-113@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:مرسيليا × نيس
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × نيس\n🗓️ الجولة: 13\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:نيس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r14-126@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:ليون × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: ليون × مرسيليا\n🗓️ الجولة: 14\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:ليون
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r15-128@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:بريست × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: بريست × مرسيليا\n🗓️ الجولة: 15\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:بريست
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r16-136@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:مرسيليا × ليل
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × ليل\n🗓️ الجولة: 16\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:ليل
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r17-151@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:لوريان × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لوريان × مرسيليا\n🗓️ الجولة: 17\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:لوريان
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r18-158@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:مرسيليا × تروا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × تروا\n🗓️ الجولة: 18\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:تروا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r19-171@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:باريس سان جيرمان × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × مرسيليا\n🗓️ الج
+ ولة: 19\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r20-178@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:مرسيليا × أنجيه
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × أنجيه\n🗓️ الجولة: 20\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:20
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:أنجيه
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r21-184@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:ستراسبورغ × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: ستراسبورغ × مرسيليا\n🗓️ الجولة: 21\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:21
+X-DALEELAK-HOME-TEAM:ستراسبورغ
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r22-195@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:مرسيليا × رين
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × رين\n🗓️ الجولة: 22\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:22
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:رين
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r23-207@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:ليل × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: ليل × مرسيليا\n🗓️ الجولة: 23\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:23
+X-DALEELAK-HOME-TEAM:ليل
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r24-214@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:مرسيليا × موناكو
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × موناكو\n🗓️ الجولة: 24\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:24
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:موناكو
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r25-225@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:مرسيليا × ليون
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × ليون\n🗓️ الجولة: 25\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:25
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:ليون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r26-228@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:لو مان × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لو مان × مرسيليا\n🗓️ الجولة: 26\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:26
+X-DALEELAK-HOME-TEAM:لو مان
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r27-236@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:مرسيليا × بريست
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × بريست\n🗓️ الجولة: 27\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:27
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:بريست
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r28-250@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:لوهافر × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لوهافر × مرسيليا\n🗓️ الجولة: 28\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:28
+X-DALEELAK-HOME-TEAM:لوهافر
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r29-254@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:مرسيليا × أوكسير
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × أوكسير\n🗓️ الجولة: 29\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:29
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:أوكسير
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r30-270@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:تولوز × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: تولوز × مرسيليا\n🗓️ الجولة: 30\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:30
+X-DALEELAK-HOME-TEAM:تولوز
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r31-278@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:نيس × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: نيس × مرسيليا\n🗓️ الجولة: 31\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:31
+X-DALEELAK-HOME-TEAM:نيس
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r32-285@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:مرسيليا × لانس
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × لانس\n🗓️ الجولة: 32\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:32
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:لانس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r33-296@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:باريس إف سي × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس إف سي × مرسيليا\n🗓️ الجولة: 33
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:33
+X-DALEELAK-HOME-TEAM:باريس إف سي
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r34-302@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:مرسيليا × لوريان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × لوريان\n🗓️ الجولة: 34\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:34
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:لوريان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

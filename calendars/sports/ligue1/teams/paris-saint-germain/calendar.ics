@@ -1,0 +1,796 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//باريس سان جيرمان 2026/27//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:باريس سان جيرمان — الدوري الفرنسي
+  2026/27
+X-WR-CALDESC:تقويم مباريات باريس سان جيرمان في 
+ الدوري الفرنسي 2026/27 بتوقيت المملكة العرب
+ ية السعودية.
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r1-9@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;TZID=Asia/Riyadh:20260823T214500
+DTEND;TZID=Asia/Riyadh:20260823T233000
+SUMMARY:باريس سان جيرمان × رين
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × رين\n🗓️ الجولة: 
+ 1\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:رين
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r2-10@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;TZID=Asia/Riyadh:20260828T214500
+DTEND;TZID=Asia/Riyadh:20260828T233000
+SUMMARY:ليل × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: ليل × باريس سان جيرمان\n🗓️ الجولة: 
+ 2\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:ليل
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r3-23@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:باريس سان جيرمان × موناكو
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × موناكو\n🗓️ الجو
+ لة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:موناكو
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r4-36@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:بريست × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: بريست × باريس سان جيرمان\n🗓️ الجول
+ ة: 4\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:بريست
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r5-45@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:مرسيليا × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: مرسيليا × باريس سان جيرمان\n🗓️ الج
+ ولة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:مرسيليا
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r6-52@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:باريس سان جيرمان × لو مان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × لو مان\n🗓️ الجو
+ لة: 6\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:لو مان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r7-60@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:ستراسبورغ × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: ستراسبورغ × باريس سان جيرمان\n🗓️ ا
+ لجولة: 7\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:ستراسبورغ
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r8-72@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:باريس سان جيرمان × ليون
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × ليون\n🗓️ الجولة
+ : 8\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:ليون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r9-78@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:لوهافر × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لوهافر × باريس سان جيرمان\n🗓️ الجو
+ لة: 9\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:لوهافر
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r10-86@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:باريس سان جيرمان × تروا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × تروا\n🗓️ الجولة
+ : 10\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:تروا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r11-98@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:نيس × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: نيس × باريس سان جيرمان\n🗓️ الجولة: 
+ 11\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:نيس
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r12-107@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:باريس سان جيرمان × لوريان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × لوريان\n🗓️ الجو
+ لة: 12\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:لوريان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r13-115@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:تولوز × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: تولوز × باريس سان جيرمان\n🗓️ الجول
+ ة: 13\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:تولوز
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r14-119@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:باريس سان جيرمان × باريس إف سي
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × باريس إف سي\n🗓️ 
+ الجولة: 14\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:باريس إف سي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r15-135@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:لانس × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لانس × باريس سان جيرمان\n🗓️ الجولة
+ : 15\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:لانس
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r16-144@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:أنجيه × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: أنجيه × باريس سان جيرمان\n🗓️ الجول
+ ة: 16\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:أنجيه
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r17-149@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:باريس سان جيرمان × أوكسير
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × أوكسير\n🗓️ الجو
+ لة: 17\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:أوكسير
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r18-161@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:موناكو × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: موناكو × باريس سان جيرمان\n🗓️ الجو
+ لة: 18\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:موناكو
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r19-171@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:باريس سان جيرمان × مرسيليا
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × مرسيليا\n🗓️ الج
+ ولة: 19\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:مرسيليا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r20-174@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:لو مان × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لو مان × باريس سان جيرمان\n🗓️ الجو
+ لة: 20\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:20
+X-DALEELAK-HOME-TEAM:لو مان
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r21-183@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:باريس سان جيرمان × بريست
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × بريست\n🗓️ الجول
+ ة: 21\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:21
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:بريست
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r22-198@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:باريس سان جيرمان × لانس
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × لانس\n🗓️ الجولة
+ : 22\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:22
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:لانس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r23-200@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:رين × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: رين × باريس سان جيرمان\n🗓️ الجولة: 
+ 23\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:23
+X-DALEELAK-HOME-TEAM:رين
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r24-215@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:أوكسير × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: أوكسير × باريس سان جيرمان\n🗓️ الجو
+ لة: 24\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:24
+X-DALEELAK-HOME-TEAM:أوكسير
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r25-222@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:باريس سان جيرمان × ستراسبورغ
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × ستراسبورغ\n🗓️ ا
+ لجولة: 25\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:25
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:ستراسبورغ
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r26-233@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:باريس إف سي × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس إف سي × باريس سان جيرمان\n🗓️ 
+ الجولة: 26\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:26
+X-DALEELAK-HOME-TEAM:باريس إف سي
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r27-239@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:باريس سان جيرمان × لوهافر
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × لوهافر\n🗓️ الجو
+ لة: 27\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:27
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:لوهافر
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r28-251@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:باريس سان جيرمان × ليل
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × ليل\n🗓️ الجولة: 
+ 28\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:28
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:ليل
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r29-256@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:لوريان × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: لوريان × باريس سان جيرمان\n🗓️ الجو
+ لة: 29\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:29
+X-DALEELAK-HOME-TEAM:لوريان
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r30-266@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:باريس سان جيرمان × أنجيه
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × أنجيه\n🗓️ الجول
+ ة: 30\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:30
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:أنجيه
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r31-279@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:ليون × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: ليون × باريس سان جيرمان\n🗓️ الجولة
+ : 31\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:31
+X-DALEELAK-HOME-TEAM:ليون
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r32-282@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:باريس سان جيرمان × نيس
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × نيس\n🗓️ الجولة: 
+ 32\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:32
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:نيس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r33-292@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:تروا × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: تروا × باريس سان جيرمان\n🗓️ الجولة
+ : 33\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:33
+X-DALEELAK-HOME-TEAM:تروا
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ligue1-2026-2027-r34-299@daleelak
+DTSTAMP:20260810T080920Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:باريس سان جيرمان × تولوز
+DESCRIPTION:🏆 البطولة: الدوري الفرنسي\n⚽ الفر
+ يقان: باريس سان جيرمان × تولوز\n🗓️ الجول
+ ة: 34\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الفرنسي
+X-DALEELAK-ROUND:34
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:تولوز
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T080920Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
