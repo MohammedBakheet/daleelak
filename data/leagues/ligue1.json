@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T08:18:54.777Z",
+  "updatedAt": "2026-08-10T08:19:52.412Z",
   "id": "ligue1",
   "title": "الدوري الفرنسي",
   "shortTitle": "ليغ 1",
@@ -15,7 +15,7 @@
   "leagueCalendarId": "ligue1-2026-2027",
   "teamsCount": 18,
   "teamsPath": "teams/",
-  "order": 1,
+  "order": 4,
   "status": "active",
   "logoPath": "calendars/sports/ligue1/league/logo.png",
   "detailPath": "league.html?id=ligue1",
