@@ -13,6 +13,6 @@
   "leagueCalendarId": "premier-league-2026-2027",
   "teamsCount": 20,
   "teamsPath": "teams/",
-  "order": 1,
+  "order": 3,
   "status": "active"
 }
