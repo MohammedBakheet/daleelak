@@ -1,29 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T10:28:05.725Z",
+  "updatedAt": "2026-08-10T10:28:53.523Z",
   "count": 5,
   "leagues": [
-    {
-      "id": "laliga",
-      "title": "الدوري الإسباني",
-      "shortTitle": "لاليغا",
-      "country": "إسبانيا",
-      "category": "sports",
-      "sport": "football",
-      "season": "2026/2027",
-      "description": "تقويم مباريات الدوري الإسباني 2026/27 بتوقيت المملكة العربية السعودية.",
-      "seoTitle": "تقويم الدوري الإسباني 2026/27",
-      "seoDescription": "مواعيد مباريات الدوري الإسباني 2026/27 بتوقيت السعودية مع تحديثات تلقائية.",
-      "logo": "league/logo.png",
-      "leagueCalendarId": "laliga-2026-2027",
-      "teamsCount": 20,
-      "order": 1,
-      "status": "active",
-      "teamsPath": "teams/",
-      "logoPath": "calendars/sports/laliga/league/logo.png",
-      "detailPath": "league.html?id=laliga",
-      "calendarsCount": 4
-    },
     {
       "id": "roshn",
       "title": "الدوري السعودي للمحترفين",
@@ -61,6 +40,27 @@
       "logoPath": "calendars/sports/yellow/league/logo.png",
       "detailPath": "league.html?id=yellow",
       "calendarsCount": 19
+    },
+    {
+      "id": "laliga",
+      "title": "الدوري الإسباني",
+      "shortTitle": "لاليغا",
+      "country": "إسبانيا",
+      "category": "sports",
+      "sport": "football",
+      "season": "2026/2027",
+      "description": "تقويم مباريات الدوري الإسباني 2026/27 بتوقيت المملكة العربية السعودية.",
+      "seoTitle": "تقويم الدوري الإسباني 2026/27",
+      "seoDescription": "مواعيد مباريات الدوري الإسباني 2026/27 بتوقيت السعودية مع تحديثات تلقائية.",
+      "logo": "league/logo.png",
+      "leagueCalendarId": "laliga-2026-2027",
+      "teamsCount": 20,
+      "order": 3,
+      "status": "active",
+      "teamsPath": "teams/",
+      "logoPath": "calendars/sports/laliga/league/logo.png",
+      "detailPath": "league.html?id=laliga",
+      "calendarsCount": 4
     },
     {
       "id": "premier-league",
