@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Jazan University Academic Calendar 1448-1449//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الأكاديمي لجامعة جازان 1448
+ -1449هـ
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:jazan-1448-01@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260821
+SUMMARY:طلبات الزائر للفصل الدراسي الأول من 
+ داخل الجامعة وخارجها
+DESCRIPTION:📅 1448/02/19 - 1448/03/07\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-02@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260821
+SUMMARY:طلبات إعادة القيد والفرص للفصل الدرا
+ سي الأول
+DESCRIPTION:📅 1448/03/03 - 1448/03/07\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-03@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260828
+SUMMARY:طلبات التأجيل للفصل الدراسي الأول - ط
+ لبات الإعفاء من دراسة مقررات اللغة الإنج
+ ليزية العامة للفصل الدراسي الأول
+DESCRIPTION:📅 1448/03/03 - 1448/03/14\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-04@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20270108
+SUMMARY:بداية الدراسة في الفصل الدراسي الأول
+  ونهايتها
+DESCRIPTION:📅 1448/03/10 - 1448/07/29\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-05@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261127
+SUMMARY:طلبات الاعتذار عن مقرر أو فصل دراسي
+DESCRIPTION:📅 1448/03/17 - 1448/06/16\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-06@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20270528
+SUMMARY:طلبات الاعتذار عن عام دراسي (للنظام ا
+ لسنوي)
+DESCRIPTION:📅 1448/03/17 - 1448/12/21\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-07@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 1448/04/12 - 1448/04/15\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-08@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة منتصف الفصل الدراسي الأول (إجا
+ زة الخريف)
+DESCRIPTION:📅 1448/06/10 - 1448/06/18\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-09@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:اعتماد قوائم الحرمان للفصل الدراسي ا
+ لأول
+DESCRIPTION:📅 1448/07/01\nالمصدر الرسمي: جامعة جازا
+ ن.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-10@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20270115
+SUMMARY:طلبات الزائر للفصل الدراسي الثاني من
+  داخل الجامعة وخارجها
+DESCRIPTION:📅 1448/07/04 - 1448/08/06\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-11@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270107
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لأول
+DESCRIPTION:📅 1448/07/11 - 1448/07/28\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-12@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الدراسي
+DESCRIPTION:📅 1448/07/30 - 1448/08/08\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-13@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:طلبات إعادة القيد والفرص للفصل الدرا
+ سي الثاني
+DESCRIPTION:📅 1448/08/02 - 1448/08/06\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-14@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270122
+SUMMARY:طلبات التأجيل للفصل الدراسي الثاني - 
+ طلبات الإعفاء من دراسة مقررات اللغة الإن
+ جليزية العامة للفصل الدراسي الثاني
+DESCRIPTION:📅 1448/08/02 - 1448/08/13\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-15@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270618
+SUMMARY:بداية الدراسة في الفصل الدراسي الثان
+ ي ونهايتها
+DESCRIPTION:📅 1448/08/09 - 1449/01/12\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-16@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270521
+SUMMARY:طلبات الاعتذار عن مقرر أو فصل دراسي ل
+ لفصل الدراسي الثاني
+DESCRIPTION:📅 1448/08/16 - 1448/12/14\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-17@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 1448/09/12 - 1448/09/15\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-18@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر المبارك
+DESCRIPTION:📅 1448/09/19 - 1448/10/05\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-19@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270507
+SUMMARY:إدخال رغبات التخصيص لطلبة المسار الص
+ حي والهندسي دفعة 2027
+DESCRIPTION:📅 1448/11/18 - 1448/11/29\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-20@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى المبارك
+DESCRIPTION:📅 1448/12/01 - 1448/12/16\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-21@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:اعتماد قوائم الحرمان للفصل الدراسي ا
+ لثاني
+DESCRIPTION:📅 1448/12/21\nالمصدر الرسمي: جامعة جازا
+ ن.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-22@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270625
+SUMMARY:طلبات الزائر للفصل الصيفي من داخل ال
+ جامعة وخارجها
+DESCRIPTION:📅 1448/12/17 - 1449/01/19\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-23@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270617
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لثاني
+DESCRIPTION:📅 1448/12/24 - 1449/01/11\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-24@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270817
+SUMMARY:إجازة أعضاء هيئة التدريس
+DESCRIPTION:📅 1449/01/13 - 1449/03/14\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-25@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+SUMMARY:طلبات إعادة القيد والفرص للفصل الدرا
+ سي الصيفي
+DESCRIPTION:📅 1449/01/20 - 1449/01/23\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-26@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270704
+SUMMARY:تقديم طلبات التحويل الداخلي والخارج
+ ي
+DESCRIPTION:📅 1449/01/22 - 1449/01/28\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-27@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270820
+SUMMARY:بداية الدراسة في الفصل الصيفي ونهايت
+ ها
+DESCRIPTION:📅 1449/01/22 - 1449/03/17\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-28@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:إعلان نتائج التحويل الداخلي
+DESCRIPTION:📅 1449/02/07\nالمصدر الرسمي: جامعة جازا
+ ن.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-29@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:إعلان نتائج التحويل الخارجي
+DESCRIPTION:📅 1449/02/14\nالمصدر الرسمي: جامعة جازا
+ ن.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-30@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270819
+SUMMARY:الاختبارات النهائية للفصل الصيفي
+DESCRIPTION:📅 1449/03/14 - 1449/03/16\nالمصدر الرسمي: جام
+ عة جازان.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-31@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:عودة أعضاء هيئة التدريس
+DESCRIPTION:📅 1449/03/15\nالمصدر الرسمي: جامعة جازا
+ ن.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jazan-1448-32@daleelak
+DTSTAMP:20260809T190815Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:بداية الدراسة للعام الجامعي 1449هـ
+DESCRIPTION:📅 1449/03/20\nالمصدر الرسمي: جامعة جازا
+ ن.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
