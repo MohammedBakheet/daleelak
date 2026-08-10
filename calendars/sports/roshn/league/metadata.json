@@ -23,5 +23,9 @@
   "sport": "football",
   "season": "2026–2027",
   "teamCount": 18,
-  "order": 1
+  "order": 1,
+  "events": "events.json",
+  "eventsCount": 54,
+  "eventDurationMinutes": 105,
+  "timezone": "Asia/Riyadh"
 }
