@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T10:18:36.821Z",
+  "updatedAt": "2026-08-10T10:21:46.042Z",
   "count": 62,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -69,7 +69,7 @@
   "entries": [
     {
       "id": "arsenal-premier-league-2026-2027",
-      "title": "آرسنال — الدوري الإنجليزي الممتاز 2026/2027",
+      "title": "آرسنال",
       "organization": "آرسنال",
       "category": "sports",
       "year": "2026/2027",
