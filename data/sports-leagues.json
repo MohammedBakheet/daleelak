@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T11:09:14.433Z",
-  "count": 5,
+  "updatedAt": "2026-08-10T18:57:33.291Z",
+  "count": 6,
   "leagues": [
     {
       "id": "roshn",
@@ -82,6 +82,27 @@
       "logoPath": "calendars/sports/premier-league/league/logo.png",
       "detailPath": "league.html?id=premier-league",
       "calendarsCount": 7
+    },
+    {
+      "id": "serie-a",
+      "title": "الدوري الإيطالي",
+      "shortTitle": "سيري آ",
+      "country": "إيطاليا",
+      "category": "sports",
+      "sport": "football",
+      "season": "2026/2027",
+      "description": "تقويم مباريات الدوري الإيطالي 2026/2027 بتوقيت المملكة العربية السعودية.",
+      "seoTitle": "تقويم الدوري الإيطالي 2026/2027",
+      "seoDescription": "مواعيد مباريات الدوري الإيطالي 2026/2027 بتوقيت السعودية مع تحديثات تلقائية.",
+      "logo": "league/logo.png",
+      "leagueCalendarId": "serie-a-2026-2027",
+      "teamsCount": 20,
+      "teamsPath": "teams/",
+      "order": 4,
+      "status": "active",
+      "logoPath": "calendars/sports/serie-a/league/logo.png",
+      "detailPath": "league.html?id=serie-a",
+      "calendarsCount": 5
     },
     {
       "id": "ligue1",
