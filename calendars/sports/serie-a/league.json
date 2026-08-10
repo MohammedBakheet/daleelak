@@ -1,0 +1,18 @@
+{
+  "id": "serie-a",
+  "title": "الدوري الإيطالي",
+  "shortTitle": "سيري آ",
+  "country": "إيطاليا",
+  "category": "sports",
+  "sport": "football",
+  "season": "2026/2027",
+  "description": "تقويم مباريات الدوري الإيطالي 2026/2027 بتوقيت المملكة العربية السعودية.",
+  "seoTitle": "تقويم الدوري الإيطالي 2026/2027",
+  "seoDescription": "مواعيد مباريات الدوري الإيطالي 2026/2027 بتوقيت السعودية مع تحديثات تلقائية.",
+  "logo": "league/logo.png",
+  "leagueCalendarId": "serie-a-2026-2027",
+  "teamsCount": 20,
+  "teamsPath": "teams/",
+  "order": 4,
+  "status": "active"
+}

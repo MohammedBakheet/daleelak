@@ -1,0 +1,26 @@
+{
+  "league": "serie-a",
+  "season": "2026/2027",
+  "teams": [
+    {
+      "id": "inter-milan",
+      "title": "إنتر ميلان",
+      "path": "teams/inter-milan/"
+    },
+    {
+      "id": "juventus",
+      "title": "يوفنتوس",
+      "path": "teams/juventus/"
+    },
+    {
+      "id": "roma",
+      "title": "روما",
+      "path": "teams/roma/"
+    },
+    {
+      "id": "milan",
+      "title": "ميلان",
+      "path": "teams/milan/"
+    }
+  ]
+}

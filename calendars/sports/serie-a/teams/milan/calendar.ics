@@ -1,0 +1,887 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//ميلان 2026/2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ميلان — الدوري الإيطالي 2026/2027
+X-WR-CALDESC:تقويم مباريات ميلان في الدوري الإ
+ يطالي 2026/2027 بتوقيت المملكة العربية السعو
+ دية.
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r1-8@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;TZID=Asia/Riyadh:20260823T214500
+DTEND;TZID=Asia/Riyadh:20260823T233000
+SUMMARY:تورينو × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: تورينو × ميلان\n🗓️ الجولة: 1\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:تورينو
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r2-11@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;TZID=Asia/Riyadh:20260828T214500
+DTEND;TZID=Asia/Riyadh:20260828T233000
+SUMMARY:ميلان × فينيسيا
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × فينيسيا\n🗓️ الجولة: 2\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:فينيسيا
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r3-28@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;TZID=Asia/Riyadh:20260906T214500
+DTEND;TZID=Asia/Riyadh:20260906T233000
+SUMMARY:يوفنتوس × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: يوفنتوس × ميلان\n🗓️ الجولة: 3\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:يوفنتوس
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r4-33@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;TZID=Asia/Riyadh:20260912T190000
+DTEND;TZID=Asia/Riyadh:20260912T204500
+SUMMARY:لاتسيو × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: لاتسيو × ميلان\n🗓️ الجولة: 4\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:لاتسيو
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r5-50@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;TZID=Asia/Riyadh:20260920T214500
+DTEND;TZID=Asia/Riyadh:20260920T233000
+SUMMARY:ميلان × ليتشي
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × ليتشي\n🗓️ الجولة: 5\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:ليتشي
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r6-52@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:ساسوولو × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ساسوولو × ميلان\n🗓️ الجولة: 6\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:ساسوولو
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r7-61@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:ميلان × أتالانتا
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × أتالانتا\n🗓️ الجولة: 7\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:أتالانتا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r8-71@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:أودينيزي × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: أودينيزي × ميلان\n🗓️ الجولة: 8\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:أودينيزي
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r9-81@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:ميلان × بولونيا
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × بولونيا\n🗓️ الجولة: 9\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:بولونيا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r10-100@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:ميلان × إنتر ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × إنتر ميلان\n🗓️ الجولة: 10\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:إنتر ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r11-108@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:جنوى × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: جنوى × ميلان\n🗓️ الجولة: 11\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:جنوى
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r12-115@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:ميلان × فروسينوني
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × فروسينوني\n🗓️ الجولة: 12\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:فروسينوني
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r13-122@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:كالياري × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: كالياري × ميلان\n🗓️ الجولة: 13\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:كالياري
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r14-137@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:ميلان × بارما
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × بارما\n🗓️ الجولة: 14\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:بارما
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r15-141@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:نابولي × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: نابولي × ميلان\n🗓️ الجولة: 15\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:نابولي
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r16-151@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:ميلان × كومو
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × كومو\n🗓️ الجولة: 16\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:كومو
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r17-167@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:مونزا × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: مونزا × ميلان\n🗓️ الجولة: 17\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:مونزا
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r18-176@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:ميلان × فيورنتينا
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × فيورنتينا\n🗓️ الجولة: 18\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:فيورنتينا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r19-190@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:روما × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: روما × ميلان\n🗓️ الجولة: 19\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:روما
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r20-191@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:ميلان × تورينو
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × تورينو\n🗓️ الجولة: 20\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:20
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:تورينو
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r21-205@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:فروسينوني × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: فروسينوني × ميلان\n🗓️ الجولة: 21\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:21
+X-DALEELAK-HOME-TEAM:فروسينوني
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r22-211@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:ميلان × يوفنتوس
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × يوفنتوس\n🗓️ الجولة: 22\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:22
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:يوفنتوس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r23-229@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:بولونيا × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: بولونيا × ميلان\n🗓️ الجولة: 23\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:23
+X-DALEELAK-HOME-TEAM:بولونيا
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r24-240@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:إنتر ميلان × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: إنتر ميلان × ميلان\n🗓️ الجولة: 24\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:24
+X-DALEELAK-HOME-TEAM:إنتر ميلان
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r25-247@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:ميلان × جنوى
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × جنوى\n🗓️ الجولة: 25\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:25
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:جنوى
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r26-256@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:كومو × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: كومو × ميلان\n🗓️ الجولة: 26\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:26
+X-DALEELAK-HOME-TEAM:كومو
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r27-269@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:ميلان × كالياري
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × كالياري\n🗓️ الجولة: 27\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:27
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:كالياري
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r28-273@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:ميلان × ساسوولو
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × ساسوولو\n🗓️ الجولة: 28\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:28
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:ساسوولو
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r29-290@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:أتالانتا × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: أتالانتا × ميلان\n🗓️ الجولة: 29\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:29
+X-DALEELAK-HOME-TEAM:أتالانتا
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r30-296@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:ميلان × مونزا
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × مونزا\n🗓️ الجولة: 30\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:30
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:مونزا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r31-303@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:فيورنتينا × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: فيورنتينا × ميلان\n🗓️ الجولة: 31\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:31
+X-DALEELAK-HOME-TEAM:فيورنتينا
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r32-319@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:ميلان × نابولي
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × نابولي\n🗓️ الجولة: 32\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:32
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:نابولي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r33-328@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:ليتشي × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ليتشي × ميلان\n🗓️ الجولة: 33\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:33
+X-DALEELAK-HOME-TEAM:ليتشي
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r34-333@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ميلان × لاتسيو
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × لاتسيو\n🗓️ الجولة: 34\n🇸🇦
+  جميع المواعيد معروضة حسب توقيت المملكة 
+ العربية السعودية (UTC+3).\n✨ تقويم موقع دليل
+ ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
+ ة.\n© 2026 م. محمد البخيت — موقع دليلك. حقوق 
+ إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:34
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:لاتسيو
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r35-341@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:بارما × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: بارما × ميلان\n🗓️ الجولة: 35\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:35
+X-DALEELAK-HOME-TEAM:بارما
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r36-359@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:ميلان × روما
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × روما\n🗓️ الجولة: 36\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:36
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:روما
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r37-369@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:فينيسيا × ميلان
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: فينيسيا × ميلان\n🗓️ الجولة: 37\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:37
+X-DALEELAK-HOME-TEAM:فينيسيا
+X-DALEELAK-AWAY-TEAM:ميلان
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:serie-a-2026-2027-r38-371@daleelak
+DTSTAMP:20260810T183856Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:ميلان × أودينيزي
+DESCRIPTION:🏆 البطولة: الدوري الإيطالي\n⚽ الف
+ ريقان: ميلان × أودينيزي\n🗓️ الجولة: 38\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإيطالي
+X-DALEELAK-ROUND:38
+X-DALEELAK-HOME-TEAM:ميلان
+X-DALEELAK-AWAY-TEAM:أودينيزي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T183856Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
