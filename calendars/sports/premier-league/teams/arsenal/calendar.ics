@@ -1,0 +1,944 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//آرسنال 2026/2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:آرسنال — الدوري الإنجليزي الممتا
+ ز 2026/2027
+X-WR-CALDESC:تقويم مباريات آرسنال في الدوري ال
+ إنجليزي الممتاز 2026/2027 بتوقيت المملكة الع
+ ربية السعودية.
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r1-1@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260821T220000
+DTEND;TZID=Asia/Riyadh:20260821T234500
+SUMMARY:آرسنال × كوفينتري سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × كوفينتري سيتي\n
+ 🗓️ الجولة: 1\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:كوفينتري سيتي
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r2-20@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260831T220000
+DTEND;TZID=Asia/Riyadh:20260831T234500
+SUMMARY:أستون فيلا × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: أستون فيلا × آرسنال\n🗓️ 
+ الجولة: 2\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:أستون فيلا
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r3-30@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260906T183000
+DTEND;TZID=Asia/Riyadh:20260906T201500
+SUMMARY:آرسنال × تشيلسي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × تشيلسي\n🗓️ الجو
+ لة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:تشيلسي
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r4-37@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260912T220000
+DTEND;TZID=Asia/Riyadh:20260912T234500
+SUMMARY:سندرلاند × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: سندرلاند × آرسنال\n🗓️ ال
+ جولة: 4\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:سندرلاند
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r5-45@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260919T170000
+DTEND;TZID=Asia/Riyadh:20260919T184500
+SUMMARY:برايتون × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: برايتون × آرسنال\n🗓️ الج
+ ولة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:برايتون
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r6-52@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:آرسنال × ليدز يونايتد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × ليدز يونايتد\n🗓
+ ️ الجولة: 6\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:ليدز يونايتد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r7-67@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:نوتنغهام فورست × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: نوتنغهام فورست × آرسنال\n
+ 🗓️ الجولة: 7\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:نوتنغهام فورست
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r8-75@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:آرسنال × إيفرتون
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × إيفرتون\n🗓️ الج
+ ولة: 8\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:إيفرتون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r9-90@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:ليفربول × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: ليفربول × آرسنال\n🗓️ الج
+ ولة: 9\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:ليفربول
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r10-91@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:آرسنال × هال سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × هال سيتي\n🗓️ ال
+ جولة: 10\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:هال سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r11-110@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:نيوكاسل يونايتد × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: نيوكاسل يونايتد × آرسنال\
+ n🗓️ الجولة: 11\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r12-113@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:آرسنال × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × مانشستر سيتي\n🗓
+ ️ الجولة: 12\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r13-126@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:برينتفورد × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: برينتفورد × آرسنال\n🗓️ ا
+ لجولة: 13\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:برينتفورد
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r14-131@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:توتنهام هوتسبير × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: توتنهام هوتسبير × آرسنال\
+ n🗓️ الجولة: 14\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r15-147@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:آرسنال × بورنموث
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × بورنموث\n🗓️ الج
+ ولة: 15\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:بورنموث
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r16-158@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:آرسنال × مانشستر يونايتد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × مانشستر يونايتد\
+ n🗓️ الجولة: 16\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r17-163@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:كريستال بالاس × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: كريستال بالاس × آرسنال\n
+ 🗓️ الجولة: 17\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:كريستال بالاس
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r18-171@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:فولهام × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: فولهام × آرسنال\n🗓️ الجو
+ لة: 18\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:فولهام
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r19-184@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:آرسنال × إبسويتش تاون
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × إبسويتش تاون\n🗓
+ ️ الجولة: 19\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:إبسويتش تاون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r20-191@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:آرسنال × برينتفورد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × برينتفورد\n🗓️ ا
+ لجولة: 20\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:20
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:برينتفورد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r21-209@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:هال سيتي × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: هال سيتي × آرسنال\n🗓️ ال
+ جولة: 21\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:21
+X-DALEELAK-HOME-TEAM:هال سيتي
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r22-215@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:آرسنال × نيوكاسل يونايتد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × نيوكاسل يونايتد\
+ n🗓️ الجولة: 22\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:22
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r23-229@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:مانشستر سيتي × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × آرسنال\n🗓
+ ️ الجولة: 23\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:23
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r24-231@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:آرسنال × ليفربول
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × ليفربول\n🗓️ الج
+ ولة: 24\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:24
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:ليفربول
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r25-250@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:إبسويتش تاون × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: إبسويتش تاون × آرسنال\n🗓
+ ️ الجولة: 25\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:25
+X-DALEELAK-HOME-TEAM:إبسويتش تاون
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r26-256@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:آرسنال × فولهام
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × فولهام\n🗓️ الجو
+ لة: 26\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:26
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:فولهام
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r27-262@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:مانشستر يونايتد × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر يونايتد × آرسنال\
+ n🗓️ الجولة: 27\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:27
+X-DALEELAK-HOME-TEAM:مانشستر يونايتد
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r28-274@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:آرسنال × كريستال بالاس
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × كريستال بالاس\n
+ 🗓️ الجولة: 28\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:28
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:كريستال بالاس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r29-287@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:تشيلسي × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: تشيلسي × آرسنال\n🗓️ الجو
+ لة: 29\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:29
+X-DALEELAK-HOME-TEAM:تشيلسي
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r30-295@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:آرسنال × سندرلاند
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × سندرلاند\n🗓️ ال
+ جولة: 30\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:30
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:سندرلاند
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r31-306@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:كوفينتري سيتي × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: كوفينتري سيتي × آرسنال\n
+ 🗓️ الجولة: 31\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:31
+X-DALEELAK-HOME-TEAM:كوفينتري سيتي
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r32-316@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:آرسنال × أستون فيلا
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × أستون فيلا\n🗓️ 
+ الجولة: 32\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:32
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:أستون فيلا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r33-322@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:بورنموث × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: بورنموث × آرسنال\n🗓️ الج
+ ولة: 33\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:33
+X-DALEELAK-HOME-TEAM:بورنموث
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r34-338@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:آرسنال × توتنهام هوتسبير
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × توتنهام هوتسبير\
+ n🗓️ الجولة: 34\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:34
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r35-342@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:ليدز يونايتد × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: ليدز يونايتد × آرسنال\n🗓
+ ️ الجولة: 35\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:35
+X-DALEELAK-HOME-TEAM:ليدز يونايتد
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r36-360@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:آرسنال × نوتنغهام فورست
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × نوتنغهام فورست\n
+ 🗓️ الجولة: 36\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:36
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:نوتنغهام فورست
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r37-369@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:إيفرتون × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: إيفرتون × آرسنال\n🗓️ الج
+ ولة: 37\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:37
+X-DALEELAK-HOME-TEAM:إيفرتون
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r38-372@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:آرسنال × برايتون
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × برايتون\n🗓️ الج
+ ولة: 38\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:38
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:برايتون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

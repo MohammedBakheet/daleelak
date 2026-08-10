@@ -1,0 +1,36 @@
+{
+  "league": "premier-league",
+  "season": "2026/2027",
+  "teams": [
+    {
+      "id": "manchester-united",
+      "title": "مانشستر يونايتد",
+      "path": "teams/manchester-united/"
+    },
+    {
+      "id": "manchester-city",
+      "title": "مانشستر سيتي",
+      "path": "teams/manchester-city/"
+    },
+    {
+      "id": "arsenal",
+      "title": "آرسنال",
+      "path": "teams/arsenal/"
+    },
+    {
+      "id": "chelsea",
+      "title": "تشيلسي",
+      "path": "teams/chelsea/"
+    },
+    {
+      "id": "tottenham-hotspur",
+      "title": "توتنهام هوتسبير",
+      "path": "teams/tottenham-hotspur/"
+    },
+    {
+      "id": "newcastle-united",
+      "title": "نيوكاسل يونايتد",
+      "path": "teams/newcastle-united/"
+    }
+  ]
+}

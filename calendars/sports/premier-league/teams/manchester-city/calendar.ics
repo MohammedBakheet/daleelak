@@ -1,0 +1,964 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//مانشستر سيتي 2026/2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:مانشستر سيتي — الدوري الإنجليزي ا
+ لممتاز 2026/2027
+X-WR-CALDESC:تقويم مباريات مانشستر سيتي في الد
+ وري الإنجليزي الممتاز 2026/2027 بتوقيت الممل
+ كة العربية السعودية.
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r1-7@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260823T160000
+DTEND;TZID=Asia/Riyadh:20260823T174500
+SUMMARY:مانشستر سيتي × بورنموث
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × بورنموث\n
+ 🗓️ الجولة: 1\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:بورنموث
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r2-11@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260828T220000
+DTEND;TZID=Asia/Riyadh:20260828T234500
+SUMMARY:كريستال بالاس × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: كريستال بالاس × مانشستر س
+ يتي\n🗓️ الجولة: 2\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:كريستال بالاس
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r3-24@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260905T170000
+DTEND;TZID=Asia/Riyadh:20260905T184500
+SUMMARY:مانشستر سيتي × كوفينتري سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × كوفينتري س
+ يتي\n🗓️ الجولة: 3\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:كوفينتري سيتي
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r4-39@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260913T183000
+DTEND;TZID=Asia/Riyadh:20260913T201500
+SUMMARY:مانشستر يونايتد × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر يونايتد × مانشست
+ ر سيتي\n🗓️ الجولة: 4\n🇸🇦 جميع المواعيد 
+ معروضة حسب توقيت المملكة العربية السعود
+ ية (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدو
+ ن تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد 
+ البخيت — موقع دليلك. حقوق إعداد ونشر الت
+ قويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:مانشستر يونايتد
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r5-47@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;TZID=Asia/Riyadh:20260919T170000
+DTEND;TZID=Asia/Riyadh:20260919T184500
+SUMMARY:مانشستر سيتي × سندرلاند
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × سندرلاند\n
+ 🗓️ الجولة: 5\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:سندرلاند
+STATUS:CONFIRMED
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r6-57@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:ليفربول × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: ليفربول × مانشستر سيتي\n
+ 🗓️ الجولة: 6\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:ليفربول
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r7-69@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:مانشستر سيتي × إبسويتش تاون
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × إبسويتش تا
+ ون\n🗓️ الجولة: 7\n🇸🇦 جميع المواعيد معرو
+ ضة حسب توقيت المملكة العربية السعودية (UTC
+ +3).\n✨ تقويم موقع دليلك — مجاني، بدون تسج
+ يل، مع تحديثات تلقائية.\n© 2026 م. محمد البخ
+ يت — موقع دليلك. حقوق إعداد ونشر التقويم 
+ محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:إبسويتش تاون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r8-73@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:أستون فيلا × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: أستون فيلا × مانشستر سيتي
+ \n🗓️ الجولة: 8\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:أستون فيلا
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r9-82@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:مانشستر سيتي × برايتون
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × برايتون\n
+ 🗓️ الجولة: 9\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:برايتون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r10-92@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:نوتنغهام فورست × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: نوتنغهام فورست × مانشستر 
+ سيتي\n🗓️ الجولة: 10\n🇸🇦 جميع المواعيد م
+ عروضة حسب توقيت المملكة العربية السعودي
+ ة (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدون 
+ تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد ا
+ لبخيت — موقع دليلك. حقوق إعداد ونشر التق
+ ويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:نوتنغهام فورست
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r11-102@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:مانشستر سيتي × فولهام
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × فولهام\n🗓
+ ️ الجولة: 11\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:فولهام
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r12-113@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:آرسنال × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: آرسنال × مانشستر سيتي\n🗓
+ ️ الجولة: 12\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r13-128@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:مانشستر سيتي × ليدز يونايتد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × ليدز يوناي
+ تد\n🗓️ الجولة: 13\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:ليدز يونايتد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r14-136@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:برينتفورد × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: برينتفورد × مانشستر سيتي\
+ n🗓️ الجولة: 14\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:برينتفورد
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r15-148@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:مانشستر سيتي × تشيلسي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × تشيلسي\n🗓
+ ️ الجولة: 15\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:تشيلسي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r16-155@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:مانشستر سيتي × هال سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × هال سيتي\n
+ 🗓️ الجولة: 16\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:هال سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r17-166@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:نيوكاسل يونايتد × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: نيوكاسل يونايتد × مانشست
+ ر سيتي\n🗓️ الجولة: 17\n🇸🇦 جميع المواعيد 
+ معروضة حسب توقيت المملكة العربية السعود
+ ية (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدو
+ ن تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد 
+ البخيت — موقع دليلك. حقوق إعداد ونشر الت
+ قويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r18-179@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:إيفرتون × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: إيفرتون × مانشستر سيتي\n
+ 🗓️ الجولة: 18\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:إيفرتون
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r19-190@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:مانشستر سيتي × توتنهام هوتسبير
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × توتنهام هو
+ تسبير\n🗓️ الجولة: 19\n🇸🇦 جميع المواعيد 
+ معروضة حسب توقيت المملكة العربية السعود
+ ية (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدو
+ ن تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد 
+ البخيت — موقع دليلك. حقوق إعداد ونشر الت
+ قويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r20-192@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:ليدز يونايتد × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: ليدز يونايتد × مانشستر سي
+ تي\n🗓️ الجولة: 20\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:20
+X-DALEELAK-HOME-TEAM:ليدز يونايتد
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r21-202@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:مانشستر سيتي × نوتنغهام فورست
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × نوتنغهام ف
+ ورست\n🗓️ الجولة: 21\n🇸🇦 جميع المواعيد م
+ عروضة حسب توقيت المملكة العربية السعودي
+ ة (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدون 
+ تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد ا
+ لبخيت — موقع دليلك. حقوق إعداد ونشر التق
+ ويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:21
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:نوتنغهام فورست
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r22-219@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:برايتون × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: برايتون × مانشستر سيتي\n
+ 🗓️ الجولة: 22\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:22
+X-DALEELAK-HOME-TEAM:برايتون
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r23-229@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:مانشستر سيتي × آرسنال
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × آرسنال\n🗓
+ ️ الجولة: 23\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:23
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r24-237@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:فولهام × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: فولهام × مانشستر سيتي\n🗓
+ ️ الجولة: 24\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:24
+X-DALEELAK-HOME-TEAM:فولهام
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r25-248@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:توتنهام هوتسبير × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: توتنهام هوتسبير × مانشست
+ ر سيتي\n🗓️ الجولة: 25\n🇸🇦 جميع المواعيد 
+ معروضة حسب توقيت المملكة العربية السعود
+ ية (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدو
+ ن تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد 
+ البخيت — موقع دليلك. حقوق إعداد ونشر الت
+ قويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:25
+X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r26-251@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:مانشستر سيتي × نيوكاسل يونايتد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × نيوكاسل يو
+ نايتد\n🗓️ الجولة: 26\n🇸🇦 جميع المواعيد 
+ معروضة حسب توقيت المملكة العربية السعود
+ ية (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدو
+ ن تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد 
+ البخيت — موقع دليلك. حقوق إعداد ونشر الت
+ قويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:26
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r27-270@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:هال سيتي × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: هال سيتي × مانشستر سيتي\n
+ 🗓️ الجولة: 27\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:27
+X-DALEELAK-HOME-TEAM:هال سيتي
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r28-273@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:مانشستر سيتي × إيفرتون
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × إيفرتون\n
+ 🗓️ الجولة: 28\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:28
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:إيفرتون
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r29-285@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:كوفينتري سيتي × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: كوفينتري سيتي × مانشستر س
+ يتي\n🗓️ الجولة: 29\n🇸🇦 جميع المواعيد مع
+ روضة حسب توقيت المملكة العربية السعودية 
+ (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدون ت
+ سجيل، مع تحديثات تلقائية.\n© 2026 م. محمد ال
+ بخيت — موقع دليلك. حقوق إعداد ونشر التقو
+ يم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:29
+X-DALEELAK-HOME-TEAM:كوفينتري سيتي
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r30-293@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:مانشستر سيتي × مانشستر يونايتد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × مانشستر يو
+ نايتد\n🗓️ الجولة: 30\n🇸🇦 جميع المواعيد 
+ معروضة حسب توقيت المملكة العربية السعود
+ ية (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدو
+ ن تسجيل، مع تحديثات تلقائية.\n© 2026 م. محمد 
+ البخيت — موقع دليلك. حقوق إعداد ونشر الت
+ قويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:30
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r31-307@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:بورنموث × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: بورنموث × مانشستر سيتي\n
+ 🗓️ الجولة: 31\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:31
+X-DALEELAK-HOME-TEAM:بورنموث
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r32-318@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:مانشستر سيتي × كريستال بالاس
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × كريستال با
+ لاس\n🗓️ الجولة: 32\n🇸🇦 جميع المواعيد مع
+ روضة حسب توقيت المملكة العربية السعودية 
+ (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدون ت
+ سجيل، مع تحديثات تلقائية.\n© 2026 م. محمد ال
+ بخيت — موقع دليلك. حقوق إعداد ونشر التقو
+ يم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:32
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:كريستال بالاس
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r33-321@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:تشيلسي × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: تشيلسي × مانشستر سيتي\n🗓
+ ️ الجولة: 33\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:33
+X-DALEELAK-HOME-TEAM:تشيلسي
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r34-335@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:مانشستر سيتي × برينتفورد
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × برينتفورد\
+ n🗓️ الجولة: 34\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:34
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:برينتفورد
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r35-341@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:مانشستر سيتي × ليفربول
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × ليفربول\n
+ 🗓️ الجولة: 35\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:35
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:ليفربول
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r36-359@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:إبسويتش تاون × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: إبسويتش تاون × مانشستر سي
+ تي\n🗓️ الجولة: 36\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:36
+X-DALEELAK-HOME-TEAM:إبسويتش تاون
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r37-370@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:مانشستر سيتي × أستون فيلا
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: مانشستر سيتي × أستون فيلا
+ \n🗓️ الجولة: 37\n🇸🇦 جميع المواعيد معروض
+ ة حسب توقيت المملكة العربية السعودية (UTC+3
+ ).\n✨ تقويم موقع دليلك — مجاني، بدون تسجي
+ ل، مع تحديثات تلقائية.\n© 2026 م. محمد البخي
+ ت — موقع دليلك. حقوق إعداد ونشر التقويم م
+ حفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:37
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:أستون فيلا
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:premier-league-2026-2027-r38-378@daleelak
+DTSTAMP:20260810T100144Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:سندرلاند × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
+ از\n⚽ الفريقان: سندرلاند × مانشستر سيتي\n
+ 🗓️ الجولة: 38\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي 
+ الممتاز
+X-DALEELAK-ROUND:38
+X-DALEELAK-HOME-TEAM:سندرلاند
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:TENTATIVE
+URL:https://mohammedbakheet.github.io/daleelak/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260810T100144Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

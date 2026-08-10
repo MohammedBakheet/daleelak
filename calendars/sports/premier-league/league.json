@@ -1,0 +1,18 @@
+{
+  "id": "premier-league",
+  "title": "الدوري الإنجليزي الممتاز",
+  "shortTitle": "البريميرليغ",
+  "country": "إنجلترا",
+  "category": "sports",
+  "sport": "football",
+  "season": "2026/2027",
+  "description": "تقويم مباريات الدوري الإنجليزي الممتاز 2026/2027 بتوقيت المملكة العربية السعودية.",
+  "seoTitle": "تقويم الدوري الإنجليزي الممتاز 2026/2027",
+  "seoDescription": "مواعيد مباريات الدوري الإنجليزي الممتاز 2026/2027 بتوقيت السعودية مع تحديثات تلقائية.",
+  "logo": "league/logo.png",
+  "leagueCalendarId": "premier-league-2026-2027",
+  "teamsCount": 20,
+  "teamsPath": "teams/",
+  "order": 1,
+  "status": "active"
+}
