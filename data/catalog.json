@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T10:24:40.745Z",
+  "updatedAt": "2026-08-10T10:25:55.771Z",
   "count": 62,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -221,7 +221,7 @@
     },
     {
       "id": "manchester-united-premier-league-2026-2027",
-      "title": "مانشستر يونايتد — الدوري الإنجليزي الممتاز 2026/2027",
+      "title": "مانشستر يونايتد",
       "organization": "مانشستر يونايتد",
       "category": "sports",
       "year": "2026/2027",
