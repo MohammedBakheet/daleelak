@@ -111,23 +111,44 @@ function initSearchControls(){
     input?.focus();
     if(input?.value) input.dispatchEvent(new Event('input',{bubbles:true}));
   });
-  const homeSearch=qs('[data-home-search]'),grid=qs('[data-category-grid]');
-  if(homeSearch&&grid){
-    const apply=()=>{
-      const value=normalizeArabic(homeSearch.value.trim());
-      const cards=qsa('.category-card',grid);
-      cards.forEach(card=>{
-        card.hidden=value&&!normalizeArabic(card.textContent).includes(value);
+  const homeSearch=qs('[data-home-search]'),resultsBox=qs('[data-home-search-results]');
+  if(homeSearch&&resultsBox){
+    let searchItems=[];
+    const prepareSearch=async()=>{
+      if(searchItems.length)return searchItems;
+      const [catalog,categories]=await Promise.all([loadCatalog(),loadCategories()]);
+      const categoryNames=Object.fromEntries(categories.map(c=>[c.id,c.name]));
+      searchItems=catalog.map(c=>{
+        const categoryLabel=c.categoryLabel||categoryNames[c.category]||'';
+        const fields=[c.title,c.organization,c.region,c.year,c.hijriYear,categoryLabel,c.calendarType,c.description,c.leagueTitle,c.leagueShortTitle,c.source,c.country,c.season].filter(Boolean);
+        return{calendar:c,categoryLabel,searchText:normalizeArabic(fields.join(' ')),titleText:normalizeArabic([c.title,c.organization].join(' '))};
       });
+      return searchItems;
     };
-    homeSearch.addEventListener('input',apply);
+    const resultMarkup=(item)=>{const c=item.calendar,kind=c.category==='sports'?'تقويم رياضي':'تقويم';return`<article class="home-search-result"><a class="home-search-result-main" href="${escapeHtml(c.detailUrl)}"><span class="home-search-result-logo" aria-hidden="true">${c.logoUrl?`<img src="${escapeHtml(c.logoUrl)}" alt="">`:escapeHtml((c.organization||c.title||'د').trim().charAt(0))}</span><span class="home-search-result-copy"><strong>${escapeHtml(c.organization||c.title)}</strong><span>${escapeHtml(item.categoryLabel||kind)}${c.year?` · ${escapeHtml(c.year)}`:''}</span><small>${escapeHtml(c.title)}</small></span></a><a class="btn btn-primary home-search-result-action" href="${escapeHtml(c.detailUrl)}">عرض التقويم</a></article>`};
+    const render=async()=>{
+      const raw=homeSearch.value.trim(),query=normalizeArabic(raw);
+      if(!query){resultsBox.hidden=true;resultsBox.innerHTML='';return}
+      try{
+        const items=await prepareSearch(),terms=query.split(/\s+/).filter(Boolean);
+        const matches=items.filter(item=>terms.every(term=>item.searchText.includes(term))).sort((a,b)=>{
+          const aStarts=a.titleText.startsWith(query)?0:a.titleText.includes(query)?1:2;
+          const bStarts=b.titleText.startsWith(query)?0:b.titleText.includes(query)?1:2;
+          return aStarts-bStarts||String(a.calendar.organization||a.calendar.title).localeCompare(String(b.calendar.organization||b.calendar.title),'ar');
+        });
+        resultsBox.hidden=false;
+        if(!matches.length){resultsBox.innerHTML=`<div class="home-search-empty"><span aria-hidden="true">⌕</span><strong>لم نجد تقويمًا مطابقًا لـ «${escapeHtml(raw)}»</strong><p>جرّب البحث باسم الجهة أو الفريق أو التصنيف.</p><a class="btn btn-secondary" href="#categories">استعرض جميع التقاويم</a></div>`;return}
+        const visible=matches.slice(0,5);
+        resultsBox.innerHTML=`<div class="home-search-results-head"><strong>نتائج البحث عن «${escapeHtml(raw)}»</strong><span>${matches.length} ${matches.length===1?'نتيجة':'نتائج'}</span></div><div class="home-search-results-list">${visible.map(resultMarkup).join('')}</div>${matches.length>5?`<div class="home-search-results-more">تم عرض أول 5 نتائج من ${matches.length}. استخدم كلمات أكثر تحديدًا للوصول إلى النتيجة المطلوبة.</div>`:''}`;
+      }catch(e){resultsBox.hidden=false;resultsBox.innerHTML=`<div class="notice error">${escapeHtml(e.message)}</div>`}
+    };
+    homeSearch.addEventListener('focus',()=>{if(homeSearch.value.trim())render()});
+    homeSearch.addEventListener('input',render);
     homeSearch.addEventListener('keydown',event=>{
+      if(event.key==='Escape'){homeSearch.value='';resultsBox.hidden=true;resultsBox.innerHTML='';homeSearch.blur();return}
       if(event.key!=='Enter')return;
-      const visible=qsa('.category-card',grid).filter(card=>!card.hidden);
-      if(visible.length===1){
-        const link=qs('a',visible[0]);
-        if(link)location.href=link.href;
-      }
+      const first=qs('.home-search-result-main',resultsBox);
+      if(first)location.href=first.href;
     });
   }
 }
