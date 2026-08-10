@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T07:26:47.235Z",
+  "updatedAt": "2026-08-10T07:28:00.438Z",
   "id": "laliga",
   "title": "الدوري الإسباني",
   "shortTitle": "لاليغا",
@@ -14,7 +14,7 @@
   "logo": "league/logo.png",
   "leagueCalendarId": "laliga-2026-2027",
   "teamsCount": 20,
-  "order": 1,
+  "order": 3,
   "status": "active",
   "teamsPath": "teams/",
   "logoPath": "calendars/sports/laliga/league/logo.png",
