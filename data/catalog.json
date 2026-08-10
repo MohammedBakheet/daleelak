@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-06T14:01:47.222Z",
-  "count": 48,
+  "updatedAt": "2026-08-10T05:42:38.349Z",
+  "count": 49,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -45,6 +45,7 @@
     "calendars/sports/yellow/teams/YELLOW-HAJER/metadata.json",
     "calendars/sports/yellow/teams/YELLOW-JEDDAH/metadata.json",
     "calendars/university/imam-university/metadata.json",
+    "calendars/university/jazan-university/metadata.json",
     "calendars/university/king-abdulaziz-university/metadata.json",
     "calendars/university/king-khaled-uni/metadata.json",
     "calendars/university/king-saud-university/metadata.json",
@@ -53,6 +54,31 @@
     "calendars/university/umm-al-qura-university/metadata.json"
   ],
   "entries": [
+    {
+      "id": "jazan-university",
+      "title": "التقويم الأكاديمي 2026–2027 — جامعة جازان",
+      "organization": "جامعة جازان",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة جازان",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-09",
+      "description": "مواعيد التقويم الأكاديمي للفصول الدراسي الأول والثاني والصيفي بجامعة جازان للعام الجامعي 1448–1449هـ الموافق 2026–2027م، وفق التقويم الرسمي للجامعة.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 32,
+      "seoTitle": "التقويم الأكاديمي لجامعة جازان 2026–2027 | دليلك",
+      "seoDescription": "مواعيد التقويم الأكاديمي لجامعة جازان للعام الجامعي 1448–1449هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي.",
+      "infoPath": "calendars/university/jazan-university/metadata.json",
+      "folderPath": "calendars/university/jazan-university/",
+      "icsPath": "calendars/university/jazan-university/calendar.ics",
+      "logoPath": "calendars/university/jazan-university/logo.png",
+      "detailPath": "calendar.html?id=jazan-university",
+      "sharePath": "share/jazan-university/",
+      "legacyDetailPath": "calendar.html?id=jazan-university"
+    },
     {
       "id": "tvtc",
       "title": "التقويم التدريبي 2026–2027 — المؤسسة العامة للتدريب التقني والمهني",
