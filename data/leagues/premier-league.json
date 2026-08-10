@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-10T10:25:55.773Z",
+  "updatedAt": "2026-08-10T10:26:24.077Z",
   "id": "premier-league",
   "title": "الدوري الإنجليزي الممتاز",
   "shortTitle": "البريميرليغ",
@@ -250,7 +250,7 @@
     },
     {
       "id": "newcastle-united-premier-league-2026-2027",
-      "title": "نيوكاسل يونايتد — الدوري الإنجليزي الممتاز 2026/2027",
+      "title": "نيوكاسل يونايتد",
       "organization": "نيوكاسل يونايتد",
       "category": "sports",
       "year": "2026/2027",

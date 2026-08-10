@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T10:25:55.771Z",
+  "updatedAt": "2026-08-10T10:26:24.034Z",
   "count": 62,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -259,7 +259,7 @@
     },
     {
       "id": "newcastle-united-premier-league-2026-2027",
-      "title": "نيوكاسل يونايتد — الدوري الإنجليزي الممتاز 2026/2027",
+      "title": "نيوكاسل يونايتد",
       "organization": "نيوكاسل يونايتد",
       "category": "sports",
       "year": "2026/2027",
