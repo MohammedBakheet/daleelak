@@ -1,0 +1,21 @@
+{
+  "league": "laliga",
+  "season": "2026/27",
+  "teams": [
+    {
+      "id": "barcelona",
+      "title": "برشلونة",
+      "path": "teams/barcelona/"
+    },
+    {
+      "id": "real-madrid",
+      "title": "ريال مدريد",
+      "path": "teams/real-madrid/"
+    },
+    {
+      "id": "atletico-madrid",
+      "title": "أتلتيكو مدريد",
+      "path": "teams/atletico-madrid/"
+    }
+  ]
+}
