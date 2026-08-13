@@ -1,0 +1,338 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Jouf University Academic Calendar 1448//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الأكاديمي 2026–2027 — جامعة 
+ الجوف
+X-WR-CALDESC:تقويم جامعة الجوف للفصلين الدراسي
+ ين الأول والثاني من العام الجامعي 1448هـ
+BEGIN:VEVENT
+UID:jouf-1448-001@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:عودة أعضاء هيئة التدريس للفصل الدراس
+ ي الأول
+DESCRIPTION:📅 03-03-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-002@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260821
+SUMMARY:الحركات الأكاديمية والتهيئة للفصل ا
+ لدراسي الأول
+DESCRIPTION:📅 03-03-1448 - 07-03-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-003@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 10-03-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-004@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20261120
+SUMMARY:الاعتذار عن دراسة مقرر أو أكثر والاع
+ تذار عن الدراسة (نظام فصلي) — الفصل الأول
+DESCRIPTION:📅 10-03-1448 - 09-06-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-005@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:الاعتذار عن السنة الدراسية (نظام سنو
+ ي)
+DESCRIPTION:📅 10-03-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-006@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 12-04-1448 - 13-04-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-007@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+SUMMARY:إجازة نهاية أسبوع مطولة — الفصل الأو
+ ل
+DESCRIPTION:📅 26-04-1448 - 27-04-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-008@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:إجازة نهاية أسبوع مطولة — الفصل الأو
+ ل
+DESCRIPTION:📅 28-05-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-009@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة منتصف الفصل الدراسي (الخريف)
+DESCRIPTION:📅 09-06-1448 - 18-06-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-010@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20270108
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لأول
+DESCRIPTION:📅 04-07-1448 - 29-07-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-011@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الدراسي
+DESCRIPTION:📅 29-07-1448 - 08-08-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-012@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:الحركات الأكاديمية والتهيئة للفصل ا
+ لدراسي الثاني
+DESCRIPTION:📅 02-08-1448 - 06-08-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-013@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الدراسة للفصل الدراسي الثاني
+DESCRIPTION:📅 09-08-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-014@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270423
+SUMMARY:الاعتذار عن دراسة مقرر أو أكثر والاع
+ تذار عن الدراسة (نظام فصلي) — الفصل الثان
+ ي
+DESCRIPTION:📅 09-08-1448 - 15-11-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-015@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:آخر موعد للاعتذار عن السنة الدراسية (
+ نظام سنوي)
+DESCRIPTION:📅 24-10-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-016@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270209
+SUMMARY:إجازة نهاية أسبوع مطولة — الفصل الثا
+ ني
+DESCRIPTION:📅 30-08-1448 - 01-09-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-017@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 14-09-1448 - 15-09-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-018@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر المبارك
+DESCRIPTION:📅 18-09-1448 - 05-10-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-019@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:إجازة نهاية أسبوع مطولة — الفصل الثا
+ ني
+DESCRIPTION:📅 08-11-1448\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-020@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى المبارك
+DESCRIPTION:📅 29-11-1448 - 16-12-1448\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-021@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270618
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لثاني
+DESCRIPTION:📅 24-12-1448 - 12-01-1449\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-022@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:إجازة نهاية العام الدراسي 1448هـ
+DESCRIPTION:📅 12-01-1449\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-023@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:بداية الدراسة للفصل الدراسي الصيفي
+DESCRIPTION:📅 15-01-1449\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1448-024@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270813
+SUMMARY:الاختبارات النهائية للفصل الدراسي ا
+ لصيفي
+DESCRIPTION:📅 08-03-1449 - 10-03-1449\nالمصدر الرسمي: جام
+ عة الجوف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1449-001@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:عودة أعضاء هيئة التدريس للعام الجامع
+ ي 1449–1450هـ
+DESCRIPTION:📅 13-03-1449\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jouf-1449-002@daleelak
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:بداية الدراسة للعام الجامعي 1449–1450هـ
+DESCRIPTION:📅 20-03-1449\nالمصدر الرسمي: جامعة الجو
+ ف.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
