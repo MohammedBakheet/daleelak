@@ -13,10 +13,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:بدء الدراسة
-DESCRIPTION:📅 10-03-1448\nالأسبوع: الأول\nالمصدر ال
- رسمي: جامعة شقراء.\nإعداد وتجميع: م. محمد ا
- لبخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 10-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة شقراء.\nإعداد وتجميع
+ : م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -26,10 +26,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:آخر موعد للزيارة إلى خارج الجامعة
-DESCRIPTION:📅 12-03-1448\nالأسبوع: الأول\nالمصدر ال
- رسمي: جامعة شقراء.\nإعداد وتجميع: م. محمد ا
- لبخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 12-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة شقراء.\nإعداد وتجميع
+ : م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -39,10 +39,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:آخر موعد للحذف والإضافة
-DESCRIPTION:📅 13-03-1448\nالأسبوع: الأول\nالمصدر ال
- رسمي: جامعة شقراء.\nإعداد وتجميع: م. محمد ا
- لبخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 13-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة شقراء.\nإعداد وتجميع
+ : م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -52,10 +52,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260925
 SUMMARY:إجازة اليوم الوطني
-DESCRIPTION:📅 12-04-1448 - 13-04-1448\nالأسبوع: الخامس\nا
- لمصدر الرسمي: جامعة شقراء.\nإعداد وتجميع: 
- م. محمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 12-ربيع الآخر-1448 - 13-ربيع الآخر-1448\
+ nالأسبوع: الخامس\nالمصدر الرسمي: جامعة شق
+ راء.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -65,10 +65,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:إجازة مطولة
-DESCRIPTION:📅 16-04-1448\nالأسبوع: السادس\nالمصدر ا
- لرسمي: جامعة شقراء.\nإعداد وتجميع: م. محمد 
- البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 16-ربيع الآخر-1448\nالأسبوع: السادس\
+ nالمصدر الرسمي: جامعة شقراء.\nإعداد وتجمي
+ ع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -78,9 +78,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261127
 SUMMARY:إجازة الخريف
-DESCRIPTION:📅 12-06-1448 - 16-06-1448\nالمصدر الرسمي: جام
- عة شقراء.\nإعداد وتجميع: م. محمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 12-جمادى الآخرة-1448 - 16-جمادى الآخر
+ ة-1448\nالمصدر الرسمي: جامعة شقراء.\nإعداد و
+ تجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -90,10 +91,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:بداية الدراسة بعد إجازة الخريف
-DESCRIPTION:📅 19-06-1448\nالأسبوع: الرابع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 19-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة شقراء.\nإعداد
+  وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -103,10 +104,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:آخر موعد للاعتذار سنوي - طلاب الطب
-DESCRIPTION:📅 24-06-1448\nالأسبوع: الرابع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 24-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة شقراء.\nإعداد
+  وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -116,10 +117,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:آخر موعد للاعتذار فصل دراسي - مقرر
-DESCRIPTION:📅 25-06-1448\nالأسبوع: الرابع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 25-جمادى الآخرة-1448\nالأسبوع: الرا
+ بع عشر\nالمصدر الرسمي: جامعة شقراء.\nإعداد
+  وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -129,10 +130,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:آخر موعد للانسحاب من الجامعة
-DESCRIPTION:📅 26-06-1448\nالأسبوع: الخامس عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 26-جمادى الآخرة-1448\nالأسبوع: الخا
+ مس عشر\nالمصدر الرسمي: جامعة شقراء.\nإعداد
+  وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -143,10 +144,10 @@ DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:بداية إدخال طلبات تغيير التخصص والكل
  ية
-DESCRIPTION:📅 27-06-1448\nالأسبوع: الخامس عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 27-جمادى الآخرة-1448\nالأسبوع: الخا
+ مس عشر\nالمصدر الرسمي: جامعة شقراء.\nإعداد
+  وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -157,10 +158,10 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:آخر موعد لإدخال طلبات تغيير التخصص و
  الكلية
-DESCRIPTION:📅 01-07-1448\nالأسبوع: الخامس عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 01-رجب-1448\nالأسبوع: الخامس عشر\nال
+ مصدر الرسمي: جامعة شقراء.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -170,10 +171,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:نهاية استقبال طلبات إعادة الانتظام
-DESCRIPTION:📅 10-07-1448\nالأسبوع: السادس عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 10-رجب-1448\nالأسبوع: السادس عشر\nال
+ مصدر الرسمي: جامعة شقراء.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -183,10 +184,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:بداية الاختبارات النهائية
-DESCRIPTION:📅 11-07-1448\nالأسبوع: السابع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 11-رجب-1448\nالأسبوع: السابع عشر\nال
+ مصدر الرسمي: جامعة شقراء.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -197,10 +198,10 @@ DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 SUMMARY:إغلاق الفصل الدراسي واحتساب المعدلا
  ت التراكمية
-DESCRIPTION:📅 29-07-1448\nالأسبوع: التاسع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 29-رجب-1448\nالأسبوع: التاسع عشر\nال
+ مصدر الرسمي: جامعة شقراء.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -210,10 +211,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:بداية إدخال الفرص الإضافية
-DESCRIPTION:📅 30-07-1448\nالأسبوع: التاسع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 30-رجب-1448\nالأسبوع: التاسع عشر\nال
+ مصدر الرسمي: جامعة شقراء.\nإعداد وتجميع: م
+ . محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -223,9 +224,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270115
 SUMMARY:إجازة
-DESCRIPTION:📅 02-08-1448 - 06-08-1448\nالمصدر الرسمي: جام
- عة شقراء.\nإعداد وتجميع: م. محمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 02-شعبان-1448 - 06-شعبان-1448\nالمصدر ال
+ رسمي: جامعة شقراء.\nإعداد وتجميع: م. محمد ا
+ لبخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -235,10 +237,10 @@ DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:إعلان نتائج تغيير التخصص والكلية
-DESCRIPTION:📅 03-08-1448\nالأسبوع: التاسع عشر\nالمص
- در الرسمي: جامعة شقراء.\nإعداد وتجميع: م. م
- حمد البخيت.
-URL;VALUE=URI:https://mohammedbakheet.github.io/daleelak
+DESCRIPTION:📅 03-شعبان-1448\nالأسبوع: التاسع عشر\n
+ المصدر الرسمي: جامعة شقراء.\nإعداد وتجميع
+ : م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
