@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-10T18:57:33.288Z",
-  "count": 68,
+  "updatedAt": "2026-08-13T21:30:30.091Z",
+  "count": 69,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -64,6 +64,7 @@
     "calendars/sports/yellow/teams/YELLOW-JEDDAH/metadata.json",
     "calendars/university/imam-university/metadata.json",
     "calendars/university/jazan-university/metadata.json",
+    "calendars/university/jouf-university/metadata.json",
     "calendars/university/king-abdulaziz-university/metadata.json",
     "calendars/university/king-khaled-uni/metadata.json",
     "calendars/university/king-saud-university/metadata.json",
@@ -73,6 +74,31 @@
     "calendars/university/umm-al-qura-university/metadata.json"
   ],
   "entries": [
+    {
+      "id": "jouf-university",
+      "title": "التقويم الأكاديمي 2026–2027 — جامعة الجوف",
+      "organization": "جامعة الجوف",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة الجوف",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-14",
+      "description": "التقويم الأكاديمي لجامعة الجوف للعام الجامعي 1448هـ، ويشمل الفصلين الأول والثاني والفصل الصيفي وبداية العام الجامعي 1449–1450هـ كما وردت في المصدر الرسمي.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 26,
+      "seoTitle": "التقويم الأكاديمي 2026–2027 — جامعة الجوف | دليلك",
+      "seoDescription": "مواعيد التقويم الأكاديمي بجامعة الجوف للعام الجامعي 1448هـ والفصل الصيفي وبداية العام التالي بالتاريخين الهجري والميلادي.",
+      "infoPath": "calendars/university/jouf-university/metadata.json",
+      "folderPath": "calendars/university/jouf-university/",
+      "icsPath": "calendars/university/jouf-university/calendar.ics",
+      "logoPath": "calendars/university/jouf-university/logo.png",
+      "detailPath": "calendar.html?id=jouf-university",
+      "sharePath": "share/jouf-university/",
+      "legacyDetailPath": "calendar.html?id=jouf-university"
+    },
     {
       "id": "inter-milan-serie-a-2026-2027",
       "title": "إنتر ميلان ",
