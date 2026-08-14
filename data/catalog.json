@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-14T12:31:08.100Z",
-  "count": 71,
+  "updatedAt": "2026-08-14T13:21:17.989Z",
+  "count": 72,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -73,7 +73,8 @@
     "calendars/university/shaqra-university/metadata.json",
     "calendars/university/taibah-university/metadata.json",
     "calendars/university/tvtc/metadata.json",
-    "calendars/university/umm-al-qura-university/metadata.json"
+    "calendars/university/umm-al-qura-university/metadata.json",
+    "calendars/university/university-of-tabuk/metadata.json"
   ],
   "entries": [
     {
@@ -125,6 +126,31 @@
       "detailPath": "calendar.html?id=jouf-university",
       "sharePath": "share/jouf-university/",
       "legacyDetailPath": "calendar.html?id=jouf-university"
+    },
+    {
+      "id": "university-of-tabuk",
+      "title": "التقويم الجامعي الفصلي — جامعة تبوك",
+      "organization": "جامعة تبوك",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448هـ",
+      "region": "جامعة تبوك",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-14",
+      "description": "التقويم الجامعي الفصلي لجامعة تبوك للفصل الدراسي الأول من العام الجامعي 1448هـ.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 19,
+      "seoTitle": "التقويم الجامعي الفصلي لجامعة تبوك 1448هـ | دليلك",
+      "seoDescription": "مواعيد الفصل الدراسي الأول بجامعة تبوك للعام الجامعي 1448هـ بصيغة قابلة للإضافة إلى التقويم.",
+      "infoPath": "calendars/university/university-of-tabuk/metadata.json",
+      "folderPath": "calendars/university/university-of-tabuk/",
+      "icsPath": "calendars/university/university-of-tabuk/calendar.ics",
+      "logoPath": "calendars/university/university-of-tabuk/logo.png",
+      "detailPath": "calendar.html?id=university-of-tabuk",
+      "sharePath": "share/university-of-tabuk/",
+      "legacyDetailPath": "calendar.html?id=university-of-tabuk"
     },
     {
       "id": "shaqra-university",
