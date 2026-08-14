@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-14T14:13:45.534Z",
+  "updatedAt": "2026-08-14T14:17:25.686Z",
   "count": 72,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -129,7 +129,7 @@
     },
     {
       "id": "university-of-tabuk",
-      "title": "التقويم الجامعي الفصلي — جامعة تبوك",
+      "title": "التقويم الجامعي للفصل الدراسي الأول — جامعة تبوك",
       "organization": "جامعة تبوك",
       "category": "higher-education",
       "categoryLabel": "التعليم الجامعي",
