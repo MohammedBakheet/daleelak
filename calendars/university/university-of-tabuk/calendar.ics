@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//University of Tabuk First Semester 1448//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الجامعي الفصلي — جامعة تب
+ وك — الفصل الدراسي الأول 1448هـ
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-001@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260828
+SUMMARY:تقديم طلب تأجيل الدراسة
+DESCRIPTION:📅 03-ربيع الأول-1448 - 14-ربيع الأول-1448\
+ nالأسبوع: أسبوع التهيئة إلى الأول\nالمصدر
+  الرسمي: جامعة تبوك.\nإعداد وتجميع: م. محمد
+  البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-002@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260820
+SUMMARY:الفرص الإضافية وإعادة القيد
+DESCRIPTION:📅 03-ربيع الأول-1448 - 06-ربيع الأول-1448\
+ nالأسبوع: أسبوع التهيئة\nالمصدر الرسمي: ج
+ امعة تبوك.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-003@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260821
+SUMMARY:تسجيل الزيارة من وإلى جامعة تبوك
+DESCRIPTION:📅 03-ربيع الأول-1448 - 07-ربيع الأول-1448\
+ nالأسبوع: أسبوع التهيئة\nالمصدر الرسمي: ج
+ امعة تبوك.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-004@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:بدء الانسحاب الأكاديمي من الجامعة
+DESCRIPTION:📅 04-ربيع الأول-1448\nالأسبوع: أسبوع ا
+ لتهيئة\nالمصدر الرسمي: جامعة تبوك.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-005@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20261030
+SUMMARY:الإعفاء من المقررات
+DESCRIPTION:📅 04-ربيع الأول-1448 - 18-جمادى الأولى-1
+ 448\nالأسبوع: أسبوع التهيئة إلى العاشر\nالم
+ صدر الرسمي: جامعة تبوك.\nإعداد وتجميع: م. م
+ حمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-006@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260827
+SUMMARY:إدخال تعديل الدرجات
+DESCRIPTION:📅 05-ربيع الأول-1448 - 13-ربيع الأول-1448\
+ nالأسبوع: أسبوع التهيئة إلى الأول\nالمصدر
+  الرسمي: جامعة تبوك.\nإعداد وتجميع: م. محمد
+  البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-007@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260827
+SUMMARY:الاختبارات البديلة
+DESCRIPTION:📅 05-ربيع الأول-1448 - 13-ربيع الأول-1448\
+ nالأسبوع: أسبوع التهيئة إلى الأول\nالمصدر
+  الرسمي: جامعة تبوك.\nإعداد وتجميع: م. محمد
+  البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-008@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 10-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة تبوك.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-009@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:تنفيذ الانقطاع عن الدراسة
+DESCRIPTION:📅 21-ربيع الأول-1448\nالأسبوع: الثاني\
+ nالمصدر الرسمي: جامعة تبوك.\nإعداد وتجميع:
+  م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-010@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20261210
+SUMMARY:الاعتذار عن الفصل الدراسي أو مقرر
+DESCRIPTION:📅 02-ربيع الآخر-1448 - 29-جمادى الآخرة-1
+ 448\nالأسبوع: الرابع إلى الخامس عشر\nالمصدر
+  الرسمي: جامعة تبوك.\nإعداد وتجميع: م. محمد
+  البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-011@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260925
+SUMMARY:إجازة اليوم الوطني السعودي
+DESCRIPTION:📅 12-ربيع الآخر-1448 - 13-ربيع الآخر-1448\
+ nالأسبوع: الخامس\nالمصدر الرسمي: جامعة تب
+ وك.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-012@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261009
+SUMMARY:اختبارات الدوري الأول
+DESCRIPTION:📅 16-ربيع الآخر-1448 - 27-ربيع الآخر-1448\
+ nالأسبوع: السادس إلى السابع\nالمصدر الرسم
+ ي: جامعة تبوك.\nإعداد وتجميع: م. محمد البخي
+ ت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-013@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261113
+SUMMARY:اختبارات الدوري الثاني
+DESCRIPTION:📅 21-جمادى الأولى-1448 - 02-جمادى الآخر
+ ة-1448\nالأسبوع: الحادي عشر إلى الثاني عشر\n
+ المصدر الرسمي: جامعة تبوك.\nإعداد وتجميع: 
+ م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-014@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261127
+SUMMARY:إجازة الخريف
+DESCRIPTION:📅 12-جمادى الآخرة-1448 - 16-جمادى الآخر
+ ة-1448\nالمصدر الرسمي: جامعة تبوك.\nإعداد وت
+ جميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-015@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20270108
+SUMMARY:الاختبارات النهائية
+DESCRIPTION:📅 04-رجب-1448 - 29-رجب-1448\nالأسبوع: السا
+ دس عشر إلى التاسع عشر\nالمصدر الرسمي: جام
+ عة تبوك.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-016@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261217
+SUMMARY:الانسحاب الأكاديمي برسوب
+DESCRIPTION:📅 04-رجب-1448 - 07-رجب-1448\nالأسبوع: السا
+ دس عشر\nالمصدر الرسمي: جامعة تبوك.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-017@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:انتهاء العام الجامعي لطلاب الامتياز 
+ بالكليات الصحية
+DESCRIPTION:📅 08-رجب-1448\nالأسبوع: السادس عشر\nال
+ مصدر الرسمي: جامعة تبوك.\nإعداد وتجميع: م. 
+ محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-018@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:نهاية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 29-رجب-1448\nالأسبوع: التاسع عشر\nال
+ مصدر الرسمي: جامعة تبوك.\nإعداد وتجميع: م. 
+ محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tabuk-1448-first-semester-019@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:إجازة نهاية الفصل الدراسي الأول
+DESCRIPTION:📅 02-شعبان-1448 - 06-شعبان-1448\nالمصدر ال
+ رسمي: جامعة تبوك.\nإعداد وتجميع: م. محمد ال
+ بخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
