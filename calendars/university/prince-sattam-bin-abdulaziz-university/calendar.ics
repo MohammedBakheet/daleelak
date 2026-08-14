@@ -1,0 +1,659 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//Prince Sattam Academic Calendar 2026-2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الأكاديمي 2026–2027 — جامعة 
+ الأمير سطام بن عبدالعزيز
+BEGIN:VEVENT
+UID:psau-2026-2027-001@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260816
+SUMMARY:تقديم طلب إعادة القيد للطالب المنسحب
+ /المطوي قيده — الفصل الدراسي الأول
+DESCRIPTION:📅 05-صفر-1448 - 02-ربيع الأول-1448\nالمصدر
+  الرسمي: جامعة الأمير سطام بن عبدالعزيز.\n
+ إعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-002@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260816
+SUMMARY:تقديم طلب فرصة للطالب المفصول أكاديم
+ يًا — الفصل الدراسي الأول
+DESCRIPTION:📅 26-صفر-1448 - 02-ربيع الأول-1448\nالمصدر
+  الرسمي: جامعة الأمير سطام بن عبدالعزيز.\n
+ إعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-003@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260823
+SUMMARY:تقديم طلب تأجيل الفصل الدراسي — الفص
+ ل الدراسي الأول
+DESCRIPTION:📅 03-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة الأمير سطام بن عبدا
+ لعزيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-004@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+SUMMARY:التقدم بطلب زائر من داخل وخارج الجام
+ عة — الفصل الدراسي الأول
+DESCRIPTION:📅 06-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة الأمير سطام بن عبدا
+ لعزيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-005@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
+SUMMARY:الحذف والإضافة — الفصل الدراسي الأو
+ ل
+DESCRIPTION:📅 07-ربيع الأول-1448 - 09-ربيع الأول-1448\
+ nالمصدر الرسمي: جامعة الأمير سطام بن عبدا
+ لعزيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-006@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الدراسة للفصل الدراسي الأول (481
+ )
+DESCRIPTION:📅 10-ربيع الأول-1448\nالأسبوع: الأول\n
+ المصدر الرسمي: جامعة الأمير سطام بن عبدا
+ لعزيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-007@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:نهاية الدراسة للفصل الدراسي الأول (481
+ )
+DESCRIPTION:📅 29-رجب-1448\nالأسبوع: التاسع عشر\nال
+ مصدر الرسمي: جامعة الأمير سطام بن عبدالع
+ زيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-008@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260827
+SUMMARY:رفع طلب حذف وإضافة مقرر للكلية — الف
+ صل الدراسي الأول
+DESCRIPTION:📅 10-ربيع الأول-1448 - 13-ربيع الأول-1448\
+ nالأسبوع: الأول\nالمصدر الرسمي: جامعة الأ
+ مير سطام بن عبدالعزيز.\nإعداد وتجميع: م. م
+ حمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-009@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260828
+SUMMARY:طلب الإعفاء من مقررات اللغة الإنجليز
+ ية للمستجدين — الفصل الدراسي الأول
+DESCRIPTION:📅 03-ربيع الأول-1448 - 14-ربيع الأول-1448\
+ nالأسبوع: الأول\nالمصدر الرسمي: جامعة الأ
+ مير سطام بن عبدالعزيز.\nإعداد وتجميع: م. م
+ حمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-010@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260828
+SUMMARY:طلب المعادلات الداخلية والخارجية لل
+ مقررات — الفصل الدراسي الأول
+DESCRIPTION:📅 03-ربيع الأول-1448 - 14-ربيع الأول-1448\
+ nالأسبوع: الأول\nالمصدر الرسمي: جامعة الأ
+ مير سطام بن عبدالعزيز.\nإعداد وتجميع: م. م
+ حمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-011@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20261218
+SUMMARY:طلب الانسحاب من الجامعة — الفصل الدر
+ اسي الأول
+DESCRIPTION:📅 10-ربيع الأول-1448 - 08-رجب-1448\nالأسبو
+ ع: الأول إلى السادس عشر\nالمصدر الرسمي: جا
+ معة الأمير سطام بن عبدالعزيز.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-012@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261204
+SUMMARY:الاعتذار عن الفصل الدراسي أو مقرر در
+ اسي — الفصل الدراسي الأول
+DESCRIPTION:📅 17-ربيع الأول-1448 - 23-جمادى الآخرة-1
+ 448\nالأسبوع: الثاني إلى الرابع عشر\nالمصدر
+  الرسمي: جامعة الأمير سطام بن عبدالعزيز.\n
+ إعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-013@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20270430
+SUMMARY:الاعتذار عن السنة الدراسية أو مقرر د
+ راسي — سنوي لكليات الطب
+DESCRIPTION:📅 17-ربيع الأول-1448 - 22-ذو القعدة-1448\n
+ الأسبوع: الثاني إلى الثاني والثلاثين\nال
+ مصدر الرسمي: جامعة الأمير سطام بن عبدالع
+ زيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-014@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 12-ربيع الآخر-1448 - 15-ربيع الآخر-1448\
+ nالأسبوع: الخامس\nالمصدر الرسمي: جامعة ال
+ أمير سطام بن عبدالعزيز.\nإعداد وتجميع: م. 
+ محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-015@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261129
+SUMMARY:إجازة الخريف
+DESCRIPTION:📅 09-جمادى الآخرة-1448 - 18-جمادى الآخر
+ ة-1448\nالأسبوع: الثالث عشر\nالمصدر الرسمي: 
+ جامعة الأمير سطام بن عبدالعزيز.\nإعداد وت
+ جميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-016@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20270108
+SUMMARY:الاختبارات النهائية — الفصل الدراسي
+  الأول
+DESCRIPTION:📅 11-رجب-1448 - 29-رجب-1448\nالأسبوع: السا
+ بع عشر إلى التاسع عشر\nالمصدر الرسمي: جام
+ عة الأمير سطام بن عبدالعزيز.\nإعداد وتجمي
+ ع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-017@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20270107
+SUMMARY:إدخال ترتيب رغبات طلاب وطالبات السنة
+  التحضيرية — الفصل الدراسي الأول
+DESCRIPTION:📅 13-رجب-1448 - 28-رجب-1448\nالأسبوع: السا
+ بع عشر إلى التاسع عشر\nالمصدر الرسمي: جام
+ عة الأمير سطام بن عبدالعزيز.\nإعداد وتجمي
+ ع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-018@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270111
+SUMMARY:التحويل الداخلي من تخصص إلى تخصص داخ
+ ل الجامعة — الفصل الدراسي الأول
+DESCRIPTION:📅 20-رجب-1448 - 02-شعبان-1448\nالأسبوع: ال
+ ثامن عشر\nالمصدر الرسمي: جامعة الأمير سطا
+ م بن عبدالعزيز.\nإعداد وتجميع: م. محمد الب
+ خيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-019@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270111
+SUMMARY:التحويل الخارجي إلى جامعة الأمير سطا
+ م بن عبدالعزيز — الفصل الدراسي الأول
+DESCRIPTION:📅 20-رجب-1448 - 02-شعبان-1448\nالأسبوع: ال
+ ثامن عشر\nالمصدر الرسمي: جامعة الأمير سطا
+ م بن عبدالعزيز.\nإعداد وتجميع: م. محمد الب
+ خيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-020@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270117
+SUMMARY:إجازة منتصف العام الدراسي
+DESCRIPTION:📅 29-رجب-1448 - 08-شعبان-1448\nالأسبوع: ال
+ تاسع عشر\nالمصدر الرسمي: جامعة الأمير سطا
+ م بن عبدالعزيز.\nإعداد وتجميع: م. محمد الب
+ خيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-021@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20270103
+SUMMARY:تقديم طلب إعادة القيد للطالب المنسحب
+ /المطوي قيده — الفصل الدراسي الثاني
+DESCRIPTION:📅 04-رجب-1448 - 24-رجب-1448\nالمصدر الرسمي
+ : جامعة الأمير سطام بن عبدالعزيز.\nإعداد و
+ تجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-022@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270117
+SUMMARY:تقديم طلب فرصة للطالب المفصول أكاديم
+ يًا — الفصل الدراسي الثاني
+DESCRIPTION:📅 02-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة الأمير سطام بن عبدالعزيز.\nإع
+ داد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-023@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270117
+SUMMARY:تقديم طلب تأجيل الفصل الدراسي — الفص
+ ل الدراسي الثاني
+DESCRIPTION:📅 02-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة الأمير سطام بن عبدالعزيز.\nإع
+ داد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-024@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270117
+SUMMARY:التقدم بطلب زائر من داخل وخارج الجام
+ عة — الفصل الدراسي الثاني
+DESCRIPTION:📅 05-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة الأمير سطام بن عبدالعزيز.\nإع
+ داد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-025@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+SUMMARY:الحذف والإضافة — الفصل الدراسي الثا
+ ني
+DESCRIPTION:📅 06-شعبان-1448 - 08-شعبان-1448\nالمصدر ال
+ رسمي: جامعة الأمير سطام بن عبدالعزيز.\nإع
+ داد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-026@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الدراسة للفصل الدراسي الثاني (4
+ 82)
+DESCRIPTION:📅 09-شعبان-1448\nالأسبوع: الأول\nالمصد
+ ر الرسمي: جامعة الأمير سطام بن عبدالعزيز.
+ \nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-027@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:نهاية الدراسة للفصل الدراسي الثاني (4
+ 82)
+DESCRIPTION:📅 12-محرم-1449\nالأسبوع: الثامن عشر\nا
+ لمصدر الرسمي: جامعة الأمير سطام بن عبدال
+ عزيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-028@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270121
+SUMMARY:رفع طلب حذف وإضافة مقرر للكلية — الف
+ صل الدراسي الثاني
+DESCRIPTION:📅 09-شعبان-1448 - 12-شعبان-1448\nالأسبوع: 
+ الأول\nالمصدر الرسمي: جامعة الأمير سطام ب
+ ن عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت
+ .
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-029@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270122
+SUMMARY:طلب الإعفاء من مقررات اللغة الإنجليز
+ ية للمستجدين — الفصل الدراسي الثاني
+DESCRIPTION:📅 02-شعبان-1448 - 13-شعبان-1448\nالأسبوع: 
+ الأول\nالمصدر الرسمي: جامعة الأمير سطام ب
+ ن عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت
+ .
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-030@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270122
+SUMMARY:طلب المعادلات الداخلية والخارجية لل
+ مقررات — الفصل الدراسي الثاني
+DESCRIPTION:📅 02-شعبان-1448 - 13-شعبان-1448\nالأسبوع: 
+ الأول\nالمصدر الرسمي: جامعة الأمير سطام ب
+ ن عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت
+ .
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-031@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270528
+SUMMARY:طلب الانسحاب من الجامعة — الفصل الدر
+ اسي الثاني
+DESCRIPTION:📅 09-شعبان-1448 - 21-ذو الحجة-1448\nالأسبو
+ ع: الأول إلى الخامس عشر\nالمصدر الرسمي: جا
+ معة الأمير سطام بن عبدالعزيز.\nإعداد وتجم
+ يع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-032@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270430
+SUMMARY:الاعتذار عن الفصل الدراسي أو مقرر در
+ اسي — الفصل الدراسي الثاني
+DESCRIPTION:📅 16-شعبان-1448 - 22-ذو القعدة-1448\nالأسب
+ وع: الثاني إلى الثالث عشر\nالمصدر الرسمي: 
+ جامعة الأمير سطام بن عبدالعزيز.\nإعداد وت
+ جميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-033@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 14-رمضان-1448 - 15-رمضان-1448\nالأسبوع: 
+ السادس\nالمصدر الرسمي: جامعة الأمير سطام 
+ بن عبدالعزيز.\nإعداد وتجميع: م. محمد البخي
+ ت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-034@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر المبارك
+DESCRIPTION:📅 18-رمضان-1448 - 05-شوال-1448\nالأسبوع: ا
+ لسادس\nالمصدر الرسمي: جامعة الأمير سطام ب
+ ن عبدالعزيز.\nإعداد وتجميع: م. محمد البخيت
+ .
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-035@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270523
+SUMMARY:إجازة عيد الأضحى المبارك
+DESCRIPTION:📅 29-ذو القعدة-1448 - 16-ذو الحجة-1448\nال
+ أسبوع: الرابع عشر\nالمصدر الرسمي: جامعة ا
+ لأمير سطام بن عبدالعزيز.\nإعداد وتجميع: م.
+  محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-036@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270618
+SUMMARY:الاختبارات النهائية — الفصل الدراسي
+  الثاني
+DESCRIPTION:📅 24-ذو الحجة-1448 - 12-محرم-1449\nالأسبوع
+ : السادس عشر إلى الثامن عشر\nالمصدر الرسم
+ ي: جامعة الأمير سطام بن عبدالعزيز.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-037@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270617
+SUMMARY:إدخال ترتيب رغبات طلاب وطالبات السنة
+  التحضيرية — الفصل الدراسي الثاني
+DESCRIPTION:📅 26-ذو الحجة-1448 - 11-محرم-1449\nالأسبوع
+ : السادس عشر إلى الثامن عشر\nالمصدر الرسم
+ ي: جامعة الأمير سطام بن عبدالعزيز.\nإعداد 
+ وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-038@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270621
+SUMMARY:التحويل الداخلي من تخصص إلى تخصص داخ
+ ل الجامعة — الفصل الدراسي الثاني
+DESCRIPTION:📅 03-محرم-1449 - 15-محرم-1449\nالأسبوع: ال
+ سابع عشر\nالمصدر الرسمي: جامعة الأمير سطا
+ م بن عبدالعزيز.\nإعداد وتجميع: م. محمد الب
+ خيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-039@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270822
+SUMMARY:إجازة نهاية العام الدراسي
+DESCRIPTION:📅 12-محرم-1449 - 19-ربيع الأول-1449\nالمصد
+ ر الرسمي: جامعة الأمير سطام بن عبدالعزيز.
+ \nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-040@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270709
+SUMMARY:التحويل الخارجي إلى جامعة الأمير سطا
+ م بن عبدالعزيز — الفصل الدراسي الثاني
+DESCRIPTION:📅 22-محرم-1449 - 04-صفر-1449\nالأسبوع: الس
+ ابع عشر\nالمصدر الرسمي: جامعة الأمير سطام
+  بن عبدالعزيز.\nإعداد وتجميع: م. محمد البخ
+ يت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-041@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:بداية الدراسة للفصل الدراسي الصيفي (4
+ 85)
+DESCRIPTION:📅 15-محرم-1449\nالأسبوع: الأول\nالمصدر
+  الرسمي: جامعة الأمير سطام بن عبدالعزيز.\n
+ إعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-042@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:نهاية الدراسة للفصل الدراسي الصيفي (4
+ 85)
+DESCRIPTION:📅 10-ربيع الأول-1449\nالأسبوع: الثامن\
+ nالمصدر الرسمي: جامعة الأمير سطام بن عبدا
+ لعزيز.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-043@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270806
+SUMMARY:الاعتذار عن الفصل الدراسي أو مقرر در
+ اسي — الفصل الدراسي الصيفي
+DESCRIPTION:📅 22-محرم-1449 - 03-ربيع الأول-1449\nالأسب
+ وع: الثاني إلى السابع\nالمصدر الرسمي: جام
+ عة الأمير سطام بن عبدالعزيز.\nإعداد وتجمي
+ ع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-044@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270812
+SUMMARY:إدخال ترتيب رغبات طلاب وطالبات السنة
+  التحضيرية — الفصل الدراسي الصيفي
+DESCRIPTION:📅 28-صفر-1449 - 09-ربيع الأول-1449\nالأسبو
+ ع: السابع إلى الثامن\nالمصدر الرسمي: جامع
+ ة الأمير سطام بن عبدالعزيز.\nإعداد وتجميع
+ : م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:psau-2026-2027-045@daleelak
+DTSTAMP:20260814T120000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270813
+SUMMARY:الاختبارات النهائية — الفصل الدراسي
+  الصيفي
+DESCRIPTION:📅 08-ربيع الأول-1449 - 10-ربيع الأول-1449\
+ nالأسبوع: الثامن\nالمصدر الرسمي: جامعة ال
+ أمير سطام بن عبدالعزيز.\nإعداد وتجميع: م. 
+ محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
