@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-14T13:21:17.989Z",
+  "updatedAt": "2026-08-14T14:08:44.889Z",
   "count": 72,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -2800,7 +2800,7 @@
       "ics": "calendar.ics",
       "source": "عمادة شؤون القبول والتسجيل بجامعة الملك سعود — الصورة الرسمية المرفقة",
       "publisher": "م. محمد البخيت",
-      "eventsCount": 22,
+      "eventsCount": 2,
       "endDatePolicy": "تظهر نهاية المدة داخل ملاحظات الحدث.",
       "infoPath": "calendars/university/king-saud-university/metadata.json",
       "folderPath": "calendars/university/king-saud-university/",
