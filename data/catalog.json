@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-13T22:10:10.630Z",
-  "count": 70,
+  "updatedAt": "2026-08-14T11:47:32.400Z",
+  "count": 71,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -69,12 +69,38 @@
     "calendars/university/king-khaled-uni/metadata.json",
     "calendars/university/king-saud-university/metadata.json",
     "calendars/university/PNU/metadata.json",
+    "calendars/university/prince-sattam-bin-abdulaziz-university/metadata.json",
     "calendars/university/shaqra-university/metadata.json",
     "calendars/university/taibah-university/metadata.json",
     "calendars/university/tvtc/metadata.json",
     "calendars/university/umm-al-qura-university/metadata.json"
   ],
   "entries": [
+    {
+      "id": "prince-sattam-bin-abdulaziz-university",
+      "title": "التقويم الأكاديمي — جامعة الأمير سطام بن عبدالعزيز",
+      "organization": "جامعة الأمير سطام بن عبدالعزيز",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة الأمير سطام بن عبدالعزيز",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-14",
+      "description": "التقويم الأكاديمي الرسمي لجامعة الأمير سطام بن عبدالعزيز للعام الجامعي 1448–1449هـ، ويشمل الفصلين الأول والثاني والفصل الصيفي.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 45,
+      "seoTitle": "التقويم الأكاديمي 2026–2027 — جامعة الأمير سطام بن عبدالعزيز | دليلك",
+      "seoDescription": "مواعيد التقويم الأكاديمي لجامعة الأمير سطام بن عبدالعزيز للعام 2026–2027 والفصول الأول والثاني والصيفي بصيغة قابلة للإضافة إلى التقويم.",
+      "infoPath": "calendars/university/prince-sattam-bin-abdulaziz-university/metadata.json",
+      "folderPath": "calendars/university/prince-sattam-bin-abdulaziz-university/",
+      "icsPath": "calendars/university/prince-sattam-bin-abdulaziz-university/calendar.ics",
+      "logoPath": "calendars/university/prince-sattam-bin-abdulaziz-university/logo.png",
+      "detailPath": "calendar.html?id=prince-sattam-bin-abdulaziz-university",
+      "sharePath": "share/prince-sattam-bin-abdulaziz-university/",
+      "legacyDetailPath": "calendar.html?id=prince-sattam-bin-abdulaziz-university"
+    },
     {
       "id": "jouf-university",
       "title": "التقويم الأكاديمي 2026–2027 — جامعة الجوف",
