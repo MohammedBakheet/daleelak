@@ -7,13 +7,25 @@ X-WR-CALNAME:التقويم الدراسي لجامعة أم القرى 144
  8-1449هـ
 X-WR-TIMEZONE:Asia/Riyadh
 BEGIN:VEVENT
-UID:uqu-1448-01@daleelak
-DTSTAMP:20260805T061246Z
+UID:uqu-1448-s1-start@daleelak
+DTSTAMP:20260816T201229Z
 DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 1448/3/10\nالمصدر الرسمي: جامعة أم ال
+ قرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-s1-end@daleelak
+DTSTAMP:20260816T201229Z
+DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:بداية ونهاية الفصل الدراسي الأول
-DESCRIPTION:📅 1448/3/10 - 1448/7/29\nالمصدر الرسمي: جامع
- ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:نهاية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 1448/7/29\nالمصدر الرسمي: جامعة أم ال
+ قرى.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -146,13 +158,25 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:uqu-1448-12@daleelak
-DTSTAMP:20260805T061246Z
+UID:uqu-1448-s2-start@daleelak
+DTSTAMP:20260816T201229Z
 DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الدراسة للفصل الدراسي الثاني
+DESCRIPTION:📅 1448/8/9\nالمصدر الرسمي: جامعة أم ال
+ قرى.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:uqu-1448-s2-end@daleelak
+DTSTAMP:20260816T201229Z
+DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
-SUMMARY:بداية ونهاية الفصل الدراسي الثاني
-DESCRIPTION:📅 1448/8/9 - 1449/1/19\nالمصدر الرسمي: جامع
- ة أم القرى.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:نهاية الدراسة للفصل الدراسي الثاني
+DESCRIPTION:📅 1449/1/19\nالمصدر الرسمي: جامعة أم ال
+ قرى.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
