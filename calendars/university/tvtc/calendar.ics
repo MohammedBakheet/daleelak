@@ -208,10 +208,10 @@ DTSTAMP:20260806T125903Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:عودة القيادات الإشرافية
-DESCRIPTION:تشمل عمداء الكليات ومديري المعاهد 
- والوكلاء ورؤساء الأقسام.\n📅 1449/03/08\nالمصد
- ر الرسمي: المؤسسة العامة للتدريب التقني 
- والمهني.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:📅 1449/03/08\nتشمل عمداء الكليات ومدير
+ ي المعاهد والوكلاء ورؤساء الأقسام.\nالمص
+ در الرسمي: المؤسسة العامة للتدريب التقني
+  والمهني.\nإعداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -223,20 +223,6 @@ DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:عودة أعضاء هيئة التدريب
 DESCRIPTION:📅 1449/03/13\nالمصدر الرسمي: المؤسسة ال
- عامة للتدريب التقني والمهني.\nإعداد وتجم
- يع: م. محمد البخيت.
-URL:https://mohammedbakheet.github.io/daleelak
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tvtc-1448-18@daleelak
-DTSTAMP:20260806T125903Z
-DTSTART;VALUE=DATE:20270822
-DTEND;VALUE=DATE:20270823
-SUMMARY:بداية التدريب للعام التدريبي 1449–1450ه
- ـ
-DESCRIPTION:📅 1449/03/20\nالمصدر الرسمي: المؤسسة ال
  عامة للتدريب التقني والمهني.\nإعداد وتجم
  يع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
