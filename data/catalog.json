@@ -1,7 +1,7 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-14T14:17:25.686Z",
-  "count": 72,
+  "updatedAt": "2026-08-16T19:26:15.163Z",
+  "count": 73,
   "calendars": [
     "calendars/moe-general/info.json",
     "calendars/moe-west/info.json",
@@ -62,6 +62,7 @@
     "calendars/sports/yellow/teams/YELLOW-DAMAC/metadata.json",
     "calendars/sports/yellow/teams/YELLOW-HAJER/metadata.json",
     "calendars/sports/yellow/teams/YELLOW-JEDDAH/metadata.json",
+    "calendars/university/hail-university/metadata.json",
     "calendars/university/imam-university/metadata.json",
     "calendars/university/jazan-university/metadata.json",
     "calendars/university/jouf-university/metadata.json",
@@ -77,6 +78,31 @@
     "calendars/university/university-of-tabuk/metadata.json"
   ],
   "entries": [
+    {
+      "id": "hail-university",
+      "title": "التقويم الأكاديمي 2026–2027 — جامعة حائل",
+      "organization": "جامعة حائل",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "جامعة حائل",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-16",
+      "description": "مواعيد التقويم الأكاديمي للفصلين الدراسيين الأول والثاني والفصل الصيفي بجامعة حائل للعام الجامعي 1448هـ، وفق التقويم الرسمي للجامعة.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 24,
+      "seoTitle": "التقويم الأكاديمي لجامعة حائل 2026–2027 | دليلك",
+      "seoDescription": "مواعيد التقويم الأكاديمي لجامعة حائل للعام الجامعي 1448هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي.",
+      "infoPath": "calendars/university/hail-university/metadata.json",
+      "folderPath": "calendars/university/hail-university/",
+      "icsPath": "calendars/university/hail-university/calendar.ics",
+      "logoPath": "calendars/university/hail-university/logo.png",
+      "detailPath": "calendar.html?id=hail-university",
+      "sharePath": "share/hail-university/",
+      "legacyDetailPath": "calendar.html?id=hail-university"
+    },
     {
       "id": "prince-sattam-bin-abdulaziz-university",
       "title": "التقويم الأكاديمي — جامعة الأمير سطام بن عبدالعزيز",
