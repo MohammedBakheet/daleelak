@@ -1,0 +1,305 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//University of Hail Academic Calendar 1448//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:التقويم الأكاديمي لجامعة حائل 1448ه
+ ـ
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:hail-1448-001@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:بداية الدراسة للفصل الدراسي الأول
+DESCRIPTION:📅 1448/03/10\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-002@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260830
+SUMMARY:فترة تأجيل الدراسة للفصل الدراسي الأ
+ ول
+DESCRIPTION:📅 1448/03/10 - 1448/03/16\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-003@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261002
+SUMMARY:فترة الاعتذار عن الفصل الدراسي الأول
+  بدرجة «منسحب»
+DESCRIPTION:📅 1448/03/17 - 1448/04/20\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-004@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20261115
+SUMMARY:فترة الانسحاب من مقرر دراسي أو أكثر ب
+ درجة «منسحب»
+DESCRIPTION:📅 1448/03/17 - 1448/06/04\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-005@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:إجازة اليوم الوطني
+DESCRIPTION:📅 1448/04/12 - 1448/04/15\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-006@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261127
+SUMMARY:إجازة الخريف
+DESCRIPTION:📅 1448/06/12 - 1448/06/16\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-007@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:بداية الدراسة بعد إجازة الخريف
+DESCRIPTION:📅 1448/06/19\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-008@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:بداية الاختبارات النهائية للفصل الد
+ راسي الأول
+DESCRIPTION:📅 1448/07/11\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-009@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:بداية إجازة منتصف العام الدراسي
+DESCRIPTION:📅 1448/07/29\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-010@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:بداية الدراسة للفصل الدراسي الثاني
+DESCRIPTION:📅 1448/08/09\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-011@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270124
+SUMMARY:فترة تأجيل الفصل الدراسي الثاني
+DESCRIPTION:📅 1448/08/09 - 1448/08/15\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-012@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270305
+SUMMARY:فترة الاعتذار عن الفصل الدراسي الثان
+ ي بدرجة «منسحب»
+DESCRIPTION:📅 1448/08/16 - 1448/09/25\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-013@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270502
+SUMMARY:فترة الانسحاب من مقرر دراسي أو أكثر ب
+ درجة «منسحب»
+DESCRIPTION:📅 1448/08/16 - 1448/11/24\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-014@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270223
+SUMMARY:إجازة يوم التأسيس
+DESCRIPTION:📅 1448/09/14 - 1448/09/15\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-015@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270314
+SUMMARY:إجازة عيد الفطر
+DESCRIPTION:📅 1448/09/21 - 1448/10/05\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-016@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:بداية الدراسة بعد إجازة عيد الفطر
+DESCRIPTION:📅 1448/10/06\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-017@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270526
+SUMMARY:التحويل الداخلي
+DESCRIPTION:📅 1448/10/27 - 1448/12/19\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-018@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270521
+SUMMARY:إجازة عيد الأضحى
+DESCRIPTION:📅 1448/12/03 - 1448/12/14\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-019@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:بداية الدراسة بعد إجازة عيد الأضحى
+DESCRIPTION:📅 1448/12/17\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-020@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:بداية الاختبارات النهائية للفصل الد
+ راسي الثاني
+DESCRIPTION:📅 1448/12/24\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-021@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:بداية إجازة نهاية العام الدراسي
+DESCRIPTION:📅 1449/01/12\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-022@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:بداية الدراسة للفصل الصيفي
+DESCRIPTION:📅 1449/01/15\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-023@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270704
+SUMMARY:فترة استقبال طلبات التحويل الخارجي
+DESCRIPTION:📅 1449/01/22 - 1449/01/28\nالمصدر الرسمي: جام
+ عة حائل.\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hail-1448-024@daleelak
+DTSTAMP:20260816T190817Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:بداية الاختبارات النهائية للفصل الص
+ يفي
+DESCRIPTION:📅 1449/03/06\nالمصدر الرسمي: جامعة حائل
+ .\nإعداد وتجميع: م. محمد البخيت.
+URL:https://mohammedbakheet.github.io/daleelak
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
