@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-16T20:14:07.762Z",
+  "updatedAt": "2026-08-16T20:51:18.985Z",
   "count": 73,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -78,6 +78,31 @@
     "calendars/university/university-of-tabuk/metadata.json"
   ],
   "entries": [
+    {
+      "id": "tvtc",
+      "title": "التقويم التدريبي 2026–2027 — المؤسسة العامة للتدريب التقني والمهني",
+      "organization": "المؤسسة العامة للتدريب التقني والمهني",
+      "category": "higher-education",
+      "categoryLabel": "التعليم الجامعي",
+      "year": "2026–2027",
+      "hijriYear": "1448–1449هـ",
+      "region": "المؤسسة العامة للتدريب التقني والمهني",
+      "calendarType": "هجري وميلادي",
+      "lastUpdate": "2026-08-16",
+      "description": "مواعيد التقويم التدريبي للمؤسسة العامة للتدريب التقني والمهني للعام التدريبي 1448–1449هـ الموافق 2026–2027م، وفق التقويم الرسمي للمؤسسة.",
+      "ics": "calendar.ics",
+      "logo": "logo.png",
+      "eventsCount": 17,
+      "seoTitle": "التقويم التدريبي للتدريب التقني والمهني 2026–2027 | دليلك",
+      "seoDescription": "مواعيد التقويم التدريبي للمؤسسة العامة للتدريب التقني والمهني للعام 1448–1449هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي.",
+      "infoPath": "calendars/university/tvtc/metadata.json",
+      "folderPath": "calendars/university/tvtc/",
+      "icsPath": "calendars/university/tvtc/calendar.ics",
+      "logoPath": "calendars/university/tvtc/logo.png",
+      "detailPath": "calendar.html?id=tvtc",
+      "sharePath": "share/tvtc/",
+      "legacyDetailPath": "calendar.html?id=tvtc"
+    },
     {
       "id": "PNU",
       "title": "التقويم الأكاديمي 2026–2027 — جامعة الأميرة نورة بنت عبدالرحمن",
@@ -1020,31 +1045,6 @@
       "detailPath": "calendar.html?id=jazan-university",
       "sharePath": "share/jazan-university/",
       "legacyDetailPath": "calendar.html?id=jazan-university"
-    },
-    {
-      "id": "tvtc",
-      "title": "التقويم التدريبي — المؤسسة العامة للتدريب التقني والمهني",
-      "organization": "المؤسسة العامة للتدريب التقني والمهني",
-      "category": "higher-education",
-      "categoryLabel": "التعليم الجامعي",
-      "year": "2026–2027",
-      "hijriYear": "1448–1449هـ",
-      "region": "المؤسسة العامة للتدريب التقني والمهني",
-      "calendarType": "هجري وميلادي",
-      "lastUpdate": "2026-08-06",
-      "description": "مواعيد التقويم التدريبي للعام التدريبي 1448–1449هـ الموافق 2026–2027م بالمؤسسة العامة للتدريب التقني والمهني، وفق التقويم الرسمي للمؤسسة.",
-      "ics": "calendar.ics",
-      "logo": "logo.png",
-      "eventsCount": 1,
-      "seoTitle": "التقويم التدريبي للتدريب التقني والمهني 2026–2027 | دليلك",
-      "seoDescription": "مواعيد التقويم التدريبي للمؤسسة العامة للتدريب التقني والمهني للعام 1448–1449هـ الموافق 2026–2027، مع الاشتراك والتحديث التلقائي.",
-      "infoPath": "calendars/university/tvtc/metadata.json",
-      "folderPath": "calendars/university/tvtc/",
-      "icsPath": "calendars/university/tvtc/calendar.ics",
-      "logoPath": "calendars/university/tvtc/logo.png",
-      "detailPath": "calendar.html?id=tvtc",
-      "sharePath": "share/tvtc/",
-      "legacyDetailPath": "calendar.html?id=tvtc"
     },
     {
       "id": "ROSHN-ABHA",
