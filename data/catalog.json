@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-08-16T19:26:15.163Z",
+  "updatedAt": "2026-08-16T19:57:13.951Z",
   "count": 73,
   "calendars": [
     "calendars/moe-general/info.json",
@@ -1040,7 +1040,7 @@
       "source": "جامعة الأميرة نورة بنت عبدالرحمن — صفحة التقويم الجامعي الرسمية",
       "sourceUrl": "https://pnu.edu.sa/ar/AcademicCalendar/Pages/default.aspx",
       "publisher": "م. محمد البخيت",
-      "eventsCount": 3,
+      "eventsCount": 41,
       "infoPath": "calendars/university/PNU/metadata.json",
       "folderPath": "calendars/university/PNU/",
       "icsPath": "calendars/university/PNU/calendar.ics",
