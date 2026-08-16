@@ -3,292 +3,262 @@ VERSION:2.0
 PRODID:-//Daleelak//King Saud University Academic Calendar 2026-2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:جامعة الملك سعود - التقويم الدراسي 2026/2027
+X-WR-CALNAME:التقويم الدراسي لجامعة الملك سعود
+  2026–2027
 X-WR-TIMEZONE:Asia/Riyadh
-REFRESH-INTERVAL;VALUE=DURATION:PT12H
-X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:a09bcfe9d9b34dfd440b5b72@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-001@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🎓 بداية الدراسة للفصل الدراسي الأول
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:e56c014b26f6a1306abb174c@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-002@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🇸🇦 بداية إجازة اليوم الوطني
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:687c360acf95ce767709e82a@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-003@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
-SUMMARY:🏫 بداية الدراسة بعد إجازة اليوم الوطني
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🏫 بداية الدراسة بعد إجازة اليوم الو
+ طني
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:795e9f2fff8cc1d417eea70a@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-004@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🍂 بداية إجازة الخريف
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d9135a978f01ceceabd4dcd1@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-005@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🏫 بداية الدراسة بعد إجازة الخريف
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6b867453645387ab51de52f1@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-006@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:✨ أسبوع التعزيز الأكاديمي
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:ec0853eba37eead7b21cbb28@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-007@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🧪 بداية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:71449a61bae33a7c31f6c7e0@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-008@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🏁 نهاية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3bbfc5d904e7db962e51bccf@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-009@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🌤️ بداية إجازة منتصف العام الدراسي
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:77d92cb9f956dabd340e3b2e@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-010@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
-SUMMARY:🎓 بداية الدراسة للفصل الدراسي الثاني
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🎓 بداية الدراسة للفصل الدراسي الثان
+ ي
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4e3cd38389f4f99cc1a921d3@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-011@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🌙 بداية إجازة عيد الفطر المبارك
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:063c9710a053897469fff0fd@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-012@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
-SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الفطر المبارك
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الفطر 
+ المبارك
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:0ae6ef4dddb4d60efd851bcb@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-013@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🕋 بداية إجازة عيد الأضحى المبارك
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:3c81a6d4b0f166661dddf08f@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-014@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
-SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الأضحى المبارك
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:🏫 بداية الدراسة بعد إجازة عيد الأضح
+ ى المبارك
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7caae39beae2b14711ba529a@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-015@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:✨ أسبوع التعزيز الأكاديمي
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:628129c8c0db5ab2ee88839c@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-016@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🧪 بداية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:934b67f1e07da1c828525bc2@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-017@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🏁 نهاية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:f0835256bae77d451b134170@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-018@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:☀️ بداية إجازة نهاية العام الدراسي
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bac255a3cdf0aeea9e018ed0@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-019@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
-SUMMARY:☀️ بداية الدراسة للفصل الدراسي الصيفي
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+SUMMARY:☀️ بداية الدراسة للفصل الدراسي الصي
+ في
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:aea8af86645f05222c6ff40d@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-020@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🧪 بداية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:729b6609283c4461fbb7d716@daleelak
-DTSTAMP:20260729T153312Z
+UID:ksu-2026-2027-021@daleelak
+DTSTAMP:20260816T210048Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
 SUMMARY:🏁 نهاية الاختبارات النهائية
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
-URL:https://mohammedbakheet.github.io/daleelak
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:f9cd24652e02b27be7805024@daleelak
-DTSTAMP:20260729T153312Z
-DTSTART;VALUE=DATE:20270829
-DTEND;VALUE=DATE:20270830
-LAST-MODIFIED:20260729T153312Z
-SEQUENCE:0
-SUMMARY:🎓 بداية الدراسة للعام الدراسي 2027/2028
-DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإعداد وتجميع: م. محمد البخيت.
+DESCRIPTION:المصدر الرسمي: جامعة الملك سعود.\nإ
+ عداد وتجميع: م. محمد البخيت.
 URL:https://mohammedbakheet.github.io/daleelak
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
