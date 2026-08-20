@@ -1,922 +1,546 @@
 [
   {
-    "id": "laliga-2026-2027-r01-atletico-madrid-malaga-20260819",
-    "uid": "laliga-2026-2027-r01-atletico-madrid-malaga-20260819@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-malaga",
     "round": 1,
     "date": "2026-08-19",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "malaga",
-      "name": "مالاجا"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "10:00 م",
+    "home": "أتلتيكو مدريد",
+    "away": "مالاجا",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "10:00 م",
-    "time": "22:00"
+    "title": "أتلتيكو مدريد × مالاجا",
+    "sourceDate": "2026-08-19",
+    "sourceTime": "09:00 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r02-atletico-madrid-villarreal-20260823",
-    "uid": "laliga-2026-2027-r02-atletico-madrid-villarreal-20260823@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-villarreal",
     "round": 2,
     "date": "2026-08-23",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "villarreal",
-      "name": "فياريال"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "06:00 م",
+    "home": "أتلتيكو مدريد",
+    "away": "فياريال",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "06:00 م",
-    "time": "18:00"
+    "title": "أتلتيكو مدريد × فياريال",
+    "sourceDate": "2026-08-23",
+    "sourceTime": "05:00 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r03-sevilla-atletico-madrid-20260829",
-    "uid": "laliga-2026-2027-r03-sevilla-atletico-madrid-20260829@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "sevilla-atletico-madrid",
     "round": 3,
     "date": "2026-08-29",
-    "homeTeam": {
-      "id": "sevilla",
-      "name": "إشبيلية"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "رامون سانتشيز بيزخوان",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "10:30 م",
+    "home": "إشبيلية",
+    "away": "أتلتيكو مدريد",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "10:30 م",
-    "time": "22:30"
+    "title": "إشبيلية × أتلتيكو مدريد",
+    "sourceDate": "2026-08-29",
+    "sourceTime": "09:30 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r04-athletic-bilbao-atletico-madrid-20260905",
-    "uid": "laliga-2026-2027-r04-athletic-bilbao-atletico-madrid-20260905@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "athletic-bilbao-atletico-madrid",
     "round": 4,
     "date": "2026-09-05",
-    "homeTeam": {
-      "id": "athletic-bilbao",
-      "name": "أتلتيك بيلباو"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "سان ماميس",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "05:15 م",
+    "home": "أتلتيك بيلباو",
+    "away": "أتلتيكو مدريد",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "05:15 م",
-    "time": "17:15"
+    "title": "أتلتيك بيلباو × أتلتيكو مدريد",
+    "sourceDate": "2026-09-05",
+    "sourceTime": "04:15 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r05-real-sociedad-atletico-madrid-20260913",
-    "uid": "laliga-2026-2027-r05-real-sociedad-atletico-madrid-20260913@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "real-sociedad-atletico-madrid",
     "round": 5,
     "date": "2026-09-13",
-    "homeTeam": {
-      "id": "real-sociedad",
-      "name": "ريال سوسيداد"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "ريالي أرينا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ريال سوسيداد",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ريال سوسيداد × أتلتيكو مدريد",
+    "sourceDate": "2026-09-13",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r06-atletico-madrid-osasuna-20260916",
-    "uid": "laliga-2026-2027-r06-atletico-madrid-osasuna-20260916@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-osasuna",
     "round": 6,
     "date": "2026-09-16",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "osasuna",
-      "name": "أوساسونا"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "أوساسونا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × أوساسونا",
+    "sourceDate": "2026-09-16",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r07-atletico-madrid-real-madrid-20260920",
-    "uid": "laliga-2026-2027-r07-atletico-madrid-real-madrid-20260920@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-real-madrid",
     "round": 7,
     "date": "2026-09-20",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "real-madrid",
-      "name": "ريال مدريد"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "ريال مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × ريال مدريد",
+    "sourceDate": "2026-09-20",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r08-deportivo-alaves-atletico-madrid-20261011",
-    "uid": "laliga-2026-2027-r08-deportivo-alaves-atletico-madrid-20261011@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "deportivo-alaves-atletico-madrid",
     "round": 8,
     "date": "2026-10-11",
-    "homeTeam": {
-      "id": "deportivo-alaves",
-      "name": "ديبورتيفو ألافيس"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "مينديزوروزا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ديبورتيفو ألافيس",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ديبورتيفو ألافيس × أتلتيكو مدريد",
+    "sourceDate": "2026-10-11",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r09-espanyol-atletico-madrid-20261018",
-    "uid": "laliga-2026-2027-r09-espanyol-atletico-madrid-20261018@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "espanyol-atletico-madrid",
     "round": 9,
     "date": "2026-10-18",
-    "homeTeam": {
-      "id": "espanyol",
-      "name": "إسبانيول"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "ملعب RCDE",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "إسبانيول",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "إسبانيول × أتلتيكو مدريد",
+    "sourceDate": "2026-10-18",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r10-atletico-madrid-deportivo-la-coruna-20261025",
-    "uid": "laliga-2026-2027-r10-atletico-madrid-deportivo-la-coruna-20261025@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-deportivo-la-coruna",
     "round": 10,
     "date": "2026-10-25",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "deportivo-la-coruna",
-      "name": "ديبورتيفو لاكورونيا"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "ديبورتيفو لاكورونيا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × ديبورتيفو لاكورونيا",
+    "sourceDate": "2026-10-25",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r11-levante-atletico-madrid-20261101",
-    "uid": "laliga-2026-2027-r11-levante-atletico-madrid-20261101@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "levante-atletico-madrid",
     "round": 11,
     "date": "2026-11-01",
-    "homeTeam": {
-      "id": "levante",
-      "name": "ليفانتي"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "سيوتات دي فالنسيا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ليفانتي",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ليفانتي × أتلتيكو مدريد",
+    "sourceDate": "2026-11-01",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r12-atletico-madrid-barcelona-20261108",
-    "uid": "laliga-2026-2027-r12-atletico-madrid-barcelona-20261108@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-barcelona",
     "round": 12,
     "date": "2026-11-08",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × برشلونة",
+    "sourceDate": "2026-11-08",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r13-getafe-atletico-madrid-20261122",
-    "uid": "laliga-2026-2027-r13-getafe-atletico-madrid-20261122@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "getafe-atletico-madrid",
     "round": 13,
     "date": "2026-11-22",
-    "homeTeam": {
-      "id": "getafe",
-      "name": "خيتافي"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "كوليسيوم",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "خيتافي",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "خيتافي × أتلتيكو مدريد",
+    "sourceDate": "2026-11-22",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r14-elche-atletico-madrid-20261129",
-    "uid": "laliga-2026-2027-r14-elche-atletico-madrid-20261129@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "elche-atletico-madrid",
     "round": 14,
     "date": "2026-11-29",
-    "homeTeam": {
-      "id": "elche",
-      "name": "إلتشي"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "مارتينيز فاليرو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "إلتشي",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "إلتشي × أتلتيكو مدريد",
+    "sourceDate": "2026-11-29",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r15-atletico-madrid-real-betis-20261206",
-    "uid": "laliga-2026-2027-r15-atletico-madrid-real-betis-20261206@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-real-betis",
     "round": 15,
     "date": "2026-12-06",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "real-betis",
-      "name": "ريال بيتيس"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "ريال بيتيس",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × ريال بيتيس",
+    "sourceDate": "2026-12-06",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r16-atletico-madrid-valencia-20261213",
-    "uid": "laliga-2026-2027-r16-atletico-madrid-valencia-20261213@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-valencia",
     "round": 16,
     "date": "2026-12-13",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "valencia",
-      "name": "فالنسيا"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "فالنسيا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × فالنسيا",
+    "sourceDate": "2026-12-13",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r17-celta-vigo-atletico-madrid-20261220",
-    "uid": "laliga-2026-2027-r17-celta-vigo-atletico-madrid-20261220@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "celta-vigo-atletico-madrid",
     "round": 17,
     "date": "2026-12-20",
-    "homeTeam": {
-      "id": "celta-vigo",
-      "name": "سيلتا فيغو"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "بالايدوس",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "سيلتا فيغو",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "سيلتا فيغو × أتلتيكو مدريد",
+    "sourceDate": "2026-12-20",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r18-rayo-vallecano-atletico-madrid-20270103",
-    "uid": "laliga-2026-2027-r18-rayo-vallecano-atletico-madrid-20270103@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "rayo-vallecano-atletico-madrid",
     "round": 18,
     "date": "2027-01-03",
-    "homeTeam": {
-      "id": "rayo-vallecano",
-      "name": "رايو فايكانو"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "فايكاس",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "رايو فايكانو",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "رايو فايكانو × أتلتيكو مدريد",
+    "sourceDate": "2027-01-03",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r19-atletico-madrid-racing-santander-20270110",
-    "uid": "laliga-2026-2027-r19-atletico-madrid-racing-santander-20270110@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-racing-santander",
     "round": 19,
     "date": "2027-01-10",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "racing-santander",
-      "name": "راسينج سانتاندير"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "راسينج سانتاندير",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × راسينج سانتاندير",
+    "sourceDate": "2027-01-10",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r20-atletico-madrid-real-sociedad-20270117",
-    "uid": "laliga-2026-2027-r20-atletico-madrid-real-sociedad-20270117@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-real-sociedad",
     "round": 20,
     "date": "2027-01-17",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "real-sociedad",
-      "name": "ريال سوسيداد"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "ريال سوسيداد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × ريال سوسيداد",
+    "sourceDate": "2027-01-17",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r21-deportivo-la-coruna-atletico-madrid-20270124",
-    "uid": "laliga-2026-2027-r21-deportivo-la-coruna-atletico-madrid-20270124@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "deportivo-la-coruna-atletico-madrid",
     "round": 21,
     "date": "2027-01-24",
-    "homeTeam": {
-      "id": "deportivo-la-coruna",
-      "name": "ديبورتيفو لاكورونيا"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "ريازور",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ديبورتيفو لاكورونيا",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ديبورتيفو لاكورونيا × أتلتيكو مدريد",
+    "sourceDate": "2027-01-24",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r22-atletico-madrid-espanyol-20270131",
-    "uid": "laliga-2026-2027-r22-atletico-madrid-espanyol-20270131@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-espanyol",
     "round": 22,
     "date": "2027-01-31",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "espanyol",
-      "name": "إسبانيول"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "إسبانيول",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × إسبانيول",
+    "sourceDate": "2027-01-31",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r23-barcelona-atletico-madrid-20270207",
-    "uid": "laliga-2026-2027-r23-barcelona-atletico-madrid-20270207@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-atletico-madrid",
     "round": 23,
     "date": "2027-02-07",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × أتلتيكو مدريد",
+    "sourceDate": "2027-02-07",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r24-osasuna-atletico-madrid-20270214",
-    "uid": "laliga-2026-2027-r24-osasuna-atletico-madrid-20270214@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "osasuna-atletico-madrid",
     "round": 24,
     "date": "2027-02-14",
-    "homeTeam": {
-      "id": "osasuna",
-      "name": "أوساسونا"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "إل سادار",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أوساسونا",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أوساسونا × أتلتيكو مدريد",
+    "sourceDate": "2027-02-14",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r25-atletico-madrid-elche-20270221",
-    "uid": "laliga-2026-2027-r25-atletico-madrid-elche-20270221@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-elche",
     "round": 25,
     "date": "2027-02-21",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "elche",
-      "name": "إلتشي"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "إلتشي",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × إلتشي",
+    "sourceDate": "2027-02-21",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r26-malaga-atletico-madrid-20270228",
-    "uid": "laliga-2026-2027-r26-malaga-atletico-madrid-20270228@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "malaga-atletico-madrid",
     "round": 26,
     "date": "2027-02-28",
-    "homeTeam": {
-      "id": "malaga",
-      "name": "مالاجا"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "لا روزاليدا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "مالاجا",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "مالاجا × أتلتيكو مدريد",
+    "sourceDate": "2027-02-28",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r27-atletico-madrid-celta-vigo-20270307",
-    "uid": "laliga-2026-2027-r27-atletico-madrid-celta-vigo-20270307@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-celta-vigo",
     "round": 27,
     "date": "2027-03-07",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "celta-vigo",
-      "name": "سيلتا فيغو"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "سيلتا فيغو",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × سيلتا فيغو",
+    "sourceDate": "2027-03-07",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r28-racing-santander-atletico-madrid-20270314",
-    "uid": "laliga-2026-2027-r28-racing-santander-atletico-madrid-20270314@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "racing-santander-atletico-madrid",
     "round": 28,
     "date": "2027-03-14",
-    "homeTeam": {
-      "id": "racing-santander",
-      "name": "راسينج سانتاندير"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "إل ساردينيرو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "راسينج سانتاندير",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "راسينج سانتاندير × أتلتيكو مدريد",
+    "sourceDate": "2027-03-14",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r29-atletico-madrid-getafe-20270321",
-    "uid": "laliga-2026-2027-r29-atletico-madrid-getafe-20270321@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-getafe",
     "round": 29,
     "date": "2027-03-21",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "getafe",
-      "name": "خيتافي"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "خيتافي",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × خيتافي",
+    "sourceDate": "2027-03-21",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r30-real-madrid-atletico-madrid-20270404",
-    "uid": "laliga-2026-2027-r30-real-madrid-atletico-madrid-20270404@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "real-madrid-atletico-madrid",
     "round": 30,
     "date": "2027-04-04",
-    "homeTeam": {
-      "id": "real-madrid",
-      "name": "ريال مدريد"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "سانتياغو برنابيو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ريال مدريد",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ريال مدريد × أتلتيكو مدريد",
+    "sourceDate": "2027-04-04",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r31-atletico-madrid-levante-20270411",
-    "uid": "laliga-2026-2027-r31-atletico-madrid-levante-20270411@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-levante",
     "round": 31,
     "date": "2027-04-11",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "levante",
-      "name": "ليفانتي"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "ليفانتي",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × ليفانتي",
+    "sourceDate": "2027-04-11",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r32-atletico-madrid-sevilla-20270418",
-    "uid": "laliga-2026-2027-r32-atletico-madrid-sevilla-20270418@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-sevilla",
     "round": 32,
     "date": "2027-04-18",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "sevilla",
-      "name": "إشبيلية"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "إشبيلية",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × إشبيلية",
+    "sourceDate": "2027-04-18",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r33-villarreal-atletico-madrid-20270421",
-    "uid": "laliga-2026-2027-r33-villarreal-atletico-madrid-20270421@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "villarreal-atletico-madrid",
     "round": 33,
     "date": "2027-04-21",
-    "homeTeam": {
-      "id": "villarreal",
-      "name": "فياريال"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "إستاديو دي لا سيراميكا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "فياريال",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "فياريال × أتلتيكو مدريد",
+    "sourceDate": "2027-04-21",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r34-atletico-madrid-deportivo-alaves-20270502",
-    "uid": "laliga-2026-2027-r34-atletico-madrid-deportivo-alaves-20270502@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-deportivo-alaves",
     "round": 34,
     "date": "2027-05-02",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "deportivo-alaves",
-      "name": "ديبورتيفو ألافيس"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "ديبورتيفو ألافيس",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × ديبورتيفو ألافيس",
+    "sourceDate": "2027-05-02",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r35-valencia-atletico-madrid-20270509",
-    "uid": "laliga-2026-2027-r35-valencia-atletico-madrid-20270509@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "valencia-atletico-madrid",
     "round": 35,
     "date": "2027-05-09",
-    "homeTeam": {
-      "id": "valencia",
-      "name": "فالنسيا"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "ميستايا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "فالنسيا",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "فالنسيا × أتلتيكو مدريد",
+    "sourceDate": "2027-05-09",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r36-atletico-madrid-rayo-vallecano-20270516",
-    "uid": "laliga-2026-2027-r36-atletico-madrid-rayo-vallecano-20270516@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-rayo-vallecano",
     "round": 36,
     "date": "2027-05-16",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "rayo-vallecano",
-      "name": "رايو فايكانو"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "رايو فايكانو",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × رايو فايكانو",
+    "sourceDate": "2027-05-16",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r37-atletico-madrid-athletic-bilbao-20270523",
-    "uid": "laliga-2026-2027-r37-atletico-madrid-athletic-bilbao-20270523@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-athletic-bilbao",
     "round": 37,
     "date": "2027-05-23",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "athletic-bilbao",
-      "name": "أتلتيك بيلباو"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "أتلتيك بيلباو",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × أتلتيك بيلباو",
+    "sourceDate": "2027-05-23",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r38-real-betis-atletico-madrid-20270530",
-    "uid": "laliga-2026-2027-r38-real-betis-atletico-madrid-20270530@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "real-betis-atletico-madrid",
     "round": 38,
     "date": "2027-05-30",
-    "homeTeam": {
-      "id": "real-betis",
-      "name": "ريال بيتيس"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "بينيتو فيامارين",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ريال بيتيس",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ريال بيتيس × أتلتيكو مدريد",
+    "sourceDate": "2027-05-30",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   }
 ]

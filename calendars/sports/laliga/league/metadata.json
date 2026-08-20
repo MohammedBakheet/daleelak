@@ -1,21 +1,30 @@
 {
-  "leagueId": "laliga",
-  "name": "الدوري الإسباني",
-  "year": "2026/2027",
-  "season": "2026/2027",
+  "id": "laliga-2026-2027",
+  "title": "الدوري الإسباني 2026/2027",
+  "organization": "موقع دليلك",
+  "category": "رياضة",
+  "year": 2026,
+  "region": "إسبانيا",
+  "calendarType": "league",
+  "lastUpdate": "2026-08-21T00:11:01+03:00",
+  "description": "تقويم الدوري الإسباني لموسم 2026/2027 حسب توقيت السعودية.",
+  "ics": "calendar.ics",
+  "events": "events.json",
+  "logo": "logo.png",
+  "source": "LALIGA الرسمية",
+  "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports",
+  "publisher": "م. محمد البخيت — موقع دليلك",
+  "eventsCount": 380,
+  "eventDurationMinutes": 105,
   "timezone": "Asia/Riyadh",
-  "generatedAt": "2026-08-20T23:32:00+03:00",
-  "eventCount": 380,
-  "confirmedCount": 41,
-  "tentativeCount": 339,
-  "source": {
-    "type": "uploaded-file",
-    "file": "laliga.zip",
-    "note": "الأوقات غير 03:00 عوملت كأوقات نهائية بتوقيت Asia/Riyadh؛ القيمة المتكررة 03:00 عوملت كوقت غير معتمد ولم تُستخدم كموعد."
-  },
-  "rules": {
-    "confirmedDurationMinutes": 105,
-    "unconfirmedAsAllDay": true,
-    "teamCalendarsDerivedFrom": "league/events.json"
-  }
+  "league": "laliga",
+  "leagueTitle": "الدوري الإسباني",
+  "leagueShortTitle": "لاليغا",
+  "calendarScope": "league",
+  "sport": "كرة القدم",
+  "season": "2026/2027",
+  "teamCount": 20,
+  "order": 1,
+  "confirmedTimesCount": 41,
+  "pendingTimesCount": 339
 }

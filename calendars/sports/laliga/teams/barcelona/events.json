@@ -1,922 +1,546 @@
 [
   {
-    "id": "laliga-2026-2027-r02-elche-barcelona-20260823",
-    "uid": "laliga-2026-2027-r02-elche-barcelona-20260823@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
-    "round": 2,
-    "date": "2026-08-23",
-    "homeTeam": {
-      "id": "elche",
-      "name": "إلتشي"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "مارتينيز فاليرو",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
-    "status": "confirmed",
-    "durationMinutes": 105,
-    "displayTime": "10:30 م",
-    "time": "22:30"
-  },
-  {
-    "id": "laliga-2026-2027-r01-barcelona-athletic-bilbao-20260827",
-    "uid": "laliga-2026-2027-r01-barcelona-athletic-bilbao-20260827@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-athletic-bilbao",
     "round": 1,
     "date": "2026-08-27",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "athletic-bilbao",
-      "name": "أتلتيك بيلباو"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "10:00 م",
+    "home": "برشلونة",
+    "away": "أتلتيك بيلباو",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "10:00 م",
-    "time": "22:00"
+    "title": "برشلونة × أتلتيك بيلباو",
+    "sourceDate": "2026-08-27",
+    "sourceTime": "09:00 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r03-barcelona-rayo-vallecano-20260831",
-    "uid": "laliga-2026-2027-r03-barcelona-rayo-vallecano-20260831@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "elche-barcelona",
+    "round": 2,
+    "date": "2026-08-23",
+    "time": "10:30 م",
+    "home": "إلتشي",
+    "away": "برشلونة",
+    "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
+    "durationMinutes": 105,
+    "title": "إلتشي × برشلونة",
+    "sourceDate": "2026-08-23",
+    "sourceTime": "09:30 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
+  },
+  {
+    "id": "barcelona-rayo-vallecano",
     "round": 3,
     "date": "2026-08-31",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "rayo-vallecano",
-      "name": "رايو فايكانو"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "10:30 م",
+    "home": "برشلونة",
+    "away": "رايو فايكانو",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "10:30 م",
-    "time": "22:30"
+    "title": "برشلونة × رايو فايكانو",
+    "sourceDate": "2026-08-31",
+    "sourceTime": "09:30 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r04-valencia-barcelona-20260906",
-    "uid": "laliga-2026-2027-r04-valencia-barcelona-20260906@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "valencia-barcelona",
     "round": 4,
     "date": "2026-09-06",
-    "homeTeam": {
-      "id": "valencia",
-      "name": "فالنسيا"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "ميستايا",
-    "timezone": "Asia/Riyadh",
-    "allDay": false,
-    "provisional": false,
+    "time": "05:15 م",
+    "home": "فالنسيا",
+    "away": "برشلونة",
     "status": "confirmed",
+    "provisional": false,
+    "allDay": false,
     "durationMinutes": 105,
-    "displayTime": "05:15 م",
-    "time": "17:15"
+    "title": "فالنسيا × برشلونة",
+    "sourceDate": "2026-09-06",
+    "sourceTime": "04:15 م",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r05-levante-barcelona-20260913",
-    "uid": "laliga-2026-2027-r05-levante-barcelona-20260913@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "levante-barcelona",
     "round": 5,
     "date": "2026-09-13",
-    "homeTeam": {
-      "id": "levante",
-      "name": "ليفانتي"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "سيوتات دي فالنسيا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ليفانتي",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ليفانتي × برشلونة",
+    "sourceDate": "2026-09-13",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r06-barcelona-racing-santander-20260916",
-    "uid": "laliga-2026-2027-r06-barcelona-racing-santander-20260916@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-racing-santander",
     "round": 6,
     "date": "2026-09-16",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "racing-santander",
-      "name": "راسينج سانتاندير"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "راسينج سانتاندير",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × راسينج سانتاندير",
+    "sourceDate": "2026-09-16",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r07-sevilla-barcelona-20260920",
-    "uid": "laliga-2026-2027-r07-sevilla-barcelona-20260920@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "sevilla-barcelona",
     "round": 7,
     "date": "2026-09-20",
-    "homeTeam": {
-      "id": "sevilla",
-      "name": "إشبيلية"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "رامون سانتشيز بيزخوان",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "إشبيلية",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "إشبيلية × برشلونة",
+    "sourceDate": "2026-09-20",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r08-barcelona-getafe-20261011",
-    "uid": "laliga-2026-2027-r08-barcelona-getafe-20261011@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-getafe",
     "round": 8,
     "date": "2026-10-11",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "getafe",
-      "name": "خيتافي"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "خيتافي",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × خيتافي",
+    "sourceDate": "2026-10-11",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r09-real-betis-barcelona-20261018",
-    "uid": "laliga-2026-2027-r09-real-betis-barcelona-20261018@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "real-betis-barcelona",
     "round": 9,
     "date": "2026-10-18",
-    "homeTeam": {
-      "id": "real-betis",
-      "name": "ريال بيتيس"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "بينيتو فيامارين",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ريال بيتيس",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ريال بيتيس × برشلونة",
+    "sourceDate": "2026-10-18",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r10-barcelona-real-madrid-20261025",
-    "uid": "laliga-2026-2027-r10-barcelona-real-madrid-20261025@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-real-madrid",
     "round": 10,
     "date": "2026-10-25",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "real-madrid",
-      "name": "ريال مدريد"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "ريال مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × ريال مدريد",
+    "sourceDate": "2026-10-25",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r11-barcelona-deportivo-alaves-20261101",
-    "uid": "laliga-2026-2027-r11-barcelona-deportivo-alaves-20261101@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-deportivo-alaves",
     "round": 11,
     "date": "2026-11-01",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "deportivo-alaves",
-      "name": "ديبورتيفو ألافيس"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "ديبورتيفو ألافيس",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × ديبورتيفو ألافيس",
+    "sourceDate": "2026-11-01",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r12-atletico-madrid-barcelona-20261108",
-    "uid": "laliga-2026-2027-r12-atletico-madrid-barcelona-20261108@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "atletico-madrid-barcelona",
     "round": 12,
     "date": "2026-11-08",
-    "homeTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "متروبوليتانو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيكو مدريد",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيكو مدريد × برشلونة",
+    "sourceDate": "2026-11-08",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r13-barcelona-villarreal-20261122",
-    "uid": "laliga-2026-2027-r13-barcelona-villarreal-20261122@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-villarreal",
     "round": 13,
     "date": "2026-11-22",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "villarreal",
-      "name": "فياريال"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "فياريال",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × فياريال",
+    "sourceDate": "2026-11-22",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r14-deportivo-la-coruna-barcelona-20261129",
-    "uid": "laliga-2026-2027-r14-deportivo-la-coruna-barcelona-20261129@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "deportivo-la-coruna-barcelona",
     "round": 14,
     "date": "2026-11-29",
-    "homeTeam": {
-      "id": "deportivo-la-coruna",
-      "name": "ديبورتيفو لاكورونيا"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "ريازور",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ديبورتيفو لاكورونيا",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ديبورتيفو لاكورونيا × برشلونة",
+    "sourceDate": "2026-11-29",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r15-barcelona-celta-vigo-20261206",
-    "uid": "laliga-2026-2027-r15-barcelona-celta-vigo-20261206@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-celta-vigo",
     "round": 15,
     "date": "2026-12-06",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "celta-vigo",
-      "name": "سيلتا فيغو"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "سيلتا فيغو",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × سيلتا فيغو",
+    "sourceDate": "2026-12-06",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r16-malaga-barcelona-20261213",
-    "uid": "laliga-2026-2027-r16-malaga-barcelona-20261213@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "malaga-barcelona",
     "round": 16,
     "date": "2026-12-13",
-    "homeTeam": {
-      "id": "malaga",
-      "name": "مالاجا"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "لا روزاليدا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "مالاجا",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "مالاجا × برشلونة",
+    "sourceDate": "2026-12-13",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r17-barcelona-real-sociedad-20261220",
-    "uid": "laliga-2026-2027-r17-barcelona-real-sociedad-20261220@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-real-sociedad",
     "round": 17,
     "date": "2026-12-20",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "real-sociedad",
-      "name": "ريال سوسيداد"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "ريال سوسيداد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × ريال سوسيداد",
+    "sourceDate": "2026-12-20",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r18-espanyol-barcelona-20270103",
-    "uid": "laliga-2026-2027-r18-espanyol-barcelona-20270103@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "espanyol-barcelona",
     "round": 18,
     "date": "2027-01-03",
-    "homeTeam": {
-      "id": "espanyol",
-      "name": "إسبانيول"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "ملعب RCDE",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "إسبانيول",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "إسبانيول × برشلونة",
+    "sourceDate": "2027-01-03",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r19-osasuna-barcelona-20270110",
-    "uid": "laliga-2026-2027-r19-osasuna-barcelona-20270110@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "osasuna-barcelona",
     "round": 19,
     "date": "2027-01-10",
-    "homeTeam": {
-      "id": "osasuna",
-      "name": "أوساسونا"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "إل سادار",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أوساسونا",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أوساسونا × برشلونة",
+    "sourceDate": "2027-01-10",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r20-barcelona-elche-20270117",
-    "uid": "laliga-2026-2027-r20-barcelona-elche-20270117@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-elche",
     "round": 20,
     "date": "2027-01-17",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "elche",
-      "name": "إلتشي"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "إلتشي",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × إلتشي",
+    "sourceDate": "2027-01-17",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r21-deportivo-alaves-barcelona-20270124",
-    "uid": "laliga-2026-2027-r21-deportivo-alaves-barcelona-20270124@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "deportivo-alaves-barcelona",
     "round": 21,
     "date": "2027-01-24",
-    "homeTeam": {
-      "id": "deportivo-alaves",
-      "name": "ديبورتيفو ألافيس"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "مينديزوروزا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ديبورتيفو ألافيس",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ديبورتيفو ألافيس × برشلونة",
+    "sourceDate": "2027-01-24",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r22-barcelona-valencia-20270131",
-    "uid": "laliga-2026-2027-r22-barcelona-valencia-20270131@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-valencia",
     "round": 22,
     "date": "2027-01-31",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "valencia",
-      "name": "فالنسيا"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "فالنسيا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × فالنسيا",
+    "sourceDate": "2027-01-31",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r23-barcelona-atletico-madrid-20270207",
-    "uid": "laliga-2026-2027-r23-barcelona-atletico-madrid-20270207@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-atletico-madrid",
     "round": 23,
     "date": "2027-02-07",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "atletico-madrid",
-      "name": "أتلتيكو مدريد"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "أتلتيكو مدريد",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × أتلتيكو مدريد",
+    "sourceDate": "2027-02-07",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r24-villarreal-barcelona-20270214",
-    "uid": "laliga-2026-2027-r24-villarreal-barcelona-20270214@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "villarreal-barcelona",
     "round": 24,
     "date": "2027-02-14",
-    "homeTeam": {
-      "id": "villarreal",
-      "name": "فياريال"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "إستاديو دي لا سيراميكا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "فياريال",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "فياريال × برشلونة",
+    "sourceDate": "2027-02-14",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r25-barcelona-levante-20270221",
-    "uid": "laliga-2026-2027-r25-barcelona-levante-20270221@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-levante",
     "round": 25,
     "date": "2027-02-21",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "levante",
-      "name": "ليفانتي"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "ليفانتي",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × ليفانتي",
+    "sourceDate": "2027-02-21",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r26-athletic-bilbao-barcelona-20270228",
-    "uid": "laliga-2026-2027-r26-athletic-bilbao-barcelona-20270228@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "athletic-bilbao-barcelona",
     "round": 26,
     "date": "2027-02-28",
-    "homeTeam": {
-      "id": "athletic-bilbao",
-      "name": "أتلتيك بيلباو"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "سان ماميس",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "أتلتيك بيلباو",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "أتلتيك بيلباو × برشلونة",
+    "sourceDate": "2027-02-28",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r27-barcelona-real-betis-20270307",
-    "uid": "laliga-2026-2027-r27-barcelona-real-betis-20270307@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-real-betis",
     "round": 27,
     "date": "2027-03-07",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "real-betis",
-      "name": "ريال بيتيس"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "ريال بيتيس",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × ريال بيتيس",
+    "sourceDate": "2027-03-07",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r28-barcelona-deportivo-la-coruna-20270314",
-    "uid": "laliga-2026-2027-r28-barcelona-deportivo-la-coruna-20270314@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-deportivo-la-coruna",
     "round": 28,
     "date": "2027-03-14",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "deportivo-la-coruna",
-      "name": "ديبورتيفو لاكورونيا"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "ديبورتيفو لاكورونيا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × ديبورتيفو لاكورونيا",
+    "sourceDate": "2027-03-14",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r29-rayo-vallecano-barcelona-20270321",
-    "uid": "laliga-2026-2027-r29-rayo-vallecano-barcelona-20270321@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "rayo-vallecano-barcelona",
     "round": 29,
     "date": "2027-03-21",
-    "homeTeam": {
-      "id": "rayo-vallecano",
-      "name": "رايو فايكانو"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "فايكاس",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "رايو فايكانو",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "رايو فايكانو × برشلونة",
+    "sourceDate": "2027-03-21",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r30-barcelona-sevilla-20270404",
-    "uid": "laliga-2026-2027-r30-barcelona-sevilla-20270404@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-sevilla",
     "round": 30,
     "date": "2027-04-04",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "sevilla",
-      "name": "إشبيلية"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "إشبيلية",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × إشبيلية",
+    "sourceDate": "2027-04-04",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r31-racing-santander-barcelona-20270411",
-    "uid": "laliga-2026-2027-r31-racing-santander-barcelona-20270411@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "racing-santander-barcelona",
     "round": 31,
     "date": "2027-04-11",
-    "homeTeam": {
-      "id": "racing-santander",
-      "name": "راسينج سانتاندير"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "إل ساردينيرو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "راسينج سانتاندير",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "راسينج سانتاندير × برشلونة",
+    "sourceDate": "2027-04-11",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r32-barcelona-espanyol-20270418",
-    "uid": "laliga-2026-2027-r32-barcelona-espanyol-20270418@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-espanyol",
     "round": 32,
     "date": "2027-04-18",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "espanyol",
-      "name": "إسبانيول"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "إسبانيول",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × إسبانيول",
+    "sourceDate": "2027-04-18",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r33-celta-vigo-barcelona-20270421",
-    "uid": "laliga-2026-2027-r33-celta-vigo-barcelona-20270421@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "celta-vigo-barcelona",
     "round": 33,
     "date": "2027-04-21",
-    "homeTeam": {
-      "id": "celta-vigo",
-      "name": "سيلتا فيغو"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "بالايدوس",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "سيلتا فيغو",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "سيلتا فيغو × برشلونة",
+    "sourceDate": "2027-04-21",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r34-barcelona-osasuna-20270502",
-    "uid": "laliga-2026-2027-r34-barcelona-osasuna-20270502@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-osasuna",
     "round": 34,
     "date": "2027-05-02",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "osasuna",
-      "name": "أوساسونا"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "أوساسونا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × أوساسونا",
+    "sourceDate": "2027-05-02",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r35-real-madrid-barcelona-20270509",
-    "uid": "laliga-2026-2027-r35-real-madrid-barcelona-20270509@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "real-madrid-barcelona",
     "round": 35,
     "date": "2027-05-09",
-    "homeTeam": {
-      "id": "real-madrid",
-      "name": "ريال مدريد"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "سانتياغو برنابيو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ريال مدريد",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ريال مدريد × برشلونة",
+    "sourceDate": "2027-05-09",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r36-real-sociedad-barcelona-20270516",
-    "uid": "laliga-2026-2027-r36-real-sociedad-barcelona-20270516@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "real-sociedad-barcelona",
     "round": 36,
     "date": "2027-05-16",
-    "homeTeam": {
-      "id": "real-sociedad",
-      "name": "ريال سوسيداد"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "ريالي أرينا",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "ريال سوسيداد",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "ريال سوسيداد × برشلونة",
+    "sourceDate": "2027-05-16",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r37-barcelona-malaga-20270523",
-    "uid": "laliga-2026-2027-r37-barcelona-malaga-20270523@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "barcelona-malaga",
     "round": 37,
     "date": "2027-05-23",
-    "homeTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "awayTeam": {
-      "id": "malaga",
-      "name": "مالاجا"
-    },
-    "venue": "سبوتيفاي كامب نو",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "برشلونة",
+    "away": "مالاجا",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "برشلونة × مالاجا",
+    "sourceDate": "2027-05-23",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   },
   {
-    "id": "laliga-2026-2027-r38-getafe-barcelona-20270530",
-    "uid": "laliga-2026-2027-r38-getafe-barcelona-20270530@daleel",
-    "leagueId": "laliga",
-    "league": "الدوري الإسباني",
-    "year": "2026/2027",
-    "season": "2026/2027",
+    "id": "getafe-barcelona",
     "round": 38,
     "date": "2027-05-30",
-    "homeTeam": {
-      "id": "getafe",
-      "name": "خيتافي"
-    },
-    "awayTeam": {
-      "id": "barcelona",
-      "name": "برشلونة"
-    },
-    "venue": "كوليسيوم",
-    "timezone": "Asia/Riyadh",
-    "allDay": true,
-    "provisional": true,
+    "home": "خيتافي",
+    "away": "برشلونة",
     "status": "tentative",
-    "displayTime": null
+    "provisional": true,
+    "allDay": true,
+    "title": "خيتافي × برشلونة",
+    "sourceDate": "2027-05-30",
+    "sourceTimezone": "Europe/Madrid",
+    "sourceUrl": "https://www.laliga.com/calendar-2026-2027/laliga-easports"
   }
 ]

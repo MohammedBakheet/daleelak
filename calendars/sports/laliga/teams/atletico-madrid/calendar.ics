@@ -1,426 +1,895 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daleel//Match Calendars//AR
+PRODID:-//Daleelak//Team 2026/2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:أتلتيكو مدريد - الدوري الإسباني 2026/2027
+X-WR-CALNAME:أتلتيكو مدريد — الدوري الإسباني 20
+ 26/2027
+X-WR-CALDESC:تقويم مباريات أتلتيكو مدريد — الد
+ وري الإسباني 2026/2027
 X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:laliga-2026-2027-r01-atletico-madrid-malaga-20260819@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r1-atletico-madrid-malaga@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;TZID=Asia/Riyadh:20260819T220000
 DTEND;TZID=Asia/Riyadh:20260819T234500
 SUMMARY:أتلتيكو مدريد × مالاجا
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 1
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × مالاجا\n🗓️ الجول
+ ة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:مالاجا
 STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r02-atletico-madrid-villarreal-20260823@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r2-atletico-madrid-villarreal@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;TZID=Asia/Riyadh:20260823T180000
 DTEND;TZID=Asia/Riyadh:20260823T194500
 SUMMARY:أتلتيكو مدريد × فياريال
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 2
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × فياريال\n🗓️ الجو
+ لة: 2\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:فياريال
 STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r03-sevilla-atletico-madrid-20260829@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r3-sevilla-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;TZID=Asia/Riyadh:20260829T223000
 DTEND;TZID=Asia/Riyadh:20260830T001500
 SUMMARY:إشبيلية × أتلتيكو مدريد
-LOCATION:رامون سانتشيز بيزخوان
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 3
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: إشبيلية × أتلتيكو مدريد\n🗓️ الجو
+ لة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:إشبيلية
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r04-athletic-bilbao-atletico-madrid-20260905@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r4-athletic-bilbao-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;TZID=Asia/Riyadh:20260905T171500
 DTEND;TZID=Asia/Riyadh:20260905T190000
 SUMMARY:أتلتيك بيلباو × أتلتيكو مدريد
-LOCATION:سان ماميس
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 4
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيك بيلباو × أتلتيكو مدريد\n🗓
+ ️ الجولة: 4\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:أتلتيك بيلباو
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r05-real-sociedad-atletico-madrid-20260913@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r5-real-sociedad-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:ريال سوسيداد × أتلتيكو مدريد
-LOCATION:ريالي أرينا
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 5
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: ريال سوسيداد × أتلتيكو مدريد\n🗓️ 
+ الجولة: 5\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:ريال سوسيداد
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r06-atletico-madrid-osasuna-20260916@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r6-atletico-madrid-osasuna@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:أتلتيكو مدريد × أوساسونا
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 6
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × أوساسونا\n🗓️ الج
+ ولة: 6\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:أوساسونا
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r07-atletico-madrid-real-madrid-20260920@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r7-atletico-madrid-real-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:أتلتيكو مدريد × ريال مدريد
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 7
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × ريال مدريد\n🗓️ ال
+ جولة: 7\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:ريال مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r08-deportivo-alaves-atletico-madrid-20261011@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r8-deportivo-alaves-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:ديبورتيفو ألافيس × أتلتيكو مدريد
-LOCATION:مينديزوروزا
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 8
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: ديبورتيفو ألافيس × أتلتيكو مدريد\n
+ 🗓️ الجولة: 8\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:ديبورتيفو ألافيس
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r09-espanyol-atletico-madrid-20261018@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r9-espanyol-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:إسبانيول × أتلتيكو مدريد
-LOCATION:ملعب RCDE
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 9
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: إسبانيول × أتلتيكو مدريد\n🗓️ الج
+ ولة: 9\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:9
+X-DALEELAK-HOME-TEAM:إسبانيول
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r10-atletico-madrid-deportivo-la-coruna-20261025@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r10-atletico-madrid-deportivo-la-coruna@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:أتلتيكو مدريد × ديبورتيفو لاكورونيا
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 10
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × ديبورتيفو لاكورون
+ يا\n🗓️ الجولة: 10\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:10
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:ديبورتيفو لاكورونيا
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r11-levante-atletico-madrid-20261101@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r11-levante-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:ليفانتي × أتلتيكو مدريد
-LOCATION:سيوتات دي فالنسيا
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 11
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: ليفانتي × أتلتيكو مدريد\n🗓️ الجو
+ لة: 11\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:11
+X-DALEELAK-HOME-TEAM:ليفانتي
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r12-atletico-madrid-barcelona-20261108@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r12-atletico-madrid-barcelona@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:أتلتيكو مدريد × برشلونة
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 12
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × برشلونة\n🗓️ الجو
+ لة: 12\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:12
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:برشلونة
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r13-getafe-atletico-madrid-20261122@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r13-getafe-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:خيتافي × أتلتيكو مدريد
-LOCATION:كوليسيوم
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 13
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: خيتافي × أتلتيكو مدريد\n🗓️ الجول
+ ة: 13\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:13
+X-DALEELAK-HOME-TEAM:خيتافي
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r14-elche-atletico-madrid-20261129@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r14-elche-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:إلتشي × أتلتيكو مدريد
-LOCATION:مارتينيز فاليرو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 14
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: إلتشي × أتلتيكو مدريد\n🗓️ الجولة:
+  14\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:14
+X-DALEELAK-HOME-TEAM:إلتشي
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r15-atletico-madrid-real-betis-20261206@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r15-atletico-madrid-real-betis@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:أتلتيكو مدريد × ريال بيتيس
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 15
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × ريال بيتيس\n🗓️ ال
+ جولة: 15\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:15
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:ريال بيتيس
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r16-atletico-madrid-valencia-20261213@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r16-atletico-madrid-valencia@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:أتلتيكو مدريد × فالنسيا
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 16
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × فالنسيا\n🗓️ الجو
+ لة: 16\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:16
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:فالنسيا
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r17-celta-vigo-atletico-madrid-20261220@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r17-celta-vigo-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:سيلتا فيغو × أتلتيكو مدريد
-LOCATION:بالايدوس
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 17
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: سيلتا فيغو × أتلتيكو مدريد\n🗓️ ال
+ جولة: 17\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:17
+X-DALEELAK-HOME-TEAM:سيلتا فيغو
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r18-rayo-vallecano-atletico-madrid-20270103@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r18-rayo-vallecano-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:رايو فايكانو × أتلتيكو مدريد
-LOCATION:فايكاس
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 18
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: رايو فايكانو × أتلتيكو مدريد\n🗓️ 
+ الجولة: 18\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:18
+X-DALEELAK-HOME-TEAM:رايو فايكانو
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r19-atletico-madrid-racing-santander-20270110@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r19-atletico-madrid-racing-santander@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:أتلتيكو مدريد × راسينج سانتاندير
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 19
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × راسينج سانتاندير\n
+ 🗓️ الجولة: 19\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:19
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:راسينج سانتاندير
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r20-atletico-madrid-real-sociedad-20270117@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r20-atletico-madrid-real-sociedad@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:أتلتيكو مدريد × ريال سوسيداد
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 20
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × ريال سوسيداد\n🗓️ 
+ الجولة: 20\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:20
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:ريال سوسيداد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r21-deportivo-la-coruna-atletico-madrid-20270124@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r21-deportivo-la-coruna-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:ديبورتيفو لاكورونيا × أتلتيكو مدريد
-LOCATION:ريازور
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 21
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: ديبورتيفو لاكورونيا × أتلتيكو مدر
+ يد\n🗓️ الجولة: 21\n🇸🇦 جميع المواعيد معر
+ وضة حسب توقيت المملكة العربية السعودية (U
+ TC+3).\n✨ تقويم موقع دليلك — مجاني، بدون تس
+ جيل، مع تحديثات تلقائية.\n© 2026 م. محمد الب
+ خيت — موقع دليلك. حقوق إعداد ونشر التقوي
+ م محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:21
+X-DALEELAK-HOME-TEAM:ديبورتيفو لاكورونيا
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r22-atletico-madrid-espanyol-20270131@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r22-atletico-madrid-espanyol@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:أتلتيكو مدريد × إسبانيول
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 22
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × إسبانيول\n🗓️ الج
+ ولة: 22\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:22
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:إسبانيول
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r23-barcelona-atletico-madrid-20270207@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r23-barcelona-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:برشلونة × أتلتيكو مدريد
-LOCATION:سبوتيفاي كامب نو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 23
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: برشلونة × أتلتيكو مدريد\n🗓️ الجو
+ لة: 23\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:23
+X-DALEELAK-HOME-TEAM:برشلونة
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r24-osasuna-atletico-madrid-20270214@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r24-osasuna-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:أوساسونا × أتلتيكو مدريد
-LOCATION:إل سادار
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 24
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أوساسونا × أتلتيكو مدريد\n🗓️ الج
+ ولة: 24\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:24
+X-DALEELAK-HOME-TEAM:أوساسونا
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r25-atletico-madrid-elche-20270221@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r25-atletico-madrid-elche@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:أتلتيكو مدريد × إلتشي
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 25
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × إلتشي\n🗓️ الجولة:
+  25\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:25
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:إلتشي
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r26-malaga-atletico-madrid-20270228@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r26-malaga-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:مالاجا × أتلتيكو مدريد
-LOCATION:لا روزاليدا
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 26
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: مالاجا × أتلتيكو مدريد\n🗓️ الجول
+ ة: 26\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:26
+X-DALEELAK-HOME-TEAM:مالاجا
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r27-atletico-madrid-celta-vigo-20270307@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r27-atletico-madrid-celta-vigo@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:أتلتيكو مدريد × سيلتا فيغو
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 27
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × سيلتا فيغو\n🗓️ ال
+ جولة: 27\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:27
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:سيلتا فيغو
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r28-racing-santander-atletico-madrid-20270314@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r28-racing-santander-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:راسينج سانتاندير × أتلتيكو مدريد
-LOCATION:إل ساردينيرو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 28
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: راسينج سانتاندير × أتلتيكو مدريد\n
+ 🗓️ الجولة: 28\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:28
+X-DALEELAK-HOME-TEAM:راسينج سانتاندير
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r29-atletico-madrid-getafe-20270321@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r29-atletico-madrid-getafe@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:أتلتيكو مدريد × خيتافي
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 29
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × خيتافي\n🗓️ الجول
+ ة: 29\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:29
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:خيتافي
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r30-real-madrid-atletico-madrid-20270404@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r30-real-madrid-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:ريال مدريد × أتلتيكو مدريد
-LOCATION:سانتياغو برنابيو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 30
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: ريال مدريد × أتلتيكو مدريد\n🗓️ ال
+ جولة: 30\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:30
+X-DALEELAK-HOME-TEAM:ريال مدريد
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r31-atletico-madrid-levante-20270411@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r31-atletico-madrid-levante@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:أتلتيكو مدريد × ليفانتي
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 31
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × ليفانتي\n🗓️ الجو
+ لة: 31\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:31
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:ليفانتي
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r32-atletico-madrid-sevilla-20270418@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r32-atletico-madrid-sevilla@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:أتلتيكو مدريد × إشبيلية
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 32
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × إشبيلية\n🗓️ الجو
+ لة: 32\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:32
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:إشبيلية
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r33-villarreal-atletico-madrid-20270421@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r33-villarreal-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:فياريال × أتلتيكو مدريد
-LOCATION:إستاديو دي لا سيراميكا
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 33
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: فياريال × أتلتيكو مدريد\n🗓️ الجو
+ لة: 33\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:33
+X-DALEELAK-HOME-TEAM:فياريال
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r34-atletico-madrid-deportivo-alaves-20270502@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r34-atletico-madrid-deportivo-alaves@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:أتلتيكو مدريد × ديبورتيفو ألافيس
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 34
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × ديبورتيفو ألافيس\n
+ 🗓️ الجولة: 34\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:34
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:ديبورتيفو ألافيس
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r35-valencia-atletico-madrid-20270509@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r35-valencia-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:فالنسيا × أتلتيكو مدريد
-LOCATION:ميستايا
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 35
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: فالنسيا × أتلتيكو مدريد\n🗓️ الجو
+ لة: 35\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:35
+X-DALEELAK-HOME-TEAM:فالنسيا
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r36-atletico-madrid-rayo-vallecano-20270516@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r36-atletico-madrid-rayo-vallecano@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:أتلتيكو مدريد × رايو فايكانو
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 36
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × رايو فايكانو\n🗓️ 
+ الجولة: 36\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:36
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:رايو فايكانو
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r37-atletico-madrid-athletic-bilbao-20270523@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r37-atletico-madrid-athletic-bilbao@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:أتلتيكو مدريد × أتلتيك بيلباو
-LOCATION:متروبوليتانو
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 37
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: أتلتيكو مدريد × أتلتيك بيلباو\n🗓
+ ️ الجولة: 37\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:37
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:أتلتيك بيلباو
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r38-real-betis-atletico-madrid-20270530@daleel
-DTSTAMP:20260820T203200Z
+UID:laliga-2026-2027-r38-real-betis-atletico-madrid@daleelak
+DTSTAMP:20260820T211101Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:ريال بيتيس × أتلتيكو مدريد
-LOCATION:بينيتو فيامارين
-DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 38
+DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
+ ريقان: ريال بيتيس × أتلتيكو مدريد\n🗓️ ال
+ جولة: 38\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
+X-DALEELAK-ROUND:38
+X-DALEELAK-HOME-TEAM:ريال بيتيس
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
 STATUS:TENTATIVE
+URL:https://daleelak.com/
 TRANSP:OPAQUE
+LAST-MODIFIED:20260820T211101Z
+SEQUENCE:0
 END:VEVENT
 END:VCALENDAR
