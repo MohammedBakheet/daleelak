@@ -6,7 +6,7 @@
   "year": "2026/2027",
   "region": "فرنسا",
   "calendarType": "league",
-  "lastUpdate": "2026-08-10T08:09:20Z",
+  "lastUpdate": "2026-08-20T21:48:09Z",
   "description": "تقويم مباريات الدوري الفرنسي 2026/27 بتوقيت المملكة العربية السعودية.",
   "ics": "calendar.ics",
   "events": "events.json",
@@ -25,6 +25,6 @@
   "season": "2026/2027",
   "teamCount": 18,
   "order": 1,
-  "confirmedTimesCount": 18,
-  "pendingTimesCount": 288
+  "confirmedTimesCount": 37,
+  "pendingTimesCount": 269
 }

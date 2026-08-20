@@ -6,7 +6,7 @@
   "year": "2026/2027",
   "region": "فرنسا",
   "calendarType": "team",
-  "lastUpdate": "2026-08-10T08:09:20Z",
+  "lastUpdate": "2026-08-20T21:48:09Z",
   "description": "تقويم مباريات مرسيليا في الدوري الفرنسي 2026/27 بتوقيت المملكة العربية السعودية.",
   "ics": "calendar.ics",
   "events": "events.json",
@@ -26,6 +26,6 @@
   "team": "marseille",
   "teamTitle": "مرسيليا",
   "order": 1,
-  "confirmedTimesCount": 2,
-  "pendingTimesCount": 32
+  "confirmedTimesCount": 5,
+  "pendingTimesCount": 29
 }
