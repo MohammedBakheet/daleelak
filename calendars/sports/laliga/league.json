@@ -1,18 +1,12 @@
 {
   "id": "laliga",
-  "title": "الدوري الإسباني",
-  "shortTitle": "لاليغا",
-  "country": "إسبانيا",
-  "category": "sports",
-  "sport": "football",
+  "name": "الدوري الإسباني",
+  "nameEn": "LaLiga",
+  "year": "2026/2027",
   "season": "2026/2027",
-  "description": "تقويم مباريات الدوري الإسباني 2026/27 بتوقيت المملكة العربية السعودية.",
-  "seoTitle": "تقويم الدوري الإسباني 2026/27",
-  "seoDescription": "مواعيد مباريات الدوري الإسباني 2026/27 بتوقيت السعودية مع تحديثات تلقائية.",
-  "logo": "league/logo.png",
-  "leagueCalendarId": "laliga-2026-2027",
-  "teamsCount": 20,
-  "order": 3,
-  "status": "active",
-  "teamsPath": "teams/"
+  "timezone": "Asia/Riyadh",
+  "calendar": "league/calendar.ics",
+  "events": "league/events.json",
+  "metadata": "league/metadata.json",
+  "teams": "teams.json"
 }

@@ -1,849 +1,426 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daleelak//ريال مدريد LaLiga 2026/27//AR
+PRODID:-//Daleel//Match Calendars//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:ريال مدريد — الدوري الإسباني 2026/27
-X-WR-CALDESC:تقويم مباريات ريال مدريد في الدور
- ي الإسباني 2026/27 بتوقيت المملكة العربية ا
- لسعودية.
+X-WR-CALNAME:ريال مدريد - الدوري الإسباني 2026/2027
 X-WR-TIMEZONE:Asia/Riyadh
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:laliga-2026-2027-r1-9@daleelak
-DTSTAMP:20260810T063638Z
-DTSTART;TZID=Asia/Riyadh:20260826T220000
-DTEND;TZID=Asia/Riyadh:20260826T234500
-SUMMARY:ريال مدريد × ريال سوسيداد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × ريال سوسيداد\n🗓️ الج
- ولة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقي
- ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
-  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
- لقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:1
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:ريال سوسيداد
-STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
-TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:laliga-2026-2027-r2-15@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r02-espanyol-real-madrid-20260822@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;TZID=Asia/Riyadh:20260822T223000
 DTEND;TZID=Asia/Riyadh:20260823T001500
 SUMMARY:إسبانيول × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: إسبانيول × ريال مدريد\n🗓️ الجولة:
-  2\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:2
-X-DALEELAK-HOME-TEAM:إسبانيول
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:ملعب RCDE
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 2
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r3-26@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r01-real-madrid-real-sociedad-20260826@daleel
+DTSTAMP:20260820T203200Z
+DTSTART;TZID=Asia/Riyadh:20260826T220000
+DTEND;TZID=Asia/Riyadh:20260826T234500
+SUMMARY:ريال مدريد × ريال سوسيداد
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 1
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:laliga-2026-2027-r03-real-madrid-malaga-20260830@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;TZID=Asia/Riyadh:20260830T180000
 DTEND;TZID=Asia/Riyadh:20260830T194500
 SUMMARY:ريال مدريد × مالاجا
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × مالاجا\n🗓️ الجولة: 3\n
- 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
- لكة العربية السعودية (UTC+3).\n✨ تقويم دليلك
-  — مجاني، بدون تسجيل، مع تحديثات تلقائية
- .
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:3
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:مالاجا
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 3
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r4-40@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r04-real-betis-real-madrid-20260904@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;TZID=Asia/Riyadh:20260904T220000
 DTEND;TZID=Asia/Riyadh:20260904T234500
 SUMMARY:ريال بيتيس × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال بيتيس × ريال مدريد\n🗓️ الجول
- ة: 4\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
- المملكة العربية السعودية (UTC+3).\n✨ تقويم د
- ليلك — مجاني، بدون تسجيل، مع تحديثات تلق
- ائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:4
-X-DALEELAK-HOME-TEAM:ريال بيتيس
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:بينيتو فيامارين
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 4
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r5-50@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r05-real-madrid-rayo-vallecano-20260913@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:ريال مدريد × رايو فايكانو
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × رايو فايكانو\n🗓️ الج
- ولة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقي
- ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
-  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
- لقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:5
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:رايو فايكانو
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 5
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r6-54@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r06-elche-real-madrid-20260916@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:إلتشي × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: إلتشي × ريال مدريد\n🗓️ الجولة: 6\n
- 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
- لكة العربية السعودية (UTC+3).\n✨ تقويم دليلك
-  — مجاني، بدون تسجيل، مع تحديثات تلقائية
- .
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:6
-X-DALEELAK-HOME-TEAM:إلتشي
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:مارتينيز فاليرو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 6
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r7-61@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r07-atletico-madrid-real-madrid-20260920@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:أتلتيكو مدريد × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: أتلتيكو مدريد × ريال مدريد\n🗓️ ال
- جولة: 7\n🇸🇦 جميع المواعيد معروضة حسب توق
- يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
- م دليلك — مجاني، بدون تسجيل، مع تحديثات 
- تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:7
-X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:متروبوليتانو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 7
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r8-75@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r08-real-madrid-villarreal-20261011@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:ريال مدريد × فياريال
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × فياريال\n🗓️ الجولة: 8
- \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
- ملكة العربية السعودية (UTC+3).\n✨ تقويم دليل
- ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
- ة.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:8
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:فياريال
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 8
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r9-82@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r09-real-madrid-sevilla-20261018@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:ريال مدريد × إشبيلية
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × إشبيلية\n🗓️ الجولة: 9
- \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
- ملكة العربية السعودية (UTC+3).\n✨ تقويم دليل
- ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
- ة.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:9
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:إشبيلية
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 9
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r10-96@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r10-barcelona-real-madrid-20261025@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:برشلونة × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: برشلونة × ريال مدريد\n🗓️ الجولة: 1
- 0\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:10
-X-DALEELAK-HOME-TEAM:برشلونة
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:سبوتيفاي كامب نو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 10
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r11-109@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r11-racing-santander-real-madrid-20261101@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:راسينج سانتاندير × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: راسينج سانتاندير × ريال مدريد\n🗓
- ️ الجولة: 11\n🇸🇦 جميع المواعيد معروضة حس
- ب توقيت المملكة العربية السعودية (UTC+3).\n✨
-  تقويم دليلك — مجاني، بدون تسجيل، مع تحد
- يثات تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:11
-X-DALEELAK-HOME-TEAM:راسينج سانتاندير
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:إل ساردينيرو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 11
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r12-114@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r12-valencia-real-madrid-20261108@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:فالنسيا × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: فالنسيا × ريال مدريد\n🗓️ الجولة: 1
- 2\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:12
-X-DALEELAK-HOME-TEAM:فالنسيا
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:ميستايا
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 12
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r13-127@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r13-real-madrid-celta-vigo-20261122@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:ريال مدريد × سيلتا فيغو
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × سيلتا فيغو\n🗓️ الجول
- ة: 13\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
- المملكة العربية السعودية (UTC+3).\n✨ تقويم د
- ليلك — مجاني، بدون تسجيل، مع تحديثات تلق
- ائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:13
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:سيلتا فيغو
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 13
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r14-135@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r14-real-madrid-deportivo-alaves-20261129@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:ريال مدريد × ديبورتيفو ألافيس
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × ديبورتيفو ألافيس\n🗓
- ️ الجولة: 14\n🇸🇦 جميع المواعيد معروضة حس
- ب توقيت المملكة العربية السعودية (UTC+3).\n✨
-  تقويم دليلك — مجاني، بدون تسجيل، مع تحد
- يثات تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:14
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:ديبورتيفو ألافيس
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 14
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r15-148@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r15-athletic-bilbao-real-madrid-20261206@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:أتلتيك بيلباو × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: أتلتيك بيلباو × ريال مدريد\n🗓️ ال
- جولة: 15\n🇸🇦 جميع المواعيد معروضة حسب تو
- قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
- يم دليلك — مجاني، بدون تسجيل، مع تحديثات
-  تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:15
-X-DALEELAK-HOME-TEAM:أتلتيك بيلباو
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:سان ماميس
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 15
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r16-153@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r16-real-madrid-osasuna-20261213@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:ريال مدريد × أوساسونا
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × أوساسونا\n🗓️ الجولة:
-  16\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
- لمملكة العربية السعودية (UTC+3).\n✨ تقويم دل
- يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
- ئية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:16
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:أوساسونا
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 16
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r17-169@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r17-deportivo-la-coruna-real-madrid-20261220@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:ديبورتيفو لاكورونيا × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ديبورتيفو لاكورونيا × ريال مدريد\n
- 🗓️ الجولة: 17\n🇸🇦 جميع المواعيد معروضة 
- حسب توقيت المملكة العربية السعودية (UTC+3).\
- n✨ تقويم دليلك — مجاني، بدون تسجيل، مع ت
- حديثات تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:17
-X-DALEELAK-HOME-TEAM:ديبورتيفو لاكورونيا
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:ريازور
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 17
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r18-171@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r18-real-madrid-getafe-20270103@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:ريال مدريد × خيتافي
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × خيتافي\n🗓️ الجولة: 18\
- n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
- ملكة العربية السعودية (UTC+3).\n✨ تقويم دليل
- ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
- ة.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:18
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:خيتافي
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 18
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r19-183@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r19-real-madrid-levante-20270110@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:ريال مدريد × ليفانتي
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × ليفانتي\n🗓️ الجولة: 1
- 9\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:19
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:ليفانتي
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 19
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r20-191@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r20-malaga-real-madrid-20270117@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:مالاجا × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: مالاجا × ريال مدريد\n🗓️ الجولة: 20\
- n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
- ملكة العربية السعودية (UTC+3).\n✨ تقويم دليل
- ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
- ة.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:20
-X-DALEELAK-HOME-TEAM:مالاجا
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:لا روزاليدا
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 20
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r21-201@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r21-real-madrid-real-betis-20270124@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:ريال مدريد × ريال بيتيس
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × ريال بيتيس\n🗓️ الجول
- ة: 21\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
- المملكة العربية السعودية (UTC+3).\n✨ تقويم د
- ليلك — مجاني، بدون تسجيل، مع تحديثات تلق
- ائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:21
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:ريال بيتيس
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 21
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r22-212@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r22-rayo-vallecano-real-madrid-20270131@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:رايو فايكانو × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: رايو فايكانو × ريال مدريد\n🗓️ الج
- ولة: 22\n🇸🇦 جميع المواعيد معروضة حسب توق
- يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
- م دليلك — مجاني، بدون تسجيل، مع تحديثات 
- تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:22
-X-DALEELAK-HOME-TEAM:رايو فايكانو
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:فايكاس
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 22
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r23-228@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r23-real-sociedad-real-madrid-20270207@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:ريال سوسيداد × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال سوسيداد × ريال مدريد\n🗓️ الج
- ولة: 23\n🇸🇦 جميع المواعيد معروضة حسب توق
- يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
- م دليلك — مجاني، بدون تسجيل، مع تحديثات 
- تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:23
-X-DALEELAK-HOME-TEAM:ريال سوسيداد
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:ريالي أرينا
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 23
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r24-240@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r24-real-madrid-athletic-bilbao-20270214@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:ريال مدريد × أتلتيك بيلباو
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × أتلتيك بيلباو\n🗓️ ال
- جولة: 24\n🇸🇦 جميع المواعيد معروضة حسب تو
- قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
- يم دليلك — مجاني، بدون تسجيل، مع تحديثات
-  تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:24
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:أتلتيك بيلباو
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 24
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r25-247@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r25-sevilla-real-madrid-20270221@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:إشبيلية × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: إشبيلية × ريال مدريد\n🗓️ الجولة: 2
- 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:25
-X-DALEELAK-HOME-TEAM:إشبيلية
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:رامون سانتشيز بيزخوان
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 25
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r26-255@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r26-real-madrid-valencia-20270228@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:ريال مدريد × فالنسيا
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × فالنسيا\n🗓️ الجولة: 2
- 6\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:26
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:فالنسيا
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 26
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r27-267@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r27-villarreal-real-madrid-20270307@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:فياريال × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: فياريال × ريال مدريد\n🗓️ الجولة: 2
- 7\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:27
-X-DALEELAK-HOME-TEAM:فياريال
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:إستاديو دي لا سيراميكا
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 27
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r28-280@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r28-real-madrid-espanyol-20270314@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:ريال مدريد × إسبانيول
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × إسبانيول\n🗓️ الجولة:
-  28\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
- لمملكة العربية السعودية (UTC+3).\n✨ تقويم دل
- يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
- ئية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:28
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:إسبانيول
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 28
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r29-284@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r29-celta-vigo-real-madrid-20270321@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:سيلتا فيغو × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: سيلتا فيغو × ريال مدريد\n🗓️ الجول
- ة: 29\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
- المملكة العربية السعودية (UTC+3).\n✨ تقويم د
- ليلك — مجاني، بدون تسجيل، مع تحديثات تلق
- ائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:29
-X-DALEELAK-HOME-TEAM:سيلتا فيغو
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:بالايدوس
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 29
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r30-298@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r30-real-madrid-atletico-madrid-20270404@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:ريال مدريد × أتلتيكو مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × أتلتيكو مدريد\n🗓️ ال
- جولة: 30\n🇸🇦 جميع المواعيد معروضة حسب تو
- قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
- يم دليلك — مجاني، بدون تسجيل، مع تحديثات
-  تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:30
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 30
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r31-309@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r31-osasuna-real-madrid-20270411@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:أوساسونا × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: أوساسونا × ريال مدريد\n🗓️ الجولة:
-  31\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
- لمملكة العربية السعودية (UTC+3).\n✨ تقويم دل
- يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
- ئية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:31
-X-DALEELAK-HOME-TEAM:أوساسونا
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:إل سادار
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 31
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r32-320@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r32-getafe-real-madrid-20270418@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:خيتافي × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: خيتافي × ريال مدريد\n🗓️ الجولة: 32\
- n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
- ملكة العربية السعودية (UTC+3).\n✨ تقويم دليل
- ك — مجاني، بدون تسجيل، مع تحديثات تلقائي
- ة.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:32
-X-DALEELAK-HOME-TEAM:خيتافي
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:كوليسيوم
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 32
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r33-325@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r33-real-madrid-elche-20270421@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:ريال مدريد × إلتشي
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × إلتشي\n🗓️ الجولة: 33\n
- 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
- لكة العربية السعودية (UTC+3).\n✨ تقويم دليلك
-  — مجاني، بدون تسجيل، مع تحديثات تلقائية
- .
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:33
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:إلتشي
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 33
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r34-339@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r34-levante-real-madrid-20270502@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:ليفانتي × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ليفانتي × ريال مدريد\n🗓️ الجولة: 3
- 4\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:34
-X-DALEELAK-HOME-TEAM:ليفانتي
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:سيوتات دي فالنسيا
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 34
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r35-348@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r35-real-madrid-barcelona-20270509@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:ريال مدريد × برشلونة
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × برشلونة\n🗓️ الجولة: 3
- 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
- مملكة العربية السعودية (UTC+3).\n✨ تقويم دلي
- لك — مجاني، بدون تسجيل، مع تحديثات تلقائ
- ية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:35
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:برشلونة
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 35
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r36-359@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r36-real-madrid-racing-santander-20270516@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:ريال مدريد × راسينج سانتاندير
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × راسينج سانتاندير\n🗓
- ️ الجولة: 36\n🇸🇦 جميع المواعيد معروضة حس
- ب توقيت المملكة العربية السعودية (UTC+3).\n✨
-  تقويم دليلك — مجاني، بدون تسجيل، مع تحد
- يثات تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:36
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:راسينج سانتاندير
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 36
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r37-362@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r37-deportivo-alaves-real-madrid-20270523@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:ديبورتيفو ألافيس × ريال مدريد
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ديبورتيفو ألافيس × ريال مدريد\n🗓
- ️ الجولة: 37\n🇸🇦 جميع المواعيد معروضة حس
- ب توقيت المملكة العربية السعودية (UTC+3).\n✨
-  تقويم دليلك — مجاني، بدون تسجيل، مع تحد
- يثات تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:37
-X-DALEELAK-HOME-TEAM:ديبورتيفو ألافيس
-X-DALEELAK-AWAY-TEAM:ريال مدريد
+LOCATION:مينديزوروزا
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 37
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:laliga-2026-2027-r38-372@daleelak
-DTSTAMP:20260810T063638Z
+UID:laliga-2026-2027-r38-real-madrid-deportivo-la-coruna-20270530@daleel
+DTSTAMP:20260820T203200Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:ريال مدريد × ديبورتيفو لاكورونيا
-DESCRIPTION:🏆 البطولة: الدوري الإسباني\n⚽ الف
- ريقان: ريال مدريد × ديبورتيفو لاكورونيا\n
- 🗓️ الجولة: 38\n🇸🇦 جميع المواعيد معروضة 
- حسب توقيت المملكة العربية السعودية (UTC+3).\
- n✨ تقويم دليلك — مجاني، بدون تسجيل، مع ت
- حديثات تلقائية.
-CATEGORIES:رياضة\,كرة القدم\,الدوري الإسباني
-X-DALEELAK-ROUND:38
-X-DALEELAK-HOME-TEAM:ريال مدريد
-X-DALEELAK-AWAY-TEAM:ديبورتيفو لاكورونيا
+LOCATION:سانتياغو برنابيو
+DESCRIPTION:الدوري الإسباني 2026/2027 - الجولة 38
 STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260810T063638Z
-SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

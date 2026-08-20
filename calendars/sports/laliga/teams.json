@@ -1,21 +1,23 @@
-{
-  "league": "laliga",
-  "season": "2026/2027",
-  "teams": [
-    {
-      "id": "barcelona",
-      "title": "برشلونة",
-      "path": "teams/barcelona/"
-    },
-    {
-      "id": "real-madrid",
-      "title": "ريال مدريد",
-      "path": "teams/real-madrid/"
-    },
-    {
-      "id": "atletico-madrid",
-      "title": "أتلتيكو مدريد",
-      "path": "teams/atletico-madrid/"
-    }
-  ]
-}
+[
+  {
+    "id": "barcelona",
+    "name": "برشلونة",
+    "calendar": "teams/barcelona/calendar.ics",
+    "events": "teams/barcelona/events.json",
+    "metadata": "teams/barcelona/metadata.json"
+  },
+  {
+    "id": "real-madrid",
+    "name": "ريال مدريد",
+    "calendar": "teams/real-madrid/calendar.ics",
+    "events": "teams/real-madrid/events.json",
+    "metadata": "teams/real-madrid/metadata.json"
+  },
+  {
+    "id": "atletico-madrid",
+    "name": "أتلتيكو مدريد",
+    "calendar": "teams/atletico-madrid/calendar.ics",
+    "events": "teams/atletico-madrid/events.json",
+    "metadata": "teams/atletico-madrid/metadata.json"
+  }
+]
