@@ -1,0 +1,17 @@
+{
+  "id": "champions-league",
+  "title": "دوري أبطال أوروبا",
+  "shortTitle": "دوري الأبطال",
+  "country": "أوروبا",
+  "category": "sports",
+  "sport": "football",
+  "season": "2026/2027",
+  "description": "تقويم دوري أبطال أوروبا لموسم 2026/2027 بتوقيت المملكة العربية السعودية.",
+  "seoTitle": "تقويم دوري أبطال أوروبا 2026/2027",
+  "seoDescription": "مواعيد مباريات دوري أبطال أوروبا لموسم 2026/2027 بتوقيت السعودية.",
+  "logo": "league/logo.png",
+  "leagueCalendarId": "champions-league",
+  "teamsCount": 0,
+  "order": 1,
+  "status": "active"
+}

@@ -6,13 +6,13 @@
   "category": "sports",
   "sport": "football",
   "season": "2026/2027",
-  "description": "تقويم مباريات الدوري الفرنسي 2026/27 بتوقيت المملكة العربية السعودية.",
-  "seoTitle": "تقويم الدوري الفرنسي 2026/27",
-  "seoDescription": "مواعيد مباريات الدوري الفرنسي 2026/27 بتوقيت السعودية مع تحديثات تلقائية.",
+  "description": "تقويم الدوري الفرنسي لموسم 2026/2027 بتوقيت المملكة العربية السعودية.",
+  "seoTitle": "تقويم الدوري الفرنسي 2026/2027",
+  "seoDescription": "مواعيد مباريات الدوري الفرنسي لموسم 2026/2027 بتوقيت السعودية.",
   "logo": "league/logo.png",
-  "leagueCalendarId": "ligue1-2026-2027",
-  "teamsCount": 18,
-  "teamsPath": "teams/",
-  "order": 4,
-  "status": "active"
+  "leagueCalendarId": "ligue1",
+  "teamsCount": 2,
+  "order": 1,
+  "status": "active",
+  "teamsPath": "teams/"
 }

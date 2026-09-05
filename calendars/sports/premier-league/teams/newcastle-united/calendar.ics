@@ -1,19 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daleelak//Team 2026/2027 2026/27//AR
+PRODID:-//Daleelak//نيوكاسل يونايتد 2026/2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:نيوكاسل يونايتد — البريميرليغ 2026/
- 27
-X-WR-CALDESC:تقويم مباريات الدوري الإنجليزي ال
- ممتاز 2026/2027 بتوقيت المملكة العربية السعو
- دية.
+X-WR-CALNAME:نيوكاسل يونايتد
+X-WR-CALDESC:تقويم مباريات نيوكاسل يونايتد في 
+ الدوري الإنجليزي الممتاز لموسم 2026/2027 بتو
+ قيت المملكة العربية السعودية.
 X-WR-TIMEZONE:Asia/Riyadh
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r1-9@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r1-e-dd50320bca@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260823T183000
 DTEND;TZID=Asia/Riyadh:20260823T201500
 SUMMARY:نيوكاسل يونايتد × ليفربول
@@ -31,14 +30,14 @@ X-DALEELAK-ROUND:1
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:ليفربول
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r2-15@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r2-e-335c3d9df9@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260829T193000
 DTEND;TZID=Asia/Riyadh:20260829T211500
 SUMMARY:توتنهام هوتسبير × نيوكاسل يونايتد
@@ -56,14 +55,14 @@ X-DALEELAK-ROUND:2
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r3-22@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r3-e-0c4a7808a0@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260905T143000
 DTEND;TZID=Asia/Riyadh:20260905T161500
 SUMMARY:نيوكاسل يونايتد × بورنموث
@@ -81,14 +80,14 @@ X-DALEELAK-ROUND:3
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:بورنموث
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r4-40@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r4-e-a772597377@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260914T220000
 DTEND;TZID=Asia/Riyadh:20260914T234500
 SUMMARY:ليدز يونايتد × نيوكاسل يونايتد
@@ -106,14 +105,14 @@ X-DALEELAK-ROUND:4
 X-DALEELAK-HOME-TEAM:ليدز يونايتد
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r5-46@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r5-e-cbfed447fb@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260919T170000
 DTEND;TZID=Asia/Riyadh:20260919T184500
 SUMMARY:نيوكاسل يونايتد × هال سيتي
@@ -131,16 +130,16 @@ X-DALEELAK-ROUND:5
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:هال سيتي
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r6-56@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+UID:premier-league-r6-e-b8936e15ea@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261012T220000
+DTEND;TZID=Asia/Riyadh:20261012T234500
 SUMMARY:كوفينتري سيتي × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: كوفينتري سيتي × نيوكاسل ي
@@ -155,17 +154,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:6
 X-DALEELAK-HOME-TEAM:كوفينتري سيتي
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r7-66@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+UID:premier-league-r7-e-ca6109578b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261017T193000
+DTEND;TZID=Asia/Riyadh:20261017T211500
 SUMMARY:نيوكاسل يونايتد × أستون فيلا
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × أستون ف
@@ -180,17 +179,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:7
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:أستون فيلا
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r8-72@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+UID:premier-league-r8-e-b5f95eb75e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261025T170000
+DTEND;TZID=Asia/Riyadh:20261025T184500
 SUMMARY:كريستال بالاس × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: كريستال بالاس × نيوكاسل ي
@@ -205,17 +204,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:8
 X-DALEELAK-HOME-TEAM:كريستال بالاس
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r9-81@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+UID:premier-league-r9-e-547d00d7db@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261102T230000
+DTEND;TZID=Asia/Riyadh:20261103T004500
 SUMMARY:نيوكاسل يونايتد × إيفرتون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × إيفرتو
@@ -230,17 +229,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:9
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:إيفرتون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r10-94@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+UID:premier-league-r10-e-1dccb9bd7e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261107T180000
+DTEND;TZID=Asia/Riyadh:20261107T194500
 SUMMARY:فولهام × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: فولهام × نيوكاسل يونايتد\
@@ -255,17 +254,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:10
 X-DALEELAK-HOME-TEAM:فولهام
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r11-110@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+UID:premier-league-r11-e-534bc51a3d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261121T180000
+DTEND;TZID=Asia/Riyadh:20261121T194500
 SUMMARY:نيوكاسل يونايتد × آرسنال
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × آرسنال\
@@ -280,17 +279,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:11
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:آرسنال
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r12-118@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+UID:premier-league-r12-e-d2b478e3a5@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261128T180000
+DTEND;TZID=Asia/Riyadh:20261128T194500
 SUMMARY:برايتون × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: برايتون × نيوكاسل يونايت
@@ -305,17 +304,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:12
 X-DALEELAK-HOME-TEAM:برايتون
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r13-129@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
+UID:premier-league-r13-e-208f8bcce8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261202T230000
+DTEND;TZID=Asia/Riyadh:20261203T004500
 SUMMARY:نيوكاسل يونايتد × مانشستر يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × مانشست
@@ -330,17 +329,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:13
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r14-134@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+UID:premier-league-r14-e-39f3cd2ac8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261205T180000
+DTEND;TZID=Asia/Riyadh:20261205T194500
 SUMMARY:نيوكاسل يونايتد × سندرلاند
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × سندرلا
@@ -355,17 +354,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:14
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:سندرلاند
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r15-145@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+UID:premier-league-r15-e-0858f64380@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261212T180000
+DTEND;TZID=Asia/Riyadh:20261212T194500
 SUMMARY:إبسويتش تاون × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: إبسويتش تاون × نيوكاسل يو
@@ -380,17 +379,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:15
 X-DALEELAK-HOME-TEAM:إبسويتش تاون
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r16-154@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
+UID:premier-league-r16-e-2fbe1d6843@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261219T180000
+DTEND;TZID=Asia/Riyadh:20261219T194500
 SUMMARY:برينتفورد × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: برينتفورد × نيوكاسل يونا
@@ -405,17 +404,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:16
 X-DALEELAK-HOME-TEAM:برينتفورد
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r17-166@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
+UID:premier-league-r17-e-7fa6355c56@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261226T180000
+DTEND;TZID=Asia/Riyadh:20261226T194500
 SUMMARY:نيوكاسل يونايتد × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × مانشست
@@ -430,17 +429,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:17
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r18-174@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
+UID:premier-league-r18-e-9f7a94f894@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261230T230000
+DTEND;TZID=Asia/Riyadh:20261231T004500
 SUMMARY:نيوكاسل يونايتد × نوتنغهام فورست
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × نوتنغه
@@ -455,17 +454,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:18
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:نوتنغهام فورست
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r19-187@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
+UID:premier-league-r19-e-9cf6725288@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270102T180000
+DTEND;TZID=Asia/Riyadh:20270102T194500
 SUMMARY:تشيلسي × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: تشيلسي × نيوكاسل يونايتد\
@@ -480,17 +479,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:19
 X-DALEELAK-HOME-TEAM:تشيلسي
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r20-193@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
+UID:premier-league-r20-e-5694e45d6a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270106T230000
+DTEND;TZID=Asia/Riyadh:20270107T004500
 SUMMARY:مانشستر يونايتد × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر يونايتد × نيوكاس
@@ -505,17 +504,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:20
 X-DALEELAK-HOME-TEAM:مانشستر يونايتد
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r21-210@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
+UID:premier-league-r21-e-7b233d77cd@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270116T180000
+DTEND;TZID=Asia/Riyadh:20270116T194500
 SUMMARY:نيوكاسل يونايتد × فولهام
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × فولهام\
@@ -530,17 +529,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:21
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:فولهام
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r22-215@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+UID:premier-league-r22-e-5c59f1e79c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270123T180000
+DTEND;TZID=Asia/Riyadh:20270123T194500
 SUMMARY:آرسنال × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: آرسنال × نيوكاسل يونايتد\
@@ -555,17 +554,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:22
 X-DALEELAK-HOME-TEAM:آرسنال
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r23-223@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
+UID:premier-league-r23-e-9ed388e8a0@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270130T180000
+DTEND;TZID=Asia/Riyadh:20270130T194500
 SUMMARY:نيوكاسل يونايتد × برايتون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × برايتو
@@ -580,17 +579,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:23
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:برايتون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r24-236@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
+UID:premier-league-r24-e-812d736ea8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270206T180000
+DTEND;TZID=Asia/Riyadh:20270206T194500
 SUMMARY:إيفرتون × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: إيفرتون × نيوكاسل يونايت
@@ -605,17 +604,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:24
 X-DALEELAK-HOME-TEAM:إيفرتون
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r25-246@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
+UID:premier-league-r25-e-4cd37507ef@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270210T230000
+DTEND;TZID=Asia/Riyadh:20270211T004500
 SUMMARY:نيوكاسل يونايتد × تشيلسي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × تشيلسي\
@@ -630,17 +629,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:25
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:تشيلسي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r26-251@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
+UID:premier-league-r26-e-452dc13e0b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270220T180000
+DTEND;TZID=Asia/Riyadh:20270220T194500
 SUMMARY:مانشستر سيتي × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × نيوكاسل يو
@@ -655,17 +654,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:26
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r27-269@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
+UID:premier-league-r27-e-d683ecd314@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270227T180000
+DTEND;TZID=Asia/Riyadh:20270227T194500
 SUMMARY:نيوكاسل يونايتد × برينتفورد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × برينتف
@@ -680,17 +679,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:27
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:برينتفورد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r28-271@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
+UID:premier-league-r28-e-075f6280f2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270303T230000
+DTEND;TZID=Asia/Riyadh:20270304T004500
 SUMMARY:نوتنغهام فورست × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نوتنغهام فورست × نيوكاسل 
@@ -705,17 +704,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:28
 X-DALEELAK-HOME-TEAM:نوتنغهام فورست
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r29-286@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
+UID:premier-league-r29-e-5f0c3b609c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270313T180000
+DTEND;TZID=Asia/Riyadh:20270313T194500
 SUMMARY:بورنموث × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: بورنموث × نيوكاسل يونايت
@@ -730,17 +729,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:29
 X-DALEELAK-HOME-TEAM:بورنموث
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r30-300@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
+UID:premier-league-r30-e-829de3bf58@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270320T180000
+DTEND;TZID=Asia/Riyadh:20270320T194500
 SUMMARY:نيوكاسل يونايتد × ليدز يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × ليدز يو
@@ -755,17 +754,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:30
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:ليدز يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r31-305@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+UID:premier-league-r31-e-261b27df02@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270410T170000
+DTEND;TZID=Asia/Riyadh:20270410T184500
 SUMMARY:ليفربول × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: ليفربول × نيوكاسل يونايت
@@ -780,17 +779,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:31
 X-DALEELAK-HOME-TEAM:ليفربول
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r32-319@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
+UID:premier-league-r32-e-44d3b43868@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270417T170000
+DTEND;TZID=Asia/Riyadh:20270417T184500
 SUMMARY:نيوكاسل يونايتد × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × توتنها
@@ -805,17 +804,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:32
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r33-327@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+UID:premier-league-r33-e-74606acfda@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270424T170000
+DTEND;TZID=Asia/Riyadh:20270424T184500
 SUMMARY:نيوكاسل يونايتد × إبسويتش تاون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × إبسويت
@@ -830,17 +829,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:33
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:إبسويتش تاون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r34-331@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
+UID:premier-league-r34-e-8450736ab6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270501T170000
+DTEND;TZID=Asia/Riyadh:20270501T184500
 SUMMARY:سندرلاند × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: سندرلاند × نيوكاسل يوناي
@@ -855,17 +854,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:34
 X-DALEELAK-HOME-TEAM:سندرلاند
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r35-346@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:premier-league-r35-e-715dee0e99@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270508T170000
+DTEND;TZID=Asia/Riyadh:20270508T184500
 SUMMARY:نيوكاسل يونايتد × كوفينتري سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × كوفينت
@@ -880,17 +879,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:35
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:كوفينتري سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r36-354@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
+UID:premier-league-r36-e-2b235da126@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270515T170000
+DTEND;TZID=Asia/Riyadh:20270515T184500
 SUMMARY:أستون فيلا × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: أستون فيلا × نيوكاسل يونا
@@ -905,17 +904,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:36
 X-DALEELAK-HOME-TEAM:أستون فيلا
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r37-362@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
+UID:premier-league-r37-e-20356b85c2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270523T170000
+DTEND;TZID=Asia/Riyadh:20270523T184500
 SUMMARY:نيوكاسل يونايتد × كريستال بالاس
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × كريستا
@@ -930,17 +929,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:37
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:كريستال بالاس
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r38-376@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
+UID:premier-league-r38-e-ff2241c6d3@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270530T180000
+DTEND;TZID=Asia/Riyadh:20270530T194500
 SUMMARY:هال سيتي × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: هال سيتي × نيوكاسل يونايت
@@ -955,10 +954,10 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:38
 X-DALEELAK-HOME-TEAM:هال سيتي
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

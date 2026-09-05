@@ -1,18 +1,18 @@
 {
-  "id": "tottenham-hotspur-premier-league-2026-2027",
-  "title": "توتنهام ",
-  "organization": "توتنهام هوتسبير",
+  "id": "tottenham-hotspur",
+  "title": "توتنهام هوتسبير",
+  "organization": "موقع دليلك",
   "category": "sports",
   "year": "2026/2027",
   "region": "إنجلترا",
   "calendarType": "team",
-  "lastUpdate": "2026-08-20T21:48:09Z",
-  "description": "تقويم مباريات توتنهام هوتسبير في الدوري الإنجليزي الممتاز 2026/2027 بتوقيت المملكة العربية السعودية.",
+  "lastUpdate": "2026-09-05T15:32:00+03:00",
+  "description": "تقويم مباريات توتنهام هوتسبير في الدوري الإنجليزي الممتاز لموسم 2026/2027 بتوقيت المملكة العربية السعودية.",
   "ics": "calendar.ics",
   "events": "events.json",
   "logo": "logo.png",
   "source": "Premier League",
-  "sourceUrl": "https://www.premierleague.com/en/matches/premier-league/2026-27",
+  "sourceUrl": "https://www.premierleague.com/en/news/4675097",
   "publisher": "م. محمد البخيت — موقع دليلك",
   "eventsCount": 38,
   "eventDurationMinutes": 105,
@@ -26,6 +26,6 @@
   "team": "tottenham-hotspur",
   "teamTitle": "توتنهام هوتسبير",
   "order": 1,
-  "confirmedTimesCount": 5,
-  "pendingTimesCount": 33
+  "confirmedTimesCount": 38,
+  "pendingTimesCount": 0
 }

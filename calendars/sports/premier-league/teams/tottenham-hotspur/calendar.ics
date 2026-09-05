@@ -1,19 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daleelak//Team 2026/2027 2026/27//AR
+PRODID:-//Daleelak//توتنهام هوتسبير 2026/2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:توتنهام هوتسبير — البريميرليغ 2026/
- 27
-X-WR-CALDESC:تقويم مباريات الدوري الإنجليزي ال
- ممتاز 2026/2027 بتوقيت المملكة العربية السعو
- دية.
+X-WR-CALNAME:توتنهام هوتسبير
+X-WR-CALDESC:تقويم مباريات توتنهام هوتسبير في 
+ الدوري الإنجليزي الممتاز لموسم 2026/2027 بتو
+ قيت المملكة العربية السعودية.
 X-WR-TIMEZONE:Asia/Riyadh
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r1-6@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r1-e-092824c192@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260822T193000
 DTEND;TZID=Asia/Riyadh:20260822T211500
 SUMMARY:برينتفورد × توتنهام هوتسبير
@@ -31,14 +30,14 @@ X-DALEELAK-ROUND:1
 X-DALEELAK-HOME-TEAM:برينتفورد
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r2-15@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r2-e-335c3d9df9@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260829T193000
 DTEND;TZID=Asia/Riyadh:20260829T211500
 SUMMARY:توتنهام هوتسبير × نيوكاسل يونايتد
@@ -56,14 +55,14 @@ X-DALEELAK-ROUND:2
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r3-23@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r3-e-3d4d311115@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260905T170000
 DTEND;TZID=Asia/Riyadh:20260905T184500
 SUMMARY:نوتنغهام فورست × توتنهام هوتسبير
@@ -81,14 +80,14 @@ X-DALEELAK-ROUND:3
 X-DALEELAK-HOME-TEAM:نوتنغهام فورست
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r4-36@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r4-e-b23103e7d5@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260912T193000
 DTEND;TZID=Asia/Riyadh:20260912T211500
 SUMMARY:توتنهام هوتسبير × إيفرتون
@@ -106,14 +105,14 @@ X-DALEELAK-ROUND:4
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:إيفرتون
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r5-42@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r5-e-65ab0f7b14@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260919T143000
 DTEND;TZID=Asia/Riyadh:20260919T161500
 SUMMARY:توتنهام هوتسبير × أستون فيلا
@@ -131,16 +130,16 @@ X-DALEELAK-ROUND:5
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:أستون فيلا
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r6-59@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+UID:premier-league-r6-e-56340ca807@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261010T193000
+DTEND;TZID=Asia/Riyadh:20261010T211500
 SUMMARY:مانشستر يونايتد × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر يونايتد × توتنها
@@ -155,17 +154,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:6
 X-DALEELAK-HOME-TEAM:مانشستر يونايتد
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r7-65@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+UID:premier-league-r7-e-54d59658bb@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261019T220000
+DTEND;TZID=Asia/Riyadh:20261019T234500
 SUMMARY:توتنهام هوتسبير × كوفينتري سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × كوفينت
@@ -180,17 +179,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:7
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:كوفينتري سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r8-76@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+UID:premier-league-r8-e-ed3972be83@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261024T193000
+DTEND;TZID=Asia/Riyadh:20261024T211500
 SUMMARY:تشيلسي × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: تشيلسي × توتنهام هوتسبير\
@@ -205,17 +204,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:8
 X-DALEELAK-HOME-TEAM:تشيلسي
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r9-86@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+UID:premier-league-r9-e-b43e84873d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261031T203000
+DTEND;TZID=Asia/Riyadh:20261031T221500
 SUMMARY:توتنهام هوتسبير × كريستال بالاس
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × كريستا
@@ -230,17 +229,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:9
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:كريستال بالاس
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r10-93@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+UID:premier-league-r10-e-86743df45c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261107T180000
+DTEND;TZID=Asia/Riyadh:20261107T194500
 SUMMARY:ليدز يونايتد × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: ليدز يونايتد × توتنهام هو
@@ -255,17 +254,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:10
 X-DALEELAK-HOME-TEAM:ليدز يونايتد
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r11-107@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+UID:premier-league-r11-e-9cfaad19cf@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261121T180000
+DTEND;TZID=Asia/Riyadh:20261121T194500
 SUMMARY:توتنهام هوتسبير × إبسويتش تاون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × إبسويت
@@ -280,17 +279,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:11
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:إبسويتش تاون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r12-119@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+UID:premier-league-r12-e-1340a4bdfd@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261128T180000
+DTEND;TZID=Asia/Riyadh:20261128T194500
 SUMMARY:سندرلاند × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: سندرلاند × توتنهام هوتسب
@@ -305,17 +304,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:12
 X-DALEELAK-HOME-TEAM:سندرلاند
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r13-121@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
+UID:premier-league-r13-e-168225c97e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261202T230000
+DTEND;TZID=Asia/Riyadh:20261203T004500
 SUMMARY:توتنهام هوتسبير × فولهام
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × فولهام\
@@ -330,17 +329,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:13
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:فولهام
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r14-131@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+UID:premier-league-r14-e-dcc3984110@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261205T180000
+DTEND;TZID=Asia/Riyadh:20261205T194500
 SUMMARY:توتنهام هوتسبير × آرسنال
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × آرسنال\
@@ -355,17 +354,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:14
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:آرسنال
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r15-143@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+UID:premier-league-r15-e-d935504226@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261212T180000
+DTEND;TZID=Asia/Riyadh:20261212T194500
 SUMMARY:هال سيتي × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: هال سيتي × توتنهام هوتسبي
@@ -380,17 +379,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:15
 X-DALEELAK-HOME-TEAM:هال سيتي
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r16-159@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
+UID:premier-league-r16-e-73ee827579@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261219T180000
+DTEND;TZID=Asia/Riyadh:20261219T194500
 SUMMARY:ليفربول × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: ليفربول × توتنهام هوتسبي
@@ -405,17 +404,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:16
 X-DALEELAK-HOME-TEAM:ليفربول
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r17-168@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
+UID:premier-league-r17-e-73a5252b9b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261226T180000
+DTEND;TZID=Asia/Riyadh:20261226T194500
 SUMMARY:توتنهام هوتسبير × بورنموث
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × بورنمو
@@ -430,17 +429,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:17
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:بورنموث
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r18-178@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
+UID:premier-league-r18-e-6505ea337f@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261230T230000
+DTEND;TZID=Asia/Riyadh:20261231T004500
 SUMMARY:توتنهام هوتسبير × برايتون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × برايتو
@@ -455,17 +454,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:18
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:برايتون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r19-190@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
+UID:premier-league-r19-e-881a28de10@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270102T180000
+DTEND;TZID=Asia/Riyadh:20270102T194500
 SUMMARY:مانشستر سيتي × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × توتنهام هو
@@ -480,17 +479,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:19
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r20-196@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
+UID:premier-league-r20-e-563f436a1c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270106T230000
+DTEND;TZID=Asia/Riyadh:20270107T004500
 SUMMARY:فولهام × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: فولهام × توتنهام هوتسبير\
@@ -505,17 +504,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:20
 X-DALEELAK-HOME-TEAM:فولهام
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r21-206@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
+UID:premier-league-r21-e-a3e86c380e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270116T180000
+DTEND;TZID=Asia/Riyadh:20270116T194500
 SUMMARY:توتنهام هوتسبير × ليدز يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × ليدز يو
@@ -530,17 +529,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:21
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:ليدز يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r22-220@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+UID:premier-league-r22-e-fbff35acf8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270123T180000
+DTEND;TZID=Asia/Riyadh:20270123T194500
 SUMMARY:كريستال بالاس × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: كريستال بالاس × توتنهام ه
@@ -555,17 +554,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:22
 X-DALEELAK-HOME-TEAM:كريستال بالاس
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r23-221@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
+UID:premier-league-r23-e-d2ad095698@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270130T180000
+DTEND;TZID=Asia/Riyadh:20270130T194500
 SUMMARY:توتنهام هوتسبير × سندرلاند
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × سندرلا
@@ -580,17 +579,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:23
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:سندرلاند
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r24-235@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
+UID:premier-league-r24-e-42aed5181d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270206T180000
+DTEND;TZID=Asia/Riyadh:20270206T194500
 SUMMARY:إبسويتش تاون × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: إبسويتش تاون × توتنهام هو
@@ -605,17 +604,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:24
 X-DALEELAK-HOME-TEAM:إبسويتش تاون
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r25-248@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
+UID:premier-league-r25-e-c54beab806@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270210T230000
+DTEND;TZID=Asia/Riyadh:20270211T004500
 SUMMARY:توتنهام هوتسبير × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × مانشست
@@ -630,17 +629,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:25
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r26-258@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
+UID:premier-league-r26-e-e44b7aab0b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270220T180000
+DTEND;TZID=Asia/Riyadh:20270220T194500
 SUMMARY:برايتون × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: برايتون × توتنهام هوتسبي
@@ -655,17 +654,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:26
 X-DALEELAK-HOME-TEAM:برايتون
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r27-268@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
+UID:premier-league-r27-e-c6b8ff6545@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270227T180000
+DTEND;TZID=Asia/Riyadh:20270227T194500
 SUMMARY:توتنهام هوتسبير × ليفربول
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × ليفربو
@@ -680,17 +679,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:27
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:ليفربول
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r28-272@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
+UID:premier-league-r28-e-b7072c38b7@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270303T230000
+DTEND;TZID=Asia/Riyadh:20270304T004500
 SUMMARY:بورنموث × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: بورنموث × توتنهام هوتسبي
@@ -705,17 +704,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:28
 X-DALEELAK-HOME-TEAM:بورنموث
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r29-282@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
+UID:premier-league-r29-e-e1cee3e2d2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270313T180000
+DTEND;TZID=Asia/Riyadh:20270313T194500
 SUMMARY:توتنهام هوتسبير × نوتنغهام فورست
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × نوتنغه
@@ -730,17 +729,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:29
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:نوتنغهام فورست
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r30-299@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
+UID:premier-league-r30-e-ea45f8f89a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270320T180000
+DTEND;TZID=Asia/Riyadh:20270320T194500
 SUMMARY:إيفرتون × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: إيفرتون × توتنهام هوتسبي
@@ -755,17 +754,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:30
 X-DALEELAK-HOME-TEAM:إيفرتون
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r31-309@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+UID:premier-league-r31-e-7f1e455fca@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270410T170000
+DTEND;TZID=Asia/Riyadh:20270410T184500
 SUMMARY:توتنهام هوتسبير × برينتفورد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × برينتف
@@ -780,17 +779,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:31
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:برينتفورد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r32-319@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
+UID:premier-league-r32-e-44d3b43868@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270417T170000
+DTEND;TZID=Asia/Riyadh:20270417T184500
 SUMMARY:نيوكاسل يونايتد × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × توتنها
@@ -805,17 +804,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:32
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r33-323@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+UID:premier-league-r33-e-ed5861bd4f@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270424T170000
+DTEND;TZID=Asia/Riyadh:20270424T184500
 SUMMARY:توتنهام هوتسبير × هال سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × هال سيت
@@ -830,17 +829,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:33
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:هال سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r34-338@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
+UID:premier-league-r34-e-5db8a336ba@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270501T170000
+DTEND;TZID=Asia/Riyadh:20270501T184500
 SUMMARY:آرسنال × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: آرسنال × توتنهام هوتسبير\
@@ -855,17 +854,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:34
 X-DALEELAK-HOME-TEAM:آرسنال
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r35-348@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:premier-league-r35-e-2b960e77ae@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270508T170000
+DTEND;TZID=Asia/Riyadh:20270508T184500
 SUMMARY:توتنهام هوتسبير × تشيلسي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × تشيلسي\
@@ -880,17 +879,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:35
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:تشيلسي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r36-356@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
+UID:premier-league-r36-e-c61d9a205a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270515T170000
+DTEND;TZID=Asia/Riyadh:20270515T184500
 SUMMARY:كوفينتري سيتي × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: كوفينتري سيتي × توتنهام ه
@@ -905,17 +904,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:36
 X-DALEELAK-HOME-TEAM:كوفينتري سيتي
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r37-363@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
+UID:premier-league-r37-e-9a13989bb6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270523T170000
+DTEND;TZID=Asia/Riyadh:20270523T184500
 SUMMARY:توتنهام هوتسبير × مانشستر يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × مانشست
@@ -930,17 +929,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:37
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r38-375@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
+UID:premier-league-r38-e-4add8022df@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270530T180000
+DTEND;TZID=Asia/Riyadh:20270530T194500
 SUMMARY:أستون فيلا × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: أستون فيلا × توتنهام هوتس
@@ -955,10 +954,10 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:38
 X-DALEELAK-HOME-TEAM:أستون فيلا
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

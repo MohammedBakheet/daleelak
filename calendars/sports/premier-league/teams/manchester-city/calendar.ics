@@ -1,18 +1,18 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Daleelak//Team 2026/2027 2026/27//AR
+PRODID:-//Daleelak//مانشستر سيتي 2026/2027//AR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:مانشستر سيتي — البريميرليغ 2026/27
-X-WR-CALDESC:تقويم مباريات الدوري الإنجليزي ال
- ممتاز 2026/2027 بتوقيت المملكة العربية السعو
- دية.
+X-WR-CALNAME:مانشستر سيتي
+X-WR-CALDESC:تقويم مباريات مانشستر سيتي في الد
+ وري الإنجليزي الممتاز لموسم 2026/2027 بتوقيت
+  المملكة العربية السعودية.
 X-WR-TIMEZONE:Asia/Riyadh
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r1-7@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r1-e-4b0e6036ac@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260823T160000
 DTEND;TZID=Asia/Riyadh:20260823T174500
 SUMMARY:مانشستر سيتي × بورنموث
@@ -30,14 +30,14 @@ X-DALEELAK-ROUND:1
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:بورنموث
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r2-11@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r2-e-702d8de522@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260828T220000
 DTEND;TZID=Asia/Riyadh:20260828T234500
 SUMMARY:كريستال بالاس × مانشستر سيتي
@@ -55,14 +55,14 @@ X-DALEELAK-ROUND:2
 X-DALEELAK-HOME-TEAM:كريستال بالاس
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r3-24@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r3-e-044b79e623@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260905T170000
 DTEND;TZID=Asia/Riyadh:20260905T184500
 SUMMARY:مانشستر سيتي × كوفينتري سيتي
@@ -80,14 +80,14 @@ X-DALEELAK-ROUND:3
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:كوفينتري سيتي
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r4-39@daleelak
-DTSTAMP:20260820T214809Z
+UID:premier-league-r4-e-be5311c84c@daleelak
+DTSTAMP:20260905T123200Z
 DTSTART;TZID=Asia/Riyadh:20260913T183000
 DTEND;TZID=Asia/Riyadh:20260913T201500
 SUMMARY:مانشستر يونايتد × مانشستر سيتي
@@ -105,16 +105,16 @@ X-DALEELAK-ROUND:4
 X-DALEELAK-HOME-TEAM:مانشستر يونايتد
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r5-47@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;TZID=Asia/Riyadh:20260919T170000
-DTEND;TZID=Asia/Riyadh:20260919T184500
+UID:premier-league-r5-e-cc5c6fa18f@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260920T160000
+DTEND;TZID=Asia/Riyadh:20260920T174500
 SUMMARY:مانشستر سيتي × سندرلاند
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × سندرلاند\n
@@ -130,16 +130,16 @@ X-DALEELAK-ROUND:5
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:سندرلاند
 STATUS:CONFIRMED
-URL:https://mohammedbakheet.github.io/daleelak/
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r6-57@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
+UID:premier-league-r6-e-9367c9f71b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261011T183000
+DTEND;TZID=Asia/Riyadh:20261011T201500
 SUMMARY:ليفربول × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: ليفربول × مانشستر سيتي\n
@@ -154,17 +154,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:6
 X-DALEELAK-HOME-TEAM:ليفربول
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r7-69@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
+UID:premier-league-r7-e-bca7b8bbc1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261017T170000
+DTEND;TZID=Asia/Riyadh:20261017T184500
 SUMMARY:مانشستر سيتي × إبسويتش تاون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × إبسويتش تا
@@ -179,17 +179,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:7
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:إبسويتش تاون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r8-73@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+UID:premier-league-r8-e-379bc5318e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261024T143000
+DTEND;TZID=Asia/Riyadh:20261024T161500
 SUMMARY:أستون فيلا × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: أستون فيلا × مانشستر سيتي
@@ -204,17 +204,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:8
 X-DALEELAK-HOME-TEAM:أستون فيلا
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r9-82@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+UID:premier-league-r9-e-fb08e2f516@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261031T180000
+DTEND;TZID=Asia/Riyadh:20261031T194500
 SUMMARY:مانشستر سيتي × برايتون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × برايتون\n
@@ -229,17 +229,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:9
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:برايتون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r10-92@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+UID:premier-league-r10-e-9d37f3aca1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261107T180000
+DTEND;TZID=Asia/Riyadh:20261107T194500
 SUMMARY:نوتنغهام فورست × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نوتنغهام فورست × مانشستر 
@@ -254,17 +254,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:10
 X-DALEELAK-HOME-TEAM:نوتنغهام فورست
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r11-102@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+UID:premier-league-r11-e-c1fd0f05aa@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261121T180000
+DTEND;TZID=Asia/Riyadh:20261121T194500
 SUMMARY:مانشستر سيتي × فولهام
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × فولهام\n🗓
@@ -279,17 +279,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:11
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:فولهام
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r12-113@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+UID:premier-league-r12-e-a2b4674763@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261128T180000
+DTEND;TZID=Asia/Riyadh:20261128T194500
 SUMMARY:آرسنال × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: آرسنال × مانشستر سيتي\n🗓
@@ -304,17 +304,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:12
 X-DALEELAK-HOME-TEAM:آرسنال
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r13-128@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
+UID:premier-league-r13-e-cad518feca@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261202T230000
+DTEND;TZID=Asia/Riyadh:20261203T004500
 SUMMARY:مانشستر سيتي × ليدز يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × ليدز يوناي
@@ -329,17 +329,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:13
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:ليدز يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r14-136@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+UID:premier-league-r14-e-6f56e74cca@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261205T180000
+DTEND;TZID=Asia/Riyadh:20261205T194500
 SUMMARY:برينتفورد × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: برينتفورد × مانشستر سيتي\
@@ -354,17 +354,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:14
 X-DALEELAK-HOME-TEAM:برينتفورد
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r15-148@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+UID:premier-league-r15-e-7b99dcf79a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261212T180000
+DTEND;TZID=Asia/Riyadh:20261212T194500
 SUMMARY:مانشستر سيتي × تشيلسي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × تشيلسي\n🗓
@@ -379,17 +379,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:15
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:تشيلسي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r16-155@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
+UID:premier-league-r16-e-573e4c690a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261219T180000
+DTEND;TZID=Asia/Riyadh:20261219T194500
 SUMMARY:مانشستر سيتي × هال سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × هال سيتي\n
@@ -404,17 +404,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:16
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:هال سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r17-166@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
+UID:premier-league-r17-e-7fa6355c56@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261226T180000
+DTEND;TZID=Asia/Riyadh:20261226T194500
 SUMMARY:نيوكاسل يونايتد × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: نيوكاسل يونايتد × مانشست
@@ -429,17 +429,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:17
 X-DALEELAK-HOME-TEAM:نيوكاسل يونايتد
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r18-179@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
+UID:premier-league-r18-e-54487dafb6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261230T230000
+DTEND;TZID=Asia/Riyadh:20261231T004500
 SUMMARY:إيفرتون × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: إيفرتون × مانشستر سيتي\n
@@ -454,17 +454,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:18
 X-DALEELAK-HOME-TEAM:إيفرتون
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r19-190@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
+UID:premier-league-r19-e-881a28de10@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270102T180000
+DTEND;TZID=Asia/Riyadh:20270102T194500
 SUMMARY:مانشستر سيتي × توتنهام هوتسبير
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × توتنهام هو
@@ -479,17 +479,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:19
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:توتنهام هوتسبير
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r20-192@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
+UID:premier-league-r20-e-0772e73315@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270106T230000
+DTEND;TZID=Asia/Riyadh:20270107T004500
 SUMMARY:ليدز يونايتد × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: ليدز يونايتد × مانشستر سي
@@ -504,17 +504,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:20
 X-DALEELAK-HOME-TEAM:ليدز يونايتد
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r21-202@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
+UID:premier-league-r21-e-1ad8aecfa1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270116T180000
+DTEND;TZID=Asia/Riyadh:20270116T194500
 SUMMARY:مانشستر سيتي × نوتنغهام فورست
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × نوتنغهام ف
@@ -529,17 +529,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:21
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:نوتنغهام فورست
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r22-219@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+UID:premier-league-r22-e-90539c07e1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270123T180000
+DTEND;TZID=Asia/Riyadh:20270123T194500
 SUMMARY:برايتون × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: برايتون × مانشستر سيتي\n
@@ -554,17 +554,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:22
 X-DALEELAK-HOME-TEAM:برايتون
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r23-229@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
+UID:premier-league-r23-e-13ebfd94f2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270130T180000
+DTEND;TZID=Asia/Riyadh:20270130T194500
 SUMMARY:مانشستر سيتي × آرسنال
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × آرسنال\n🗓
@@ -579,17 +579,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:23
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:آرسنال
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r24-237@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
+UID:premier-league-r24-e-e1d1263429@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270206T180000
+DTEND;TZID=Asia/Riyadh:20270206T194500
 SUMMARY:فولهام × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: فولهام × مانشستر سيتي\n🗓
@@ -604,17 +604,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:24
 X-DALEELAK-HOME-TEAM:فولهام
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r25-248@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
+UID:premier-league-r25-e-c54beab806@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270210T230000
+DTEND;TZID=Asia/Riyadh:20270211T004500
 SUMMARY:توتنهام هوتسبير × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: توتنهام هوتسبير × مانشست
@@ -629,17 +629,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:25
 X-DALEELAK-HOME-TEAM:توتنهام هوتسبير
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r26-251@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
+UID:premier-league-r26-e-452dc13e0b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270220T180000
+DTEND;TZID=Asia/Riyadh:20270220T194500
 SUMMARY:مانشستر سيتي × نيوكاسل يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × نيوكاسل يو
@@ -654,17 +654,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:26
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:نيوكاسل يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r27-270@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
+UID:premier-league-r27-e-7fa6ecbf47@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270227T180000
+DTEND;TZID=Asia/Riyadh:20270227T194500
 SUMMARY:هال سيتي × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: هال سيتي × مانشستر سيتي\n
@@ -679,17 +679,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:27
 X-DALEELAK-HOME-TEAM:هال سيتي
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r28-273@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
+UID:premier-league-r28-e-1ce4ba9b31@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270303T230000
+DTEND;TZID=Asia/Riyadh:20270304T004500
 SUMMARY:مانشستر سيتي × إيفرتون
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × إيفرتون\n
@@ -704,17 +704,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:28
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:إيفرتون
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r29-285@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
+UID:premier-league-r29-e-e745f44068@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270313T180000
+DTEND;TZID=Asia/Riyadh:20270313T194500
 SUMMARY:كوفينتري سيتي × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: كوفينتري سيتي × مانشستر س
@@ -729,17 +729,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:29
 X-DALEELAK-HOME-TEAM:كوفينتري سيتي
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r30-293@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
+UID:premier-league-r30-e-5f2a3c530e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270320T180000
+DTEND;TZID=Asia/Riyadh:20270320T194500
 SUMMARY:مانشستر سيتي × مانشستر يونايتد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × مانشستر يو
@@ -754,17 +754,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:30
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r31-307@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+UID:premier-league-r31-e-d95af7b2e5@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270410T170000
+DTEND;TZID=Asia/Riyadh:20270410T184500
 SUMMARY:بورنموث × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: بورنموث × مانشستر سيتي\n
@@ -779,17 +779,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:31
 X-DALEELAK-HOME-TEAM:بورنموث
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r32-318@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
+UID:premier-league-r32-e-c223962cf3@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270417T170000
+DTEND;TZID=Asia/Riyadh:20270417T184500
 SUMMARY:مانشستر سيتي × كريستال بالاس
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × كريستال با
@@ -804,17 +804,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:32
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:كريستال بالاس
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r33-321@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270424
-DTEND;VALUE=DATE:20270425
+UID:premier-league-r33-e-e18eb439e9@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270424T170000
+DTEND;TZID=Asia/Riyadh:20270424T184500
 SUMMARY:تشيلسي × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: تشيلسي × مانشستر سيتي\n🗓
@@ -829,17 +829,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:33
 X-DALEELAK-HOME-TEAM:تشيلسي
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r34-335@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270501
-DTEND;VALUE=DATE:20270502
+UID:premier-league-r34-e-b876adb94a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270501T170000
+DTEND;TZID=Asia/Riyadh:20270501T184500
 SUMMARY:مانشستر سيتي × برينتفورد
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × برينتفورد\
@@ -854,17 +854,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:34
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:برينتفورد
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r35-341@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270509
+UID:premier-league-r35-e-08ffc72272@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270508T170000
+DTEND;TZID=Asia/Riyadh:20270508T184500
 SUMMARY:مانشستر سيتي × ليفربول
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × ليفربول\n
@@ -879,17 +879,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:35
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:ليفربول
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r36-359@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270515
-DTEND;VALUE=DATE:20270516
+UID:premier-league-r36-e-987d59d36e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270515T170000
+DTEND;TZID=Asia/Riyadh:20270515T184500
 SUMMARY:إبسويتش تاون × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: إبسويتش تاون × مانشستر سي
@@ -904,17 +904,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:36
 X-DALEELAK-HOME-TEAM:إبسويتش تاون
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r37-370@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270523
-DTEND;VALUE=DATE:20270524
+UID:premier-league-r37-e-43e03f90b2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270523T170000
+DTEND;TZID=Asia/Riyadh:20270523T184500
 SUMMARY:مانشستر سيتي × أستون فيلا
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: مانشستر سيتي × أستون فيلا
@@ -929,17 +929,17 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:37
 X-DALEELAK-HOME-TEAM:مانشستر سيتي
 X-DALEELAK-AWAY-TEAM:أستون فيلا
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 BEGIN:VEVENT
-UID:premier-league-2026-2027-r38-378@daleelak
-DTSTAMP:20260820T214809Z
-DTSTART;VALUE=DATE:20270530
-DTEND;VALUE=DATE:20270531
+UID:premier-league-r38-e-69a0d2b276@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270530T180000
+DTEND;TZID=Asia/Riyadh:20270530T194500
 SUMMARY:سندرلاند × مانشستر سيتي
 DESCRIPTION:🏆 البطولة: الدوري الإنجليزي الممت
  از\n⚽ الفريقان: سندرلاند × مانشستر سيتي\n
@@ -954,10 +954,10 @@ CATEGORIES:رياضة\,كرة القدم\,الدوري الإنجليزي
 X-DALEELAK-ROUND:38
 X-DALEELAK-HOME-TEAM:سندرلاند
 X-DALEELAK-AWAY-TEAM:مانشستر سيتي
-STATUS:TENTATIVE
-URL:https://mohammedbakheet.github.io/daleelak/
+STATUS:CONFIRMED
+URL:https://daleelak.com/
 TRANSP:OPAQUE
-LAST-MODIFIED:20260820T214809Z
+LAST-MODIFIED:20260905T123200Z
 SEQUENCE:0
 END:VEVENT
 END:VCALENDAR

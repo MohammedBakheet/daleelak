@@ -1,0 +1,3347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Daleelak//دوري أبطال أوروبا 2026/2027//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:دوري أبطال أوروبا
+X-WR-CALDESC:تقويم دوري أبطال أوروبا 2026/2027 — جم
+ يع المواعيد بتوقيت المملكة العربية السع
+ ودية.
+X-WR-TIMEZONE:Asia/Riyadh
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:champions-league-r1-e-49784b4cba@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260908T194500
+DTEND;TZID=Asia/Riyadh:20260908T213000
+SUMMARY:آيك أثينا × لاسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيك أثينا × لاسك\n🗓️ الجولة: 1\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:آيك أثينا
+X-DALEELAK-AWAY-TEAM:لاسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-7f4bb19631@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260908T194500
+DTEND;TZID=Asia/Riyadh:20260908T213000
+SUMMARY:كلوب بروج × أستون فيلا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كلوب بروج × أستون فيلا\n🗓️ الجول
+ ة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:كلوب بروج
+X-DALEELAK-AWAY-TEAM:أستون فيلا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-9b0519a720@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260908T220000
+DTEND;TZID=Asia/Riyadh:20260908T234500
+SUMMARY:بورتو × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بورتو × مانشستر سيتي\n🗓️ الجولة:
+  1\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:بورتو
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-d7caa874c3@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260908T220000
+DTEND;TZID=Asia/Riyadh:20260908T234500
+SUMMARY:بوروسيا دورتموند × فياريال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بوروسيا دورتموند × فياريال\n🗓️ 
+ الجولة: 1\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:بوروسيا دورتموند
+X-DALEELAK-AWAY-TEAM:فياريال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-88f4a446a7@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260908T220000
+DTEND;TZID=Asia/Riyadh:20260908T234500
+SUMMARY:ريال مدريد × إنتر ميلان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال مدريد × إنتر ميلان\n🗓️ الجو
+ لة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:ريال مدريد
+X-DALEELAK-AWAY-TEAM:إنتر ميلان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-743dfd47b1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260908T220000
+DTEND;TZID=Asia/Riyadh:20260908T234500
+SUMMARY:ليل × ريال بيتيس
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليل × ريال بيتيس\n🗓️ الجولة: 1\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:ليل
+X-DALEELAK-AWAY-TEAM:ريال بيتيس
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-2d026d15c4@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260909T194500
+DTEND;TZID=Asia/Riyadh:20260909T213000
+SUMMARY:برشلونة × فينورد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: برشلونة × فينورد\n🗓️ الجولة: 1\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:برشلونة
+X-DALEELAK-AWAY-TEAM:فينورد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-d1998c5192@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260909T194500
+DTEND;TZID=Asia/Riyadh:20260909T213000
+SUMMARY:شتوتغارت × فيكينغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شتوتغارت × فيكينغ\n🗓️ الجولة: 1\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:شتوتغارت
+X-DALEELAK-AWAY-TEAM:فيكينغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-d556e6c619@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260909T220000
+DTEND;TZID=Asia/Riyadh:20260909T234500
+SUMMARY:باريس سان جيرمان × سلوفان براتيسلافا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: باريس سان جيرمان × سلوفان براتيس
+ لافا\n🗓️ الجولة: 1\n🇸🇦 جميع المواعيد مع
+ روضة حسب توقيت المملكة العربية السعودية 
+ (UTC+3).\n✨ تقويم موقع دليلك — مجاني، بدون ت
+ سجيل، مع تحديثات تلقائية.\n© 2026 م. محمد ال
+ بخيت — موقع دليلك. حقوق إعداد ونشر التقو
+ يم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:سلوفان براتيسلافا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-a4e839b812@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260909T220000
+DTEND;TZID=Asia/Riyadh:20260909T234500
+SUMMARY:سبورتينغ لشبونة × غلطة سراي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سبورتينغ لشبونة × غلطة سراي\n🗓️ 
+ الجولة: 1\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:سبورتينغ لشبونة
+X-DALEELAK-AWAY-TEAM:غلطة سراي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-53a5668bb6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260909T220000
+DTEND;TZID=Asia/Riyadh:20260909T234500
+SUMMARY:ليفربول × أتلتيكو مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليفربول × أتلتيكو مدريد\n🗓️ الج
+ ولة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:ليفربول
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-e09dd05cd3@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260909T220000
+DTEND;TZID=Asia/Riyadh:20260909T234500
+SUMMARY:نابولي × آرسنال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: نابولي × آرسنال\n🗓️ الجولة: 1\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:نابولي
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-d3a6f78a0e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260910T194500
+DTEND;TZID=Asia/Riyadh:20260910T213000
+SUMMARY:آيندهوفن × شاختار دونيتسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيندهوفن × شاختار دونيتسك\n🗓️ ا
+ لجولة: 1\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:آيندهوفن
+X-DALEELAK-AWAY-TEAM:شاختار دونيتسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-946019e612@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260910T194500
+DTEND;TZID=Asia/Riyadh:20260910T213000
+SUMMARY:فنربخشة × روما
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فنربخشة × روما\n🗓️ الجولة: 1\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:فنربخشة
+X-DALEELAK-AWAY-TEAM:روما
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-2222f85e07@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260910T220000
+DTEND;TZID=Asia/Riyadh:20260910T234500
+SUMMARY:بايرن ميونخ × بودو غليمت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بايرن ميونخ × بودو غليمت\n🗓️ الج
+ ولة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:بايرن ميونخ
+X-DALEELAK-AWAY-TEAM:بودو غليمت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-26cec2153a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260910T220000
+DTEND;TZID=Asia/Riyadh:20260910T234500
+SUMMARY:سلافيا براغ × راسينج سانتاندير
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلافيا براغ × راسينج سانتاندير\n
+ 🗓️ الجولة: 1\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:سلافيا براغ
+X-DALEELAK-AWAY-TEAM:راسينج سانتاندير
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-787d3b9d42@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260910T220000
+DTEND;TZID=Asia/Riyadh:20260910T234500
+SUMMARY:كومو × لايبزيغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كومو × لايبزيغ\n🗓️ الجولة: 1\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:كومو
+X-DALEELAK-AWAY-TEAM:لايبزيغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r1-e-3eab31fde6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20260910T220000
+DTEND;TZID=Asia/Riyadh:20260910T234500
+SUMMARY:مانشستر يونايتد × ساباه
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر يونايتد × ساباه\n🗓️ الج
+ ولة: 1\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:1
+X-DALEELAK-HOME-TEAM:مانشستر يونايتد
+X-DALEELAK-AWAY-TEAM:ساباه
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-4429a67c08@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T194500
+DTEND;TZID=Asia/Riyadh:20261013T213000
+SUMMARY:راسينج سانتاندير × سبورتينغ لشبونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: راسينج سانتاندير × سبورتينغ لشبو
+ نة\n🗓️ الجولة: 2\n🇸🇦 جميع المواعيد معرو
+ ضة حسب توقيت المملكة العربية السعودية (UTC
+ +3).\n✨ تقويم موقع دليلك — مجاني، بدون تسج
+ يل، مع تحديثات تلقائية.\n© 2026 م. محمد البخ
+ يت — موقع دليلك. حقوق إعداد ونشر التقويم 
+ محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:راسينج سانتاندير
+X-DALEELAK-AWAY-TEAM:سبورتينغ لشبونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-9145bd28f4@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T194500
+DTEND;TZID=Asia/Riyadh:20261013T213000
+SUMMARY:ساباه × سلافيا براغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ساباه × سلافيا براغ\n🗓️ الجولة: 2
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:ساباه
+X-DALEELAK-AWAY-TEAM:سلافيا براغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-41435ef8eb@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:آرسنال × ليل
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آرسنال × ليل\n🗓️ الجولة: 2\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:ليل
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-74a5fdaaf2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:أتلتيكو مدريد × مانشستر يونايتد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أتلتيكو مدريد × مانشستر يونايتد\n
+ 🗓️ الجولة: 2\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-6fb9661603@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:إنتر ميلان × كلوب بروج
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: إنتر ميلان × كلوب بروج\n🗓️ الجول
+ ة: 2\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:إنتر ميلان
+X-DALEELAK-AWAY-TEAM:كلوب بروج
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-f488ab24de@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:غلطة سراي × برشلونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: غلطة سراي × برشلونة\n🗓️ الجولة: 2
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:غلطة سراي
+X-DALEELAK-AWAY-TEAM:برشلونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-bef15c5965@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:فياريال × نابولي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فياريال × نابولي\n🗓️ الجولة: 2\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:فياريال
+X-DALEELAK-AWAY-TEAM:نابولي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-b90841f662@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:فيكينغ × بايرن ميونخ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فيكينغ × بايرن ميونخ\n🗓️ الجولة:
+  2\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:فيكينغ
+X-DALEELAK-AWAY-TEAM:بايرن ميونخ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-d52649effa@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261013T220000
+DTEND;TZID=Asia/Riyadh:20261013T234500
+SUMMARY:لايبزيغ × آيندهوفن
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لايبزيغ × آيندهوفن\n🗓️ الجولة: 2\
+ n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:لايبزيغ
+X-DALEELAK-AWAY-TEAM:آيندهوفن
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-c1bacbcc56@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T194500
+DTEND;TZID=Asia/Riyadh:20261014T213000
+SUMMARY:فينورد × كومو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فينورد × كومو\n🗓️ الجولة: 2\n🇸🇦 
+ جميع المواعيد معروضة حسب توقيت المملكة ا
+ لعربية السعودية (UTC+3).\n✨ تقويم موقع دليلك
+  — مجاني، بدون تسجيل، مع تحديثات تلقائية
+ .\n© 2026 م. محمد البخيت — موقع دليلك. حقوق إ
+ عداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:فينورد
+X-DALEELAK-AWAY-TEAM:كومو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-ceab5b4d42@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T194500
+DTEND;TZID=Asia/Riyadh:20261014T213000
+SUMMARY:لاسك × ليفربول
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لاسك × ليفربول\n🗓️ الجولة: 2\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:لاسك
+X-DALEELAK-AWAY-TEAM:ليفربول
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-5be86ddbcf@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:أستون فيلا × فنربخشة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أستون فيلا × فنربخشة\n🗓️ الجولة:
+  2\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:أستون فيلا
+X-DALEELAK-AWAY-TEAM:فنربخشة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-39f8cc704e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:بودو غليمت × بوروسيا دورتموند
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بودو غليمت × بوروسيا دورتموند\n🗓
+ ️ الجولة: 2\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:بودو غليمت
+X-DALEELAK-AWAY-TEAM:بوروسيا دورتموند
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-232fb35d4a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:روما × ريال مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: روما × ريال مدريد\n🗓️ الجولة: 2\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:روما
+X-DALEELAK-AWAY-TEAM:ريال مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-12a708f3f6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:ريال بيتيس × بورتو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال بيتيس × بورتو\n🗓️ الجولة: 2\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:ريال بيتيس
+X-DALEELAK-AWAY-TEAM:بورتو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-bf7ea07546@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:سلوفان براتيسلافا × شتوتغارت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلوفان براتيسلافا × شتوتغارت\n🗓
+ ️ الجولة: 2\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:سلوفان براتيسلافا
+X-DALEELAK-AWAY-TEAM:شتوتغارت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-3f16578837@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:شاختار دونيتسك × آيك أثينا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شاختار دونيتسك × آيك أثينا\n🗓️ ا
+ لجولة: 2\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:شاختار دونيتسك
+X-DALEELAK-AWAY-TEAM:آيك أثينا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r2-e-b7937a439a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261014T220000
+DTEND;TZID=Asia/Riyadh:20261014T234500
+SUMMARY:مانشستر سيتي × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر سيتي × باريس سان جيرمان\n
+ 🗓️ الجولة: 2\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:2
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-f6f2af3863@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T194500
+DTEND;TZID=Asia/Riyadh:20261020T213000
+SUMMARY:ساباه × بوروسيا دورتموند
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ساباه × بوروسيا دورتموند\n🗓️ ال
+ جولة: 3\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:ساباه
+X-DALEELAK-AWAY-TEAM:بوروسيا دورتموند
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-fd60ad73a5@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T194500
+DTEND;TZID=Asia/Riyadh:20261020T213000
+SUMMARY:فنربخشة × سلافيا براغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فنربخشة × سلافيا براغ\n🗓️ الجول
+ ة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:فنربخشة
+X-DALEELAK-AWAY-TEAM:سلافيا براغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-21ad95df21@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:باريس سان جيرمان × برشلونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: باريس سان جيرمان × برشلونة\n🗓️ ا
+ لجولة: 3\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:برشلونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-d56c778805@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:بورتو × آيندهوفن
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بورتو × آيندهوفن\n🗓️ الجولة: 3\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:بورتو
+X-DALEELAK-AWAY-TEAM:آيندهوفن
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-0f97ebafd9@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:روما × سلوفان براتيسلافا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: روما × سلوفان براتيسلافا\n🗓️ ال
+ جولة: 3\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:روما
+X-DALEELAK-AWAY-TEAM:سلوفان براتيسلافا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-a8b9f74aae@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:شتوتغارت × أتلتيكو مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شتوتغارت × أتلتيكو مدريد\n🗓️ ال
+ جولة: 3\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:شتوتغارت
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-623763f7b0@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:ليفربول × فياريال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليفربول × فياريال\n🗓️ الجولة: 3\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:ليفربول
+X-DALEELAK-AWAY-TEAM:فياريال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-6f13b8ba1a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:مانشستر سيتي × آيك أثينا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر سيتي × آيك أثينا\n🗓️ الج
+ ولة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:آيك أثينا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-87257f540a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261020T220000
+DTEND;TZID=Asia/Riyadh:20261020T234500
+SUMMARY:نابولي × بودو غليمت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: نابولي × بودو غليمت\n🗓️ الجولة: 3
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:نابولي
+X-DALEELAK-AWAY-TEAM:بودو غليمت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-77838abfe4@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T194500
+DTEND;TZID=Asia/Riyadh:20261021T213000
+SUMMARY:كومو × مانشستر يونايتد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كومو × مانشستر يونايتد\n🗓️ الجو
+ لة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:كومو
+X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-977a1d1204@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T194500
+DTEND;TZID=Asia/Riyadh:20261021T213000
+SUMMARY:ليل × غلطة سراي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليل × غلطة سراي\n🗓️ الجولة: 3\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:ليل
+X-DALEELAK-AWAY-TEAM:غلطة سراي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-c05477b213@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:أستون فيلا × فيكينغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أستون فيلا × فيكينغ\n🗓️ الجولة: 3
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:أستون فيلا
+X-DALEELAK-AWAY-TEAM:فيكينغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-fe786bb0f3@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:إنتر ميلان × شاختار دونيتسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: إنتر ميلان × شاختار دونيتسك\n🗓️ 
+ الجولة: 3\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:إنتر ميلان
+X-DALEELAK-AWAY-TEAM:شاختار دونيتسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-4b8aec4f3b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:بايرن ميونخ × آرسنال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بايرن ميونخ × آرسنال\n🗓️ الجولة:
+  3\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:بايرن ميونخ
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-49b6754ebb@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:ريال بيتيس × فينورد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال بيتيس × فينورد\n🗓️ الجولة: 3
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:ريال بيتيس
+X-DALEELAK-AWAY-TEAM:فينورد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-a52ac9ba77@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:ريال مدريد × لايبزيغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال مدريد × لايبزيغ\n🗓️ الجولة:
+  3\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:ريال مدريد
+X-DALEELAK-AWAY-TEAM:لايبزيغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-2008334cea@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:سبورتينغ لشبونة × لاسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سبورتينغ لشبونة × لاسك\n🗓️ الجو
+ لة: 3\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:سبورتينغ لشبونة
+X-DALEELAK-AWAY-TEAM:لاسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r3-e-2c2352f1ac@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261021T220000
+DTEND;TZID=Asia/Riyadh:20261021T234500
+SUMMARY:كلوب بروج × راسينج سانتاندير
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كلوب بروج × راسينج سانتاندير\n🗓
+ ️ الجولة: 3\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:3
+X-DALEELAK-HOME-TEAM:كلوب بروج
+X-DALEELAK-AWAY-TEAM:راسينج سانتاندير
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-e32a6269a1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T204500
+DTEND;TZID=Asia/Riyadh:20261103T223000
+SUMMARY:شاختار دونيتسك × سبورتينغ لشبونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شاختار دونيتسك × سبورتينغ لشبونة
+ \n🗓️ الجولة: 4\n🇸🇦 جميع المواعيد معروضة
+  حسب توقيت المملكة العربية السعودية (UTC+3).
+ \n✨ تقويم موقع دليلك — مجاني، بدون تسجيل
+ ، مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:شاختار دونيتسك
+X-DALEELAK-AWAY-TEAM:سبورتينغ لشبونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-2b81a947ac@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T204500
+DTEND;TZID=Asia/Riyadh:20261103T223000
+SUMMARY:غلطة سراي × شتوتغارت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: غلطة سراي × شتوتغارت\n🗓️ الجولة:
+  4\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:غلطة سراي
+X-DALEELAK-AWAY-TEAM:شتوتغارت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-b65623e5ab@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:أتلتيكو مدريد × بايرن ميونخ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أتلتيكو مدريد × بايرن ميونخ\n🗓️ 
+ الجولة: 4\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:بايرن ميونخ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-df576c832a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:برشلونة × أستون فيلا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: برشلونة × أستون فيلا\n🗓️ الجولة:
+  4\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:برشلونة
+X-DALEELAK-AWAY-TEAM:أستون فيلا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-feb619249f@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:بودو غليمت × ليل
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بودو غليمت × ليل\n🗓️ الجولة: 4\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:بودو غليمت
+X-DALEELAK-AWAY-TEAM:ليل
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-f75a754c5c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:فياريال × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فياريال × باريس سان جيرمان\n🗓️ ا
+ لجولة: 4\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:فياريال
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-abf57e361c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:فينورد × إنتر ميلان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فينورد × إنتر ميلان\n🗓️ الجولة: 4
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:فينورد
+X-DALEELAK-AWAY-TEAM:إنتر ميلان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-ffb5fcd2b1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:لاسك × سلوفان براتيسلافا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لاسك × سلوفان براتيسلافا\n🗓️ ال
+ جولة: 4\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:لاسك
+X-DALEELAK-AWAY-TEAM:سلوفان براتيسلافا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-31a8f77be8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261103T230000
+DTEND;TZID=Asia/Riyadh:20261104T004500
+SUMMARY:مانشستر يونايتد × روما
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر يونايتد × روما\n🗓️ الجو
+ لة: 4\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:مانشستر يونايتد
+X-DALEELAK-AWAY-TEAM:روما
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-99ad9f8b4e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T204500
+DTEND;TZID=Asia/Riyadh:20261104T223000
+SUMMARY:آيك أثينا × ريال مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيك أثينا × ريال مدريد\n🗓️ الجول
+ ة: 4\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:آيك أثينا
+X-DALEELAK-AWAY-TEAM:ريال مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-08abe00bd4@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T204500
+DTEND;TZID=Asia/Riyadh:20261104T223000
+SUMMARY:فنربخشة × ليفربول
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فنربخشة × ليفربول\n🗓️ الجولة: 4\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:فنربخشة
+X-DALEELAK-AWAY-TEAM:ليفربول
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-1dbfc8afa5@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:آيندهوفن × كلوب بروج
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيندهوفن × كلوب بروج\n🗓️ الجولة:
+  4\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:آيندهوفن
+X-DALEELAK-AWAY-TEAM:كلوب بروج
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-41d621d9d8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:بورتو × نابولي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بورتو × نابولي\n🗓️ الجولة: 4\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:بورتو
+X-DALEELAK-AWAY-TEAM:نابولي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-59ef9eeb44@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:بوروسيا دورتموند × ريال بيتيس
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بوروسيا دورتموند × ريال بيتيس\n🗓
+ ️ الجولة: 4\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:بوروسيا دورتموند
+X-DALEELAK-AWAY-TEAM:ريال بيتيس
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-038c059e7b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:راسينج سانتاندير × كومو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: راسينج سانتاندير × كومو\n🗓️ الج
+ ولة: 4\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:راسينج سانتاندير
+X-DALEELAK-AWAY-TEAM:كومو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-aaef801350@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:سلافيا براغ × آرسنال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلافيا براغ × آرسنال\n🗓️ الجولة:
+  4\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:سلافيا براغ
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-a243e44f3e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:فيكينغ × ساباه
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فيكينغ × ساباه\n🗓️ الجولة: 4\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:فيكينغ
+X-DALEELAK-AWAY-TEAM:ساباه
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r4-e-271e04cb77@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261104T230000
+DTEND;TZID=Asia/Riyadh:20261105T004500
+SUMMARY:لايبزيغ × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لايبزيغ × مانشستر سيتي\n🗓️ الجو
+ لة: 4\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:4
+X-DALEELAK-HOME-TEAM:لايبزيغ
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-e98a6ee9de@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T204500
+DTEND;TZID=Asia/Riyadh:20261124T223000
+SUMMARY:بودو غليمت × لاسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بودو غليمت × لاسك\n🗓️ الجولة: 5\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:بودو غليمت
+X-DALEELAK-AWAY-TEAM:لاسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-ddec7c79a4@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T204500
+DTEND;TZID=Asia/Riyadh:20261124T223000
+SUMMARY:غلطة سراي × أستون فيلا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: غلطة سراي × أستون فيلا\n🗓️ الجول
+ ة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:غلطة سراي
+X-DALEELAK-AWAY-TEAM:أستون فيلا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-a42aced4f9@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:آرسنال × بوروسيا دورتموند
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آرسنال × بوروسيا دورتموند\n🗓️ ا
+ لجولة: 5\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:بوروسيا دورتموند
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-549a11a04c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:ريال مدريد × آيندهوفن
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال مدريد × آيندهوفن\n🗓️ الجول
+ ة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:ريال مدريد
+X-DALEELAK-AWAY-TEAM:آيندهوفن
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-ea8b3ccb60@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:سلوفان براتيسلافا × ريال بيتيس
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلوفان براتيسلافا × ريال بيتيس\n
+ 🗓️ الجولة: 5\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:سلوفان براتيسلافا
+X-DALEELAK-AWAY-TEAM:ريال بيتيس
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-effbb6eeea@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:فينورد × بورتو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فينورد × بورتو\n🗓️ الجولة: 5\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:فينورد
+X-DALEELAK-AWAY-TEAM:بورتو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-e5cda4b278@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:كومو × آيك أثينا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كومو × آيك أثينا\n🗓️ الجولة: 5\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:كومو
+X-DALEELAK-AWAY-TEAM:آيك أثينا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-d2f260c4b4@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:لايبزيغ × راسينج سانتاندير
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لايبزيغ × راسينج سانتاندير\n🗓️ 
+ الجولة: 5\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:لايبزيغ
+X-DALEELAK-AWAY-TEAM:راسينج سانتاندير
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-21bba60fbe@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261124T230000
+DTEND;TZID=Asia/Riyadh:20261125T004500
+SUMMARY:مانشستر سيتي × نابولي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر سيتي × نابولي\n🗓️ الجول
+ ة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:نابولي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-fd842a2d7d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T204500
+DTEND;TZID=Asia/Riyadh:20261125T223000
+SUMMARY:ساباه × برشلونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ساباه × برشلونة\n🗓️ الجولة: 5\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:ساباه
+X-DALEELAK-AWAY-TEAM:برشلونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-954d4387dc@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T204500
+DTEND;TZID=Asia/Riyadh:20261125T223000
+SUMMARY:سلافيا براغ × فياريال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلافيا براغ × فياريال\n🗓️ الجول
+ ة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:سلافيا براغ
+X-DALEELAK-AWAY-TEAM:فياريال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-548be0e87a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:أتلتيكو مدريد × فيكينغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أتلتيكو مدريد × فيكينغ\n🗓️ الجو
+ لة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:فيكينغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-2911214c59@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:إنتر ميلان × شتوتغارت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: إنتر ميلان × شتوتغارت\n🗓️ الجول
+ ة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:إنتر ميلان
+X-DALEELAK-AWAY-TEAM:شتوتغارت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-af79b6ceac@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:باريس سان جيرمان × روما
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: باريس سان جيرمان × روما\n🗓️ الجو
+ لة: 5\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:روما
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-7365c47463@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:سبورتينغ لشبونة × مانشستر يونايتد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سبورتينغ لشبونة × مانشستر يونايت
+ د\n🗓️ الجولة: 5\n🇸🇦 جميع المواعيد معروض
+ ة حسب توقيت المملكة العربية السعودية (UTC+3
+ ).\n✨ تقويم موقع دليلك — مجاني، بدون تسجي
+ ل، مع تحديثات تلقائية.\n© 2026 م. محمد البخي
+ ت — موقع دليلك. حقوق إعداد ونشر التقويم م
+ حفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:سبورتينغ لشبونة
+X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-bfa9be90f3@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:شاختار دونيتسك × فنربخشة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شاختار دونيتسك × فنربخشة\n🗓️ ال
+ جولة: 5\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:شاختار دونيتسك
+X-DALEELAK-AWAY-TEAM:فنربخشة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-2acc088030@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:كلوب بروج × ليفربول
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كلوب بروج × ليفربول\n🗓️ الجولة: 5
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:كلوب بروج
+X-DALEELAK-AWAY-TEAM:ليفربول
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r5-e-de25dabedc@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261125T230000
+DTEND;TZID=Asia/Riyadh:20261126T004500
+SUMMARY:ليل × بايرن ميونخ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليل × بايرن ميونخ\n🗓️ الجولة: 5\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:5
+X-DALEELAK-HOME-TEAM:ليل
+X-DALEELAK-AWAY-TEAM:بايرن ميونخ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-1ffc10c17a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T204500
+DTEND;TZID=Asia/Riyadh:20261208T223000
+SUMMARY:فياريال × ساباه
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فياريال × ساباه\n🗓️ الجولة: 6\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:فياريال
+X-DALEELAK-AWAY-TEAM:ساباه
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-8de98275cc@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T204500
+DTEND;TZID=Asia/Riyadh:20261208T223000
+SUMMARY:فيكينغ × فينورد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فيكينغ × فينورد\n🗓️ الجولة: 6\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:فيكينغ
+X-DALEELAK-AWAY-TEAM:فينورد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-0a29e09667@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:آيك أثينا × غلطة سراي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيك أثينا × غلطة سراي\n🗓️ الجولة
+ : 6\n🇸🇦 جميع المواعيد معروضة حسب توقيت ا
+ لمملكة العربية السعودية (UTC+3).\n✨ تقويم مو
+ قع دليلك — مجاني، بدون تسجيل، مع تحديثات
+  تلقائية.\n© 2026 م. محمد البخيت — موقع دليل
+ ك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:آيك أثينا
+X-DALEELAK-AWAY-TEAM:غلطة سراي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-4ef45713d5@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:أستون فيلا × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أستون فيلا × باريس سان جيرمان\n🗓
+ ️ الجولة: 6\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:أستون فيلا
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-e8e1541043@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:بايرن ميونخ × سلافيا براغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بايرن ميونخ × سلافيا براغ\n🗓️ ال
+ جولة: 6\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:بايرن ميونخ
+X-DALEELAK-AWAY-TEAM:سلافيا براغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-3d8abcf672@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:برشلونة × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: برشلونة × مانشستر سيتي\n🗓️ الجو
+ لة: 6\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:برشلونة
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-b97ff74bd1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:روما × سبورتينغ لشبونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: روما × سبورتينغ لشبونة\n🗓️ الجو
+ لة: 6\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:روما
+X-DALEELAK-AWAY-TEAM:سبورتينغ لشبونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-c42bf92a10@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:مانشستر يونايتد × لايبزيغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر يونايتد × لايبزيغ\n🗓️ ا
+ لجولة: 6\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:مانشستر يونايتد
+X-DALEELAK-AWAY-TEAM:لايبزيغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-41e0b2da66@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261208T230000
+DTEND;TZID=Asia/Riyadh:20261209T004500
+SUMMARY:نابولي × كلوب بروج
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: نابولي × كلوب بروج\n🗓️ الجولة: 6\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:نابولي
+X-DALEELAK-AWAY-TEAM:كلوب بروج
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-b2c2794659@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T204500
+DTEND;TZID=Asia/Riyadh:20261209T223000
+SUMMARY:ريال بيتيس × كومو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال بيتيس × كومو\n🗓️ الجولة: 6\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:ريال بيتيس
+X-DALEELAK-AWAY-TEAM:كومو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-23b0897748@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T204500
+DTEND;TZID=Asia/Riyadh:20261209T223000
+SUMMARY:سلوفان براتيسلافا × شاختار دونيتسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلوفان براتيسلافا × شاختار دونيت
+ سك\n🗓️ الجولة: 6\n🇸🇦 جميع المواعيد معرو
+ ضة حسب توقيت المملكة العربية السعودية (UTC
+ +3).\n✨ تقويم موقع دليلك — مجاني، بدون تسج
+ يل، مع تحديثات تلقائية.\n© 2026 م. محمد البخ
+ يت — موقع دليلك. حقوق إعداد ونشر التقويم 
+ محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:سلوفان براتيسلافا
+X-DALEELAK-AWAY-TEAM:شاختار دونيتسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-9605d7a160@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:آرسنال × ريال مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آرسنال × ريال مدريد\n🗓️ الجولة: 6
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:ريال مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-35907a4f62@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:آيندهوفن × أتلتيكو مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيندهوفن × أتلتيكو مدريد\n🗓️ ال
+ جولة: 6\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:آيندهوفن
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-7e5300afd0@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:بوروسيا دورتموند × إنتر ميلان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بوروسيا دورتموند × إنتر ميلان\n🗓
+ ️ الجولة: 6\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:بوروسيا دورتموند
+X-DALEELAK-AWAY-TEAM:إنتر ميلان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-856b211270@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:راسينج سانتاندير × بودو غليمت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: راسينج سانتاندير × بودو غليمت\n🗓
+ ️ الجولة: 6\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:راسينج سانتاندير
+X-DALEELAK-AWAY-TEAM:بودو غليمت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-94d77f97f6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:شتوتغارت × ليل
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شتوتغارت × ليل\n🗓️ الجولة: 6\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:شتوتغارت
+X-DALEELAK-AWAY-TEAM:ليل
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-44b031bfaa@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:لاسك × فنربخشة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لاسك × فنربخشة\n🗓️ الجولة: 6\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:لاسك
+X-DALEELAK-AWAY-TEAM:فنربخشة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r6-e-147be4617d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20261209T230000
+DTEND;TZID=Asia/Riyadh:20261210T004500
+SUMMARY:ليفربول × بورتو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليفربول × بورتو\n🗓️ الجولة: 6\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:6
+X-DALEELAK-HOME-TEAM:ليفربول
+X-DALEELAK-AWAY-TEAM:بورتو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-c4137e147b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T204500
+DTEND;TZID=Asia/Riyadh:20270119T223000
+SUMMARY:بودو غليمت × أتلتيكو مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بودو غليمت × أتلتيكو مدريد\n🗓️ ا
+ لجولة: 7\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:بودو غليمت
+X-DALEELAK-AWAY-TEAM:أتلتيكو مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-434142b244@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T204500
+DTEND;TZID=Asia/Riyadh:20270119T223000
+SUMMARY:غلطة سراي × فينورد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: غلطة سراي × فينورد\n🗓️ الجولة: 7\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:غلطة سراي
+X-DALEELAK-AWAY-TEAM:فينورد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-ece7108077@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:آيك أثينا × روما
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيك أثينا × روما\n🗓️ الجولة: 7\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:آيك أثينا
+X-DALEELAK-AWAY-TEAM:روما
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-74b2776635@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:أستون فيلا × بوروسيا دورتموند
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أستون فيلا × بوروسيا دورتموند\n🗓
+ ️ الجولة: 7\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:أستون فيلا
+X-DALEELAK-AWAY-TEAM:بوروسيا دورتموند
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-d6fb9dfe33@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:إنتر ميلان × ليفربول
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: إنتر ميلان × ليفربول\n🗓️ الجولة:
+  7\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:إنتر ميلان
+X-DALEELAK-AWAY-TEAM:ليفربول
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-a85c7cc222@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:بورتو × سلافيا براغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بورتو × سلافيا براغ\n🗓️ الجولة: 7
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:بورتو
+X-DALEELAK-AWAY-TEAM:سلافيا براغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-a1c693721a@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:ريال مدريد × لاسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال مدريد × لاسك\n🗓️ الجولة: 7\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:ريال مدريد
+X-DALEELAK-AWAY-TEAM:لاسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-8723585dd6@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:شتوتغارت × كلوب بروج
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شتوتغارت × كلوب بروج\n🗓️ الجولة:
+  7\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:شتوتغارت
+X-DALEELAK-AWAY-TEAM:كلوب بروج
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-e1fa8001a7@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270119T230000
+DTEND;TZID=Asia/Riyadh:20270120T004500
+SUMMARY:ليل × سلوفان براتيسلافا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليل × سلوفان براتيسلافا\n🗓️ الج
+ ولة: 7\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:ليل
+X-DALEELAK-AWAY-TEAM:سلوفان براتيسلافا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-b27587e054@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T204500
+DTEND;TZID=Asia/Riyadh:20270120T223000
+SUMMARY:ساباه × نابولي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ساباه × نابولي\n🗓️ الجولة: 7\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:ساباه
+X-DALEELAK-AWAY-TEAM:نابولي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-93b5e9b9a2@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T204500
+DTEND;TZID=Asia/Riyadh:20270120T223000
+SUMMARY:فنربخشة × فياريال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فنربخشة × فياريال\n🗓️ الجولة: 7\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:فنربخشة
+X-DALEELAK-AWAY-TEAM:فياريال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-3698b9294e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:راسينج سانتاندير × مانشستر سيتي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: راسينج سانتاندير × مانشستر سيتي\n
+ 🗓️ الجولة: 7\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:راسينج سانتاندير
+X-DALEELAK-AWAY-TEAM:مانشستر سيتي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-9cd84625bd@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:ريال بيتيس × آرسنال
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ريال بيتيس × آرسنال\n🗓️ الجولة: 7
+ \n🇸🇦 جميع المواعيد معروضة حسب توقيت الم
+ ملكة العربية السعودية (UTC+3).\n✨ تقويم موقع
+  دليلك — مجاني، بدون تسجيل، مع تحديثات ت
+ لقائية.\n© 2026 م. محمد البخيت — موقع دليلك. 
+ حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:ريال بيتيس
+X-DALEELAK-AWAY-TEAM:آرسنال
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-f0ef77428c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:سبورتينغ لشبونة × برشلونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سبورتينغ لشبونة × برشلونة\n🗓️ ا
+ لجولة: 7\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:سبورتينغ لشبونة
+X-DALEELAK-AWAY-TEAM:برشلونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-ad78e01749@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:فيكينغ × آيندهوفن
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فيكينغ × آيندهوفن\n🗓️ الجولة: 7\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:فيكينغ
+X-DALEELAK-AWAY-TEAM:آيندهوفن
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-8fa9990f1d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:كومو × باريس سان جيرمان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كومو × باريس سان جيرمان\n🗓️ الجو
+ لة: 7\n🇸🇦 جميع المواعيد معروضة حسب توقيت
+  المملكة العربية السعودية (UTC+3).\n✨ تقويم 
+ موقع دليلك — مجاني، بدون تسجيل، مع تحديث
+ ات تلقائية.\n© 2026 م. محمد البخيت — موقع دل
+ يلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:كومو
+X-DALEELAK-AWAY-TEAM:باريس سان جيرمان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-b3e13baea8@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:لايبزيغ × شاختار دونيتسك
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لايبزيغ × شاختار دونيتسك\n🗓️ ال
+ جولة: 7\n🇸🇦 جميع المواعيد معروضة حسب توق
+ يت المملكة العربية السعودية (UTC+3).\n✨ تقوي
+ م موقع دليلك — مجاني، بدون تسجيل، مع تحد
+ يثات تلقائية.\n© 2026 م. محمد البخيت — موقع 
+ دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:لايبزيغ
+X-DALEELAK-AWAY-TEAM:شاختار دونيتسك
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r7-e-73f5eea138@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270120T230000
+DTEND;TZID=Asia/Riyadh:20270121T004500
+SUMMARY:مانشستر يونايتد × بايرن ميونخ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر يونايتد × بايرن ميونخ\n🗓
+ ️ الجولة: 7\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:7
+X-DALEELAK-HOME-TEAM:مانشستر يونايتد
+X-DALEELAK-AWAY-TEAM:بايرن ميونخ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-671f59528b@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:آرسنال × ساباه
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آرسنال × ساباه\n🗓️ الجولة: 8\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:آرسنال
+X-DALEELAK-AWAY-TEAM:ساباه
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-3a14a0579e@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:آيندهوفن × شتوتغارت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: آيندهوفن × شتوتغارت\n🗓️ الجولة: 
+ 8\n🇸🇦 جميع المواعيد معروضة حسب توقيت ال
+ مملكة العربية السعودية (UTC+3).\n✨ تقويم موق
+ ع دليلك — مجاني، بدون تسجيل، مع تحديثات 
+ تلقائية.\n© 2026 م. محمد البخيت — موقع دليلك
+ . حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:آيندهوفن
+X-DALEELAK-AWAY-TEAM:شتوتغارت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-d5c42653a1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:أتلتيكو مدريد × فنربخشة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: أتلتيكو مدريد × فنربخشة\n🗓️ الج
+ ولة: 8\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:أتلتيكو مدريد
+X-DALEELAK-AWAY-TEAM:فنربخشة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-92253186aa@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:باريس سان جيرمان × غلطة سراي
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: باريس سان جيرمان × غلطة سراي\n🗓️
+  الجولة: 8\n🇸🇦 جميع المواعيد معروضة حسب 
+ توقيت المملكة العربية السعودية (UTC+3).\n✨ ت
+ قويم موقع دليلك — مجاني، بدون تسجيل، مع 
+ تحديثات تلقائية.\n© 2026 م. محمد البخيت — مو
+ قع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:باريس سان جيرمان
+X-DALEELAK-AWAY-TEAM:غلطة سراي
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-986908050f@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:بايرن ميونخ × ريال بيتيس
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بايرن ميونخ × ريال بيتيس\n🗓️ الج
+ ولة: 8\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:بايرن ميونخ
+X-DALEELAK-AWAY-TEAM:ريال بيتيس
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-1c1a88e548@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:برشلونة × كومو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: برشلونة × كومو\n🗓️ الجولة: 8\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:برشلونة
+X-DALEELAK-AWAY-TEAM:كومو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-3ac3ea408d@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:بوروسيا دورتموند × آيك أثينا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: بوروسيا دورتموند × آيك أثينا\n🗓
+ ️ الجولة: 8\n🇸🇦 جميع المواعيد معروضة حس
+ ب توقيت المملكة العربية السعودية (UTC+3).\n✨
+  تقويم موقع دليلك — مجاني، بدون تسجيل، م
+ ع تحديثات تلقائية.\n© 2026 م. محمد البخيت — 
+ موقع دليلك. حقوق إعداد ونشر التقويم محفو
+ ظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:بوروسيا دورتموند
+X-DALEELAK-AWAY-TEAM:آيك أثينا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-f806bdb4c9@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:روما × ليل
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: روما × ليل\n🗓️ الجولة: 8\n🇸🇦 جمي
+ ع المواعيد معروضة حسب توقيت المملكة العر
+ بية السعودية (UTC+3).\n✨ تقويم موقع دليلك — 
+ مجاني، بدون تسجيل، مع تحديثات تلقائية.\n©
+  2026 م. محمد البخيت — موقع دليلك. حقوق إعدا
+ د ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:روما
+X-DALEELAK-AWAY-TEAM:ليل
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-e67e13d282@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:سلافيا براغ × أستون فيلا
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلافيا براغ × أستون فيلا\n🗓️ الج
+ ولة: 8\n🇸🇦 جميع المواعيد معروضة حسب توقي
+ ت المملكة العربية السعودية (UTC+3).\n✨ تقويم
+  موقع دليلك — مجاني، بدون تسجيل، مع تحدي
+ ثات تلقائية.\n© 2026 م. محمد البخيت — موقع د
+ ليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:سلافيا براغ
+X-DALEELAK-AWAY-TEAM:أستون فيلا
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-ad829df120@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:سلوفان براتيسلافا × إنتر ميلان
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: سلوفان براتيسلافا × إنتر ميلان\n
+ 🗓️ الجولة: 8\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:سلوفان براتيسلافا
+X-DALEELAK-AWAY-TEAM:إنتر ميلان
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-5f7fe3b078@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:شاختار دونيتسك × ريال مدريد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: شاختار دونيتسك × ريال مدريد\n🗓️ 
+ الجولة: 8\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:شاختار دونيتسك
+X-DALEELAK-AWAY-TEAM:ريال مدريد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-5cbd0a3592@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:فياريال × مانشستر يونايتد
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فياريال × مانشستر يونايتد\n🗓️ ا
+ لجولة: 8\n🇸🇦 جميع المواعيد معروضة حسب تو
+ قيت المملكة العربية السعودية (UTC+3).\n✨ تقو
+ يم موقع دليلك — مجاني، بدون تسجيل، مع تح
+ ديثات تلقائية.\n© 2026 م. محمد البخيت — موقع
+  دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:فياريال
+X-DALEELAK-AWAY-TEAM:مانشستر يونايتد
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-ac4ec1b4ea@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:فينورد × لايبزيغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: فينورد × لايبزيغ\n🗓️ الجولة: 8\n
+ 🇸🇦 جميع المواعيد معروضة حسب توقيت المم
+ لكة العربية السعودية (UTC+3).\n✨ تقويم موقع 
+ دليلك — مجاني، بدون تسجيل، مع تحديثات تل
+ قائية.\n© 2026 م. محمد البخيت — موقع دليلك. ح
+ قوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:فينورد
+X-DALEELAK-AWAY-TEAM:لايبزيغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-22a89c108c@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:كلوب بروج × بودو غليمت
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: كلوب بروج × بودو غليمت\n🗓️ الجول
+ ة: 8\n🇸🇦 جميع المواعيد معروضة حسب توقيت 
+ المملكة العربية السعودية (UTC+3).\n✨ تقويم م
+ وقع دليلك — مجاني، بدون تسجيل، مع تحديثا
+ ت تلقائية.\n© 2026 م. محمد البخيت — موقع دلي
+ لك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:كلوب بروج
+X-DALEELAK-AWAY-TEAM:بودو غليمت
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-5c75a238bb@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:لاسك × بورتو
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: لاسك × بورتو\n🗓️ الجولة: 8\n🇸🇦 ج
+ ميع المواعيد معروضة حسب توقيت المملكة ال
+ عربية السعودية (UTC+3).\n✨ تقويم موقع دليلك 
+ — مجاني، بدون تسجيل، مع تحديثات تلقائية.
+ \n© 2026 م. محمد البخيت — موقع دليلك. حقوق إع
+ داد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:لاسك
+X-DALEELAK-AWAY-TEAM:بورتو
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-a3d029d396@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:ليفربول × راسينج سانتاندير
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: ليفربول × راسينج سانتاندير\n🗓️ 
+ الجولة: 8\n🇸🇦 جميع المواعيد معروضة حسب ت
+ وقيت المملكة العربية السعودية (UTC+3).\n✨ تق
+ ويم موقع دليلك — مجاني، بدون تسجيل، مع ت
+ حديثات تلقائية.\n© 2026 م. محمد البخيت — موق
+ ع دليلك. حقوق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:ليفربول
+X-DALEELAK-AWAY-TEAM:راسينج سانتاندير
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-d243559172@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:مانشستر سيتي × سبورتينغ لشبونة
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: مانشستر سيتي × سبورتينغ لشبونة\n
+ 🗓️ الجولة: 8\n🇸🇦 جميع المواعيد معروضة 
+ حسب توقيت المملكة العربية السعودية (UTC+3).\
+ n✨ تقويم موقع دليلك — مجاني، بدون تسجيل،
+  مع تحديثات تلقائية.\n© 2026 م. محمد البخيت 
+ — موقع دليلك. حقوق إعداد ونشر التقويم مح
+ فوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:مانشستر سيتي
+X-DALEELAK-AWAY-TEAM:سبورتينغ لشبونة
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:champions-league-r8-e-a252f598c1@daleelak
+DTSTAMP:20260905T123200Z
+DTSTART;TZID=Asia/Riyadh:20270127T230000
+DTEND;TZID=Asia/Riyadh:20270128T004500
+SUMMARY:نابولي × فيكينغ
+DESCRIPTION:🏆 البطولة: دوري أبطال أوروبا\n⚽ ال
+ فريقان: نابولي × فيكينغ\n🗓️ الجولة: 8\n🇸
+ 🇦 جميع المواعيد معروضة حسب توقيت المملك
+ ة العربية السعودية (UTC+3).\n✨ تقويم موقع دل
+ يلك — مجاني، بدون تسجيل، مع تحديثات تلقا
+ ئية.\n© 2026 م. محمد البخيت — موقع دليلك. حقو
+ ق إعداد ونشر التقويم محفوظة.
+CATEGORIES:رياضة\,كرة القدم\,دوري أبطال أوروبا
+X-DALEELAK-ROUND:8
+X-DALEELAK-HOME-TEAM:نابولي
+X-DALEELAK-AWAY-TEAM:فيكينغ
+STATUS:CONFIRMED
+URL:https://daleelak.com/
+TRANSP:OPAQUE
+LAST-MODIFIED:20260905T123200Z
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

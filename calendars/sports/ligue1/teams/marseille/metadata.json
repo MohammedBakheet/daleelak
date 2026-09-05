@@ -1,18 +1,18 @@
 {
-  "id": "marseille-ligue1-2026-2027",
-  "title": "مرسيليا — الدوري الفرنسي 2026/27",
-  "organization": "مرسيليا",
+  "id": "marseille",
+  "title": "مرسيليا",
+  "organization": "موقع دليلك",
   "category": "sports",
   "year": "2026/2027",
   "region": "فرنسا",
   "calendarType": "team",
-  "lastUpdate": "2026-08-20T21:48:09Z",
-  "description": "تقويم مباريات مرسيليا في الدوري الفرنسي 2026/27 بتوقيت المملكة العربية السعودية.",
+  "lastUpdate": "2026-09-05T15:32:00+03:00",
+  "description": "تقويم مباريات مرسيليا في الدوري الفرنسي لموسم 2026/2027 بتوقيت المملكة العربية السعودية.",
   "ics": "calendar.ics",
   "events": "events.json",
   "logo": "logo.png",
   "source": "Ligue 1 / LFP",
-  "sourceUrl": "https://ligue1.com/fr/calendar/ligue1",
+  "sourceUrl": "https://ligue1.com/",
   "publisher": "م. محمد البخيت — موقع دليلك",
   "eventsCount": 34,
   "eventDurationMinutes": 105,
@@ -26,6 +26,6 @@
   "team": "marseille",
   "teamTitle": "مرسيليا",
   "order": 1,
-  "confirmedTimesCount": 5,
-  "pendingTimesCount": 29
+  "confirmedTimesCount": 9,
+  "pendingTimesCount": 25
 }
